@@ -25,7 +25,7 @@ jobs:
       
       - name: Run update
         env: 
-          barkToken: ${{ETuD32iBqrCTfNJihGkrCK}}
+          barkToken: ${{"ETuD32iBqrCTfNJihGkrCK"}}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
