@@ -37,6 +37,21 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
 
 ---
+## CVE-2024-5737 (2024-06-28T12:15:00)
+> Script afGdStream.php in AdmirorFrames Joomla! extension doesn’t specify a content type and as a result default (text/html) is used. An attacker may embed HTML tags directly in image data which is rendered by a webpage as HTML. This issue affects AdmirorFrames: before 5.0.
+- [afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5737">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5737">
+
+---
+## CVE-2024-5736 (2024-06-28T12:15:00)
+> Server Side Request Forgery (SSRF) vulnerability in AdmirorFrames Joomla! extension in afGdStream.php script allows to access local files or server pages available only from localhost. This issue affects AdmirorFrames: before 5.0.
+- [afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5736">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5736">
+
+---
+## CVE-2024-5735 (2024-06-28T12:15:00)
+> Full Path Disclosure vulnerability in AdmirorFrames Joomla! extension in afHelper.php script allows an unauthorised attacker to retrieve location of web root folder. This issue affects AdmirorFrames: before 5.0.
+- [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5735">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5735">
+
+---
 ## CVE-2024-5555 ()
 > 
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
@@ -143,6 +158,8 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/amandineVdw/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/amandineVdw/CVE-2024-4577">
 - [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
 - [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
+- [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
+- [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -237,6 +254,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability](https://github.com/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-4040-CrushFTP-File-Read-vulnerability">
 - [gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-4040">
 - [1ncendium/CVE-2024-4040](https://github.com/1ncendium/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/1ncendium/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/1ncendium/CVE-2024-4040">
+- [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4040">
 
 ---
 ## CVE-2024-39249 ()
@@ -517,6 +535,14 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 ## CVE-2024-34102 (2024-06-13T09:15:00)
 > Adobe Commerce versions 2.4.7, 2.4.6-p5, 2.4.5-p7, 2.4.4-p8 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary code execution. An attacker could exploit this vulnerability by sending a crafted XML document that references external entities. Exploitation of this issue does not require user interaction.
 - [ex-arny/CVE-2024-34102-RCE](https://github.com/ex-arny/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ex-arny/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ex-arny/CVE-2024-34102-RCE">
+- [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34102">
+- [cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/cmsec423/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/cmsec423/CVE-2024-34102">
+- [Chocapikk/CVE-2024-34102](https://github.com/Chocapikk/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-34102">
+- [d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-34102">
+- [11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/11whoami99/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/11whoami99/CVE-2024-34102">
+- [dr3u1d/CVE-2024-34102-RCE](https://github.com/dr3u1d/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/dr3u1d/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/dr3u1d/CVE-2024-34102-RCE">
+- [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34102">
+- [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/ArturArz1/TestCVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/ArturArz1/TestCVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
@@ -1428,6 +1454,11 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 > ** UNSUPPORTED WHEN ASSIGNED **
 The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
 - [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-29972">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-29972">
+
+---
+## CVE-2024-29943 (2024-03-22T13:15:00)
+> An attacker was able to perform an out-of-bounds read or write on a JavaScript object by fooling range-based bounds check elimination. This vulnerability affects Firefox < 124.0.1.
+- [bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-29943">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
@@ -2721,6 +2752,11 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2024-22867">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2024-22867">
 
 ---
+## CVE-2024-22853 (2024-02-06T02:15:00)
+> D-LINK Go-RT-AC750 GORTAC750_A1_FW_v101b03 has a hardcoded password for the Alphanetworks account, which allows remote attackers to obtain root access via a telnet session.
+- [FaLLenSKiLL1/CVE-2024-22853](https://github.com/FaLLenSKiLL1/CVE-2024-22853)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-22853">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-22853">
+
+---
 ## CVE-2024-22774 (2024-05-14T14:58:00)
 > An issue in Panoramic Corporation Digital Imaging Software v.9.1.2.7600 allows a local attacker to escalate privileges via the ccsservice.exe component.
 - [Gray-0men/CVE-2024-22774](https://github.com/Gray-0men/CVE-2024-22774)	<img alt="forks" src="https://img.shields.io/github/forks/Gray-0men/CVE-2024-22774">	<img alt="stars" src="https://img.shields.io/github/stars/Gray-0men/CVE-2024-22774">
@@ -2991,6 +3027,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [swagcrafted/CVE-2024-21672-POC](https://github.com/swagcrafted/CVE-2024-21672-POC)	<img alt="forks" src="https://img.shields.io/github/forks/swagcrafted/CVE-2024-21672-POC">	<img alt="stars" src="https://img.shields.io/github/stars/swagcrafted/CVE-2024-21672-POC">
 
 ---
+## CVE-2024-21650 (2024-01-08T16:15:00)
+> XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. XWiki is vulnerable to a remote code execution (RCE) attack through its user registration feature. This issue allows an attacker to execute arbitrary code by crafting malicious payloads in the "first name" or "last name" fields during user registration. This impacts all installations that have user registration enabled for guests. This vulnerability has been patched in XWiki 14.10.17, 15.5.3 and 15.8 RC1.
+- [codeb0ss/CVE-2024-21650-PoC](https://github.com/codeb0ss/CVE-2024-21650-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-21650-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-21650-PoC">
+
+---
 ## CVE-2024-21644 (2024-01-08T14:15:00)
 > pyLoad is the free and open-source Download Manager written in pure Python. Any unauthenticated user can browse to a specific URL to expose the Flask config, including the `SECRET_KEY` variable. This issue has been patched in version 0.5.0b3.dev77.
 - [ltranquility/CVE-2024-21644-Poc](https://github.com/ltranquility/CVE-2024-21644-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ltranquility/CVE-2024-21644-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ltranquility/CVE-2024-21644-Poc">
@@ -3081,6 +3122,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">
 - [th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/th3Hellion/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/th3Hellion/CVE-2024-21413">
 - [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ShubhamKanhere307/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ShubhamKanhere307/CVE-2024-21413">
+- [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-21413">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)

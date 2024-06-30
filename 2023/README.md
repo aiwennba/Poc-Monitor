@@ -3872,6 +3872,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [kor34N/CVE-2023-34362-mass](https://github.com/kor34N/CVE-2023-34362-mass)	<img alt="forks" src="https://img.shields.io/github/forks/kor34N/CVE-2023-34362-mass">	<img alt="stars" src="https://img.shields.io/github/stars/kor34N/CVE-2023-34362-mass">
 - [errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/errorfiathck/MOVEit-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/errorfiathck/MOVEit-Exploit">
 - [Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/Chinyemba-ck/MOVEit-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/Chinyemba-ck/MOVEit-CVE-2023-34362">
+- [glen-pearson/MoveIT-CVE-2023-34362-RCE](https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/MoveIT-CVE-2023-34362-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/MoveIT-CVE-2023-34362-RCE">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
@@ -4197,7 +4198,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Le1a/CVE-2023-33246](https://github.com/Le1a/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-33246">
 - [SuperZero/CVE-2023-33246](https://github.com/SuperZero/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/SuperZero/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/SuperZero/CVE-2023-33246">
 - [Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT](https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">
-- [CKevens/CVE-2023-33246](https://github.com/CKevens/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-33246">
+- [3yujw7njai/CVE-2023-33246](https://github.com/3yujw7njai/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/CVE-2023-33246">
 - [Serendipity-Lucky/CVE-2023-33246](https://github.com/Serendipity-Lucky/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2023-33246">
 - [hheeyywweellccoommee/CVE-2023-33246-rnkku](https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-rnkku">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-rnkku">
 - [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cr1me0/rocketMq_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cr1me0/rocketMq_RCE">
@@ -4209,6 +4210,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [vulncheck-oss/fetch-broker-conf](https://github.com/vulncheck-oss/fetch-broker-conf)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/fetch-broker-conf">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/fetch-broker-conf">
 - [MkJos/CVE-2023-33246_RocketMQ_RCE_EXP](https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP">
 - [hanch7274/CVE-2023-33246](https://github.com/hanch7274/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/hanch7274/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/hanch7274/CVE-2023-33246">
+- [PavilionQ/CVE-2023-33246-mitigation](https://github.com/PavilionQ/CVE-2023-33246-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/PavilionQ/CVE-2023-33246-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/PavilionQ/CVE-2023-33246-mitigation">
 
 ---
 ## CVE-2023-33243 (2023-06-15T20:15:00)
@@ -5358,6 +5360,7 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 - [madhavmehndiratta/CVE-2023-27163](https://github.com/madhavmehndiratta/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/madhavmehndiratta/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/madhavmehndiratta/CVE-2023-27163">
+- [Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning](https://github.com/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning)	<img alt="forks" src="https://img.shields.io/github/forks/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning">	<img alt="stars" src="https://img.shields.io/github/stars/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
