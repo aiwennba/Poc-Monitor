@@ -31,6 +31,11 @@
 - [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-6028-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-6028-Poc">
 
 ---
+## CVE-2024-5961 (2024-06-14T08:15:00)
+> Improper neutralization of input during web page generation vulnerability in 2ClickPortal software allows reflected cross-site scripting (XSS). An attacker might trick somebody into using a crafted URL, which will cause a script to be run in user's browser. This issue affects 2ClickPortal software versions from 7.2.31 through 7.6.4.
+- [kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-5961">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-5961">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
@@ -1690,12 +1695,13 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 
 
 - [krypton-kry/CVE-2024-28995](https://github.com/krypton-kry/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/krypton-kry/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/krypton-kry/CVE-2024-28995">
-- [0xkucing/CVE-2024-28995](https://github.com/0xkucing/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/0xkucing/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/0xkucing/CVE-2024-28995">
+- [0xc4t/CVE-2024-28995](https://github.com/0xc4t/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4t/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4t/CVE-2024-28995">
 - [huseyinstif/CVE-2024-28995-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-28995-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-28995-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-28995-Nuclei-Template">
 - [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-28995">
 - [karkis3c/cves](https://github.com/karkis3c/cves)	<img alt="forks" src="https://img.shields.io/github/forks/karkis3c/cves">	<img alt="stars" src="https://img.shields.io/github/stars/karkis3c/cves">
 - [bigb0x/CVE-2024-28995](https://github.com/bigb0x/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-28995">
 - [Praison001/CVE-2024-28995-SolarWinds-Serv-U](https://github.com/Praison001/CVE-2024-28995-SolarWinds-Serv-U)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-28995-SolarWinds-Serv-U">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-28995-SolarWinds-Serv-U">
+- [Stuub/CVE-2024-28995](https://github.com/Stuub/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-28995">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
