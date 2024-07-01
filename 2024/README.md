@@ -31,6 +31,9 @@
 - [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FerasAlrimali/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FerasAlrimali/CVE-2024-6387-POC">
 - [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2024-6387-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2024-6387-PoC">
 - [shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/shyrwall/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/shyrwall/cve-2024-6387-poc">
+- [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/jack0we/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/jack0we/CVE-2024-6387">
+- [TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">
+- [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387)	<img alt="forks" src="https://img.shields.io/github/forks/kuffsit/check_cve_2024_6387">	<img alt="stars" src="https://img.shields.io/github/stars/kuffsit/check_cve_2024_6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
