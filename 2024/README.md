@@ -3267,6 +3267,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-20666 (2024-01-09T18:15:00)
 > BitLocker Security Feature Bypass Vulnerability
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
+- [invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/CVE-2024-20666">
 
 ---
 ## CVE-2024-206565 ()
