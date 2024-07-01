@@ -544,6 +544,8 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34102">
 - [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/ArturArz1/TestCVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/ArturArz1/TestCVE-2024-34102">
 - [0x0d3ad/CVE-2024-34102](https://github.com/0x0d3ad/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-34102">
+- [cmsec423/Magento-XXE-CVE-2024-34102](https://github.com/cmsec423/Magento-XXE-CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/cmsec423/Magento-XXE-CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/cmsec423/Magento-XXE-CVE-2024-34102">
+- [cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/cmsec423/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/cmsec423/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
