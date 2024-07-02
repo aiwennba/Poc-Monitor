@@ -284,8 +284,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4040">
 
 ---
-## CVE-2024-39249 ()
-> 
+## CVE-2024-39249 (2024-07-01T20:15:00)
+> Async <= 2.6.4 and <= 3.2.5 are vulnerable to ReDoS (Regular Expression Denial of Service) while parsing function in autoinject function.
 - [zunak/CVE-2024-39249](https://github.com/zunak/CVE-2024-39249)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2024-39249">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2024-39249">
 
 ---
@@ -1666,6 +1666,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-29269">
 - [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-29269">
 - [Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-29269">
+- [K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">
 
 ---
 ## CVE-2024-29201 (2024-03-29T15:15:00)
