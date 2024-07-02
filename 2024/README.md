@@ -38,6 +38,9 @@
 - [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-6387_Check">
 - [3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/CVE-2024-6387">
 - [wiggels/regresshion-check](https://github.com/wiggels/regresshion-check)	<img alt="forks" src="https://img.shields.io/github/forks/wiggels/regresshion-check">	<img alt="stars" src="https://img.shields.io/github/stars/wiggels/regresshion-check">
+- [yya1233/CVE-2024-6387-Updated-SSH-RCE](https://github.com/yya1233/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/yya1233/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/yya1233/CVE-2024-6387-Updated-SSH-RCE">
+- [zgimszhd61/cve-2024-6387-poc](https://github.com/zgimszhd61/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/cve-2024-6387-poc">
+- [betancour/OpenSSH-Vulnerability-test](https://github.com/betancour/OpenSSH-Vulnerability-test)	<img alt="forks" src="https://img.shields.io/github/forks/betancour/OpenSSH-Vulnerability-test">	<img alt="stars" src="https://img.shields.io/github/stars/betancour/OpenSSH-Vulnerability-test">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
