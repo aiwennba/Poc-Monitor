@@ -49,6 +49,7 @@
 - [TAM-K592/CVE-2024-6387](https://github.com/TAM-K592/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-6387">
 - [muyuanlove/CVE-2024-6387fixshell](https://github.com/muyuanlove/CVE-2024-6387fixshell)	<img alt="forks" src="https://img.shields.io/github/forks/muyuanlove/CVE-2024-6387fixshell">	<img alt="stars" src="https://img.shields.io/github/stars/muyuanlove/CVE-2024-6387fixshell">
 - [teamos-hub/regreSSHion](https://github.com/teamos-hub/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/teamos-hub/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/teamos-hub/regreSSHion">
+- [R4Tw1z/CVE-2024-6387](https://github.com/R4Tw1z/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/R4Tw1z/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/R4Tw1z/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
