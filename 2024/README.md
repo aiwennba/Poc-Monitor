@@ -83,6 +83,8 @@
 - [BrandonLynch2402/cve-2024-6387-nuclei-template](https://github.com/BrandonLynch2402/cve-2024-6387-nuclei-template)	<img alt="forks" src="https://img.shields.io/github/forks/BrandonLynch2402/cve-2024-6387-nuclei-template">	<img alt="stars" src="https://img.shields.io/github/stars/BrandonLynch2402/cve-2024-6387-nuclei-template">
 - [xonoxitron/regreSSHion-checker](https://github.com/xonoxitron/regreSSHion-checker)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion-checker">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion-checker">
 - [password123456/cve-security-response-guidelines](https://github.com/password123456/cve-security-response-guidelines)	<img alt="forks" src="https://img.shields.io/github/forks/password123456/cve-security-response-guidelines">	<img alt="stars" src="https://img.shields.io/github/stars/password123456/cve-security-response-guidelines">
+- [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-6387">
+- [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -124,6 +126,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-5735 (2024-06-28T12:15:00)
 > Full Path Disclosure vulnerability in AdmirorFrames Joomla! extension in afHelper.php script allows an unauthorised attacker to retrieve location of web root folder. This issue affects AdmirorFrames: before 5.0.
 - [afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-5735">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-5735">
+
+---
+## CVE-2024-5655 (2024-06-27T00:15:00)
+> An issue was discovered in GitLab CE/EE affecting all versions starting from 15.8 prior to 16.11.5, starting from 17.0 prior to 17.0.3, and starting from 17.1 prior to 17.1.1, which allows an attacker to trigger a pipeline as another user under certain circumstances.
+- [VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL">
 
 ---
 ## CVE-2024-5555 ()
@@ -417,6 +424,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-37742 (2024-06-25T22:15:00)
 > An issue in Safe Exam Browser for Windows before 3.6 allows an attacker to share clipboard data between the SEB kiosk mode and the underlying system, compromising exam integrity which may lead to arbitrary code execution and obtaining sensitive information via the Clipboard Management component.
 - [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
+
+---
+## CVE-2024-37726 ()
+> 
+- [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">
 
 ---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
@@ -3239,6 +3251,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [ShubhamKanhere307/CVE-2024-21413](https://github.com/ShubhamKanhere307/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/ShubhamKanhere307/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/ShubhamKanhere307/CVE-2024-21413">
 - [olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-21413">
 - [DerZiad/CVE-2024-21413](https://github.com/DerZiad/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/DerZiad/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/DerZiad/CVE-2024-21413">
+- [Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape](https://github.com/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
