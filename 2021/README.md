@@ -2884,7 +2884,7 @@
 - [dadvlingd/CVE-2021-4034](https://github.com/dadvlingd/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/dadvlingd/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/dadvlingd/CVE-2021-4034">
 - [kuckibf/Popular-CVEs](https://github.com/kuckibf/Popular-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/kuckibf/Popular-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/kuckibf/Popular-CVEs">
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
-- [c0d3cr4f73r/CVE-2021-4034_Python3](https://github.com/c0d3cr4f73r/CVE-2021-4034_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2021-4034_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2021-4034_Python3">
+- [Sp3c73rSh4d0w/CVE-2021-4034_Python3](https://github.com/Sp3c73rSh4d0w/CVE-2021-4034_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/Sp3c73rSh4d0w/CVE-2021-4034_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/Sp3c73rSh4d0w/CVE-2021-4034_Python3">
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/arthepsy/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034">
 - [A1vinSmith/CVE-2021-4034](https://github.com/A1vinSmith/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2021-4034">
 - [zxc2007/CVE-2021-4034](https://github.com/zxc2007/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2007/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2007/CVE-2021-4034">
@@ -2906,6 +2906,7 @@
 - [artemis-mike/cve-2021-4034](https://github.com/artemis-mike/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/artemis-mike/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/artemis-mike/cve-2021-4034">
 - [X-Projetion/Exploiting-PwnKit-CVE-2021-4034-](https://github.com/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/Exploiting-PwnKit-CVE-2021-4034-">
 - [evkl1d/CVE-2021-4034](https://github.com/evkl1d/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/evkl1d/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/evkl1d/CVE-2021-4034">
+- [Typical0day/CVE-2021-4034](https://github.com/Typical0day/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Typical0day/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Typical0day/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -5821,6 +5822,9 @@
 - [SamTruss/LMU-CVE-2021-3156](https://github.com/SamTruss/LMU-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/SamTruss/LMU-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/SamTruss/LMU-CVE-2021-3156">
 - [ragingkarson/CVE-2021-3156](https://github.com/ragingkarson/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/ragingkarson/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/ragingkarson/CVE-2021-3156">
 - [lypd0/CVE-2021-3156-checker](https://github.com/lypd0/CVE-2021-3156-checker)	<img alt="forks" src="https://img.shields.io/github/forks/lypd0/CVE-2021-3156-checker">	<img alt="stars" src="https://img.shields.io/github/stars/lypd0/CVE-2021-3156-checker">
+- [Typical0day/CVE-2021-3156](https://github.com/Typical0day/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Typical0day/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Typical0day/CVE-2021-3156">
+- [marcellomaugeri/Hardening-7-Fuzzing](https://github.com/marcellomaugeri/Hardening-7-Fuzzing)	<img alt="forks" src="https://img.shields.io/github/forks/marcellomaugeri/Hardening-7-Fuzzing">	<img alt="stars" src="https://img.shields.io/github/stars/marcellomaugeri/Hardening-7-Fuzzing">
+- [DASICS-ICT/DASICS-CVE-2021-3156](https://github.com/DASICS-ICT/DASICS-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DASICS-ICT/DASICS-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DASICS-ICT/DASICS-CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
