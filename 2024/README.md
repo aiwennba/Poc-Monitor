@@ -97,6 +97,7 @@
 - [4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive)	<img alt="forks" src="https://img.shields.io/github/forks/4lxprime/regreSSHive">	<img alt="stars" src="https://img.shields.io/github/stars/4lxprime/regreSSHive">
 - [sardine-web/CVE-2024-6387_Check](https://github.com/sardine-web/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387_Check">
 - [0x4D31/cve-2024-6387_hassh](https://github.com/0x4D31/cve-2024-6387_hassh)	<img alt="forks" src="https://img.shields.io/github/forks/0x4D31/cve-2024-6387_hassh">	<img alt="stars" src="https://img.shields.io/github/stars/0x4D31/cve-2024-6387_hassh">
+- [Segurmatica/CVE-2024-6387-CHECK](https://github.com/Segurmatica/CVE-2024-6387-CHECK)	<img alt="forks" src="https://img.shields.io/github/forks/Segurmatica/CVE-2024-6387-CHECK">	<img alt="stars" src="https://img.shields.io/github/stars/Segurmatica/CVE-2024-6387-CHECK">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -2194,6 +2195,7 @@ overflow.
 - [NVISOsecurity/CVE-2024-26229-BOF](https://github.com/NVISOsecurity/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/NVISOsecurity/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/NVISOsecurity/CVE-2024-26229-BOF">
 - [0XJ175/DRive](https://github.com/0XJ175/DRive)	<img alt="forks" src="https://img.shields.io/github/forks/0XJ175/DRive">	<img alt="stars" src="https://img.shields.io/github/stars/0XJ175/DRive">
 - [team-MineDEV/CVE-2024-26229](https://github.com/team-MineDEV/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/team-MineDEV/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/team-MineDEV/CVE-2024-26229">
+- [apkc/CVE-2024-26229-BOF](https://github.com/apkc/CVE-2024-26229-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/apkc/CVE-2024-26229-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/apkc/CVE-2024-26229-BOF">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
