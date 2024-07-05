@@ -386,6 +386,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-39211">
 
 ---
+## CVE-2024-39210 ()
+> 
+- [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)	<img alt="forks" src="https://img.shields.io/github/forks/KRookieSec/CVE-2024-39210">	<img alt="stars" src="https://img.shields.io/github/stars/KRookieSec/CVE-2024-39210">
+
+---
 ## CVE-2024-39203 ()
 > 
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
