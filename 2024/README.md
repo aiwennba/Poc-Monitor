@@ -100,6 +100,7 @@
 - [Segurmatica/CVE-2024-6387-CHECK](https://github.com/Segurmatica/CVE-2024-6387-CHECK)	<img alt="forks" src="https://img.shields.io/github/forks/Segurmatica/CVE-2024-6387-CHECK">	<img alt="stars" src="https://img.shields.io/github/stars/Segurmatica/CVE-2024-6387-CHECK">
 - [sardine-web/CVE-2024-6387-template](https://github.com/sardine-web/CVE-2024-6387-template)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-6387-template">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-6387-template">
 - [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/imv7/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/imv7/CVE-2024-6387">
+- [SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder)	<img alt="forks" src="https://img.shields.io/github/forks/SiberianHacker/CVE-2024-6387-Finder">	<img alt="stars" src="https://img.shields.io/github/stars/SiberianHacker/CVE-2024-6387-Finder">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
