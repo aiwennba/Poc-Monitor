@@ -2053,6 +2053,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [ASR511-OO7/CVE-2023-42307](https://github.com/ASR511-OO7/CVE-2023-42307)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-42307">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-42307">
 
 ---
+## CVE-2023-4226 ()
+> 
+- [krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krishnan-tech/CVE-2023-4226-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krishnan-tech/CVE-2023-4226-POC">
+
+---
 ## CVE-2023-42222 (2023-09-28T03:15:00)
 > WebCatalog before 49.0 is vulnerable to Incorrect Access Control. WebCatalog calls the Electron shell.openExternal function without verifying that the URL is for an http or https resource, in some circumstances.
 - [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
@@ -2081,6 +2086,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283)	<img alt="forks" src="https://img.shields.io/github/forks/andreysanyuk/CVE-2023-42283">	<img alt="stars" src="https://img.shields.io/github/stars/andreysanyuk/CVE-2023-42283">
 - [andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284)	<img alt="forks" src="https://img.shields.io/github/forks/andreysanyuk/CVE-2023-42284">	<img alt="stars" src="https://img.shields.io/github/stars/andreysanyuk/CVE-2023-42284">
 - [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
+- [krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krishnan-tech/CVE-2023-4226-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krishnan-tech/CVE-2023-4226-POC">
 
 ---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
