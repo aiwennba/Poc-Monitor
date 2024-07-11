@@ -554,6 +554,7 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 ## CVE-2024-37147 (2024-07-10T19:15:00)
 > GLPI is an open-source asset and IT management software package that provides ITIL Service Desk features, licenses tracking and software auditing. An authenticated user can attach a document to any item, even if the user has no write access on it. Upgrade to 10.0.16.
 - [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
+- [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
