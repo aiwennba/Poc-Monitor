@@ -2075,6 +2075,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krishnan-tech/CVE-2023-4226-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krishnan-tech/CVE-2023-4226-POC">
 - [nr4x4/CVE-2023-4220](https://github.com/nr4x4/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/nr4x4/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/nr4x4/CVE-2023-4220">
 - [nr4x4/CVE-2023-4220](https://github.com/nr4x4/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/nr4x4/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/nr4x4/CVE-2023-4220">
+- [Al3xGD/CVE-2023-4220-Exploit](https://github.com/Al3xGD/CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xGD/CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xGD/CVE-2023-4220-Exploit">
 
 ---
 ## CVE-2023-422 ()
