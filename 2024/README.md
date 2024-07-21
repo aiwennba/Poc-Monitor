@@ -4190,6 +4190,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [labc-dev/CVE-2024-06666](https://github.com/labc-dev/CVE-2024-06666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-06666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-06666">
 
 ---
+## CVE-2024-0666 ()
+> 
+- [labc-dev/CVE-2024-0666](https://github.com/labc-dev/CVE-2024-0666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-0666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-0666">
+
+---
 ## CVE-2024-0652 (2024-01-18T01:15:00)
 > A vulnerability was found in PHPGurukul Company Visitor Management System 1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file search-visitor.php. The manipulation leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-251378 is the identifier assigned to this vulnerability.
 - [Agampreet-Singh/CVE-2024-0652](https://github.com/Agampreet-Singh/CVE-2024-0652)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-0652">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-0652">
