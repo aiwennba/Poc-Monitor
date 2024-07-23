@@ -435,6 +435,15 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231">
 
 ---
+## CVE-2024-41107 (2024-07-19T11:15:00)
+> The CloudStack SAML authentication (disabled by default) does not enforce signature check. In CloudStack environments where SAML authentication is enabled, an attacker that initiates CloudStack SAML single sign-on authentication can bypass SAML authentication by submitting a spoofed SAML response with no signature and known or guessed username and other user details of a SAML-enabled CloudStack user-account. In such environments, this can result in a complete compromise of the resources owned and/or accessible by a SAML enabled user-account.
+
+Affected users are recommended to disable the SAML authentication plugin by setting the "saml2.enabled" global setting to "false", or upgrade to version 4.18.2.2, 4.19.1.0 or later, which addresses this issue.
+
+
+- [d0rb/CVE-2024-41107](https://github.com/d0rb/CVE-2024-41107)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-41107">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-41107">
+
+---
 ## CVE-2024-40725 (2024-07-18T10:15:00)
 > A partial fix for  CVE-2024-39884 in the core of Apache HTTP Server 2.4.61 ignores some use of the legacy content-type based configuration of handlers. "AddType" and similar configuration, under some circumstances where files are requested indirectly, result in source code disclosure of local content. For example, PHP scripts may be served instead of interpreted.
 
