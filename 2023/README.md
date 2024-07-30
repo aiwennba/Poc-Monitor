@@ -1950,6 +1950,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115)	<img alt="forks" src="https://img.shields.io/github/forks/jostaub/ghostscript-CVE-2023-43115">	<img alt="stars" src="https://img.shields.io/github/stars/jostaub/ghostscript-CVE-2023-43115">
 
 ---
+## CVE-2023-43040 (2024-05-14T13:46:00)
+> IBM Spectrum Fusion HCI 2.5.2 through 2.7.2 could allow an attacker to perform unauthorized actions in RGW for Ceph due to improper bucket access.  IBM X-Force ID:  266807.
+- [riza/CVE-2023-43040](https://github.com/riza/CVE-2023-43040)	<img alt="forks" src="https://img.shields.io/github/forks/riza/CVE-2023-43040">	<img alt="stars" src="https://img.shields.io/github/stars/riza/CVE-2023-43040">
+
+---
 ## CVE-2023-4294 (2023-09-11T20:15:00)
 > The URL Shortify WordPress plugin before 1.7.6 does not properly escape the value of the referer header, thus allowing an unauthenticated attacker to inject malicious javascript that will trigger in the plugins admin panel with statistics of the created short link.
 - [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4294">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4294">
