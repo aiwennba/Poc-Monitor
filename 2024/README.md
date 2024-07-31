@@ -839,6 +839,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [jakabakos/CVE-2024-36401-GeoServer-RCE](https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-36401-GeoServer-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-36401-GeoServer-RCE">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-36401">
+- [ahisec/geoserver-](https://github.com/ahisec/geoserver-)	<img alt="forks" src="https://img.shields.io/github/forks/ahisec/geoserver-">	<img alt="stars" src="https://img.shields.io/github/stars/ahisec/geoserver-">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
