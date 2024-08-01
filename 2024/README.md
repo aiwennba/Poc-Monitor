@@ -2468,8 +2468,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL)	<img alt="forks" src="https://img.shields.io/github/forks/RobertSecurity/CVE-2024-2865-CRITICAL">	<img alt="stars" src="https://img.shields.io/github/stars/RobertSecurity/CVE-2024-2865-CRITICAL">
 
 ---
-## CVE-2024-28589 ()
-> 
+## CVE-2024-28589 (2024-04-03T08:15:00)
+> An issue was discovered in Axigen Mail Server for Windows versions 10.5.18 and before, allows local low-privileged attackers to execute arbitrary code and escalate privileges via insecure DLL loading from a world-writable directory during service initialization.
 - [Alaatk/CVE-2024-28589](https://github.com/Alaatk/CVE-2024-28589)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-28589">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-28589">
 
 ---
