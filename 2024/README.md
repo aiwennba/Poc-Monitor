@@ -32,6 +32,11 @@
 - [jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/jdpsl/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/jdpsl/CVE-2024-6782">
 
 ---
+## CVE-2024-6768 (2024-08-12T19:15:00)
+> A Denial of Service in CLFS.sys in Microsoft Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, and Windows Server 2022 allows a malicious authenticated low-privilege user to cause a Blue Screen of Death via a forced call to the KeBugCheckEx function.
+- [fortra/CVE-2024-6768](https://github.com/fortra/CVE-2024-6768)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2024-6768">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2024-6768">
+
+---
 ## CVE-2024-6738 (2024-07-15T03:15:00)
 > The tumbnail API of Tronclass from WisdomGarden lacks proper access control, allowing unauthenticated remote attackers to obtain certain specific files by modifying the URL.
 - [XD3an/CVE-2024-6738](https://github.com/XD3an/CVE-2024-6738)	<img alt="forks" src="https://img.shields.io/github/forks/XD3an/CVE-2024-6738">	<img alt="stars" src="https://img.shields.io/github/stars/XD3an/CVE-2024-6738">
