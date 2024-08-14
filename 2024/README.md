@@ -185,6 +185,7 @@
 - [l-urk/CVE-2024-6387-L](https://github.com/l-urk/CVE-2024-6387-L)	<img alt="forks" src="https://img.shields.io/github/forks/l-urk/CVE-2024-6387-L">	<img alt="stars" src="https://img.shields.io/github/stars/l-urk/CVE-2024-6387-L">
 - [alex14324/ssh_poc2024](https://github.com/alex14324/ssh_poc2024)	<img alt="forks" src="https://img.shields.io/github/forks/alex14324/ssh_poc2024">	<img alt="stars" src="https://img.shields.io/github/stars/alex14324/ssh_poc2024">
 - [X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker](https://github.com/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2023-4596-OpenSSH-Multi-Checker">
+- [niktoproject/CVE-202406387_Check.py](https://github.com/niktoproject/CVE-202406387_Check.py)	<img alt="forks" src="https://img.shields.io/github/forks/niktoproject/CVE-202406387_Check.py">	<img alt="stars" src="https://img.shields.io/github/stars/niktoproject/CVE-202406387_Check.py">
 
 ---
 ## CVE-2024-6366 (2024-07-29T06:15:00)
@@ -368,6 +369,7 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [ShadowByte1/CVE-2024-4879](https://github.com/ShadowByte1/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-4879">
 - [Praison001/CVE-2024-4879-ServiceNow](https://github.com/Praison001/CVE-2024-4879-ServiceNow)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-4879-ServiceNow">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-4879-ServiceNow">
 - [NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning](https://github.com/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning)	<img alt="forks" src="https://img.shields.io/github/forks/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">	<img alt="stars" src="https://img.shields.io/github/stars/NoTsPepino/CVE-2024-4879-CVE-2024-5217-ServiceNow-RCE-Scanning">
+- [jdusane/CVE-2024-4879](https://github.com/jdusane/CVE-2024-4879)	<img alt="forks" src="https://img.shields.io/github/forks/jdusane/CVE-2024-4879">	<img alt="stars" src="https://img.shields.io/github/stars/jdusane/CVE-2024-4879">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
