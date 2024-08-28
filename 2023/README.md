@@ -6393,6 +6393,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [asepsaepdin/CVE-2023-22809](https://github.com/asepsaepdin/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-22809">
 - [Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Toothless5143/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Toothless5143/CVE-2023-22809">
 - [AntiVlad/CVE-2023-22809](https://github.com/AntiVlad/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/AntiVlad/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/AntiVlad/CVE-2023-22809">
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/D0rDa4aN919/CVE-2023-22809-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/D0rDa4aN919/CVE-2023-22809-Exploiter">
 
 ---
 ## CVE-2023-22726 (2023-01-20T22:15:00)
