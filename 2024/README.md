@@ -733,8 +733,8 @@ Allocated by task 6166:
 - [fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902)	<img alt="forks" src="https://img.shields.io/github/forks/fru1ts/CVE-2024-44902">	<img alt="stars" src="https://img.shields.io/github/stars/fru1ts/CVE-2024-44902">
 
 ---
-## CVE-2024-44867 ()
-> 
+## CVE-2024-44867 (2024-09-10T14:15:00)
+> phpok v3.0 was discovered to contain an arbitrary file read vulnerability via the component /autoload/file.php.
 - [ChengZyin/CVE-2024-44867](https://github.com/ChengZyin/CVE-2024-44867)	<img alt="forks" src="https://img.shields.io/github/forks/ChengZyin/CVE-2024-44867">	<img alt="stars" src="https://img.shields.io/github/stars/ChengZyin/CVE-2024-44867">
 
 ---
@@ -1429,6 +1429,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Florian-Hoth/CVE-2024-37085-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-37085-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-37085-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-37085-RCE-POC">
 - [WTN-arny/CVE-2024-37085](https://github.com/WTN-arny/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/WTN-arny/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/WTN-arny/CVE-2024-37085">
 - [WTN-arny/Vmware-ESXI](https://github.com/WTN-arny/Vmware-ESXI)	<img alt="forks" src="https://img.shields.io/github/forks/WTN-arny/Vmware-ESXI">	<img alt="stars" src="https://img.shields.io/github/stars/WTN-arny/Vmware-ESXI">
+
+---
+## CVE-2024-37084 (2024-07-25T10:15:00)
+> In Spring Cloud Data Flow versions prior to 2.11.4,  a malicious user who has access to the Skipper server api can use a crafted upload request to write an arbitrary file to any location on the file system which could lead to compromising the server
+- [Kayiyan/CVE-2024-37084-Poc](https://github.com/Kayiyan/CVE-2024-37084-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kayiyan/CVE-2024-37084-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kayiyan/CVE-2024-37084-Poc">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
