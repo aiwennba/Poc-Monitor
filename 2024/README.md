@@ -126,6 +126,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/dovics/cve-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/dovics/cve-2024-7646">
 
 ---
+## CVE-2024-7617 (2024-09-25T03:15:00)
+> The Contact Form to Any API plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Contact Form 7 form fields in all versions up to, and including, 1.2.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+- [maybeheisenberg/CVE-2024-7617](https://github.com/maybeheisenberg/CVE-2024-7617)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7617">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7617">
+
+---
 ## CVE-2024-7593 (2024-08-13T19:15:00)
 > Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.
 - [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7593-PoC">
