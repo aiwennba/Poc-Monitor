@@ -5428,6 +5428,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
  This vulnerability is due to improper management of resources during fragment reassembly. An attacker could exploit this vulnerability by sending specific sizes of fragmented packets to an affected device or through a Virtual Fragmentation Reassembly (VFR)-enabled interface on an affected device. A successful exploit could allow the attacker to cause the device to reload, resulting in a DoS condition.
  Note: This vulnerability affects Cisco ASR 1000 Series Aggregation Services Routers and Cisco cBR-8 Converged Broadband Routers if they are running Cisco IOS XE Software Release 17.12.1 or 17.12.1a.
 - [saler-cve/PoC-Exploit-CVE-2024-20467](https://github.com/saler-cve/PoC-Exploit-CVE-2024-20467)	<img alt="forks" src="https://img.shields.io/github/forks/saler-cve/PoC-Exploit-CVE-2024-20467">	<img alt="stars" src="https://img.shields.io/github/stars/saler-cve/PoC-Exploit-CVE-2024-20467">
+- [saler-cve/PoC-Exploit-CVE-2024-20467](https://github.com/saler-cve/PoC-Exploit-CVE-2024-20467)	<img alt="forks" src="https://img.shields.io/github/forks/saler-cve/PoC-Exploit-CVE-2024-20467">	<img alt="stars" src="https://img.shields.io/github/stars/saler-cve/PoC-Exploit-CVE-2024-20467">
 
 ---
 ## CVE-2024-20419 (2024-07-17T17:15:00)
