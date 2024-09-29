@@ -737,6 +737,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ywChen-NTUST/PHP-CGI-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ywChen-NTUST/PHP-CGI-RCE-Scanner">
 
 ---
+## CVE-2024-45614 (2024-09-19T23:15:00)
+> Puma is a Ruby/Rack web server built for parallelism. In affected versions clients could clobber values set by intermediate proxies (such as X-Forwarded-For) by providing a underscore version of the same header (X-Forwarded_For). Any users relying on proxy set variables is affected. v6.4.3/v5.6.9 now discards any headers using underscores if the non-underscore version also exists. Effectively, allowing the proxy defined headers to always win. Users are advised to upgrade. Nginx has a underscores_in_headers configuration variable to discard these headers at the proxy level as a mitigation. Any users that are implicitly trusting the proxy defined headers for security should immediately cease doing so until upgraded to the fixed versions.
+- [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614)	<img alt="forks" src="https://img.shields.io/github/forks/ooooooo-q/puma_header_normalization-CVE-2024-45614">	<img alt="stars" src="https://img.shields.io/github/stars/ooooooo-q/puma_header_normalization-CVE-2024-45614">
+
+---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
 > RapidIdentity LTS through 2023.0.2 and Cloud through 2024.08.0 improperly restricts excessive authentication attempts and allows a remote attacker to cause a denial of service via the username parameters.
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
@@ -1007,6 +1012,11 @@ Allocated by task 6166:
 ## CVE-2024-43918 (2024-08-29T15:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WBW WBW Product Table PRO allows SQL Injection.This issue affects WBW Product Table PRO: from n/a through 1.9.4.
 - [KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43918">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43918">
+
+---
+## CVE-2024-43917 (2024-08-29T15:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TemplateInvaders TI WooCommerce Wishlist allows SQL Injection.This issue affects TI WooCommerce Wishlist: from n/a through 2.8.2.
+- [p33d/CVE-2024-43917](https://github.com/p33d/CVE-2024-43917)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-43917">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-43917">
 
 ---
 ## CVE-2024-4367 (2024-05-14T18:15:00)
