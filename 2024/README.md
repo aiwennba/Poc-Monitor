@@ -673,6 +673,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
 
 ---
+## CVE-2024-46635 (2024-09-30T18:15:00)
+> An issue in the API endpoint /AccountMaster/GetCurrentUserInfo of INROAD before v202402060 allows attackers to access sensitive information via a crafted payload to the UserNameOrPhoneNumber parameter.
+- [h1thub/CVE-2024-46635](https://github.com/h1thub/CVE-2024-46635)	<img alt="forks" src="https://img.shields.io/github/forks/h1thub/CVE-2024-46635">	<img alt="stars" src="https://img.shields.io/github/stars/h1thub/CVE-2024-46635">
+
+---
 ## CVE-2024-46627 (2024-09-26T17:15:00)
 > Incorrect access control in BECN DATAGERRY v2.2 allows attackers to execute arbitrary commands via crafted web requests.
 - [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-46627">
