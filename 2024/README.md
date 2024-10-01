@@ -6,6 +6,11 @@
 - [labc-dev/CVE-2024-99999](https://github.com/labc-dev/CVE-2024-99999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-99999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-99999">
 
 ---
+## CVE-2024-9166 (2024-09-26T17:15:00)
+> The device enables an unauthorized attacker to execute system commands with elevated privileges. This exploit is facilitated through the use of the 'getcommand' query within the application, allowing the attacker to gain root access.
+- [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)	<img alt="forks" src="https://img.shields.io/github/forks/Andrysqui/CVE-2024-9166">	<img alt="stars" src="https://img.shields.io/github/stars/Andrysqui/CVE-2024-9166">
+
+---
 ## CVE-2024-9080 (2024-09-22T07:15:00)
 > A vulnerability was found in code-projects Student Record System 1.0. It has been classified as critical. Affected is an unknown function of the file /pincode-verification.php. The manipulation of the argument pincode leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.
 - [nothe1senberg/CVE-2024-9080](https://github.com/nothe1senberg/CVE-2024-9080)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-9080">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-9080">
