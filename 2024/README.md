@@ -809,6 +809,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 > The postjournal service in Zimbra Collaboration (ZCS) before 8.8.15 Patch 46, 9 before 9.0.0 Patch 41, 10 before 10.0.9, and 10.1 before 10.1.1 sometimes allows unauthenticated users to execute commands.
 - [TOB1a3/CVE-2024-45519-PoC](https://github.com/TOB1a3/CVE-2024-45519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TOB1a3/CVE-2024-45519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TOB1a3/CVE-2024-45519-PoC">
 - [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-45519">
+- [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-45519">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
@@ -4026,6 +4027,7 @@ are not yet active.
 
 
 - [Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits">
+- [X-Projetion/CVE-2024-26304-RCE-exploit](https://github.com/X-Projetion/CVE-2024-26304-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-26304-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-26304-RCE-exploit">
 
 ---
 ## CVE-2024-26230 (2024-04-09T17:15:00)
