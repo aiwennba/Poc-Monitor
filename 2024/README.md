@@ -4549,6 +4549,24 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [killerbees19/CVE-2024-24760](https://github.com/killerbees19/CVE-2024-24760)	<img alt="forks" src="https://img.shields.io/github/forks/killerbees19/CVE-2024-24760">	<img alt="stars" src="https://img.shields.io/github/stars/killerbees19/CVE-2024-24760">
 
 ---
+## CVE-2024-24686 (2024-05-28T14:15:00)
+> Multiple stack-based buffer overflow vulnerabilities exist in the readOFF functionality of libigl v2.5.0. A specially crafted .off file can lead to stack-based buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.This vulnerability concerns the parsing of comments within the faces section of an `.off`  file processed via the `readOFF` function.
+- [SpiralBL0CK/CVE-2024-24686](https://github.com/SpiralBL0CK/CVE-2024-24686)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-24686">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-24686">
+
+---
+## CVE-2024-24685 (2024-05-28T14:15:00)
+> Multiple stack-based buffer overflow vulnerabilities exist in the readOFF functionality of libigl v2.5.0. A specially crafted .off file can lead to stack-based buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.This vulnerability concerns the parsing of comments within the vertex section of an `.off`  file processed via the `readOFF` function.
+- [SpiralBL0CK/CVE-2024-24685](https://github.com/SpiralBL0CK/CVE-2024-24685)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-24685">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-24685">
+
+---
+## CVE-2024-24684 (2024-05-28T14:15:00)
+> Multiple stack-based buffer overflow vulnerabilities exist in the readOFF functionality of libigl v2.5.0. A specially crafted .off file can lead to stack-based buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.This vulnerability concerns the header parsing occuring while processing an `.off`  file via the `readOFF` function. 
+
+
+We can see above that at [0] a stack-based buffer called `comment` is defined with an hardcoded size of `1000 bytes`.  The call to `fscanf` at [1] is unsafe and if the first line of the header of the `.off` files is longer than 1000 bytes it will overflow the `header` buffer.
+- [SpiralBL0CK/CVE-2024-24684](https://github.com/SpiralBL0CK/CVE-2024-24684)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-24684">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-24684">
+
+---
 ## CVE-2024-24590 (2024-02-06T15:15:00)
 > Deserialization of untrusted data can occur in versions 0.17.0 to 1.14.2 of the client SDK of Allegro AI’s ClearML platform, enabling a maliciously uploaded artifact to run arbitrary code on an end user’s system when interacted with.
 
