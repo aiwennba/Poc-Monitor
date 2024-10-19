@@ -32,6 +32,11 @@
 - [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">
 
 ---
+## CVE-2024-9466 (2024-10-09T17:15:00)
+> A cleartext storage of sensitive information vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to reveal firewall usernames, passwords, and API keys generated using those credentials.
+- [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-9466">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-9466">
+
+---
 ## CVE-2024-9465 (2024-10-09T17:15:00)
 > An SQL injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to reveal Expedition database contents, such as password hashes, usernames, device configurations, and device API keys. With this, attackers can also create and read arbitrary files on the Expedition system.
 - [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-9465">
@@ -797,6 +802,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [MalwareTech/CVE-2024-47176-Scanner](https://github.com/MalwareTech/CVE-2024-47176-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/CVE-2024-47176-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/CVE-2024-47176-Scanner">
 - [AxthonyV/CVE-2024-47176](https://github.com/AxthonyV/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2024-47176">
 - [gianlu111/CUPS-CVE-2024-47176](https://github.com/gianlu111/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/gianlu111/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/gianlu111/CUPS-CVE-2024-47176">
+- [0x7556/CVE-2024-47176](https://github.com/0x7556/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-47176">
 
 ---
 ## CVE-2024-47076 (2024-09-26T22:15:00)
