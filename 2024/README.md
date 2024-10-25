@@ -997,6 +997,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614)	<img alt="forks" src="https://img.shields.io/github/forks/ooooooo-q/puma_header_normalization-CVE-2024-45614">	<img alt="stars" src="https://img.shields.io/github/stars/ooooooo-q/puma_header_normalization-CVE-2024-45614">
 
 ---
+## CVE-2024-45590 (2024-09-10T16:15:00)
+> body-parser is Node.js body parsing middleware. body-parser <1.20.3 is vulnerable to denial of service when url encoding is enabled. A malicious actor using a specially crafted payload could flood the server with a large number of requests, resulting in denial of service. This issue is patched in 1.20.3.
+- [AliMilani/CVE-2024-45590](https://github.com/AliMilani/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/AliMilani/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/AliMilani/CVE-2024-45590">
+
+---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
 > RapidIdentity LTS through 2023.0.2 and Cloud through 2024.08.0 improperly restricts excessive authentication attempts and allows a remote attacker to cause a denial of service via the username parameters.
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
