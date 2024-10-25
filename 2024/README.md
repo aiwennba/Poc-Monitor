@@ -827,6 +827,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-47575 ()
 > 
 - [maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-47575">
+- [HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-47575">
 
 ---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
