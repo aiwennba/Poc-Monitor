@@ -707,6 +707,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-51567 (2024-10-29T23:15:00)
 > upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.
 - [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
+- [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
 
 ---
 ## CVE-2024-51441 ()
@@ -890,8 +891,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [Renzusclarke/CVE-2024-48392-PoC](https://github.com/Renzusclarke/CVE-2024-48392-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Renzusclarke/CVE-2024-48392-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Renzusclarke/CVE-2024-48392-PoC">
 
 ---
-## CVE-2024-48360 ()
-> 
+## CVE-2024-48360 (2024-10-31T20:15:00)
+> Qualitor v8.24 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /request/viewValidacao.php.
 - [OpenXP-Research/CVE-2024-48360](https://github.com/OpenXP-Research/CVE-2024-48360)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48360">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48360">
 
 ---
@@ -901,8 +902,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
 
 ---
-## CVE-2024-48359 ()
-> 
+## CVE-2024-48359 (2024-10-31T20:15:00)
+> Qualitor v8.24 was discovered to contain a remote code execution (RCE) vulnerability via the gridValoresPopHidden parameter.
 - [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48359">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48359">
 
 ---
