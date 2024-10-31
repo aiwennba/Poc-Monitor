@@ -704,6 +704,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
+## CVE-2024-51567 (2024-10-29T23:15:00)
+> upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.
+- [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
+
+---
 ## CVE-2024-51441 ()
 > 
 - [youssef20390/-CVE-2024-51441](https://github.com/youssef20390/-CVE-2024-51441)	<img alt="forks" src="https://img.shields.io/github/forks/youssef20390/-CVE-2024-51441">	<img alt="stars" src="https://img.shields.io/github/stars/youssef20390/-CVE-2024-51441">
@@ -4189,8 +4194,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Schnaidr/CVE-2024-2856-Stack-overflow-EXP](https://github.com/Schnaidr/CVE-2024-2856-Stack-overflow-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Schnaidr/CVE-2024-2856-Stack-overflow-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Schnaidr/CVE-2024-2856-Stack-overflow-EXP">
 
 ---
-## CVE-2024-28515 ()
-> 
+## CVE-2024-28515 (2024-04-03T07:15:00)
+> Buffer Overflow vulnerability in CSAPP_Lab CSAPP Lab3 15-213 Fall 20xx allows a remote attacker to execute arbitrary code via the lab3 of csapp,lab3/buflab-update.pl component.
 - [heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515)	<img alt="forks" src="https://img.shields.io/github/forks/heshi906/CVE-2024-28515">	<img alt="stars" src="https://img.shields.io/github/stars/heshi906/CVE-2024-28515">
 
 ---
