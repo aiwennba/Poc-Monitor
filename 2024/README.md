@@ -2061,6 +2061,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38249 (2024-09-10T17:15:00)
+> Windows Graphics Component Elevation of Privilege Vulnerability
+- [Jaden1419/CVE-2024-38249](https://github.com/Jaden1419/CVE-2024-38249)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/CVE-2024-38249">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/CVE-2024-38249">
+
+---
 ## CVE-2024-38200 (2024-08-12T13:38:00)
 > Microsoft Office Spoofing Vulnerability
 - [passtheticket/CVE-2024-38200](https://github.com/passtheticket/CVE-2024-38200)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-38200">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-38200">
@@ -6060,6 +6065,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-2122 (2024-06-14T06:15:00)
 > The Best WordPress Gallery Plugin – FooGallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via album gallery custom URLs in all versions up to, and including, 2.4.15 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [codeb0ss/CVE-2024-2122-PoC](https://github.com/codeb0ss/CVE-2024-2122-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-2122-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-2122-PoC">
+
+---
+## CVE-2024-21164 (2024-07-16T23:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.20. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 2.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:L/I:N/A:N).
+- [Jaden1419/-CVE-2024-21164](https://github.com/Jaden1419/-CVE-2024-21164)	<img alt="forks" src="https://img.shields.io/github/forks/Jaden1419/-CVE-2024-21164">	<img alt="stars" src="https://img.shields.io/github/stars/Jaden1419/-CVE-2024-21164">
 
 ---
 ## CVE-2024-21111 (2024-04-16T22:15:00)
