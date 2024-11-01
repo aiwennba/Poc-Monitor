@@ -813,6 +813,7 @@ The specific flaw exists within the product installer. The issue results from th
 
 Please note: authentication is not required in order to exploit this vulnerability.
 - [zetraxz/CVE-2024-48904](https://github.com/zetraxz/CVE-2024-48904)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-48904">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-48904">
+- [famixcm/CVE-2024-48904](https://github.com/famixcm/CVE-2024-48904)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-48904">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-48904">
 
 ---
 ## CVE-2024-4885 (2024-06-25T20:15:00)
