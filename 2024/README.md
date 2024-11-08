@@ -796,6 +796,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-51179 ()
 > 
 - [Lakshmirnr/CVE-2024-51179-](https://github.com/Lakshmirnr/CVE-2024-51179-)	<img alt="forks" src="https://img.shields.io/github/forks/Lakshmirnr/CVE-2024-51179-">	<img alt="stars" src="https://img.shields.io/github/stars/Lakshmirnr/CVE-2024-51179-">
+- [Lakshmirnr/CVE-2024-51179](https://github.com/Lakshmirnr/CVE-2024-51179)	<img alt="forks" src="https://img.shields.io/github/forks/Lakshmirnr/CVE-2024-51179">	<img alt="stars" src="https://img.shields.io/github/stars/Lakshmirnr/CVE-2024-51179">
 
 ---
 ## CVE-2024-51136 ()
