@@ -1103,6 +1103,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [osvaldotenorio/cve-2024-48325](https://github.com/osvaldotenorio/cve-2024-48325)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/cve-2024-48325">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/cve-2024-48325">
 
 ---
+## CVE-2024-48322 ()
+> 
+- [trqt/CVE-2024-48322](https://github.com/trqt/CVE-2024-48322)	<img alt="forks" src="https://img.shields.io/github/forks/trqt/CVE-2024-48322">	<img alt="stars" src="https://img.shields.io/github/stars/trqt/CVE-2024-48322">
+
+---
 ## CVE-2024-48217 (2024-11-01T17:15:00)
 > An Insecure Direct Object Reference (IDOR) in the dashboard of SiSMART v7.4.0 allows attackers to execute a horizontal-privilege escalation.
 - [ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217)	<img alt="forks" src="https://img.shields.io/github/forks/ajrielrm/CVE-2024-48217">	<img alt="stars" src="https://img.shields.io/github/stars/ajrielrm/CVE-2024-48217">
