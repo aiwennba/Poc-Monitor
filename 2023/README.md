@@ -3324,8 +3324,8 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
 
 ---
-## CVE-2023-3722 ()
-> 
+## CVE-2023-3722 (2023-07-19T20:15:00)
+> An OS command injection vulnerability was found in the Avaya Aura Device Services Web application which could allow remote code execution as the Web server user via a malicious uploaded file. This issue affects Avaya Aura Device Services version 8.1.4.0 and earlier.
 - [pizza-power/CVE-2023-3722](https://github.com/pizza-power/CVE-2023-3722)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/CVE-2023-3722">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/CVE-2023-3722">
 
 ---
