@@ -810,6 +810,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [famixcm/CVE-2024-52316](https://github.com/famixcm/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-52316">
 
 ---
+## CVE-2024-52303 ()
+> 
+- [ozempiic/CVE-2024-52303](https://github.com/ozempiic/CVE-2024-52303)	<img alt="forks" src="https://img.shields.io/github/forks/ozempiic/CVE-2024-52303">	<img alt="stars" src="https://img.shields.io/github/stars/ozempiic/CVE-2024-52303">
+
+---
 ## CVE-2024-52302 ()
 > 
 - [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2024-52302">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2024-52302">
@@ -7013,6 +7018,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10586 ()
 > 
 - [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
+
+---
+## CVE-2024-10508 ()
+> 
+- [ubaii/CVE-2024-10508](https://github.com/ubaii/CVE-2024-10508)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10508">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10508">
 
 ---
 ## CVE-2024-10470 ()
