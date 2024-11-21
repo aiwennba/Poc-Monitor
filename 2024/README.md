@@ -1170,6 +1170,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49328">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49328">
 
 ---
+## CVE-2024-49203 ()
+> 
+- [CSIRTTrizna/CVE-2024-49203](https://github.com/CSIRTTrizna/CVE-2024-49203)	<img alt="forks" src="https://img.shields.io/github/forks/CSIRTTrizna/CVE-2024-49203">	<img alt="stars" src="https://img.shields.io/github/stars/CSIRTTrizna/CVE-2024-49203">
+
+---
 ## CVE-2024-49186 ()
 > 
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">
