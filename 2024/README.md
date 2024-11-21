@@ -825,6 +825,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
+## CVE-2024-52318 ()
+> 
+- [TAM-K592/CVE-2024-52318](https://github.com/TAM-K592/CVE-2024-52318)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-52318">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-52318">
+
+---
 ## CVE-2024-52317 ()
 > 
 - [TAM-K592/CVE-2024-52317](https://github.com/TAM-K592/CVE-2024-52317)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-52317">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-52317">
@@ -7147,6 +7152,11 @@ resulting in database manipulation.
 ## CVE-2024-10245 ()
 > 
 - [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10245">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10245">
+
+---
+## CVE-2024-10220 ()
+> 
+- [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)
