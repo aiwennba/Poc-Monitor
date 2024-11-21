@@ -4456,6 +4456,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [codeb0ss/CVE-2024-29824-PoC](https://github.com/codeb0ss/CVE-2024-29824-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-29824-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-29824-PoC">
 
 ---
+## CVE-2024-29671 ()
+> 
+- [laskdjlaskdj12/CVE-2024-29671-POC](https://github.com/laskdjlaskdj12/CVE-2024-29671-POC)	<img alt="forks" src="https://img.shields.io/github/forks/laskdjlaskdj12/CVE-2024-29671-POC">	<img alt="stars" src="https://img.shields.io/github/stars/laskdjlaskdj12/CVE-2024-29671-POC">
+
+---
 ## CVE-2024-2961 (2024-04-17T18:15:00)
 > The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
 
