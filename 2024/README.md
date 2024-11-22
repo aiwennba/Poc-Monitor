@@ -1193,6 +1193,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-48990 ()
 > 
 - [makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/makuga01/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/makuga01/CVE-2024-48990-PoC">
+- [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/ns989/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/ns989/CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
@@ -6013,6 +6014,7 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [puckiestyle/CVE-2024-23113](https://github.com/puckiestyle/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2024-23113">
 - [radoslavatanasov1/CVE-2024-23113](https://github.com/radoslavatanasov1/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/radoslavatanasov1/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/radoslavatanasov1/CVE-2024-23113">
 - [expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-23113">
+- [XiaomingX/cve-2024-23113-exp](https://github.com/XiaomingX/cve-2024-23113-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23113-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23113-exp">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
