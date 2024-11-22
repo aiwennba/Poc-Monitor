@@ -114,6 +114,7 @@
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-9441">
 - [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekrautela/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekrautela/CVE-2024-9441">
 - [p33d/CVE-2024-9441](https://github.com/p33d/CVE-2024-9441)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-9441">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-9441">
+- [XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-9441-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-9441-poc">
 
 ---
 ## CVE-2024-9380 (2024-10-08T17:15:00)
@@ -301,6 +302,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 > Inappropriate implementation in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965)	<img alt="forks" src="https://img.shields.io/github/forks/bi-zone/CVE-2024-7965">	<img alt="stars" src="https://img.shields.io/github/stars/bi-zone/CVE-2024-7965">
 - [maybeheisenberg/CVE-2024-7965-exploit](https://github.com/maybeheisenberg/CVE-2024-7965-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7965-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7965-exploit">
+- [XiaomingX/cve-2024-7965-poc](https://github.com/XiaomingX/cve-2024-7965-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-7965-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-7965-poc">
 
 ---
 ## CVE-2024-7954 (2024-08-23T18:15:00)
@@ -1603,6 +1605,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-45519">
 - [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-45519">
 - [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-45519">
+- [XiaomingX/cve-2024-45519-poc](https://github.com/XiaomingX/cve-2024-45519-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-45519-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-45519-poc">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
