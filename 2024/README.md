@@ -4013,8 +4013,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Chokopikkk/CVE-2024-31218_exploit](https://github.com/Chokopikkk/CVE-2024-31218_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31218_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31218_exploit">
 
 ---
-## CVE-2024-31211 ()
-> 
+## CVE-2024-31211 (2024-04-04T23:15:00)
+> WordPress is an open publishing platform for the Web. Unserialization of instances of the `WP_HTML_Token` class allows for code execution via its `__destruct()` magic method. This issue was fixed in WordPress 6.4.2 on December 6th, 2023. Versions prior to 6.4.0 are not affected.
 - [Abdurahmon3236/-CVE-2024-31211](https://github.com/Abdurahmon3236/-CVE-2024-31211)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-31211">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-31211">
 
 ---
@@ -4461,8 +4461,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
 
 ---
-## CVE-2024-30270 ()
-> 
+## CVE-2024-30270 (2024-04-04T21:15:00)
+> mailcow: dockerized is an open source groupware/email suite based on docker. A security vulnerability has been identified in mailcow affecting versions prior to 2024-04. This vulnerability is a combination of path traversal and arbitrary code execution, specifically targeting the `rspamd_maps()` function. It allows authenticated admin users to overwrite any file writable by the www-data user by exploiting improper path validation. The exploit chain can lead to the execution of arbitrary commands on the server. Version 2024-04 contains a patch for the issue.
 - [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
 
 ---
@@ -4719,8 +4719,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [randshell/CVE-2024-29384](https://github.com/randshell/CVE-2024-29384)	<img alt="forks" src="https://img.shields.io/github/forks/randshell/CVE-2024-29384">	<img alt="stars" src="https://img.shields.io/github/stars/randshell/CVE-2024-29384">
 
 ---
-## CVE-2024-29375 ()
-> 
+## CVE-2024-29375 (2024-04-04T07:15:00)
+> CSV Injection vulnerability in Addactis IBNRS v.3.10.3.107 allows a remote attacker to execute arbitrary code via a crafted .ibnrs file to the Project Description, Identifiers, Custom Triangle Name (inside Input Triangles) and Yield Curve Name parameters.
 - [ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375)	<img alt="forks" src="https://img.shields.io/github/forks/ismailcemunver/CVE-2024-29375">	<img alt="stars" src="https://img.shields.io/github/stars/ismailcemunver/CVE-2024-29375">
 
 ---
@@ -4856,8 +4856,8 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-2887">
 
 ---
-## CVE-2024-2879 ()
-> 
+## CVE-2024-2879 (2024-04-03T04:15:00)
+> The LayerSlider plugin for WordPress is vulnerable to SQL Injection via the ls_get_popup_markup action in versions 7.9.11 and 7.10.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
 - [herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879)	<img alt="forks" src="https://img.shields.io/github/forks/herculeszxc/CVE-2024-2879">	<img alt="stars" src="https://img.shields.io/github/stars/herculeszxc/CVE-2024-2879">
 - [JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JohnNetSouldRU/CVE-2024-2879-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JohnNetSouldRU/CVE-2024-2879-POC">
@@ -4988,8 +4988,10 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [lirantal/CVE-2024-27983-nodejs-http2](https://github.com/lirantal/CVE-2024-27983-nodejs-http2)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-27983-nodejs-http2">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-27983-nodejs-http2">
 
 ---
-## CVE-2024-27972 ()
-> 
+## CVE-2024-27972 (2024-04-03T12:15:00)
+> Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in Very Good Plugins WP Fusion Lite allows Command Injection.This issue affects WP Fusion Lite: from n/a through 3.41.24.
+
+
 - [truonghuuphuc/CVE-2024-27972-Poc](https://github.com/truonghuuphuc/CVE-2024-27972-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27972-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27972-Poc">
 
 ---
@@ -5159,8 +5161,10 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [Cythonic1/CVE-2024-27198_POC](https://github.com/Cythonic1/CVE-2024-27198_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cythonic1/CVE-2024-27198_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cythonic1/CVE-2024-27198_POC">
 
 ---
-## CVE-2024-27191 ()
-> 
+## CVE-2024-27191 (2024-04-03T12:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Inpersttion Slivery Extender allows Code Injection.This issue affects Slivery Extender: from n/a through 1.0.2.
+
+
 - [somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)	<img alt="forks" src="https://img.shields.io/github/forks/somecodeinjection/CVE-2024-27191-POC">	<img alt="stars" src="https://img.shields.io/github/stars/somecodeinjection/CVE-2024-27191-POC">
 
 ---
@@ -5941,8 +5945,10 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [tamatee/test_cve_2024_23897](https://github.com/tamatee/test_cve_2024_23897)	<img alt="forks" src="https://img.shields.io/github/forks/tamatee/test_cve_2024_23897">	<img alt="stars" src="https://img.shields.io/github/stars/tamatee/test_cve_2024_23897">
 
 ---
-## CVE-2024-2389 ()
-> 
+## CVE-2024-2389 (2024-04-02T13:15:00)
+> In Flowmon versions prior to 11.1.14 and 12.3.5, an operating system command injection vulnerability has been identified.  An unauthenticated user can gain entry to the system via the Flowmon management interface, allowing for the execution of arbitrary system commands.
+
+
 - [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-2389">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-2389">
 - [wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wjlin0/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wjlin0/CVE-2024-23897">
 - [yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-23897">
@@ -6119,18 +6125,24 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [hrtowii/CVE-2024-23208-test](https://github.com/hrtowii/CVE-2024-23208-test)	<img alt="forks" src="https://img.shields.io/github/forks/hrtowii/CVE-2024-23208-test">	<img alt="stars" src="https://img.shields.io/github/stars/hrtowii/CVE-2024-23208-test">
 
 ---
-## CVE-2024-23118 ()
-> 
+## CVE-2024-23118 (2024-04-01T22:15:00)
+> Centreon updateContactHostCommands SQL Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Centreon. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the updateContactHostCommands function. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries. An attacker can leverage this vulnerability to execute code in the context of the service account. Was ZDI-CAN-22298.
 - [zgimszhd61/CVE-2024-23118](https://github.com/zgimszhd61/CVE-2024-23118)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23118">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23118">
 
 ---
-## CVE-2024-23117 ()
-> 
+## CVE-2024-23117 (2024-04-01T22:15:00)
+> Centreon updateContactServiceCommands SQL Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Centreon. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the updateContactServiceCommands function. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries. An attacker can leverage this vulnerability to execute code in the context of the service account. Was ZDI-CAN-22297.
 - [zgimszhd61/CVE-2024-23117](https://github.com/zgimszhd61/CVE-2024-23117)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23117">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23117">
 
 ---
-## CVE-2024-23116 ()
-> 
+## CVE-2024-23116 (2024-04-01T22:15:00)
+> Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Centreon. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the updateLCARelation function. The issue results from the lack of proper validation of a user-supplied string before using it to construct SQL queries. An attacker can leverage this vulnerability to execute code in the context of the service account. Was ZDI-CAN-22296.
 - [zgimszhd61/CVE-2024-23116](https://github.com/zgimszhd61/CVE-2024-23116)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-23116">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-23116">
 
 ---
@@ -6349,8 +6361,8 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 - [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2024-22369">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2024-22369">
 
 ---
-## CVE-2024-22328 ()
-> 
+## CVE-2024-22328 (2024-04-06T12:15:00)
+> IBM Maximo Application Suite 8.10 and 8.11 could allow a remote attacker to traverse directories on the system. An attacker could send a specially crafted URL request containing "dot dot" sequences (/../) to view arbitrary files on the system.  IBM X-Force ID:  279950.
 - [RansomGroupCVE/CVE-2024-22328-POC](https://github.com/RansomGroupCVE/CVE-2024-22328-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-22328-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-22328-POC">
 
 ---
@@ -7158,14 +7170,16 @@ authentication.   
 - [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
 
 ---
-## CVE-2024-11680 ()
-> 
+## CVE-2024-11680 (2024-11-26T10:15:00)
+> ProjectSend versions prior to r1720 are affected by an improper authentication vulnerability. Remote, unauthenticated attackers can exploit this flaw by sending crafted HTTP requests to options.php, enabling unauthorized modification of the application's configuration. Successful exploitation allows attackers to create accounts, upload webshells, and embed malicious JavaScript.
 - [famixcm/CVE-2024-11680](https://github.com/famixcm/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11680">
 - [exploitboom/CVE-2024-11680](https://github.com/exploitboom/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/exploitboom/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/exploitboom/CVE-2024-11680">
 
 ---
-## CVE-2024-11477 ()
-> 
+## CVE-2024-11477 (2024-11-22T21:15:00)
+> 7-Zip Zstandard Decompression Integer Underflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of 7-Zip. Interaction with this library is required to exploit this vulnerability but attack vectors may vary depending on the implementation.
+
+The specific flaw exists within the implementation of Zstandard decompression. The issue results from the lack of proper validation of user-supplied data, which can result in an integer underflow before writing to memory. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-24346.
 - [maybelookis/CVE-2024-11477](https://github.com/maybelookis/CVE-2024-11477)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-11477">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-11477">
 - [TheN00bBuilder/cve-2024-11477-writeup](https://github.com/TheN00bBuilder/cve-2024-11477-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/TheN00bBuilder/cve-2024-11477-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/TheN00bBuilder/cve-2024-11477-writeup">
 
@@ -7175,38 +7189,38 @@ authentication.   
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
 
 ---
-## CVE-2024-11432 ()
-> 
+## CVE-2024-11432 (2024-11-21T11:15:00)
+> The SuevaFree Essential Kit plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'counter' shortcode in all versions up to, and including, 1.1.3 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11432](https://github.com/windz3r0day/CVE-2024-11432)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11432">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11432">
 
 ---
-## CVE-2024-11428 ()
-> 
+## CVE-2024-11428 (2024-11-21T11:15:00)
+> The Lazy load videos and sticky control plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'lazy-load-videos-and-sticky-control' shortcode in all versions up to, and including, 3.0.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11428">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11428">
 
 ---
-## CVE-2024-11412 ()
-> 
+## CVE-2024-11412 (2024-11-21T11:15:00)
+> The Shine PDF Embeder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'shinepdf' shortcode in all versions up to, and including, 1.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11412">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11412">
 
 ---
-## CVE-2024-11388 ()
-> 
+## CVE-2024-11388 (2024-11-21T11:15:00)
+> The Dino Game – Embed Google Chrome Dinosaur Game in WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'dino-game' shortcode in all versions up to, and including, 1.1.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11388">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11388">
 
 ---
-## CVE-2024-11387 ()
-> 
+## CVE-2024-11387 (2024-11-23T05:15:00)
+> The Easy Liveblogs plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'elb_liveblog' shortcode in all versions up to, and including, 2.3.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11387">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11387">
 
 ---
-## CVE-2024-11381 ()
-> 
+## CVE-2024-11381 (2024-11-22T06:15:00)
+> The Control horas plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'ch_registro' shortcode in all versions up to, and including, 1.0.1 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11381">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11381">
 
 ---
-## CVE-2024-11319 ()
-> 
+## CVE-2024-11319 (2024-11-18T12:15:00)
+> Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in django CMS Association django-cms allows Cross-Site Scripting (XSS).This issue affects django-cms: 3.11.7, 3.11.8, 4.1.2, 4.1.3.
 - [famixcm/CVE-2024-11319](https://github.com/famixcm/CVE-2024-11319)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11319">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11319">
 
 ---
@@ -7220,8 +7234,8 @@ authentication.   
 - [NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201)	<img alt="forks" src="https://img.shields.io/github/forks/NSQAQ/CVE-2024-11201">	<img alt="stars" src="https://img.shields.io/github/stars/NSQAQ/CVE-2024-11201">
 
 ---
-## CVE-2024-11199 ()
-> 
+## CVE-2024-11199 (2024-11-23T10:15:00)
+> The Rescue Shortcodes plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's rescue_progressbar shortcode in all versions up to, and including, 2.9 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11199">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11199">
 
 ---
@@ -7254,8 +7268,8 @@ authentication.   
 - [njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/needrestart-vulnerability-poc">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/needrestart-vulnerability-poc">
 
 ---
-## CVE-2024-10961 ()
-> 
+## CVE-2024-10961 (2024-11-23T04:15:00)
+> The Social Login plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 5.9.0. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email and the user does not have an already-existing account for the service returning the token.
 - [FoKiiin/CVE-2024-10961](https://github.com/FoKiiin/CVE-2024-10961)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10961">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10961">
 
 ---
@@ -7277,13 +7291,13 @@ authentication.   
 - [Maalfer/CVE-2024-10924-PoC](https://github.com/Maalfer/CVE-2024-10924-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-10924-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-10924-PoC">
 
 ---
-## CVE-2024-10920 ()
-> 
+## CVE-2024-10920 (2024-11-06T16:15:00)
+> A vulnerability was found in mariazevedo88 travels-java-api up to 5.0.1 and classified as problematic. Affected by this issue is the function doFilterInternal of the file travels-java-api-master\src\main\java\io\github\mariazevedo88\travelsjavaapi\filters\JwtAuthenticationTokenFilter.java of the component JWT Secret Handler. The manipulation leads to use of hard-coded cryptographic key . The attack may be launched remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used.
 - [Maalfer/CVE-2024-10920-PoC](https://github.com/Maalfer/CVE-2024-10920-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-10920-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-10920-PoC">
 
 ---
-## CVE-2024-10914 ()
-> 
+## CVE-2024-10914 (2024-11-06T14:15:00)
+> A vulnerability was found in D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L up to 20241028. It has been declared as critical. Affected by this vulnerability is the function cgi_user_add of the file /cgi-bin/account_mgr.cgi?cmd=cgi_user_add. The manipulation of the argument name leads to os command injection. The attack can be launched remotely. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used.
 - [imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/imnotcha0s/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/imnotcha0s/CVE-2024-10914">
 - [verylazytech/CVE-2024-10914](https://github.com/verylazytech/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-10914">
 - [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-)	<img alt="forks" src="https://img.shields.io/github/forks/Bu0uCat/D-Link-NAS-CVE-2024-10914-">	<img alt="stars" src="https://img.shields.io/github/stars/Bu0uCat/D-Link-NAS-CVE-2024-10914-">
@@ -7351,8 +7365,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10586">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10586">
 
 ---
-## CVE-2024-10542 ()
-> 
+## CVE-2024-10542 (2024-11-26T06:15:00)
+> The Spam protection, Anti-Spam, FireWall by CleanTalk plugin for WordPress is vulnerable to unauthorized Arbitrary Plugin Installation due to an authorization bypass via reverse DNS spoofing on the checkWithoutToken function in all versions up to, and including, 6.43.2. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins which can be leveraged to achieve remote code execution if another vulnerable plugin is installed and activated.
 - [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10542">
 - [ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-10542">
 - [FoKiiin/CVE-2024-10542](https://github.com/FoKiiin/CVE-2024-10542)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10542">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10542">
@@ -7412,8 +7426,8 @@ resulting in database manipulation.
 - [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10245">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10245">
 
 ---
-## CVE-2024-10220 ()
-> 
+## CVE-2024-10220 (2024-11-22T17:15:00)
+> The Kubernetes kubelet component allows arbitrary command execution via specially crafted gitRepo volumes.This issue affects kubelet: through 1.28.11, from 1.29.0 through 1.29.6, from 1.30.0 through 1.30.2.
 - [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
 - [mochizuki875/CVE-2024-10220-githooks](https://github.com/mochizuki875/CVE-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/mochizuki875/CVE-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/mochizuki875/CVE-2024-10220-githooks">
 - [phoenixmerk/CVE-2024-10220](https://github.com/phoenixmerk/CVE-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/phoenixmerk/CVE-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/phoenixmerk/CVE-2024-10220">
@@ -7733,8 +7747,14 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2024-0015">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2024-0015">
 
 ---
-## CVE-2024-0012 ()
-> 
+## CVE-2024-0012 (2024-11-18T16:15:00)
+> An authentication bypass in Palo Alto Networks PAN-OS software enables an unauthenticated attacker with network access to the management web interface to gain PAN-OS administrator privileges to perform administrative actions, tamper with the configuration, or exploit other authenticated privilege escalation vulnerabilities like  CVE-2024-9474 https://security.paloaltonetworks.com/CVE-2024-9474 .
+
+The risk of this issue is greatly reduced if you secure access to the management web interface by restricting access to only trusted internal IP addresses according to our recommended  best practice deployment guidelines https://live.paloaltonetworks.com/t5/community-blogs/tips-amp-tricks-how-to-secure-the-management-access-of-your-palo/ba-p/464431 .
+
+This issue is applicable only to PAN-OS 10.2, PAN-OS 11.0, PAN-OS 11.1, and PAN-OS 11.2 software.
+
+Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [watchtowrlabs/palo-alto-panos-cve-2024-0012](https://github.com/watchtowrlabs/palo-alto-panos-cve-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/palo-alto-panos-cve-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/palo-alto-panos-cve-2024-0012">
 - [Sachinart/CVE-2024-0012-POC](https://github.com/Sachinart/CVE-2024-0012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-0012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-0012-POC">
 - [greaselovely/CVE-2024-0012](https://github.com/greaselovely/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/greaselovely/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/greaselovely/CVE-2024-0012">
