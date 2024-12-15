@@ -6880,6 +6880,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [gogobuster/CVE-2024-21591-POC](https://github.com/gogobuster/CVE-2024-21591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21591-POC">
 
 ---
+## CVE-2024-21542 ()
+> 
+- [L3ster1337/Poc-CVE-2024-21542](https://github.com/L3ster1337/Poc-CVE-2024-21542)	<img alt="forks" src="https://img.shields.io/github/forks/L3ster1337/Poc-CVE-2024-21542">	<img alt="stars" src="https://img.shields.io/github/stars/L3ster1337/Poc-CVE-2024-21542">
+
+---
 ## CVE-2024-21534 (2024-10-11T13:15:00)
 > Versions of the package jsonpath-plus before 10.0.7 are vulnerable to Remote Code Execution (RCE) due to improper input sanitization. An attacker can execute aribitrary code on the system by exploiting the unsafe default usage of vm in Node.**Note:**There was an attempt to fix it in version [10.0.0](https://github.com/JSONPath-Plus/JSONPath/commit/6b2f1b4c234292c75912b790bf7e2d7339d4ccd3) but it could still be exploited using [different payloads](https://github.com/JSONPath-Plus/JSONPath/issues/226).
 - [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/pabloopez/CVE-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/pabloopez/CVE-2024-21534">
@@ -7855,6 +7860,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [FoxyProxys/CVE-2024-0582](https://github.com/FoxyProxys/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-0582">
 - [0ptyx/cve-2024-0582](https://github.com/0ptyx/cve-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/0ptyx/cve-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/0ptyx/cve-2024-0582">
 - [geniuszlyy/CVE-2024-0582](https://github.com/geniuszlyy/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-0582">
+- [101010zyl/CVE-2024-0582](https://github.com/101010zyl/CVE-2024-0582)	<img alt="forks" src="https://img.shields.io/github/forks/101010zyl/CVE-2024-0582">	<img alt="stars" src="https://img.shields.io/github/stars/101010zyl/CVE-2024-0582">
 
 ---
 ## CVE-2024-0566 (2024-02-12T16:15:00)
