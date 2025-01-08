@@ -951,6 +951,7 @@
 - [Mykhis/Discord-Image-Logger-Stealer](https://github.com/Mykhis/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Mykhis/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Mykhis/Discord-Image-Logger-Stealer">
 - [Mykhis/HTA-Exploit](https://github.com/Mykhis/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mykhis/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mykhis/HTA-Exploit">
 - [JanICT/poc-ldap-cve-2021-44228](https://github.com/JanICT/poc-ldap-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/JanICT/poc-ldap-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/JanICT/poc-ldap-cve-2021-44228">
+- [Kz0x-337/CVE-2021-44228](https://github.com/Kz0x-337/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Kz0x-337/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Kz0x-337/CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
