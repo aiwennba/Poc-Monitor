@@ -2035,7 +2035,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577">
 - [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)	<img alt="forks" src="https://img.shields.io/github/forks/ManuelKy08/CVE-2024-4577---RR">	<img alt="stars" src="https://img.shields.io/github/stars/ManuelKy08/CVE-2024-4577---RR">
 - [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-4577">
-- [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4577-RCE">
+- [gh-ost00/CVE-2024-4577-RCE](https://github.com/gh-ost00/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-4577-RCE">
 - [AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-](https://github.com/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-">
 - [phirojshah/CVE-2024-4577](https://github.com/phirojshah/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/phirojshah/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/phirojshah/CVE-2024-4577">
 - [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ywChen-NTUST/PHP-CGI-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ywChen-NTUST/PHP-CGI-RCE-Scanner">
@@ -3028,6 +3028,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-38998 ()
 > 
 - [AlbedoPrime/PP_CVE-2024-38998](https://github.com/AlbedoPrime/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/AlbedoPrime/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/AlbedoPrime/PP_CVE-2024-38998">
+- [cesarbtakeda/PP_CVE-2024-38998](https://github.com/cesarbtakeda/PP_CVE-2024-38998)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/PP_CVE-2024-38998">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/PP_CVE-2024-38998">
 
 ---
 ## CVE-2024-38856 (2024-08-05T09:15:00)
