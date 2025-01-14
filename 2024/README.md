@@ -1477,6 +1477,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50493">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50493">
 
 ---
+## CVE-2024-50491 ()
+> 
+- [RandomRobbieBF/CVE-2024-50491](https://github.com/RandomRobbieBF/CVE-2024-50491)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50491">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50491">
+
+---
 ## CVE-2024-50490 (2024-10-29T09:15:00)
 > Missing Authorization vulnerability in Szabolcs Szecsenyi PegaPoll allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects PegaPoll: from n/a through 1.0.2.
 - [RandomRobbieBF/CVE-2024-50490](https://github.com/RandomRobbieBF/CVE-2024-50490)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50490">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50490">
