@@ -1016,6 +1016,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1te4ever/CVE-2024-54498-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1te4ever/CVE-2024-54498-PoC">
 
 ---
+## CVE-2024-54363 ()
+> 
+- [Nxploited/CVE-2024-54363-Exploit](https://github.com/Nxploited/CVE-2024-54363-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54363-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54363-Exploit">
+
+---
 ## CVE-2024-54330 ()
 > 
 - [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54330">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54330">
@@ -7968,6 +7973,7 @@ authentication.   
 ## CVE-2024-11972 ()
 > 
 - [JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972)	<img alt="forks" src="https://img.shields.io/github/forks/JunTakemura/exploit-CVE-2024-11972">	<img alt="stars" src="https://img.shields.io/github/stars/JunTakemura/exploit-CVE-2024-11972">
+- [RonF98/CVE-2024-11972-POC](https://github.com/RonF98/CVE-2024-11972-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-11972-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-11972-POC">
 
 ---
 ## CVE-2024-11728 ()
