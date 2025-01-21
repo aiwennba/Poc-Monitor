@@ -2931,6 +2931,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
 - [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/Havoc-C2-SSRF-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/Havoc-C2-SSRF-poc">
 - [Doc-Grinch/Havoc-CVE-2024-41570-and-RCE](https://github.com/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">
+- [sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sebr-dev/Havoc-C2-SSRF-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sebr-dev/Havoc-C2-SSRF-to-RCE">
 
 ---
 ## CVE-2024-41453 ()
