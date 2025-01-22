@@ -2950,6 +2950,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Doc-Grinch/Havoc-CVE-2024-41570-and-RCE](https://github.com/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">
 - [sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sebr-dev/Havoc-C2-SSRF-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sebr-dev/Havoc-C2-SSRF-to-RCE">
 - [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/kit4py/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/kit4py/CVE-2024-41570">
+- [thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">
 
 ---
 ## CVE-2024-41453 ()
