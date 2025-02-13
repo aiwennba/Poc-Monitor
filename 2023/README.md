@@ -2988,6 +2988,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 ## CVE-2023-38873 ()
 > 
 - [K9-Modz/CVE-2023-38873g1](https://github.com/K9-Modz/CVE-2023-38873g1)	<img alt="forks" src="https://img.shields.io/github/forks/K9-Modz/CVE-2023-38873g1">	<img alt="stars" src="https://img.shields.io/github/stars/K9-Modz/CVE-2023-38873g1">
+- [K9-Modz/CVE-2023-38873-G1](https://github.com/K9-Modz/CVE-2023-38873-G1)	<img alt="forks" src="https://img.shields.io/github/forks/K9-Modz/CVE-2023-38873-G1">	<img alt="stars" src="https://img.shields.io/github/stars/K9-Modz/CVE-2023-38873-G1">
 
 ---
 ## CVE-2023-38836 (2023-08-21T17:15:00)
