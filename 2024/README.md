@@ -2570,6 +2570,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-45519">
 - [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-45519">
 - [XiaomingX/cve-2024-45519-poc](https://github.com/XiaomingX/cve-2024-45519-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-45519-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-45519-poc">
+- [sec13b/CVE-2024-45519](https://github.com/sec13b/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/sec13b/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/sec13b/CVE-2024-45519">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)
