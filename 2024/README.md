@@ -9135,6 +9135,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [tadash10/Detect-CVE-2024-0762](https://github.com/tadash10/Detect-CVE-2024-0762)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detect-CVE-2024-0762">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detect-CVE-2024-0762">
 
 ---
+## CVE-2024-0760 ()
+> 
+- [SpiralBL0CK/CVE-2024-0760](https://github.com/SpiralBL0CK/CVE-2024-0760)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-0760">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-0760">
+
+---
 ## CVE-2024-0757 (2024-06-04T06:15:00)
 > The Insert or Embed Articulate Content into WordPress plugin through 4.3000000023 is not properly filtering which file extensions are allowed to be imported on the server, allowing the uploading of malicious code within zip files
 - [hunThubSpace/CVE-2024-0757](https://github.com/hunThubSpace/CVE-2024-0757)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757">
