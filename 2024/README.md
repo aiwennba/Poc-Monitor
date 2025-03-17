@@ -8608,6 +8608,11 @@ authentication.   
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
 
 ---
+## CVE-2024-12641 ()
+> 
+- [Jimmy01240397/CVE-2024-12641_12642_12645](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12645)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12645">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12645">
+
+---
 ## CVE-2024-12558 ()
 > 
 - [Nxploited/CVE-2024-12558-exploit](https://github.com/Nxploited/CVE-2024-12558-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12558-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12558-exploit">
