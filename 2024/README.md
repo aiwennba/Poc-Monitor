@@ -2244,6 +2244,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
+## CVE-2024-48591 ()
+> 
+- [GCatt-AS/CVE-2024-48591](https://github.com/GCatt-AS/CVE-2024-48591)	<img alt="forks" src="https://img.shields.io/github/forks/GCatt-AS/CVE-2024-48591">	<img alt="stars" src="https://img.shields.io/github/stars/GCatt-AS/CVE-2024-48591">
+
+---
 ## CVE-2024-48590 ()
 > 
 - [GCatt-AS/CVE-2024-48590](https://github.com/GCatt-AS/CVE-2024-48590)	<img alt="forks" src="https://img.shields.io/github/forks/GCatt-AS/CVE-2024-48590">	<img alt="stars" src="https://img.shields.io/github/stars/GCatt-AS/CVE-2024-48590">
