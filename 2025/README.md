@@ -97,6 +97,7 @@
 - [moradloo1779/expliot-Next.js-Middleware-Bypass-Vulnerability-CVE-2025-29927](https://github.com/moradloo1779/expliot-Next.js-Middleware-Bypass-Vulnerability-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/moradloo1779/expliot-Next.js-Middleware-Bypass-Vulnerability-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/moradloo1779/expliot-Next.js-Middleware-Bypass-Vulnerability-CVE-2025-29927">
 - [nicknisi/next-attack](https://github.com/nicknisi/next-attack)	<img alt="forks" src="https://img.shields.io/github/forks/nicknisi/next-attack">	<img alt="stars" src="https://img.shields.io/github/stars/nicknisi/next-attack">
 - [jmbowes/NextSecureScan](https://github.com/jmbowes/NextSecureScan)	<img alt="forks" src="https://img.shields.io/github/forks/jmbowes/NextSecureScan">	<img alt="stars" src="https://img.shields.io/github/stars/jmbowes/NextSecureScan">
+- [ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927](https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927">
 
 ---
 ## CVE-2025-29814 ()
