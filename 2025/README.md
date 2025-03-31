@@ -394,6 +394,7 @@
 ## CVE-2025-25706 ()
 > 
 - [Cotherm/CVE-2025-25706](https://github.com/Cotherm/CVE-2025-25706)	<img alt="forks" src="https://img.shields.io/github/forks/Cotherm/CVE-2025-25706">	<img alt="stars" src="https://img.shields.io/github/stars/Cotherm/CVE-2025-25706">
+- [Cotherm/CVE-2025-25706](https://github.com/Cotherm/CVE-2025-25706)	<img alt="forks" src="https://img.shields.io/github/forks/Cotherm/CVE-2025-25706">	<img alt="stars" src="https://img.shields.io/github/stars/Cotherm/CVE-2025-25706">
 
 ---
 ## CVE-2025-25705 ()
