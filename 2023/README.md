@@ -5762,6 +5762,12 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [ZZY3312/CVE-2023-28206](https://github.com/ZZY3312/CVE-2023-28206)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-28206">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-28206">
 
 ---
+## CVE-2023-28205 ()
+> 
+- [Saad-Alareqi/WebKitExplotPS5_CVE-2023-28205](https://github.com/Saad-Alareqi/WebKitExplotPS5_CVE-2023-28205)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Alareqi/WebKitExplotPS5_CVE-2023-28205">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Alareqi/WebKitExplotPS5_CVE-2023-28205">
+- [ntfargo/uaf-2023-28205](https://github.com/ntfargo/uaf-2023-28205)	<img alt="forks" src="https://img.shields.io/github/forks/ntfargo/uaf-2023-28205">	<img alt="stars" src="https://img.shields.io/github/stars/ntfargo/uaf-2023-28205">
+
+---
 ## CVE-2023-28178 (2023-05-08T20:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.6.4, iOS 16.4 and iPadOS 16.4, macOS Ventura 13.3. An app may be able to bypass Privacy preferences
 - [MacCVEResearch/CVE-2023-28178-patch](https://github.com/MacCVEResearch/CVE-2023-28178-patch)	<img alt="forks" src="https://img.shields.io/github/forks/MacCVEResearch/CVE-2023-28178-patch">	<img alt="stars" src="https://img.shields.io/github/stars/MacCVEResearch/CVE-2023-28178-patch">
