@@ -2626,6 +2626,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [xpltive/CVE-2023-41425](https://github.com/xpltive/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/xpltive/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/xpltive/CVE-2023-41425">
 - [samu21req/CVE-2023-41425](https://github.com/samu21req/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/samu21req/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/samu21req/CVE-2023-41425">
 - [KGorbakon/CVE-2023-41425](https://github.com/KGorbakon/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/KGorbakon/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/KGorbakon/CVE-2023-41425">
+- [insomnia-jacob/CVE-2023-41425](https://github.com/insomnia-jacob/CVE-2023-41425)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-41425">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-41425">
 
 ---
 ## CVE-2023-41362 (2023-08-29T16:15:00)
