@@ -2853,6 +2853,13 @@ use after free.
 - [itwizardo/CVE-2019-12550](https://github.com/itwizardo/CVE-2019-12550)	<img alt="forks" src="https://img.shields.io/github/forks/itwizardo/CVE-2019-12550">	<img alt="stars" src="https://img.shields.io/github/stars/itwizardo/CVE-2019-12550">
 
 ---
+## CVE-2019-12409 ()
+> 
+- [mbadanoiu/CVE-2019-12409](https://github.com/mbadanoiu/CVE-2019-12409)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-12409">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-12409">
+- [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+- [jas502n/CVE-2019-12409](https://github.com/jas502n/CVE-2019-12409)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-12409">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-12409">
+
+---
 ## CVE-2019-12401 ()
 > 
 - [mbadanoiu/CVE-2019-12401](https://github.com/mbadanoiu/CVE-2019-12401)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-12401">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-12401">
