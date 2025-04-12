@@ -8111,6 +8111,11 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [XiaomingX/cve-2024-21762-poc](https://github.com/XiaomingX/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21762-poc">
 
 ---
+## CVE-2024-21754 ()
+> 
+- [llussiess/CVE-2024-21754](https://github.com/llussiess/CVE-2024-21754)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2024-21754">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2024-21754">
+
+---
 ## CVE-2024-21733 (2024-01-19T11:15:00)
 > Generation of Error Message Containing Sensitive Information vulnerability in Apache Tomcat.This issue affects Apache Tomcat: from 8.5.7 through 8.5.63, from 9.0.0-M11 through 9.0.43.
 
