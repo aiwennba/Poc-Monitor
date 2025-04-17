@@ -555,6 +555,7 @@
 ## CVE-2025-28009 ()
 > 
 - [beardenx/CVE-2025-28009](https://github.com/beardenx/CVE-2025-28009)	<img alt="forks" src="https://img.shields.io/github/forks/beardenx/CVE-2025-28009">	<img alt="stars" src="https://img.shields.io/github/stars/beardenx/CVE-2025-28009">
+- [beardenx/CVE-2025-28009](https://github.com/beardenx/CVE-2025-28009)	<img alt="forks" src="https://img.shields.io/github/forks/beardenx/CVE-2025-28009">	<img alt="stars" src="https://img.shields.io/github/stars/beardenx/CVE-2025-28009">
 
 ---
 ## CVE-2025-27893 ()
