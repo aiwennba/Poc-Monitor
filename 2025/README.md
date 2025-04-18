@@ -183,6 +183,11 @@
 - [itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2025-3272025">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2025-3272025">
 
 ---
+## CVE-2025-32682 ()
+> 
+- [Nxploited/CVE-2025-32682](https://github.com/Nxploited/CVE-2025-32682)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32682">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32682">
+
+---
 ## CVE-2025-32641 ()
 > 
 - [Nxploited/CVE-2025-32641](https://github.com/Nxploited/CVE-2025-32641)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32641">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32641">
@@ -204,6 +209,7 @@
 ## CVE-2025-32433 ()
 > 
 - [ProDefense/CVE-2025-32433](https://github.com/ProDefense/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ProDefense/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ProDefense/CVE-2025-32433">
+- [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
 
 ---
 ## CVE-2025-32395 ()
