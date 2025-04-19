@@ -216,6 +216,7 @@
 - [omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">
 - [m0usem0use/erl_mouse](https://github.com/m0usem0use/erl_mouse)	<img alt="forks" src="https://img.shields.io/github/forks/m0usem0use/erl_mouse">	<img alt="stars" src="https://img.shields.io/github/stars/m0usem0use/erl_mouse">
 - [exa-offsec/ssh_erlangotp_rce](https://github.com/exa-offsec/ssh_erlangotp_rce)	<img alt="forks" src="https://img.shields.io/github/forks/exa-offsec/ssh_erlangotp_rce">	<img alt="stars" src="https://img.shields.io/github/stars/exa-offsec/ssh_erlangotp_rce">
+- [ekomsSavior/POC_CVE-2025-32433](https://github.com/ekomsSavior/POC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/POC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/POC_CVE-2025-32433">
 
 ---
 ## CVE-2025-32395 ()
@@ -953,6 +954,11 @@
 - [Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE](https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">
 - [Mattb709/CVE-2025-24813-Scanner](https://github.com/Mattb709/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-Scanner">
 - [Erosion2020/CVE-2025-24813-vulhub](https://github.com/Erosion2020/CVE-2025-24813-vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/Erosion2020/CVE-2025-24813-vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/Erosion2020/CVE-2025-24813-vulhub">
+
+---
+## CVE-2025-24801 ()
+> 
+- [r1beirin/CVE-2025-24801](https://github.com/r1beirin/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/r1beirin/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/r1beirin/CVE-2025-24801">
 
 ---
 ## CVE-2025-24799 ()
