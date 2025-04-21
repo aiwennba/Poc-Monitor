@@ -546,7 +546,7 @@
 ---
 ## CVE-2025-29711 ()
 > 
-- [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass">
+- [SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control">
 
 ---
 ## CVE-2025-29705 ()
