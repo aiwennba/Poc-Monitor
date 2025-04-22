@@ -1102,6 +1102,7 @@
 - [xigney/CVE-2025-24054-PoC](https://github.com/xigney/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054-PoC">
 - [xigney/CVE-2025-24054_PoC](https://github.com/xigney/CVE-2025-24054_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xigney/CVE-2025-24054_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xigney/CVE-2025-24054_PoC">
 - [Marcejr117/CVE-2025-24071_PoC](https://github.com/Marcejr117/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Marcejr117/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Marcejr117/CVE-2025-24071_PoC">
+- [helidem/CVE-2025-24054-PoC](https://github.com/helidem/CVE-2025-24054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2025-24054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2025-24054-PoC">
 
 ---
 ## CVE-2025-24016 ()
