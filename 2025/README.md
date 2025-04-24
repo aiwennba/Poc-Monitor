@@ -343,6 +343,7 @@
 - [TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/TX-One/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/TX-One/CVE-2025-31161">
 - [SUPRAAA-1337/CVE-2025-31161](https://github.com/SUPRAAA-1337/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-31161">
 - [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">
+- [SUPRAAA-1337/CVE-2025-31161_exploit](https://github.com/SUPRAAA-1337/CVE-2025-31161_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-31161_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-31161_exploit">
 
 ---
 ## CVE-2025-31137 ()
@@ -713,6 +714,7 @@
 ## CVE-2025-2812 ()
 > 
 - [sahici/CVE-2025-2812](https://github.com/sahici/CVE-2025-2812)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-2812">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-2812">
+- [pruthuraut/CVE-2025-28121](https://github.com/pruthuraut/CVE-2025-28121)	<img alt="forks" src="https://img.shields.io/github/forks/pruthuraut/CVE-2025-28121">	<img alt="stars" src="https://img.shields.io/github/stars/pruthuraut/CVE-2025-28121">
 
 ---
 ## CVE-2025-2807 ()
