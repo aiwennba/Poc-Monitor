@@ -274,6 +274,11 @@
 - [ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_CVE-2025-32433">
 
 ---
+## CVE-2025-3243 ()
+> 
+- [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243)	<img alt="forks" src="https://img.shields.io/github/forks/TeneBrae93/CVE-2025-3243">	<img alt="stars" src="https://img.shields.io/github/stars/TeneBrae93/CVE-2025-3243">
+
+---
 ## CVE-2025-32395 ()
 > 
 - [ruiwenya/CVE-2025-32395](https://github.com/ruiwenya/CVE-2025-32395)	<img alt="forks" src="https://img.shields.io/github/forks/ruiwenya/CVE-2025-32395">	<img alt="stars" src="https://img.shields.io/github/stars/ruiwenya/CVE-2025-32395">
