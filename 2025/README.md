@@ -388,6 +388,7 @@
 ## CVE-2025-30406 ()
 > 
 - [bronsoneaver/CVE-2025-30406](https://github.com/bronsoneaver/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-30406">
+- [W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2025-30406">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2025-30406">
 
 ---
 ## CVE-2025-30355 ()
