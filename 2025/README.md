@@ -276,6 +276,7 @@
 - [rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/rizky412/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/rizky412/CVE-2025-32433">
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
 - [becrevex/cve-2025-32433](https://github.com/becrevex/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/cve-2025-32433">
+- [becrevex/CVE-2025-32433](https://github.com/becrevex/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-32433">
 
 ---
 ## CVE-2025-3243 ()
