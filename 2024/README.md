@@ -5496,6 +5496,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [jmywh1/CVE-2024-31317](https://github.com/jmywh1/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/jmywh1/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/jmywh1/CVE-2024-31317">
 - [Webldix/CVE-2024-31317-PoC-Deployer](https://github.com/Webldix/CVE-2024-31317-PoC-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/Webldix/CVE-2024-31317-PoC-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/Webldix/CVE-2024-31317-PoC-Deployer">
 - [Anonymous941/zygote-injection-toolkit](https://github.com/Anonymous941/zygote-injection-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous941/zygote-injection-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous941/zygote-injection-toolkit">
+- [agg23/cve-2024-31317](https://github.com/agg23/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/agg23/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/agg23/cve-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
@@ -6572,6 +6573,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27815 (2024-06-10T21:15:00)
 > An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in tvOS 17.5, visionOS 1.2, iOS 17.5 and iPadOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2024-27815">
+
+---
+## CVE-2024-27808 ()
+> 
+- [Leandrobts/CVE-2024-27808](https://github.com/Leandrobts/CVE-2024-27808)	<img alt="forks" src="https://img.shields.io/github/forks/Leandrobts/CVE-2024-27808">	<img alt="stars" src="https://img.shields.io/github/stars/Leandrobts/CVE-2024-27808">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
