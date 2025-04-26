@@ -6577,7 +6577,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ---
 ## CVE-2024-27808 ()
 > 
-- [Leandrobts/CVE-2024-27808](https://github.com/Leandrobts/CVE-2024-27808)	<img alt="forks" src="https://img.shields.io/github/forks/Leandrobts/CVE-2024-27808">	<img alt="stars" src="https://img.shields.io/github/stars/Leandrobts/CVE-2024-27808">
+- [Leandrobts/CVE-2024-27808.github.io](https://github.com/Leandrobts/CVE-2024-27808.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Leandrobts/CVE-2024-27808.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Leandrobts/CVE-2024-27808.github.io">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
