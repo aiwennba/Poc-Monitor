@@ -381,6 +381,8 @@
 - [redrays-io/CVE-2025-31324](https://github.com/redrays-io/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2025-31324">
 - [Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools](https://github.com/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools)	<img alt="forks" src="https://img.shields.io/github/forks/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools">	<img alt="stars" src="https://img.shields.io/github/stars/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools">
 - [Totunm/CVE-2025-31324](https://github.com/Totunm/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-31324">
+- [moften/CVE-2025-31324-NUCLEI](https://github.com/moften/CVE-2025-31324-NUCLEI)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-31324-NUCLEI">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-31324-NUCLEI">
+- [moften/CVE-2025-31324](https://github.com/moften/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-31324">
 
 ---
 ## CVE-2025-31161 ()
