@@ -389,6 +389,7 @@
 > 
 - [absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/TomcatKiller-CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/TomcatKiller-CVE-2025-31650">
 - [tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650">
+- [sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool](https://github.com/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">
 
 ---
 ## CVE-2025-31486 ()
