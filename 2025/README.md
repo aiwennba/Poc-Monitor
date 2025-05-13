@@ -83,6 +83,11 @@
 - [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731)	<img alt="forks" src="https://img.shields.io/github/forks/singetu0096/CVE-2025-46731">	<img alt="stars" src="https://img.shields.io/github/stars/singetu0096/CVE-2025-46731">
 
 ---
+## CVE-2025-46721 ()
+> 
+- [justinas/nosurf-cve-2025-46721](https://github.com/justinas/nosurf-cve-2025-46721)	<img alt="forks" src="https://img.shields.io/github/forks/justinas/nosurf-cve-2025-46721">	<img alt="stars" src="https://img.shields.io/github/stars/justinas/nosurf-cve-2025-46721">
+
+---
 ## CVE-2025-46701 ()
 > 
 - [gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-46701">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-46701">
@@ -1423,6 +1428,7 @@
 - [jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/jailbreakdotparty/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/jailbreakdotparty/dirtyZero">
 - [Ravibr87/dirtyZero](https://github.com/Ravibr87/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/Ravibr87/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/Ravibr87/dirtyZero">
 - [GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift](https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift)	<img alt="forks" src="https://img.shields.io/github/forks/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift">	<img alt="stars" src="https://img.shields.io/github/stars/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift">
+- [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/GeoSn0w/iDevice-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/GeoSn0w/iDevice-Toolkit">
 
 ---
 ## CVE-2025-24200 ()
