@@ -1006,6 +1006,7 @@
 ## CVE-2025-27636 ()
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
+- [enochgitgamefied/CVE-2025-27636-Pratctical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Pratctical-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/CVE-2025-27636-Pratctical-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/CVE-2025-27636-Pratctical-Lab">
 
 ---
 ## CVE-2025-27533 ()
