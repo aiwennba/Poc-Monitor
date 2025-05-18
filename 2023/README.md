@@ -4956,6 +4956,11 @@ Fixed in version 6.4.1.
 - [pulentoski/Explotacion-CVE-2023-32315-Openfire](https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/Explotacion-CVE-2023-32315-Openfire">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/Explotacion-CVE-2023-32315-Openfire">
 
 ---
+## CVE-2023-32259 ()
+> 
+- [HossamEAhmed/CVE-2023-32259---WP-ULike-4.7.9.1-Missing-Authorization-to-Unauthenticated-Content-Spoof](https://github.com/HossamEAhmed/CVE-2023-32259---WP-ULike-4.7.9.1-Missing-Authorization-to-Unauthenticated-Content-Spoof)	<img alt="forks" src="https://img.shields.io/github/forks/HossamEAhmed/CVE-2023-32259---WP-ULike-4.7.9.1-Missing-Authorization-to-Unauthenticated-Content-Spoof">	<img alt="stars" src="https://img.shields.io/github/stars/HossamEAhmed/CVE-2023-32259---WP-ULike-4.7.9.1-Missing-Authorization-to-Unauthenticated-Content-Spoof">
+
+---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
 > Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
