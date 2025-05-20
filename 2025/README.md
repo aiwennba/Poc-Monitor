@@ -130,6 +130,11 @@
 - [sahici/CVE-2025-4686](https://github.com/sahici/CVE-2025-4686)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4686">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4686">
 
 ---
+## CVE-2025-46801 ()
+> 
+- [Sratet/CVE-2025-46801](https://github.com/Sratet/CVE-2025-46801)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-46801">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-46801">
+
+---
 ## CVE-2025-46731 ()
 > 
 - [singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731)	<img alt="forks" src="https://img.shields.io/github/forks/singetu0096/CVE-2025-46731">	<img alt="stars" src="https://img.shields.io/github/stars/singetu0096/CVE-2025-46731">
@@ -335,6 +340,11 @@
 > 
 - [starawneh/CVE-2025-4094](https://github.com/starawneh/CVE-2025-4094)	<img alt="forks" src="https://img.shields.io/github/forks/starawneh/CVE-2025-4094">	<img alt="stars" src="https://img.shields.io/github/stars/starawneh/CVE-2025-4094">
 - [POCPioneer/CVE-2025-4094-POC](https://github.com/POCPioneer/CVE-2025-4094-POC)	<img alt="forks" src="https://img.shields.io/github/forks/POCPioneer/CVE-2025-4094-POC">	<img alt="stars" src="https://img.shields.io/github/stars/POCPioneer/CVE-2025-4094-POC">
+
+---
+## CVE-2025-40634 ()
+> 
+- [hacefresko/CVE-2025-40634](https://github.com/hacefresko/CVE-2025-40634)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2025-40634">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2025-40634">
 
 ---
 ## CVE-2025-3971 ()
