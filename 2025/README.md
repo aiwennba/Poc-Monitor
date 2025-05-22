@@ -1617,6 +1617,7 @@
 - [windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-24085">
 - [windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-24085">
 - [pxx917144686/12345](https://github.com/pxx917144686/12345)	<img alt="forks" src="https://img.shields.io/github/forks/pxx917144686/12345">	<img alt="stars" src="https://img.shields.io/github/stars/pxx917144686/12345">
+- [apt-007/12345](https://github.com/apt-007/12345)	<img alt="forks" src="https://img.shields.io/github/forks/apt-007/12345">	<img alt="stars" src="https://img.shields.io/github/stars/apt-007/12345">
 
 ---
 ## CVE-2025-24071 ()
