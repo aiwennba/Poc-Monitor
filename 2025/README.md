@@ -61,6 +61,11 @@
 - [korden-c/CVE-2025-4918](https://github.com/korden-c/CVE-2025-4918)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4918">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4918">
 
 ---
+## CVE-2025-48708 ()
+> 
+- [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2025-48708">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2025-48708">
+
+---
 ## CVE-2025-4822 ()
 > 
 - [sahici/CVE-2025-4822](https://github.com/sahici/CVE-2025-4822)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4822">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4822">
@@ -2063,6 +2068,7 @@
 ## CVE-2025-0868 ()
 > 
 - [shreyas-malhotra/PoC_CVE-2025-0868](https://github.com/shreyas-malhotra/PoC_CVE-2025-0868)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/PoC_CVE-2025-0868">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/PoC_CVE-2025-0868">
+- [aidana-gift/CVE-2025-0868](https://github.com/aidana-gift/CVE-2025-0868)	<img alt="forks" src="https://img.shields.io/github/forks/aidana-gift/CVE-2025-0868">	<img alt="stars" src="https://img.shields.io/github/stars/aidana-gift/CVE-2025-0868">
 
 ---
 ## CVE-2025-0851 ()
