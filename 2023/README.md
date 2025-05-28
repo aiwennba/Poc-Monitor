@@ -3280,6 +3280,11 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38632">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38632">
 
 ---
+## CVE-2023-38600 ()
+> 
+- [afrojack1/CVE-2023-38600-Test](https://github.com/afrojack1/CVE-2023-38600-Test)	<img alt="forks" src="https://img.shields.io/github/forks/afrojack1/CVE-2023-38600-Test">	<img alt="stars" src="https://img.shields.io/github/stars/afrojack1/CVE-2023-38600-Test">
+
+---
 ## CVE-2023-38571 (2023-07-28T05:15:00)
 > This issue was addressed with improved validation of symlinks. This issue is fixed in macOS Big Sur 11.7.9, macOS Monterey 12.6.8, macOS Ventura 13.5. An app may be able to bypass Privacy preferences.
 - [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">
