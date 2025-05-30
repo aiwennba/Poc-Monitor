@@ -2461,7 +2461,8 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 ---
 ## CVE-2023-41992 ()
 > 
-- [karzanWang/CVE-2023-41992](https://github.com/karzanWang/CVE-2023-41992)	<img alt="forks" src="https://img.shields.io/github/forks/karzanWang/CVE-2023-41992">	<img alt="stars" src="https://img.shields.io/github/stars/karzanWang/CVE-2023-41992">
+- [WHW0x455/CVE-2023-41992](https://github.com/WHW0x455/CVE-2023-41992)	<img alt="forks" src="https://img.shields.io/github/forks/WHW0x455/CVE-2023-41992">	<img alt="stars" src="https://img.shields.io/github/stars/WHW0x455/CVE-2023-41992">
+- [xcbjky/cve-2023-41992-kernel-w](https://github.com/xcbjky/cve-2023-41992-kernel-w)	<img alt="forks" src="https://img.shields.io/github/forks/xcbjky/cve-2023-41992-kernel-w">	<img alt="stars" src="https://img.shields.io/github/stars/xcbjky/cve-2023-41992-kernel-w">
 
 ---
 ## CVE-2023-41991 (2023-09-21T19:15:00)
