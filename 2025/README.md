@@ -890,6 +890,7 @@
 > 
 - [Sratet/CVE-2025-30397-RCE](https://github.com/Sratet/CVE-2025-30397-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Sratet/CVE-2025-30397-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Sratet/CVE-2025-30397-RCE">
 - [mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-](https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-">
+- [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 
 ---
 ## CVE-2025-30392 ()
@@ -1313,6 +1314,11 @@
 ## CVE-2025-2760 ()
 > 
 - [korden-c/CVE-2025-2760](https://github.com/korden-c/CVE-2025-2760)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-2760">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-2760">
+
+---
+## CVE-2025-27590 ()
+> 
+- [fatkz/CVE-2025-27590](https://github.com/fatkz/CVE-2025-27590)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-27590">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-27590">
 
 ---
 ## CVE-2025-27533 ()
