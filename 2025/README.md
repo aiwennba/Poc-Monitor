@@ -297,6 +297,11 @@
 - [joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)	<img alt="forks" src="https://img.shields.io/github/forks/joey-melo/CVE-2025-442025">	<img alt="stars" src="https://img.shields.io/github/stars/joey-melo/CVE-2025-442025">
 
 ---
+## CVE-2025-44148 ()
+> 
+- [barisbaydur/CVE-2025-44148](https://github.com/barisbaydur/CVE-2025-44148)	<img alt="forks" src="https://img.shields.io/github/forks/barisbaydur/CVE-2025-44148">	<img alt="stars" src="https://img.shields.io/github/stars/barisbaydur/CVE-2025-44148">
+
+---
 ## CVE-2025-44108 ()
 > 
 - [harish0x/CVE-2025-44108-SXSS](https://github.com/harish0x/CVE-2025-44108-SXSS)	<img alt="forks" src="https://img.shields.io/github/forks/harish0x/CVE-2025-44108-SXSS">	<img alt="stars" src="https://img.shields.io/github/stars/harish0x/CVE-2025-44108-SXSS">
