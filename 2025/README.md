@@ -938,6 +938,7 @@
 - [SUPRAAA-1337/CVE-2025-3102-exploit](https://github.com/SUPRAAA-1337/CVE-2025-3102-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102-exploit">
 - [0xgh057r3c0n/CVE-2025-3102](https://github.com/0xgh057r3c0n/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3102">
 - [B1ack4sh/CVE-2025-3102](https://github.com/B1ack4sh/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/CVE-2025-3102">
+- [baribut/CVE-2025-3102](https://github.com/baribut/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/baribut/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/baribut/CVE-2025-3102">
 
 ---
 ## CVE-2025-30967 ()
