@@ -116,6 +116,7 @@
 - [fearsoff-org/CVE-2025-49113](https://github.com/fearsoff-org/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/fearsoff-org/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/fearsoff-org/CVE-2025-49113">
 - [rasool13x/exploit-CVE-2025-49113](https://github.com/rasool13x/exploit-CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/rasool13x/exploit-CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/rasool13x/exploit-CVE-2025-49113">
 - [SyFi/CVE-2025-49113](https://github.com/SyFi/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/SyFi/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/SyFi/CVE-2025-49113">
+- [hakaioffsec/CVE-2025-49113-exploit](https://github.com/hakaioffsec/CVE-2025-49113-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2025-49113-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2025-49113-exploit">
 
 ---
 ## CVE-2025-48827 ()
@@ -1033,6 +1034,7 @@
 - [imbas007/CVE-2025-30208-template](https://github.com/imbas007/CVE-2025-30208-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-30208-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-30208-template">
 - [r0ngy40/CVE-2025-30208-Series](https://github.com/r0ngy40/CVE-2025-30208-Series)	<img alt="forks" src="https://img.shields.io/github/forks/r0ngy40/CVE-2025-30208-Series">	<img alt="stars" src="https://img.shields.io/github/stars/r0ngy40/CVE-2025-30208-Series">
 - [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-30208-31125-31486-32395">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-30208-31125-31486-32395">
+- [HaGsec/CVE-2025-30208](https://github.com/HaGsec/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HaGsec/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HaGsec/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
