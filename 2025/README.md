@@ -1904,6 +1904,11 @@
 - [DoTTak/CVE-2025-24587](https://github.com/DoTTak/CVE-2025-24587)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-24587">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-24587">
 
 ---
+## CVE-2025-24514 ()
+> 
+- [KimJuhyeong95/cve-2025-24514](https://github.com/KimJuhyeong95/cve-2025-24514)	<img alt="forks" src="https://img.shields.io/github/forks/KimJuhyeong95/cve-2025-24514">	<img alt="stars" src="https://img.shields.io/github/stars/KimJuhyeong95/cve-2025-24514">
+
+---
 ## CVE-2025-24271 ()
 > 
 - [moften/CVE-2025-24271](https://github.com/moften/CVE-2025-24271)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-24271">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-24271">
@@ -2217,6 +2222,7 @@
 - [aleongx/KQL_sentinel_CVE-2025-21333](https://github.com/aleongx/KQL_sentinel_CVE-2025-21333)	<img alt="forks" src="https://img.shields.io/github/forks/aleongx/KQL_sentinel_CVE-2025-21333">	<img alt="stars" src="https://img.shields.io/github/stars/aleongx/KQL_sentinel_CVE-2025-21333">
 - [SerabiLem/CVE-2025-21333-POC](https://github.com/SerabiLem/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SerabiLem/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SerabiLem/CVE-2025-21333-POC">
 - [160102/CVE-2025-21333-POC](https://github.com/160102/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/160102/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/160102/CVE-2025-21333-POC">
+- [B1ack4sh/Blackash-CVE-2025-21333](https://github.com/B1ack4sh/Blackash-CVE-2025-21333)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-21333">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-21333">
 
 ---
 ## CVE-2025-21307 ()
@@ -2241,6 +2247,7 @@
 > 
 - [amandanegefa/CVE-2025-20286](https://github.com/amandanegefa/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-20286">
 - [noeneal/CVE-2025-20286](https://github.com/noeneal/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/noeneal/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/noeneal/CVE-2025-20286">
+- [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
 
 ---
 ## CVE-2025-20188 ()
