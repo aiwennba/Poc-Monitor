@@ -2248,6 +2248,7 @@
 - [amandanegefa/CVE-2025-20286](https://github.com/amandanegefa/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/amandanegefa/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/amandanegefa/CVE-2025-20286">
 - [noeneal/CVE-2025-20286](https://github.com/noeneal/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/noeneal/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/noeneal/CVE-2025-20286">
 - [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
+- [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
 
 ---
 ## CVE-2025-20188 ()
