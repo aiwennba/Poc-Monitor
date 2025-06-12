@@ -45,6 +45,7 @@
 > 
 - [Nxploited/CVE-2025-5287](https://github.com/Nxploited/CVE-2025-5287)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5287">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5287">
 - [wiseep/CVE-2025-5287](https://github.com/wiseep/CVE-2025-5287)	<img alt="forks" src="https://img.shields.io/github/forks/wiseep/CVE-2025-5287">	<img alt="stars" src="https://img.shields.io/github/stars/wiseep/CVE-2025-5287">
+- [RandomRobbieBF/CVE-2025-5287](https://github.com/RandomRobbieBF/CVE-2025-5287)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-5287">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-5287">
 
 ---
 ## CVE-2025-5280 ()
@@ -2034,6 +2035,11 @@
 ## CVE-2025-2404 ()
 > 
 - [sahici/CVE-2025-2404](https://github.com/sahici/CVE-2025-2404)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-2404">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-2404">
+
+---
+## CVE-2025-24035 ()
+> 
+- [MSeymenD/cve-2025-24035-rds-websocket-dos-test](https://github.com/MSeymenD/cve-2025-24035-rds-websocket-dos-test)	<img alt="forks" src="https://img.shields.io/github/forks/MSeymenD/cve-2025-24035-rds-websocket-dos-test">	<img alt="stars" src="https://img.shields.io/github/stars/MSeymenD/cve-2025-24035-rds-websocket-dos-test">
 
 ---
 ## CVE-2025-24016 ()
