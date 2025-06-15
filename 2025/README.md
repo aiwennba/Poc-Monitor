@@ -834,6 +834,7 @@
 - [vigilante-1337/CVE-2025-32433](https://github.com/vigilante-1337/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-32433">
 - [B1ack4sh/Blackash-CVE-2025-32433](https://github.com/B1ack4sh/Blackash-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32433">
 - [Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit](https://github.com/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit">
+- [Yuri08loveElaina/CVE_2025_32433_exploit](https://github.com/Yuri08loveElaina/CVE_2025_32433_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE_2025_32433_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE_2025_32433_exploit">
 
 ---
 ## CVE-2025-32432 ()
@@ -1281,6 +1282,7 @@
 - [B1ack4sh/Blackash-CVE-2025-29927](https://github.com/B1ack4sh/Blackash-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-29927">
 - [amitlttwo/Next.JS-CVE-2025-29927](https://github.com/amitlttwo/Next.JS-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/Next.JS-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/Next.JS-CVE-2025-29927">
 - [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
+- [KamalideenAK/poc-cve-2025-29927](https://github.com/KamalideenAK/poc-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/KamalideenAK/poc-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/KamalideenAK/poc-cve-2025-29927">
 
 ---
 ## CVE-2025-29824 ()
