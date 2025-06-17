@@ -163,6 +163,7 @@
 - [Yuri08loveElaina/CVE-2025-49113](https://github.com/Yuri08loveElaina/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49113">
 - [5kr1pt/WriteUp-Roundcube_CVE-2025-49113](https://github.com/5kr1pt/WriteUp-Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/WriteUp-Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/WriteUp-Roundcube_CVE-2025-49113">
 - [B1ack4sh/Blackash-CVE-2025-49113](https://github.com/B1ack4sh/Blackash-CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49113">
+- [5kr1pt/Roundcube_CVE-2025-49113](https://github.com/5kr1pt/Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/Roundcube_CVE-2025-49113">
 
 ---
 ## CVE-2025-48827 ()
@@ -2620,6 +2621,7 @@
 ## CVE-2025-0133 ()
 > 
 - [dodiorne/cve-2025-0133](https://github.com/dodiorne/cve-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/dodiorne/cve-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/dodiorne/cve-2025-0133">
+- [ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS](https://github.com/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS">
 
 ---
 ## CVE-2025-0108 ()
