@@ -148,6 +148,7 @@
 ## CVE-2025-49125 ()
 > 
 - [detectrespondrepeat/CVE-2025-49125-Authentication-Bypass](https://github.com/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass">
+- [gregk4sec/CVE-2025-49125](https://github.com/gregk4sec/CVE-2025-49125)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-49125">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-49125">
 
 ---
 ## CVE-2025-49113 ()
