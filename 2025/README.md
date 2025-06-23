@@ -909,6 +909,7 @@
 - [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-3248-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-3248-Scanner">
 - [0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0-d3y/langflow-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0-d3y/langflow-rce-exploit">
 - [dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3248">
+- [dennisec/Mass-CVE-2025-3248](https://github.com/dennisec/Mass-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/Mass-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/Mass-CVE-2025-3248">
 
 ---
 ## CVE-2025-32433 ()
