@@ -453,6 +453,11 @@
 - [ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC](https://github.com/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetumitbayram/CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC">
 
 ---
+## CVE-2025-45710 ()
+> 
+- [partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2025-45710">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2025-45710">
+
+---
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
@@ -1729,6 +1734,7 @@
 - [rxerium/CVE-2025-26466](https://github.com/rxerium/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26466">
 - [jhonnybonny/CVE-2025-26466](https://github.com/jhonnybonny/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2025-26466">
 - [mrowkoob/CVE-2025-26466-msf](https://github.com/mrowkoob/CVE-2025-26466-msf)	<img alt="forks" src="https://img.shields.io/github/forks/mrowkoob/CVE-2025-26466-msf">	<img alt="stars" src="https://img.shields.io/github/stars/mrowkoob/CVE-2025-26466-msf">
+- [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 
 ---
 ## CVE-2025-26465 ()
