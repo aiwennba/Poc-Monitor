@@ -465,6 +465,11 @@
 - [partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2025-45710">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2025-45710">
 
 ---
+## CVE-2025-45466 ()
+> 
+- [zgsnj123/CVE-2025-45466](https://github.com/zgsnj123/CVE-2025-45466)	<img alt="forks" src="https://img.shields.io/github/forks/zgsnj123/CVE-2025-45466">	<img alt="stars" src="https://img.shields.io/github/stars/zgsnj123/CVE-2025-45466">
+
+---
 ## CVE-2025-45250 ()
 > 
 - [Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)	<img alt="forks" src="https://img.shields.io/github/forks/Anike-x/CVE-2025-45250">	<img alt="stars" src="https://img.shields.io/github/stars/Anike-x/CVE-2025-45250">
