@@ -440,6 +440,11 @@ SCM accounting on the io_uring side unnecessary.
 - [Pastea/CVE-2023-51810](https://github.com/Pastea/CVE-2023-51810)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2023-51810">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2023-51810">
 
 ---
+## CVE-2023-51803 ()
+> 
+- [superswan/CVE-2023-51803](https://github.com/superswan/CVE-2023-51803)	<img alt="forks" src="https://img.shields.io/github/forks/superswan/CVE-2023-51803">	<img alt="stars" src="https://img.shields.io/github/stars/superswan/CVE-2023-51803">
+
+---
 ## CVE-2023-51802 (2024-02-29T02:15:00)
 > Cross Site Scripting (XSS) vulnerability in the Simple Student Attendance System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the page or class_month parameter in the /php-attendance/attendance_report component.
 - [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51802">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51802">
