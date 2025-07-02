@@ -4,6 +4,7 @@
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
+- [MrjHaxcore/-CVE-2025-6934](https://github.com/MrjHaxcore/-CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/-CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/-CVE-2025-6934">
 
 ---
 ## CVE-2025-6860 ()
