@@ -1176,6 +1176,7 @@
 - [obscura-cert/CVE-2025-31650](https://github.com/obscura-cert/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/obscura-cert/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/obscura-cert/CVE-2025-31650">
 - [assad12341/Dos-exploit-](https://github.com/assad12341/Dos-exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/assad12341/Dos-exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/assad12341/Dos-exploit-">
 - [assad12341/DOS-exploit](https://github.com/assad12341/DOS-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/assad12341/DOS-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/assad12341/DOS-exploit">
+- [B1gN0Se/Tomcat-CVE-2025-31650](https://github.com/B1gN0Se/Tomcat-CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/Tomcat-CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/Tomcat-CVE-2025-31650">
 
 ---
 ## CVE-2025-31644 ()
