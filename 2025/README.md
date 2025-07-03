@@ -46,6 +46,7 @@
 - [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/CVE-2025-6019">
 - [And-oss/CVE-2025-6019-exploit](https://github.com/And-oss/CVE-2025-6019-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/And-oss/CVE-2025-6019-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/And-oss/CVE-2025-6019-exploit">
 - [neko205-mx/CVE-2025-6019_Exploit](https://github.com/neko205-mx/CVE-2025-6019_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-6019_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-6019_Exploit">
+- [dreysanox/CVE-2025-6019_Poc](https://github.com/dreysanox/CVE-2025-6019_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6019_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6019_Poc">
 
 ---
 ## CVE-2025-6018 ()
@@ -1061,6 +1062,8 @@
 - [Mikivirus0/sudoinjection](https://github.com/Mikivirus0/sudoinjection)	<img alt="forks" src="https://img.shields.io/github/forks/Mikivirus0/sudoinjection">	<img alt="stars" src="https://img.shields.io/github/stars/Mikivirus0/sudoinjection">
 - [nflatrea/CVE-2025-32463](https://github.com/nflatrea/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/nflatrea/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/nflatrea/CVE-2025-32463">
 - [nflatrea/CVE-2025-32463](https://github.com/nflatrea/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/nflatrea/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/nflatrea/CVE-2025-32463">
+- [san8383/CVE-2025-32463](https://github.com/san8383/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-32463">
+- [0xAkarii/CVE-2025-32463](https://github.com/0xAkarii/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xAkarii/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xAkarii/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
