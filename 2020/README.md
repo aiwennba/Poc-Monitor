@@ -3786,6 +3786,12 @@
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
 
 ---
+## CVE-2020-16012 ()
+> 
+- [helidem/CVE-2020-16012-PoC](https://github.com/helidem/CVE-2020-16012-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2020-16012-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2020-16012-PoC">
+- [aleksejspopovs/cve-2020-16012](https://github.com/aleksejspopovs/cve-2020-16012)	<img alt="forks" src="https://img.shields.io/github/forks/aleksejspopovs/cve-2020-16012">	<img alt="stars" src="https://img.shields.io/github/stars/aleksejspopovs/cve-2020-16012">
+
+---
 ## CVE-2020-15916 (2020-07-23T18:15:00)
 > goform/AdvSetLanip endpoint on Tenda AC15 AC1900 15.03.05.19 devices allows remote attackers to execute arbitrary system commands via shell metacharacters in the lanIp POST parameter.
 - [geniuszlyy/CVE-2020-15916](https://github.com/geniuszlyy/CVE-2020-15916)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2020-15916">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2020-15916">
