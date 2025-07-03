@@ -38,6 +38,7 @@
 - [speinador/CVE-2025-6218_WinRAR](https://github.com/speinador/CVE-2025-6218_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/speinador/CVE-2025-6218_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/speinador/CVE-2025-6218_WinRAR">
 - [ignis-sec/CVE-2025-6218](https://github.com/ignis-sec/CVE-2025-6218)	<img alt="forks" src="https://img.shields.io/github/forks/ignis-sec/CVE-2025-6218">	<img alt="stars" src="https://img.shields.io/github/stars/ignis-sec/CVE-2025-6218">
 - [skimask1690/CVE-2025-6218-POC](https://github.com/skimask1690/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skimask1690/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skimask1690/CVE-2025-6218-POC">
+- [mulwareX/CVE-2025-6218-POC](https://github.com/mulwareX/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mulwareX/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mulwareX/CVE-2025-6218-POC">
 
 ---
 ## CVE-2025-6019 ()
@@ -1051,6 +1052,7 @@
 - [pevinkumar10/CVE-2025-32463](https://github.com/pevinkumar10/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-32463">
 - [zhaduchanhzz/CVE-2025-32463_POC](https://github.com/zhaduchanhzz/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/zhaduchanhzz/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/zhaduchanhzz/CVE-2025-32463_POC">
 - [robbert1978/CVE-2025-32463_POC](https://github.com/robbert1978/CVE-2025-32463_POC)	<img alt="forks" src="https://img.shields.io/github/forks/robbert1978/CVE-2025-32463_POC">	<img alt="stars" src="https://img.shields.io/github/stars/robbert1978/CVE-2025-32463_POC">
+- [Mikivirus0/sudoinjection](https://github.com/Mikivirus0/sudoinjection)	<img alt="forks" src="https://img.shields.io/github/forks/Mikivirus0/sudoinjection">	<img alt="stars" src="https://img.shields.io/github/stars/Mikivirus0/sudoinjection">
 
 ---
 ## CVE-2025-32462 ()
