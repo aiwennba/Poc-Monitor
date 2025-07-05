@@ -1114,6 +1114,7 @@
 - [cybersentinelx1/CVE-2025-32462-Exploit](https://github.com/cybersentinelx1/CVE-2025-32462-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cybersentinelx1/CVE-2025-32462-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cybersentinelx1/CVE-2025-32462-Exploit">
 - [mylovem313/CVE-2025-32462](https://github.com/mylovem313/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/mylovem313/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/mylovem313/CVE-2025-32462">
 - [cyberpoul/CVE-2025-32462-POC](https://github.com/cyberpoul/CVE-2025-32462-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2025-32462-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2025-32462-POC">
+- [SpongeBob-369/cve-2025-32462](https://github.com/SpongeBob-369/cve-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/SpongeBob-369/cve-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/SpongeBob-369/cve-2025-32462">
 
 ---
 ## CVE-2025-32433 ()
@@ -2440,6 +2441,7 @@
 - [TH-SecForge/CVE-2025-24071](https://github.com/TH-SecForge/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-24071">
 - [B1ack4sh/Blackash-CVE-2025-24071](https://github.com/B1ack4sh/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24071">
 - [DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-](https://github.com/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-)	<img alt="forks" src="https://img.shields.io/github/forks/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">	<img alt="stars" src="https://img.shields.io/github/stars/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-">
+- [Royall-Researchers/CVE-2025-24071](https://github.com/Royall-Researchers/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
