@@ -96,6 +96,7 @@
 - [mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-](https://github.com/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-">
 - [RickGeex/CVE-2025-5777-CitrixBleed](https://github.com/RickGeex/CVE-2025-5777-CitrixBleed)	<img alt="forks" src="https://img.shields.io/github/forks/RickGeex/CVE-2025-5777-CitrixBleed">	<img alt="stars" src="https://img.shields.io/github/stars/RickGeex/CVE-2025-5777-CitrixBleed">
 - [idobarel/CVE-2025-5777](https://github.com/idobarel/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/idobarel/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/idobarel/CVE-2025-5777">
+- [nocerainfosec/cve-2025-5777](https://github.com/nocerainfosec/cve-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/nocerainfosec/cve-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/nocerainfosec/cve-2025-5777">
 
 ---
 ## CVE-2025-5701 ()
@@ -1080,6 +1081,7 @@
 - [dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3248">
 - [dennisec/Mass-CVE-2025-3248](https://github.com/dennisec/Mass-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/Mass-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/Mass-CVE-2025-3248">
 - [ill-deed/Langflow-CVE-2025-3248-Multi-target](https://github.com/ill-deed/Langflow-CVE-2025-3248-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/Langflow-CVE-2025-3248-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/Langflow-CVE-2025-3248-Multi-target">
+- [r0otk3r/CVE-2025-3248](https://github.com/r0otk3r/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()

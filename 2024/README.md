@@ -1276,6 +1276,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968)	<img alt="forks" src="https://img.shields.io/github/forks/null-event/CVE-2024-55968">	<img alt="stars" src="https://img.shields.io/github/stars/null-event/CVE-2024-55968">
 
 ---
+## CVE-2024-55963 ()
+> 
+- [superswan/CVE-2024-55963](https://github.com/superswan/CVE-2024-55963)	<img alt="forks" src="https://img.shields.io/github/forks/superswan/CVE-2024-55963">	<img alt="stars" src="https://img.shields.io/github/stars/superswan/CVE-2024-55963">
+
+---
 ## CVE-2024-55890 ()
 > 
 - [samh4cks/CVE-2024-55890](https://github.com/samh4cks/CVE-2024-55890)	<img alt="forks" src="https://img.shields.io/github/forks/samh4cks/CVE-2024-55890">	<img alt="stars" src="https://img.shields.io/github/stars/samh4cks/CVE-2024-55890">
