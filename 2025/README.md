@@ -60,6 +60,7 @@
 - [ignis-sec/CVE-2025-6218](https://github.com/ignis-sec/CVE-2025-6218)	<img alt="forks" src="https://img.shields.io/github/forks/ignis-sec/CVE-2025-6218">	<img alt="stars" src="https://img.shields.io/github/stars/ignis-sec/CVE-2025-6218">
 - [skimask1690/CVE-2025-6218-POC](https://github.com/skimask1690/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skimask1690/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skimask1690/CVE-2025-6218-POC">
 - [mulwareX/CVE-2025-6218-POC](https://github.com/mulwareX/CVE-2025-6218-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mulwareX/CVE-2025-6218-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mulwareX/CVE-2025-6218-POC">
+- [absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE](https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE">
 
 ---
 ## CVE-2025-6019 ()
@@ -1016,6 +1017,11 @@
 ## CVE-2025-3419 ()
 > 
 - [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
+
+---
+## CVE-2025-34085 ()
+> 
+- [MrjHaxcore/CVE-2025-34085](https://github.com/MrjHaxcore/CVE-2025-34085)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2025-34085">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2025-34085">
 
 ---
 ## CVE-2025-34077 ()
