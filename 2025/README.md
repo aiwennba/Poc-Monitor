@@ -409,6 +409,7 @@
 - [liamg/CVE-2025-48384-submodule](https://github.com/liamg/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/liamg/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/liamg/CVE-2025-48384-submodule">
 - [ppd520/CVE-2025-48384](https://github.com/ppd520/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ppd520/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ppd520/CVE-2025-48384">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
+- [NigelX/CVE-2025-48384](https://github.com/NigelX/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/NigelX/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/NigelX/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
@@ -1575,6 +1576,7 @@
 - [B1ack4sh/Blackash-CVE-2025-30208](https://github.com/B1ack4sh/Blackash-CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-30208">
 - [ThemeHackers/CVE-2025-30208](https://github.com/ThemeHackers/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-30208">
 - [TH-SecForge/CVE-2025-30208](https://github.com/TH-SecForge/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-30208">
+- [gonn4cry/CVE-2025-30208](https://github.com/gonn4cry/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/gonn4cry/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/gonn4cry/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
