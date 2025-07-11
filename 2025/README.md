@@ -1242,6 +1242,7 @@
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
 - [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
 - [toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)	<img alt="forks" src="https://img.shields.io/github/forks/toohau/CVE-2025-32462-32463-Detection-Script-">	<img alt="stars" src="https://img.shields.io/github/stars/toohau/CVE-2025-32462-32463-Detection-Script-">
+- [morgenm/sudo-chroot-CVE-2025-32463](https://github.com/morgenm/sudo-chroot-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/morgenm/sudo-chroot-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/morgenm/sudo-chroot-CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
