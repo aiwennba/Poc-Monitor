@@ -2472,6 +2472,7 @@
 ## CVE-2020-26258 ()
 > 
 - [cuijiung/xstream-CVE-2020-26258](https://github.com/cuijiung/xstream-CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26258">
+- [Al1ex/CVE-2020-26258](https://github.com/Al1ex/CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26258">
 
 ---
 ## CVE-2020-26257 (2020-12-09T19:15:00)
