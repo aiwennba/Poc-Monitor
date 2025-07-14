@@ -806,6 +806,11 @@
 - [barisbaydur/CVE-2025-44148](https://github.com/barisbaydur/CVE-2025-44148)	<img alt="forks" src="https://img.shields.io/github/forks/barisbaydur/CVE-2025-44148">	<img alt="stars" src="https://img.shields.io/github/stars/barisbaydur/CVE-2025-44148">
 
 ---
+## CVE-2025-44137 ()
+> 
+- [mheranco/CVE-2025-44137](https://github.com/mheranco/CVE-2025-44137)	<img alt="forks" src="https://img.shields.io/github/forks/mheranco/CVE-2025-44137">	<img alt="stars" src="https://img.shields.io/github/stars/mheranco/CVE-2025-44137">
+
+---
 ## CVE-2025-44136 ()
 > 
 - [mheranco/CVE-2025-44136](https://github.com/mheranco/CVE-2025-44136)	<img alt="forks" src="https://img.shields.io/github/forks/mheranco/CVE-2025-44136">	<img alt="stars" src="https://img.shields.io/github/stars/mheranco/CVE-2025-44136">
