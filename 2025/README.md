@@ -484,6 +484,7 @@
 ## CVE-2025-47981 ()
 > 
 - [barbaraogmgf/CVE-2025-47981-POC](https://github.com/barbaraogmgf/CVE-2025-47981-POC)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraogmgf/CVE-2025-47981-POC">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraogmgf/CVE-2025-47981-POC">
+- [detectrespondrepeat/CVE-2025-47981](https://github.com/detectrespondrepeat/CVE-2025-47981)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-47981">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-47981">
 
 ---
 ## CVE-2025-4784 ()
@@ -2087,6 +2088,7 @@
 - [rvizx/CVE-2025-27591](https://github.com/rvizx/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-27591">
 - [BridgerAlderson/CVE-2025-27591-PoC](https://github.com/BridgerAlderson/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-27591-PoC">
 - [DarksBlackSk/CVE-2025-27591-Proof-Of-Concept](https://github.com/DarksBlackSk/CVE-2025-27591-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DarksBlackSk/CVE-2025-27591-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DarksBlackSk/CVE-2025-27591-Proof-Of-Concept">
+- [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
 
 ---
 ## CVE-2025-27590 ()
