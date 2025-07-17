@@ -45,7 +45,7 @@
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
-- [allinsthon/CVE-2025-6558](https://github.com/allinsthon/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558">
+- [allinsthon/CVE-2025-6558-exp](https://github.com/allinsthon/CVE-2025-6558-exp)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558-exp">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558-exp">
 
 ---
 ## CVE-2025-6554 ()
@@ -2141,6 +2141,7 @@
 - [BridgerAlderson/CVE-2025-27591-PoC](https://github.com/BridgerAlderson/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-27591-PoC">
 - [DarksBlackSk/CVE-2025-27591](https://github.com/DarksBlackSk/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/DarksBlackSk/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/DarksBlackSk/CVE-2025-27591">
 - [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
+- [alialucas7/CVE-2025-27591_PoC](https://github.com/alialucas7/CVE-2025-27591_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27591_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27591_PoC">
 
 ---
 ## CVE-2025-27590 ()
