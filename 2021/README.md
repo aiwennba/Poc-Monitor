@@ -5988,6 +5988,15 @@
 - [FredBrave/CVE-2021-32305-websvn-2.6.0](https://github.com/FredBrave/CVE-2021-32305-websvn-2.6.0)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2021-32305-websvn-2.6.0">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2021-32305-websvn-2.6.0">
 
 ---
+## CVE-2021-32099 ()
+> 
+- [magicrc/CVE-2021-32099](https://github.com/magicrc/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2021-32099">
+- [akr3ch/CVE-2021-32099](https://github.com/akr3ch/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/akr3ch/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/akr3ch/CVE-2021-32099">
+- [l3eol3eo/CVE-2021-32099_SQLi](https://github.com/l3eol3eo/CVE-2021-32099_SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/l3eol3eo/CVE-2021-32099_SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/l3eol3eo/CVE-2021-32099_SQLi">
+- [ibnuuby/CVE-2021-32099](https://github.com/ibnuuby/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/ibnuuby/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/ibnuuby/CVE-2021-32099">
+- [zjicmDarkWing/CVE-2021-32099](https://github.com/zjicmDarkWing/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/zjicmDarkWing/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/zjicmDarkWing/CVE-2021-32099">
+
+---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
 > A flaw was found in postgresql. Using an INSERT ... ON CONFLICT ... DO UPDATE command on a purpose-crafted table, an authenticated database user could read arbitrary bytes of server memory. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2021-32028](https://github.com/Live-Hack-CVE/CVE-2021-32028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32028">
