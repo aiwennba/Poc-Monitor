@@ -523,6 +523,8 @@
 - [nguyentranbaotran/cve-2025-48384-poc](https://github.com/nguyentranbaotran/cve-2025-48384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nguyentranbaotran/cve-2025-48384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nguyentranbaotran/cve-2025-48384-poc">
 - [admin-ping/CVE-2025-48384-RCE](https://github.com/admin-ping/CVE-2025-48384-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/admin-ping/CVE-2025-48384-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/admin-ping/CVE-2025-48384-RCE">
 - [simplyfurious/CVE-2025-48384-submodule_test](https://github.com/simplyfurious/CVE-2025-48384-submodule_test)	<img alt="forks" src="https://img.shields.io/github/forks/simplyfurious/CVE-2025-48384-submodule_test">	<img alt="stars" src="https://img.shields.io/github/stars/simplyfurious/CVE-2025-48384-submodule_test">
+- [Anezatraa/CVE-2025-48384-submodule](https://github.com/Anezatraa/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/Anezatraa/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/Anezatraa/CVE-2025-48384-submodule">
+- [Anezatraa/CVE-2025-48384-POC](https://github.com/Anezatraa/CVE-2025-48384-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Anezatraa/CVE-2025-48384-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Anezatraa/CVE-2025-48384-POC">
 
 ---
 ## CVE-2025-4822 ()
