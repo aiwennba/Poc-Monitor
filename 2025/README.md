@@ -216,7 +216,7 @@
 - [RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/RukshanaAlikhan/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/RukshanaAlikhan/CVE-2025-53770">
 - [Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770](https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770">
 - [kaizensecurity/CVE-2025-53770](https://github.com/kaizensecurity/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2025-53770">
-- [n1chr0x/Zeropoint](https://github.com/n1chr0x/Zeropoint)	<img alt="forks" src="https://img.shields.io/github/forks/n1chr0x/Zeropoint">	<img alt="stars" src="https://img.shields.io/github/stars/n1chr0x/Zeropoint">
+- [n1chr0x/ZeroPoint](https://github.com/n1chr0x/ZeroPoint)	<img alt="forks" src="https://img.shields.io/github/forks/n1chr0x/ZeroPoint">	<img alt="stars" src="https://img.shields.io/github/stars/n1chr0x/ZeroPoint">
 
 ---
 ## CVE-2025-53640 ()
@@ -437,6 +437,7 @@
 ## CVE-2025-49706 ()
 > 
 - [AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation](https://github.com/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation">
+- [RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/RukshanaAlikhan/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/RukshanaAlikhan/CVE-2025-53770">
 
 ---
 ## CVE-2025-49619 ()
