@@ -58,6 +58,7 @@
 - [googlei1996/CVE-2023-7028](https://github.com/googlei1996/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/googlei1996/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/googlei1996/CVE-2023-7028">
 - [sariamubeen/CVE-2023-7028](https://github.com/sariamubeen/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/sariamubeen/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/sariamubeen/CVE-2023-7028">
 - [Sornphut/CVE-2023-7028-GitLab](https://github.com/Sornphut/CVE-2023-7028-GitLab)	<img alt="forks" src="https://img.shields.io/github/forks/Sornphut/CVE-2023-7028-GitLab">	<img alt="stars" src="https://img.shields.io/github/stars/Sornphut/CVE-2023-7028-GitLab">
+- [szybnev/CVE-2023-7028](https://github.com/szybnev/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/szybnev/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/szybnev/CVE-2023-7028">
 
 ---
 ## CVE-2023-7016 (2024-02-27T11:15:00)
@@ -3317,6 +3318,8 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [XiaomingX/cve-2023-38646-poc](https://github.com/XiaomingX/cve-2023-38646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2023-38646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2023-38646-poc">
 - [JayRyz/CVE-2023-38646-PoC-Metabase](https://github.com/JayRyz/CVE-2023-38646-PoC-Metabase)	<img alt="forks" src="https://img.shields.io/github/forks/JayRyz/CVE-2023-38646-PoC-Metabase">	<img alt="stars" src="https://img.shields.io/github/stars/JayRyz/CVE-2023-38646-PoC-Metabase">
 - [BreezeGalaxy/CVE-2023-38646](https://github.com/BreezeGalaxy/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/BreezeGalaxy/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/BreezeGalaxy/CVE-2023-38646">
+- [Micky1warrior/metabase-pre-auth-rce-poc](https://github.com/Micky1warrior/metabase-pre-auth-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Micky1warrior/metabase-pre-auth-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Micky1warrior/metabase-pre-auth-rce-poc">
+- [DaniTheHack3r/CVE-2023-38646](https://github.com/DaniTheHack3r/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/DaniTheHack3r/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/DaniTheHack3r/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
