@@ -267,6 +267,7 @@
 - [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 - [exfil0/CVE-2025-53770](https://github.com/exfil0/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-53770">
 - [nisargsuthar/suricata-rule-CVE-2025-53770](https://github.com/nisargsuthar/suricata-rule-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/nisargsuthar/suricata-rule-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/nisargsuthar/suricata-rule-CVE-2025-53770">
+- [JustinnT/cve-2025-53770-](https://github.com/JustinnT/cve-2025-53770-)	<img alt="forks" src="https://img.shields.io/github/forks/JustinnT/cve-2025-53770-">	<img alt="stars" src="https://img.shields.io/github/stars/JustinnT/cve-2025-53770-">
 
 ---
 ## CVE-2025-53640 ()
