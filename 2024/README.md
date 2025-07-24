@@ -9380,6 +9380,11 @@ authentication.   
 - [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
 
 ---
+## CVE-2024-12085 ()
+> 
+- [Otsutez/cve-2024-12085](https://github.com/Otsutez/cve-2024-12085)	<img alt="forks" src="https://img.shields.io/github/forks/Otsutez/cve-2024-12085">	<img alt="stars" src="https://img.shields.io/github/stars/Otsutez/cve-2024-12085">
+
+---
 ## CVE-2024-12084 ()
 > 
 - [themirze/cve-2024-12084](https://github.com/themirze/cve-2024-12084)	<img alt="forks" src="https://img.shields.io/github/forks/themirze/cve-2024-12084">	<img alt="stars" src="https://img.shields.io/github/stars/themirze/cve-2024-12084">
