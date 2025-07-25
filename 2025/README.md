@@ -415,6 +415,11 @@
 - [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51858">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51858">
 
 ---
+## CVE-2025-51411 ()
+> 
+- [tansique-17/CVE-2025-51411](https://github.com/tansique-17/CVE-2025-51411)	<img alt="forks" src="https://img.shields.io/github/forks/tansique-17/CVE-2025-51411">	<img alt="stars" src="https://img.shields.io/github/stars/tansique-17/CVE-2025-51411">
+
+---
 ## CVE-2025-51403 ()
 > 
 - [Thewhiteevil/CVE-2025-51403](https://github.com/Thewhiteevil/CVE-2025-51403)	<img alt="forks" src="https://img.shields.io/github/forks/Thewhiteevil/CVE-2025-51403">	<img alt="stars" src="https://img.shields.io/github/stars/Thewhiteevil/CVE-2025-51403">
@@ -716,6 +721,7 @@
 - [Anezatraa/CVE-2025-48384-submodule](https://github.com/Anezatraa/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/Anezatraa/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/Anezatraa/CVE-2025-48384-submodule">
 - [Anezatraa/CVE-2025-48384-POC](https://github.com/Anezatraa/CVE-2025-48384-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Anezatraa/CVE-2025-48384-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Anezatraa/CVE-2025-48384-POC">
 - [IK-20211125/CVE-2025-48384](https://github.com/IK-20211125/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/IK-20211125/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/IK-20211125/CVE-2025-48384">
+- [elprogramadorgt/CVE-2025-48384](https://github.com/elprogramadorgt/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/elprogramadorgt/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/elprogramadorgt/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
