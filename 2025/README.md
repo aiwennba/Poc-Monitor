@@ -1058,6 +1058,7 @@
 ## CVE-2025-46206 ()
 > 
 - [Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-46206">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-46206">
+- [Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206)	<img alt="forks" src="https://img.shields.io/github/forks/Landw-hub/CVE-2025-46206">	<img alt="stars" src="https://img.shields.io/github/stars/Landw-hub/CVE-2025-46206">
 
 ---
 ## CVE-2025-46204 ()
