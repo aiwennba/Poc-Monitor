@@ -304,6 +304,7 @@
 > 
 - [fokda-prodz/CVE-2025-5394](https://github.com/fokda-prodz/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/fokda-prodz/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/fokda-prodz/CVE-2025-5394">
 - [Nxploited/CVE-2025-5394](https://github.com/Nxploited/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5394">
+- [Yucaerin/CVE-2025-5394](https://github.com/Yucaerin/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-5394">
 
 ---
 ## CVE-2025-53833 ()
@@ -3071,6 +3072,7 @@
 - [iSee857/CVE-2025-24893-PoC](https://github.com/iSee857/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-24893-PoC">
 - [Artemir7/CVE-2025-24893-EXP](https://github.com/Artemir7/CVE-2025-24893-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Artemir7/CVE-2025-24893-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Artemir7/CVE-2025-24893-EXP">
 - [ibrahimsql/cve-2025-24893](https://github.com/ibrahimsql/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/cve-2025-24893">
+- [nopgadget/CVE-2025-24893](https://github.com/nopgadget/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/nopgadget/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/nopgadget/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
