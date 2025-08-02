@@ -13,7 +13,7 @@
 ---
 ## CVE-2025-7847 ()
 > 
-- [EricArdiansa/CVE-2025-7847---Wordpress-Plugin-Authenticated-Subscriber-Arbitrary-File-Upload-POC](https://github.com/EricArdiansa/CVE-2025-7847---Wordpress-Plugin-Authenticated-Subscriber-Arbitrary-File-Upload-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EricArdiansa/CVE-2025-7847---Wordpress-Plugin-Authenticated-Subscriber-Arbitrary-File-Upload-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EricArdiansa/CVE-2025-7847---Wordpress-Plugin-Authenticated-Subscriber-Arbitrary-File-Upload-POC">
+- [EricArdiansa/CVE-2025-7847-POC](https://github.com/EricArdiansa/CVE-2025-7847-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EricArdiansa/CVE-2025-7847-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EricArdiansa/CVE-2025-7847-POC">
 
 ---
 ## CVE-2025-7840 ()
