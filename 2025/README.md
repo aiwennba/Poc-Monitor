@@ -303,6 +303,7 @@
 ## CVE-2025-5394 ()
 > 
 - [fokda-prodz/CVE-2025-5394](https://github.com/fokda-prodz/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/fokda-prodz/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/fokda-prodz/CVE-2025-5394">
+- [Nxploited/CVE-2025-5394](https://github.com/Nxploited/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5394">
 
 ---
 ## CVE-2025-53833 ()
@@ -1131,6 +1132,11 @@
 ## CVE-2025-46078 ()
 > 
 - [yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078)	<img alt="forks" src="https://img.shields.io/github/forks/yggcwhat/CVE-2025-46078">	<img alt="stars" src="https://img.shields.io/github/stars/yggcwhat/CVE-2025-46078">
+
+---
+## CVE-2025-4606 ()
+> 
+- [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4606">
 
 ---
 ## CVE-2025-46047 ()
