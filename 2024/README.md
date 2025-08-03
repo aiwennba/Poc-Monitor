@@ -5566,6 +5566,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-32019 ()
 > 
 - [AzureADTrent/CVE-2024-32019-POC](https://github.com/AzureADTrent/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2024-32019-POC">
+- [AliElKhatteb/CVE-2024-32019-POC](https://github.com/AliElKhatteb/CVE-2024-32019-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-32019-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-32019-POC">
 
 ---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
@@ -10030,6 +10031,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0684 ()
 > 
 - [limetimeline/cve-2024-0684](https://github.com/limetimeline/cve-2024-0684)	<img alt="forks" src="https://img.shields.io/github/forks/limetimeline/cve-2024-0684">	<img alt="stars" src="https://img.shields.io/github/stars/limetimeline/cve-2024-0684">
+- [Valentin-Metz/writeup_split](https://github.com/Valentin-Metz/writeup_split)	<img alt="forks" src="https://img.shields.io/github/forks/Valentin-Metz/writeup_split">	<img alt="stars" src="https://img.shields.io/github/stars/Valentin-Metz/writeup_split">
 
 ---
 ## CVE-2024-0683 ()
