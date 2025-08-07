@@ -41,6 +41,11 @@
 - [benweissmann/CVE-2025-7783-poc](https://github.com/benweissmann/CVE-2025-7783-poc)	<img alt="forks" src="https://img.shields.io/github/forks/benweissmann/CVE-2025-7783-poc">	<img alt="stars" src="https://img.shields.io/github/stars/benweissmann/CVE-2025-7783-poc">
 
 ---
+## CVE-2025-7769 ()
+> 
+- [byteReaper77/CVE-2025-7769](https://github.com/byteReaper77/CVE-2025-7769)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-7769">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-7769">
+
+---
 ## CVE-2025-7766 ()
 > 
 - [byteReaper77/CVE-2025-7766](https://github.com/byteReaper77/CVE-2025-7766)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-7766">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-7766">
@@ -1526,6 +1531,11 @@
 ## CVE-2025-41373 ()
 > 
 - [byteReaper77/CVE-2025-41373](https://github.com/byteReaper77/CVE-2025-41373)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-41373">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-41373">
+
+---
+## CVE-2025-4126 ()
+> 
+- [Slow-Mist/CVE-2025-4126](https://github.com/Slow-Mist/CVE-2025-4126)	<img alt="forks" src="https://img.shields.io/github/forks/Slow-Mist/CVE-2025-4126">	<img alt="stars" src="https://img.shields.io/github/stars/Slow-Mist/CVE-2025-4126">
 
 ---
 ## CVE-2025-4123 ()
