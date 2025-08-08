@@ -3503,6 +3503,7 @@
 > 
 - [samplev45/CVE-2025-22963](https://github.com/samplev45/CVE-2025-22963)	<img alt="forks" src="https://img.shields.io/github/forks/samplev45/CVE-2025-22963">	<img alt="stars" src="https://img.shields.io/github/stars/samplev45/CVE-2025-22963">
 - [samplev45/CVE-2025-22963](https://github.com/samplev45/CVE-2025-22963)	<img alt="forks" src="https://img.shields.io/github/forks/samplev45/CVE-2025-22963">	<img alt="stars" src="https://img.shields.io/github/stars/samplev45/CVE-2025-22963">
+- [gmh5225/CVE-2025-22963](https://github.com/gmh5225/CVE-2025-22963)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-22963">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-22963">
 
 ---
 ## CVE-2025-22954 ()
