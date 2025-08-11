@@ -281,6 +281,7 @@
 ## CVE-2025-55188 ()
 > 
 - [hunters-sec/CVE-2025-55188-7z-exploit](https://github.com/hunters-sec/CVE-2025-55188-7z-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-55188-7z-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-55188-7z-exploit">
+- [san8383/CVE-2025-55188-7z-POC](https://github.com/san8383/CVE-2025-55188-7z-POC)	<img alt="forks" src="https://img.shields.io/github/forks/san8383/CVE-2025-55188-7z-POC">	<img alt="stars" src="https://img.shields.io/github/stars/san8383/CVE-2025-55188-7z-POC">
 
 ---
 ## CVE-2025-54962 ()
@@ -3241,6 +3242,7 @@
 - [laughtersec/CVE-2025-24893](https://github.com/laughtersec/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/laughtersec/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/laughtersec/CVE-2025-24893">
 - [D3Ext/CVE-2025-24893](https://github.com/D3Ext/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/D3Ext/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/D3Ext/CVE-2025-24893">
 - [Retro023/CVE-2025-24893-POC](https://github.com/Retro023/CVE-2025-24893-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Retro023/CVE-2025-24893-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Retro023/CVE-2025-24893-POC">
+- [0xBl4nk/CVE-2025-24893](https://github.com/0xBl4nk/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
