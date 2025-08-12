@@ -3302,7 +3302,7 @@
 - [uzairhaider502/CVE-2025-24813](https://github.com/uzairhaider502/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/uzairhaider502/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/uzairhaider502/CVE-2025-24813">
 - [cyglegit/CVE-2025-24813](https://github.com/cyglegit/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/cyglegit/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/cyglegit/CVE-2025-24813">
 - [137f/PoC-CVE-2025-24813](https://github.com/137f/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-24813">
-- [137f/Poc-CVE-2025-24813](https://github.com/137f/Poc-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/Poc-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/Poc-CVE-2025-24813">
+- [137f/PoC-CVE-2025-24813](https://github.com/137f/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
