@@ -3128,6 +3128,11 @@
 - [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
 
 ---
+## CVE-2020-2261 ()
+> 
+- [shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17](https://github.com/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">
+
+---
 ## CVE-2020-22201 (2021-06-16T17:15:00)
 > phpCMS 2008 sp4 allowas remote malicious users to execute arbitrary php commands via the pagesize parameter to yp/product.php.
 - [Live-Hack-CVE/CVE-2020-22201](https://github.com/Live-Hack-CVE/CVE-2020-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22201">
