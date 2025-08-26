@@ -84,6 +84,7 @@
 - [ghostn4444/CVE-2025-8088](https://github.com/ghostn4444/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/CVE-2025-8088">
 - [DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC](https://github.com/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC">
 - [pescada-dev/-CVE-2025-8088](https://github.com/pescada-dev/-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/pescada-dev/-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/pescada-dev/-CVE-2025-8088">
+- [AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal](https://github.com/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal">
 
 ---
 ## CVE-2025-8018 ()
@@ -3532,7 +3533,7 @@
 - [CMassa/CVE-2025-24893](https://github.com/CMassa/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/CMassa/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/CMassa/CVE-2025-24893">
 - [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
 - [ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">
-- [torjan0/solrsearch-rce-exploit](https://github.com/torjan0/solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/solrsearch-rce-exploit">
+- [torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/xwiki_solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/xwiki_solrsearch-rce-exploit">
 
 ---
 ## CVE-2025-24813 ()
