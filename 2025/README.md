@@ -308,8 +308,9 @@
 - [guinea-offensive-security/CVE-2025-6019](https://github.com/guinea-offensive-security/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/CVE-2025-6019">
 - [And-oss/CVE-2025-6019-exploit](https://github.com/And-oss/CVE-2025-6019-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/And-oss/CVE-2025-6019-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/And-oss/CVE-2025-6019-exploit">
 - [neko205-mx/CVE-2025-6019_Exploit](https://github.com/neko205-mx/CVE-2025-6019_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-6019_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-6019_Exploit">
-- [dreysanox/CVE-2025-6019_Poc](https://github.com/dreysanox/CVE-2025-6019_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6019_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6019_Poc">
+- [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
 - [harshitvarma05/CVE-2025-6019](https://github.com/harshitvarma05/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-6019">
+- [mistrustt/PAM-UDisks-PrivEsc-Metasploit](https://github.com/mistrustt/PAM-UDisks-PrivEsc-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrustt/PAM-UDisks-PrivEsc-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrustt/PAM-UDisks-PrivEsc-Metasploit">
 
 ---
 ## CVE-2025-6018 ()
@@ -435,6 +436,11 @@
 ## CVE-2025-55575 ()
 > 
 - [Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575)	<img alt="forks" src="https://img.shields.io/github/forks/Aether-0/CVE-2025-55575">	<img alt="stars" src="https://img.shields.io/github/stars/Aether-0/CVE-2025-55575">
+
+---
+## CVE-2025-55555 ()
+> 
+- [aydin5245/CVE-2025-55555-CVE](https://github.com/aydin5245/CVE-2025-55555-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/CVE-2025-55555-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/CVE-2025-55555-CVE">
 
 ---
 ## CVE-2025-55349 ()
@@ -3787,6 +3793,8 @@
 - [thebringerofdeath789/CVE-2025-24813](https://github.com/thebringerofdeath789/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/thebringerofdeath789/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/thebringerofdeath789/CVE-2025-24813">
 - [threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat](https://github.com/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">
 - [CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAlbez/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAlbez/CVE-2025-24813-PoC">
+- [Olabanji10/Apache-GOExploiter](https://github.com/Olabanji10/Apache-GOExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/Olabanji10/Apache-GOExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/Olabanji10/Apache-GOExploiter">
+- [drcrypterdotru/Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/drcrypterdotru/Apache-GOExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/drcrypterdotru/Apache-GOExploiter">
 
 ---
 ## CVE-2025-24801 ()
