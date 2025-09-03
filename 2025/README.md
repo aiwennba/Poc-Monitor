@@ -25,6 +25,7 @@
 > 
 - [XRayZen/cve-2025-9074-poc](https://github.com/XRayZen/cve-2025-9074-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XRayZen/cve-2025-9074-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XRayZen/cve-2025-9074-poc">
 - [zenzue/CVE-2025-9074](https://github.com/zenzue/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2025-9074">
+- [j3r1ch0123/CVE-2025-9074](https://github.com/j3r1ch0123/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-9074">
 
 ---
 ## CVE-2025-9043 ()
@@ -1860,6 +1861,7 @@
 - [h4xnz/CVE-2025-43300-Exploit](https://github.com/h4xnz/CVE-2025-43300-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/h4xnz/CVE-2025-43300-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/h4xnz/CVE-2025-43300-Exploit">
 - [XiaomingX/CVE-2025-43300-exp](https://github.com/XiaomingX/CVE-2025-43300-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2025-43300-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2025-43300-exp">
 - [hunters-sec/CVE-2025-43300](https://github.com/hunters-sec/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/hunters-sec/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/hunters-sec/CVE-2025-43300">
+- [PwnToday/CVE-2025-43300](https://github.com/PwnToday/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-43300">
 
 ---
 ## CVE-2025-4322 ()
