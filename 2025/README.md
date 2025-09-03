@@ -4271,6 +4271,7 @@
 ## CVE-2025-2082 ()
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
+- [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
 
 ---
 ## CVE-2025-20337 ()
