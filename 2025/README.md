@@ -107,6 +107,11 @@
 - [kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition](https://github.com/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition)	<img alt="forks" src="https://img.shields.io/github/forks/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition">	<img alt="stars" src="https://img.shields.io/github/stars/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition">
 
 ---
+## CVE-2025-8067 ()
+> 
+- [born0monday/CVE-2025-8067](https://github.com/born0monday/CVE-2025-8067)	<img alt="forks" src="https://img.shields.io/github/forks/born0monday/CVE-2025-8067">	<img alt="stars" src="https://img.shields.io/github/stars/born0monday/CVE-2025-8067">
+
+---
 ## CVE-2025-8018 ()
 > 
 - [drackyjr/CVE-2025-8018](https://github.com/drackyjr/CVE-2025-8018)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-8018">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-8018">
@@ -617,6 +622,11 @@
 ## CVE-2025-53773 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-53773](https://github.com/B1ack4sh/Blackash-CVE-2025-53773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53773">
+
+---
+## CVE-2025-53772 ()
+> 
+- [Momollax/CVE-2025-53772-IIS-WebDeploy-RCE](https://github.com/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE">
 
 ---
 ## CVE-2025-53770 ()
