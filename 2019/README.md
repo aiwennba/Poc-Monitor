@@ -3229,6 +3229,7 @@ use after free.
 ## CVE-2019-10219 ()
 > 
 - [shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final](https://github.com/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final">
+- [shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6_0_18_Final_fixed](https://github.com/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6_0_18_Final_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6_0_18_Final_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6_0_18_Final_fixed">
 
 ---
 ## CVE-2019-10203 (2019-11-22T13:15:00)
@@ -3302,6 +3303,7 @@ use after free.
 ## CVE-2019-10078 ()
 > 
 - [shoucheng3/apache__jspwiki_CVE-2019-10078_2-11-0-M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10078_2-11-0-M3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10078_2-11-0-M3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10078_2-11-0-M3">
+- [shoucheng3/apache__jspwiki_CVE-2019-10078_2_11_0_M4_fixed](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10078_2_11_0_M4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10078_2_11_0_M4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10078_2_11_0_M4_fixed">
 
 ---
 ## CVE-2019-10077 ()
