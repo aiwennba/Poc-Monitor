@@ -1962,7 +1962,7 @@
 ---
 ## CVE-2025-42957 ()
 > 
-- [barbaraeivyu/CVE-2025-42957](https://github.com/barbaraeivyu/CVE-2025-42957)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-42957">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-42957">
+- [callinston/CVE-2025-42957](https://github.com/callinston/CVE-2025-42957)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-42957">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-42957">
 
 ---
 ## CVE-2025-42599 ()
@@ -2920,6 +2920,7 @@
 - [ThemeHackers/CVE-2025-30208](https://github.com/ThemeHackers/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-30208">
 - [TH-SecForge/CVE-2025-30208](https://github.com/TH-SecForge/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-30208">
 - [gonn4cry/CVE-2025-30208](https://github.com/gonn4cry/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/gonn4cry/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/gonn4cry/CVE-2025-30208">
+- [Dany60-98/CVE-2025-30208-EXP](https://github.com/Dany60-98/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Dany60-98/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Dany60-98/CVE-2025-30208-EXP">
 
 ---
 ## CVE-2025-30144 ()
