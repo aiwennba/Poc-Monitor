@@ -3996,6 +3996,8 @@
 ## CVE-2025-24204 ()
 > 
 - [FFRI/CVE-2025-24204](https://github.com/FFRI/CVE-2025-24204)	<img alt="forks" src="https://img.shields.io/github/forks/FFRI/CVE-2025-24204">	<img alt="stars" src="https://img.shields.io/github/stars/FFRI/CVE-2025-24204">
+- [bale170501/decrypted](https://github.com/bale170501/decrypted)	<img alt="forks" src="https://img.shields.io/github/forks/bale170501/decrypted">	<img alt="stars" src="https://img.shields.io/github/stars/bale170501/decrypted">
+- [34306/decrypted](https://github.com/34306/decrypted)	<img alt="forks" src="https://img.shields.io/github/forks/34306/decrypted">	<img alt="stars" src="https://img.shields.io/github/stars/34306/decrypted">
 
 ---
 ## CVE-2025-24203 ()
