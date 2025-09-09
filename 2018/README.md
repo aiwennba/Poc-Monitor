@@ -1676,6 +1676,7 @@
 - [bhdresh/CVE-2018-11776](https://github.com/bhdresh/CVE-2018-11776)	<img alt="forks" src="https://img.shields.io/github/forks/bhdresh/CVE-2018-11776">	<img alt="stars" src="https://img.shields.io/github/stars/bhdresh/CVE-2018-11776">
 - [hook-s3c/CVE-2018-11776-Python-PoC](https://github.com/hook-s3c/CVE-2018-11776-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hook-s3c/CVE-2018-11776-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hook-s3c/CVE-2018-11776-Python-PoC">
 - [jiguangsdf/CVE-2018-11776](https://github.com/jiguangsdf/CVE-2018-11776)	<img alt="forks" src="https://img.shields.io/github/forks/jiguangsdf/CVE-2018-11776">	<img alt="stars" src="https://img.shields.io/github/stars/jiguangsdf/CVE-2018-11776">
+- [m4sk0ff/CVE-2018-11776](https://github.com/m4sk0ff/CVE-2018-11776)	<img alt="forks" src="https://img.shields.io/github/forks/m4sk0ff/CVE-2018-11776">	<img alt="stars" src="https://img.shields.io/github/stars/m4sk0ff/CVE-2018-11776">
 
 ---
 ## CVE-2018-11762 ()
