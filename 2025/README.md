@@ -462,6 +462,11 @@
 - [shinyColumn/CVE-2025-56803](https://github.com/shinyColumn/CVE-2025-56803)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-56803">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-56803">
 
 ---
+## CVE-2025-56605 ()
+> 
+- [Userr404/CVE-2025-56605](https://github.com/Userr404/CVE-2025-56605)	<img alt="forks" src="https://img.shields.io/github/forks/Userr404/CVE-2025-56605">	<img alt="stars" src="https://img.shields.io/github/stars/Userr404/CVE-2025-56605">
+
+---
 ## CVE-2025-56435 ()
 > 
 - [Jingyi-u/-CVE-2025-56435](https://github.com/Jingyi-u/-CVE-2025-56435)	<img alt="forks" src="https://img.shields.io/github/forks/Jingyi-u/-CVE-2025-56435">	<img alt="stars" src="https://img.shields.io/github/stars/Jingyi-u/-CVE-2025-56435">
@@ -1329,6 +1334,7 @@
 - [Zwique/CVE-2025-49113](https://github.com/Zwique/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-49113">
 - [AC8999/CVE-2025-49113](https://github.com/AC8999/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-49113">
 - [LeakForge/CVE-2025-49113](https://github.com/LeakForge/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/LeakForge/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/LeakForge/CVE-2025-49113">
+- [Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-](https://github.com/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-)	<img alt="forks" src="https://img.shields.io/github/forks/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-">	<img alt="stars" src="https://img.shields.io/github/stars/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-">
 
 ---
 ## CVE-2025-49029 ()
@@ -2581,6 +2587,7 @@
 - [Mdusmandasthaheer/CVE-2025-32433](https://github.com/Mdusmandasthaheer/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Mdusmandasthaheer/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Mdusmandasthaheer/CVE-2025-32433">
 - [dollarboysushil/CVE-2025-32433-Erlang-OTP-SSH-Unauthenticated-RCE](https://github.com/dollarboysushil/CVE-2025-32433-Erlang-OTP-SSH-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/CVE-2025-32433-Erlang-OTP-SSH-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/CVE-2025-32433-Erlang-OTP-SSH-Unauthenticated-RCE">
 - [RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts](https://github.com/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts)	<img alt="forks" src="https://img.shields.io/github/forks/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts">	<img alt="stars" src="https://img.shields.io/github/stars/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts">
+- [scandijamjam1/CVE-2025-32433](https://github.com/scandijamjam1/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/scandijamjam1/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/scandijamjam1/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
