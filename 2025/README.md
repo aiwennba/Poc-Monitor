@@ -712,6 +712,7 @@
 > 
 - [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2025-54424">
 - [hophtien/CVE-2025-54424](https://github.com/hophtien/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/hophtien/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/hophtien/CVE-2025-54424">
+- [bejbitoilet5125521/CVE-2025-54424](https://github.com/bejbitoilet5125521/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/bejbitoilet5125521/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/bejbitoilet5125521/CVE-2025-54424">
 
 ---
 ## CVE-2025-54381 ()
@@ -3327,6 +3328,8 @@
 - [adjscent/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/adjscent/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/adjscent/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/adjscent/vulnerable-nextjs-14-CVE-2025-29927">
 - [sdrtba/CVE-2025-29927](https://github.com/sdrtba/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sdrtba/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sdrtba/CVE-2025-29927">
 - [iteride/CVE-2025-29927](https://github.com/iteride/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-29927">
+- [amalpvatayam67/day10-nextjs-middleware-lab](https://github.com/amalpvatayam67/day10-nextjs-middleware-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day10-nextjs-middleware-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day10-nextjs-middleware-lab">
+- [sermikr0/nextjs-middleware-auth-bypass](https://github.com/sermikr0/nextjs-middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sermikr0/nextjs-middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sermikr0/nextjs-middleware-auth-bypass">
 
 ---
 ## CVE-2025-29824 ()
