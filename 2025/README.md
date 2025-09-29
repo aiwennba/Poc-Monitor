@@ -5008,6 +5008,11 @@
 - [Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 
 ---
+## CVE-2025-11077 ()
+> 
+- [byteReaper77/CVE-2025-11077](https://github.com/byteReaper77/CVE-2025-11077)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-11077">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-11077">
+
+---
 ## CVE-2025-1094 ()
 > 
 - [soltanali0/CVE-2025-1094-Exploit](https://github.com/soltanali0/CVE-2025-1094-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-1094-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-1094-Exploit">
