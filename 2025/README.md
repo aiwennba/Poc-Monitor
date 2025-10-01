@@ -826,6 +826,11 @@
 - [RandomRobbieBF/CVE-2025-54726](https://github.com/RandomRobbieBF/CVE-2025-54726)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-54726">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-54726">
 
 ---
+## CVE-2025-54677 ()
+> 
+- [quetuan03/CVE-2025-54677](https://github.com/quetuan03/CVE-2025-54677)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-54677">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-54677">
+
+---
 ## CVE-2025-54589 ()
 > 
 - [byteReaper77/CVE-2025-54589](https://github.com/byteReaper77/CVE-2025-54589)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-54589">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-54589">
