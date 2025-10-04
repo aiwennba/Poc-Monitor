@@ -4120,7 +4120,7 @@
 - [TuanCui22/ZerologonWithImpacket-CVE2020-1472](https://github.com/TuanCui22/ZerologonWithImpacket-CVE2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/TuanCui22/ZerologonWithImpacket-CVE2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/TuanCui22/ZerologonWithImpacket-CVE2020-1472">
 - [blackh00d/zerologon-poc](https://github.com/blackh00d/zerologon-poc)	<img alt="forks" src="https://img.shields.io/github/forks/blackh00d/zerologon-poc">	<img alt="stars" src="https://img.shields.io/github/stars/blackh00d/zerologon-poc">
 - [tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation](https://github.com/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/tdevworks/CVE-2020-1472-ZeroLogon-Demo-Detection-Mitigation">
-- [100HnoMeuNome/ZeroLogon-CVE-2020-1472--lab](https://github.com/100HnoMeuNome/ZeroLogon-CVE-2020-1472--lab)	<img alt="forks" src="https://img.shields.io/github/forks/100HnoMeuNome/ZeroLogon-CVE-2020-1472--lab">	<img alt="stars" src="https://img.shields.io/github/stars/100HnoMeuNome/ZeroLogon-CVE-2020-1472--lab">
+- [100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab](https://github.com/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab)	<img alt="forks" src="https://img.shields.io/github/forks/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab">	<img alt="stars" src="https://img.shields.io/github/stars/100HnoMeuNome/ZeroLogon-CVE-2020-1472-lab">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
