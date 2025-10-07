@@ -2066,6 +2066,11 @@
 - [d3sca/-CVE-2025-46822-](https://github.com/d3sca/-CVE-2025-46822-)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/-CVE-2025-46822-">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/-CVE-2025-46822-">
 
 ---
+## CVE-2025-46817 ()
+> 
+- [dwisiswant0/CVE-2025-46817](https://github.com/dwisiswant0/CVE-2025-46817)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2025-46817">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2025-46817">
+
+---
 ## CVE-2025-46816 ()
 > 
 - [Guilhem7/CVE-2025-46816](https://github.com/Guilhem7/CVE-2025-46816)	<img alt="forks" src="https://img.shields.io/github/forks/Guilhem7/CVE-2025-46816">	<img alt="stars" src="https://img.shields.io/github/stars/Guilhem7/CVE-2025-46816">
