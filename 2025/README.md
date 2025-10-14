@@ -832,6 +832,11 @@
 - [hafizgemilang/CVE-2025-56243](https://github.com/hafizgemilang/CVE-2025-56243)	<img alt="forks" src="https://img.shields.io/github/forks/hafizgemilang/CVE-2025-56243">	<img alt="stars" src="https://img.shields.io/github/stars/hafizgemilang/CVE-2025-56243">
 
 ---
+## CVE-2025-56219 ()
+> 
+- [saykino/CVE-2025-56219](https://github.com/saykino/CVE-2025-56219)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-56219">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-56219">
+
+---
 ## CVE-2025-56218 ()
 > 
 - [saykino/CVE-2025-56218](https://github.com/saykino/CVE-2025-56218)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-56218">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-56218">
