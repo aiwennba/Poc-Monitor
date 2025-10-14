@@ -4905,6 +4905,8 @@
 - [cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC](https://github.com/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC">
 - [rxerium/CVE-2025-24016](https://github.com/rxerium/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-24016">
 - [B1ack4sh/Blackash-CVE-2025-24016](https://github.com/B1ack4sh/Blackash-CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24016">
+- [guinea-offensive-security/Wazuh-RCE](https://github.com/guinea-offensive-security/Wazuh-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/Wazuh-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/Wazuh-RCE">
+- [GloStarRx1/CVE-2025-24016](https://github.com/GloStarRx1/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/GloStarRx1/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/GloStarRx1/CVE-2025-24016">
 
 ---
 ## CVE-2025-24011 ()
