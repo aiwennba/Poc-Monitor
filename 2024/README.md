@@ -8830,6 +8830,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 > 
 - [llussiess/CVE-2024-21754](https://github.com/llussiess/CVE-2024-21754)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2024-21754">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2024-21754">
 - [CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSecuritist/CVE-2024-21754-Forti-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSecuritist/CVE-2024-21754-Forti-RCE">
+- [hacktidexp/CVE-2024-21754-FORTI-RCE](https://github.com/hacktidexp/CVE-2024-21754-FORTI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hacktidexp/CVE-2024-21754-FORTI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hacktidexp/CVE-2024-21754-FORTI-RCE">
 
 ---
 ## CVE-2024-21733 (2024-01-19T11:15:00)
