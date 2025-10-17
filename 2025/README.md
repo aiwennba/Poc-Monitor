@@ -1506,6 +1506,11 @@
 - [Madhav-Bhardwaj/CVE-2025-52289](https://github.com/Madhav-Bhardwaj/CVE-2025-52289)	<img alt="forks" src="https://img.shields.io/github/forks/Madhav-Bhardwaj/CVE-2025-52289">	<img alt="stars" src="https://img.shields.io/github/stars/Madhav-Bhardwaj/CVE-2025-52289">
 
 ---
+## CVE-2025-52136 ()
+> 
+- [f1r3K0/CVE-2025-52136](https://github.com/f1r3K0/CVE-2025-52136)	<img alt="forks" src="https://img.shields.io/github/forks/f1r3K0/CVE-2025-52136">	<img alt="stars" src="https://img.shields.io/github/stars/f1r3K0/CVE-2025-52136">
+
+---
 ## CVE-2025-52100 ()
 > 
 - [changyaoyou/CVE-2025-52100](https://github.com/changyaoyou/CVE-2025-52100)	<img alt="forks" src="https://img.shields.io/github/forks/changyaoyou/CVE-2025-52100">	<img alt="stars" src="https://img.shields.io/github/stars/changyaoyou/CVE-2025-52100">
@@ -4687,7 +4692,7 @@
 ## CVE-2025-25198 ()
 > 
 - [Groppoxx/CVE-2025-25198-PoC](https://github.com/Groppoxx/CVE-2025-25198-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2025-25198-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2025-25198-PoC">
-- [enzocipher/CVE-2025-25198-PoC](https://github.com/enzocipher/CVE-2025-25198-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/enzocipher/CVE-2025-25198-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/enzocipher/CVE-2025-25198-PoC">
+- [enzocipher/CVE-2025-25198](https://github.com/enzocipher/CVE-2025-25198)	<img alt="forks" src="https://img.shields.io/github/forks/enzocipher/CVE-2025-25198">	<img alt="stars" src="https://img.shields.io/github/stars/enzocipher/CVE-2025-25198">
 
 ---
 ## CVE-2025-25163 ()
