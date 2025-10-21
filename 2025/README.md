@@ -2094,6 +2094,11 @@
 - [Nxploited/CVE-2025-49029](https://github.com/Nxploited/CVE-2025-49029)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-49029">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-49029">
 
 ---
+## CVE-2025-49002 ()
+> 
+- [Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002](https://github.com/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002)	<img alt="forks" src="https://img.shields.io/github/forks/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">	<img alt="stars" src="https://img.shields.io/github/stars/Feng-Huang-0520/DataEase_Postgresql_JDBC_Bypass-CVE-2025-49002">
+
+---
 ## CVE-2025-48988 ()
 > 
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
