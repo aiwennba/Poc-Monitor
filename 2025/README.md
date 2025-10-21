@@ -5469,6 +5469,11 @@
 - [rbaicba/CVE-2025-20286](https://github.com/rbaicba/CVE-2025-20286)	<img alt="forks" src="https://img.shields.io/github/forks/rbaicba/CVE-2025-20286">	<img alt="stars" src="https://img.shields.io/github/stars/rbaicba/CVE-2025-20286">
 
 ---
+## CVE-2025-20282 ()
+> 
+- [skadevare/CiscoISE-CVE-2025-20282-POC](https://github.com/skadevare/CiscoISE-CVE-2025-20282-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skadevare/CiscoISE-CVE-2025-20282-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skadevare/CiscoISE-CVE-2025-20282-POC">
+
+---
 ## CVE-2025-20281 ()
 > 
 - [abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE](https://github.com/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE">
