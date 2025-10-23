@@ -200,6 +200,7 @@
 - [blowrrr/cve-2025-8088](https://github.com/blowrrr/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/blowrrr/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/blowrrr/cve-2025-8088">
 - [papcaii2004/CVE-2025-8088-WinRAR-builder](https://github.com/papcaii2004/CVE-2025-8088-WinRAR-builder)	<img alt="forks" src="https://img.shields.io/github/forks/papcaii2004/CVE-2025-8088-WinRAR-builder">	<img alt="stars" src="https://img.shields.io/github/stars/papcaii2004/CVE-2025-8088-WinRAR-builder">
 - [kaucent/CVE-2025-8088](https://github.com/kaucent/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kaucent/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kaucent/CVE-2025-8088">
+- [mocred/cve-2025-8088](https://github.com/mocred/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/mocred/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/mocred/cve-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -427,6 +428,12 @@
 ## CVE-2025-62506 ()
 > 
 - [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
+
+---
+## CVE-2025-62481 ()
+> 
+- [callinston/CVE-2025-62481](https://github.com/callinston/CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-62481">
+- [rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481">
 
 ---
 ## CVE-2025-62410 ()
