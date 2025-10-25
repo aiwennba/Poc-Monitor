@@ -6,6 +6,11 @@
 - [balajigund/Research-on-CVE-2025-9998](https://github.com/balajigund/Research-on-CVE-2025-9998)	<img alt="forks" src="https://img.shields.io/github/forks/balajigund/Research-on-CVE-2025-9998">	<img alt="stars" src="https://img.shields.io/github/stars/balajigund/Research-on-CVE-2025-9998">
 
 ---
+## CVE-2025-9983 ()
+> 
+- [sohaibeb/CVE-2025-9983](https://github.com/sohaibeb/CVE-2025-9983)	<img alt="forks" src="https://img.shields.io/github/forks/sohaibeb/CVE-2025-9983">	<img alt="stars" src="https://img.shields.io/github/stars/sohaibeb/CVE-2025-9983">
+
+---
 ## CVE-2025-9967 ()
 > 
 - [HexSentinel-cmd/CVE-2025-9967](https://github.com/HexSentinel-cmd/CVE-2025-9967)	<img alt="forks" src="https://img.shields.io/github/forks/HexSentinel-cmd/CVE-2025-9967">	<img alt="stars" src="https://img.shields.io/github/stars/HexSentinel-cmd/CVE-2025-9967">
