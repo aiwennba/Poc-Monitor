@@ -33,6 +33,11 @@
 - [godfatherofexps/CVE-2025-9744-PoC](https://github.com/godfatherofexps/CVE-2025-9744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-9744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-9744-PoC">
 
 ---
+## CVE-2025-9519 ()
+> 
+- [Nimisha17/Poc-CVE-2025-9519](https://github.com/Nimisha17/Poc-CVE-2025-9519)	<img alt="forks" src="https://img.shields.io/github/forks/Nimisha17/Poc-CVE-2025-9519">	<img alt="stars" src="https://img.shields.io/github/stars/Nimisha17/Poc-CVE-2025-9519">
+
+---
 ## CVE-2025-9491 ()
 > 
 - [barbaraeivyu/CVE-2025-9491](https://github.com/barbaraeivyu/CVE-2025-9491)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9491">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9491">
@@ -764,6 +769,7 @@
 - [0xBruno/WSUSploit.NET](https://github.com/0xBruno/WSUSploit.NET)	<img alt="forks" src="https://img.shields.io/github/forks/0xBruno/WSUSploit.NET">	<img alt="stars" src="https://img.shields.io/github/stars/0xBruno/WSUSploit.NET">
 - [tecxx/CVE-2025-59287-WSUS](https://github.com/tecxx/CVE-2025-59287-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/tecxx/CVE-2025-59287-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/tecxx/CVE-2025-59287-WSUS">
 - [RadzaRr/WSUSResponder](https://github.com/RadzaRr/WSUSResponder)	<img alt="forks" src="https://img.shields.io/github/forks/RadzaRr/WSUSResponder">	<img alt="stars" src="https://img.shields.io/github/stars/RadzaRr/WSUSResponder">
+- [mubix/Find-WSUS](https://github.com/mubix/Find-WSUS)	<img alt="forks" src="https://img.shields.io/github/forks/mubix/Find-WSUS">	<img alt="stars" src="https://img.shields.io/github/stars/mubix/Find-WSUS">
 
 ---
 ## CVE-2025-59285 ()
