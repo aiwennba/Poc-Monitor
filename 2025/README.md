@@ -638,6 +638,11 @@
 - [WinDyAlphA/CVE-2025-60736](https://github.com/WinDyAlphA/CVE-2025-60736)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-60736">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-60736">
 
 ---
+## CVE-2025-60595 ()
+> 
+- [Clicksafeae/CVE-2025-60595](https://github.com/Clicksafeae/CVE-2025-60595)	<img alt="forks" src="https://img.shields.io/github/forks/Clicksafeae/CVE-2025-60595">	<img alt="stars" src="https://img.shields.io/github/stars/Clicksafeae/CVE-2025-60595">
+
+---
 ## CVE-2025-6058 ()
 > 
 - [Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6058">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6058">
@@ -794,6 +799,8 @@
 ## CVE-2025-59230 ()
 > 
 - [moegameka/CVE-2025-59230](https://github.com/moegameka/CVE-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/moegameka/CVE-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/moegameka/CVE-2025-59230">
+- [moegameka/CVE-2025-59230-LPE](https://github.com/moegameka/CVE-2025-59230-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/moegameka/CVE-2025-59230-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/moegameka/CVE-2025-59230-LPE">
+- [stalker110119/CVE-2025-59230](https://github.com/stalker110119/CVE-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/stalker110119/CVE-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/stalker110119/CVE-2025-59230">
 
 ---
 ## CVE-2025-58789 ()
