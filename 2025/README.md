@@ -811,6 +811,7 @@
 - [FurkanKAYAPINAR/CVE-2025-59287](https://github.com/FurkanKAYAPINAR/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2025-59287">
 - [esteban11121/WSUS-RCE-Mitigation-59287](https://github.com/esteban11121/WSUS-RCE-Mitigation-59287)	<img alt="forks" src="https://img.shields.io/github/forks/esteban11121/WSUS-RCE-Mitigation-59287">	<img alt="stars" src="https://img.shields.io/github/stars/esteban11121/WSUS-RCE-Mitigation-59287">
 - [fsanzmoya/wsus_CVE-2025-59287](https://github.com/fsanzmoya/wsus_CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/fsanzmoya/wsus_CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/fsanzmoya/wsus_CVE-2025-59287">
+- [0x7556/CVE-2025-59287](https://github.com/0x7556/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
