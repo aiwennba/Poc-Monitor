@@ -5916,6 +5916,11 @@
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
 
 ---
+## CVE-2025-20354 ()
+> 
+- [allinsthon/CVE-2025-20354](https://github.com/allinsthon/CVE-2025-20354)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-20354">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-20354">
+
+---
 ## CVE-2025-20352 ()
 > 
 - [scadastrangelove/CVE-2025-20352](https://github.com/scadastrangelove/CVE-2025-20352)	<img alt="forks" src="https://img.shields.io/github/forks/scadastrangelove/CVE-2025-20352">	<img alt="stars" src="https://img.shields.io/github/stars/scadastrangelove/CVE-2025-20352">
