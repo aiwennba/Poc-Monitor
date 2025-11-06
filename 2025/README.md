@@ -2622,6 +2622,7 @@
 - [MarcoTondolo/cve-2025-48384-poc](https://github.com/MarcoTondolo/cve-2025-48384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MarcoTondolo/cve-2025-48384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MarcoTondolo/cve-2025-48384-poc">
 - [ceevase/CVE-2025-48384-sub](https://github.com/ceevase/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-sub">
 - [ceevase/CVE-2025-48384-main](https://github.com/ceevase/CVE-2025-48384-main)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-main">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-main">
+- [ceevase/cve-2025-48384](https://github.com/ceevase/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/cve-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
