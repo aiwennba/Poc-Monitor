@@ -439,6 +439,11 @@
 - [Cyberency/CVE-2025-6514](https://github.com/Cyberency/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberency/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberency/CVE-2025-6514">
 
 ---
+## CVE-2025-64458 ()
+> 
+- [ch4n3-yoon/CVE-2025-64458-Demo](https://github.com/ch4n3-yoon/CVE-2025-64458-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/ch4n3-yoon/CVE-2025-64458-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/ch4n3-yoon/CVE-2025-64458-Demo">
+
+---
 ## CVE-2025-6440 ()
 > 
 - [Pwdnx1337/CVE-2025-6440](https://github.com/Pwdnx1337/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-6440">
@@ -463,6 +468,7 @@
 ---
 ## CVE-2025-63588 ()
 > 
+- [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
 - [cybercrewinc/CVE-2025-63588](https://github.com/cybercrewinc/CVE-2025-63588)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-63588">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-63588">
 
 ---
