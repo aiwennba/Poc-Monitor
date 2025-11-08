@@ -600,6 +600,11 @@
 - [allinsthon/CVE-2025-61932](https://github.com/allinsthon/CVE-2025-61932)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61932">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61932">
 
 ---
+## CVE-2025-61922 ()
+> 
+- [captaincookie34/Vulnerability-Playground-CVE-2025-61922](https://github.com/captaincookie34/Vulnerability-Playground-CVE-2025-61922)	<img alt="forks" src="https://img.shields.io/github/forks/captaincookie34/Vulnerability-Playground-CVE-2025-61922">	<img alt="stars" src="https://img.shields.io/github/stars/captaincookie34/Vulnerability-Playground-CVE-2025-61922">
+
+---
 ## CVE-2025-61884 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-61884](https://github.com/B1ack4sh/Blackash-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61884">
@@ -2668,6 +2673,7 @@
 - [ceevase/CVE-2025-48384-main](https://github.com/ceevase/CVE-2025-48384-main)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/CVE-2025-48384-main">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/CVE-2025-48384-main">
 - [ceevase/cve-2025-48384](https://github.com/ceevase/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ceevase/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ceevase/cve-2025-48384">
 - [bummie/CVE-2025-48384](https://github.com/bummie/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384">
+- [bummie/CVE-2025-48384-submodule](https://github.com/bummie/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384-submodule">
 - [bummie/CVE-2025-48384-submodule](https://github.com/bummie/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384-submodule">
 
 ---
