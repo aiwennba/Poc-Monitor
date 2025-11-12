@@ -1294,6 +1294,11 @@
 - [secxplorers/CVE-2025-56503](https://github.com/secxplorers/CVE-2025-56503)	<img alt="forks" src="https://img.shields.io/github/forks/secxplorers/CVE-2025-56503">	<img alt="stars" src="https://img.shields.io/github/stars/secxplorers/CVE-2025-56503">
 
 ---
+## CVE-2025-56499 ()
+> 
+- [Cherrling/CVE-2025-56499](https://github.com/Cherrling/CVE-2025-56499)	<img alt="forks" src="https://img.shields.io/github/forks/Cherrling/CVE-2025-56499">	<img alt="stars" src="https://img.shields.io/github/stars/Cherrling/CVE-2025-56499">
+
+---
 ## CVE-2025-56450 ()
 > 
 - [apboss123/CVE-2025-56450](https://github.com/apboss123/CVE-2025-56450)	<img alt="forks" src="https://img.shields.io/github/forks/apboss123/CVE-2025-56450">	<img alt="stars" src="https://img.shields.io/github/stars/apboss123/CVE-2025-56450">
