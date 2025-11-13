@@ -4177,6 +4177,11 @@
 - [HossamEAhmed/wp-ulike-cve-2025-32259-poc](https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HossamEAhmed/wp-ulike-cve-2025-32259-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HossamEAhmed/wp-ulike-cve-2025-32259-poc">
 
 ---
+## CVE-2025-3222 ()
+> 
+- [romromellow1996/cve-2025-3222-Exploit](https://github.com/romromellow1996/cve-2025-3222-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/romromellow1996/cve-2025-3222-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/romromellow1996/cve-2025-3222-Exploit">
+
+---
 ## CVE-2025-32206 ()
 > 
 - [Nxploited/CVE-2025-32206](https://github.com/Nxploited/CVE-2025-32206)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-32206">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-32206">
@@ -6382,6 +6387,11 @@
 ## CVE-2025-12539 ()
 > 
 - [Nxploited/CVE-2025-12539](https://github.com/Nxploited/CVE-2025-12539)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-12539">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-12539">
+
+---
+## CVE-2025-12480 ()
+> 
+- [velmetrac/CVE-2025-12480](https://github.com/velmetrac/CVE-2025-12480)	<img alt="forks" src="https://img.shields.io/github/forks/velmetrac/CVE-2025-12480">	<img alt="stars" src="https://img.shields.io/github/stars/velmetrac/CVE-2025-12480">
 
 ---
 ## CVE-2025-12463 ()
