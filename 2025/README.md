@@ -5093,6 +5093,7 @@
 ## CVE-2025-26686 ()
 > 
 - [mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates](https://github.com/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates">
+- [alifaraj5723/CVE-2025-26686-poc](https://github.com/alifaraj5723/CVE-2025-26686-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alifaraj5723/CVE-2025-26686-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alifaraj5723/CVE-2025-26686-poc">
 
 ---
 ## CVE-2025-26647 ()
