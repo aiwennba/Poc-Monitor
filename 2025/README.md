@@ -1053,6 +1053,11 @@
 - [moegameka/CVE-2025-59230-LPE](https://github.com/moegameka/CVE-2025-59230-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/moegameka/CVE-2025-59230-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/moegameka/CVE-2025-59230-LPE">
 
 ---
+## CVE-2025-59118 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-59118](https://github.com/B1ack4sh/Blackash-CVE-2025-59118)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-59118">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-59118">
+
+---
 ## CVE-2025-58789 ()
 > 
 - [quetuan03/CVE-2025-58789](https://github.com/quetuan03/CVE-2025-58789)	<img alt="forks" src="https://img.shields.io/github/forks/quetuan03/CVE-2025-58789">	<img alt="stars" src="https://img.shields.io/github/stars/quetuan03/CVE-2025-58789">
