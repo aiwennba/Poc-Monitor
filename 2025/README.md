@@ -3537,7 +3537,7 @@
 ---
 ## CVE-2025-41088 ()
 > 
-- [Marinafabregat/CVE-2025-41088-Stored-XSS-in-Xibo-Signage-s-Xibo](https://github.com/Marinafabregat/CVE-2025-41088-Stored-XSS-in-Xibo-Signage-s-Xibo)	<img alt="forks" src="https://img.shields.io/github/forks/Marinafabregat/CVE-2025-41088-Stored-XSS-in-Xibo-Signage-s-Xibo">	<img alt="stars" src="https://img.shields.io/github/stars/Marinafabregat/CVE-2025-41088-Stored-XSS-in-Xibo-Signage-s-Xibo">
+- [Marinafabregat/CVE-2025-41088](https://github.com/Marinafabregat/CVE-2025-41088)	<img alt="forks" src="https://img.shields.io/github/forks/Marinafabregat/CVE-2025-41088">	<img alt="stars" src="https://img.shields.io/github/stars/Marinafabregat/CVE-2025-41088">
 
 ---
 ## CVE-2025-41067 ()
