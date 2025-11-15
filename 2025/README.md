@@ -626,6 +626,11 @@
 - [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
 
 ---
+## CVE-2025-62507 ()
+> 
+- [Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC](https://github.com/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-62507-Buffer-Overflow_PoC">
+
+---
 ## CVE-2025-62506 ()
 > 
 - [yoshino-s/CVE-2025-62506](https://github.com/yoshino-s/CVE-2025-62506)	<img alt="forks" src="https://img.shields.io/github/forks/yoshino-s/CVE-2025-62506">	<img alt="stars" src="https://img.shields.io/github/stars/yoshino-s/CVE-2025-62506">
