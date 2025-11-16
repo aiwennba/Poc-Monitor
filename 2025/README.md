@@ -627,6 +627,11 @@
 - [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296)	<img alt="forks" src="https://img.shields.io/github/forks/t4e-3/CVE-2025-63296">	<img alt="stars" src="https://img.shields.io/github/stars/t4e-3/CVE-2025-63296">
 
 ---
+## CVE-2025-62950 ()
+> 
+- [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-62950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-62950-PoC">
+
+---
 ## CVE-2025-62726 ()
 > 
 - [Malayke/n8n-remote-code-execution-cve-2025-62726-exploit](https://github.com/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">
