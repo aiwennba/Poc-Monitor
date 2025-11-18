@@ -1031,6 +1031,7 @@
 - [CJSKWT/Discord-Image-Logger-Stealer](https://github.com/CJSKWT/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/CJSKWT/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/CJSKWT/Discord-Image-Logger-Stealer">
 - [Apohub55/Slient-URL-Exploit](https://github.com/Apohub55/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Apohub55/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Apohub55/Slient-URL-Exploit">
 - [Mintimate/log4j2-bugmaker](https://github.com/Mintimate/log4j2-bugmaker)	<img alt="forks" src="https://img.shields.io/github/forks/Mintimate/log4j2-bugmaker">	<img alt="stars" src="https://img.shields.io/github/stars/Mintimate/log4j2-bugmaker">
+- [PCMKUIT/CVE-2021-44228---Log4Shell-Analysis](https://github.com/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
