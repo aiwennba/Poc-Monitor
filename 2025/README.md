@@ -6584,6 +6584,11 @@
 - [B1ack4sh/Blackash-CVE-2025-12762](https://github.com/B1ack4sh/Blackash-CVE-2025-12762)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-12762">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-12762">
 
 ---
+## CVE-2025-12735 ()
+> 
+- [alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce](https://github.com/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">
+
+---
 ## CVE-2025-12654 ()
 > 
 - [Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
