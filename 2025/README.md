@@ -510,6 +510,7 @@
 - [verylazytech/CVE-2025-64446](https://github.com/verylazytech/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-64446">
 - [lincemorado97/CVE-2025-64446_CVE-2025-58034](https://github.com/lincemorado97/CVE-2025-64446_CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-64446_CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-64446_CVE-2025-58034">
 - [Death112233/CVE-2025-64446-](https://github.com/Death112233/CVE-2025-64446-)	<img alt="forks" src="https://img.shields.io/github/forks/Death112233/CVE-2025-64446-">	<img alt="stars" src="https://img.shields.io/github/stars/Death112233/CVE-2025-64446-">
+- [AN5I/cve-2025-64446-fortiweb-exploit](https://github.com/AN5I/cve-2025-64446-fortiweb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-64446-fortiweb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-64446-fortiweb-exploit">
 
 ---
 ## CVE-2025-64403 ()
@@ -550,6 +551,11 @@
 ## CVE-2025-63914 ()
 > 
 - [WxDou/CVE-2025-63914](https://github.com/WxDou/CVE-2025-63914)	<img alt="forks" src="https://img.shields.io/github/forks/WxDou/CVE-2025-63914">	<img alt="stars" src="https://img.shields.io/github/stars/WxDou/CVE-2025-63914">
+
+---
+## CVE-2025-63888 ()
+> 
+- [AN5I/cve-2025-63888-exploit](https://github.com/AN5I/cve-2025-63888-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-63888-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-63888-exploit">
 
 ---
 ## CVE-2025-63848 ()
@@ -1163,6 +1169,7 @@
 - [Twodimensionalitylevelcrossing817/CVE-2025-59287](https://github.com/Twodimensionalitylevelcrossing817/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Twodimensionalitylevelcrossing817/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Twodimensionalitylevelcrossing817/CVE-2025-59287">
 - [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
 - [M507/CVE-2025-59287-PoC](https://github.com/M507/CVE-2025-59287-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2025-59287-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2025-59287-PoC">
+- [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Adel-kaka-dz/cve-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Adel-kaka-dz/cve-2025-59287">
 
 ---
 ## CVE-2025-59285 ()
@@ -6587,6 +6594,7 @@
 ## CVE-2025-12735 ()
 > 
 - [alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce](https://github.com/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">
+- [AN5I/cve-2025-12735-expr-eval-rce](https://github.com/AN5I/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-12735-expr-eval-rce">
 
 ---
 ## CVE-2025-12654 ()
