@@ -760,6 +760,7 @@
 - [Malayke/n8n-remote-code-execution-cve-2025-62726-exploit](https://github.com/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/n8n-remote-code-execution-cve-2025-62726-exploit">
 - [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
 - [baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE](https://github.com/baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/CVE-2025-62726-POC---n8n-Git-Node-RCE">
+- [baktistr/cve-2025-62726-malicious-repo](https://github.com/baktistr/cve-2025-62726-malicious-repo)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-malicious-repo">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-malicious-repo">
 
 ---
 ## CVE-2025-62507 ()
@@ -2696,6 +2697,7 @@
 > 
 - [skipdurex661/cve-2025-49752-Exploit](https://github.com/skipdurex661/cve-2025-49752-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skipdurex661/cve-2025-49752-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skipdurex661/cve-2025-49752-Exploit">
 - [skipdurex661/CVE-2025-49752-Exploit](https://github.com/skipdurex661/CVE-2025-49752-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skipdurex661/CVE-2025-49752-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skipdurex661/CVE-2025-49752-Exploit">
+- [boogabearbombernub/cve-2025-49752-lab](https://github.com/boogabearbombernub/cve-2025-49752-lab)	<img alt="forks" src="https://img.shields.io/github/forks/boogabearbombernub/cve-2025-49752-lab">	<img alt="stars" src="https://img.shields.io/github/stars/boogabearbombernub/cve-2025-49752-lab">
 
 ---
 ## CVE-2025-49721 ()
