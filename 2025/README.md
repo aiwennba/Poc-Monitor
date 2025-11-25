@@ -3617,6 +3617,11 @@
 - [r0otk3r/CVE-2025-4380](https://github.com/r0otk3r/CVE-2025-4380)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-4380">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-4380">
 
 ---
+## CVE-2025-43504 ()
+> 
+- [calysteon/CVE-2025-43504](https://github.com/calysteon/CVE-2025-43504)	<img alt="forks" src="https://img.shields.io/github/forks/calysteon/CVE-2025-43504">	<img alt="stars" src="https://img.shields.io/github/stars/calysteon/CVE-2025-43504">
+
+---
 ## CVE-2025-43372 ()
 > 
 - [allinsthon/CVE-2025-43372](https://github.com/allinsthon/CVE-2025-43372)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-43372">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-43372">
@@ -4039,6 +4044,11 @@
 - [ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-3515">
 - [MrSoules/lab-cve-2025-3515](https://github.com/MrSoules/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/MrSoules/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/MrSoules/lab-cve-2025-3515">
 - [robertskimengote/lab-cve-2025-3515](https://github.com/robertskimengote/lab-cve-2025-3515)	<img alt="forks" src="https://img.shields.io/github/forks/robertskimengote/lab-cve-2025-3515">	<img alt="stars" src="https://img.shields.io/github/stars/robertskimengote/lab-cve-2025-3515">
+
+---
+## CVE-2025-34322 ()
+> 
+- [mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server](https://github.com/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server">
 
 ---
 ## CVE-2025-34300 ()
