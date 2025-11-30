@@ -1120,6 +1120,21 @@
 - [Wh04m1001/CVE-2025-60710](https://github.com/Wh04m1001/CVE-2025-60710)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-60710">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-60710">
 
 ---
+## CVE-2025-60656 ()
+> 
+- [DotAdrien/CVE-2025-60656](https://github.com/DotAdrien/CVE-2025-60656)	<img alt="forks" src="https://img.shields.io/github/forks/DotAdrien/CVE-2025-60656">	<img alt="stars" src="https://img.shields.io/github/stars/DotAdrien/CVE-2025-60656">
+
+---
+## CVE-2025-60655 ()
+> 
+- [DotAdrien/CVE-2025-60655](https://github.com/DotAdrien/CVE-2025-60655)	<img alt="forks" src="https://img.shields.io/github/forks/DotAdrien/CVE-2025-60655">	<img alt="stars" src="https://img.shields.io/github/stars/DotAdrien/CVE-2025-60655">
+
+---
+## CVE-2025-60654 ()
+> 
+- [DotAdrien/CVE-2025-60654](https://github.com/DotAdrien/CVE-2025-60654)	<img alt="forks" src="https://img.shields.io/github/forks/DotAdrien/CVE-2025-60654">	<img alt="stars" src="https://img.shields.io/github/stars/DotAdrien/CVE-2025-60654">
+
+---
 ## CVE-2025-60595 ()
 > 
 - [Clicksafeae/CVE-2025-60595](https://github.com/Clicksafeae/CVE-2025-60595)	<img alt="forks" src="https://img.shields.io/github/forks/Clicksafeae/CVE-2025-60595">	<img alt="stars" src="https://img.shields.io/github/stars/Clicksafeae/CVE-2025-60595">
