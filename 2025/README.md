@@ -3787,6 +3787,8 @@
 - [veniversum/cve-2025-43300](https://github.com/veniversum/cve-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/veniversum/cve-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/veniversum/cve-2025-43300">
 - [ticofookfook/CVE-2025-43300](https://github.com/ticofookfook/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2025-43300">
 - [7amzahard/CVE-2025-43300](https://github.com/7amzahard/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/CVE-2025-43300">
+- [JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201](https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201)	<img alt="forks" src="https://img.shields.io/github/forks/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201">	<img alt="stars" src="https://img.shields.io/github/stars/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201">
+- [Dark-life944/CVE-2025](https://github.com/Dark-life944/CVE-2025)	<img alt="forks" src="https://img.shields.io/github/forks/Dark-life944/CVE-2025">	<img alt="stars" src="https://img.shields.io/github/stars/Dark-life944/CVE-2025">
 
 ---
 ## CVE-2025-4322 ()
@@ -6868,7 +6870,7 @@
 ## CVE-2025-1337 ()
 > 
 - [ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ada-z3r0/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ada-z3r0/CVE-2025-1337-PoC">
-- [Zwique/CVE-2025-1337-POC](https://github.com/Zwique/CVE-2025-1337-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-1337-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-1337-POC">
+- [Zwique/CVE-2025-1337-PoC](https://github.com/Zwique/CVE-2025-1337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Zwique/CVE-2025-1337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Zwique/CVE-2025-1337-PoC">
 
 ---
 ## CVE-2025-13315 ()
