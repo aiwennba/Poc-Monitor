@@ -2026,6 +2026,9 @@
 - [pyroxenites/CVE-2025-55182](https://github.com/pyroxenites/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/pyroxenites/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/pyroxenites/CVE-2025-55182">
 - [xkillbit/cve-2025-55182-scanner](https://github.com/xkillbit/cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xkillbit/cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xkillbit/cve-2025-55182-scanner">
 - [sherlocksecurity/CVE-2025-55182-Scanner-Exploit](https://github.com/sherlocksecurity/CVE-2025-55182-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Scanner-Exploit">
+- [joshterrill/CVE-2025-55182-realistic-poc](https://github.com/joshterrill/CVE-2025-55182-realistic-poc)	<img alt="forks" src="https://img.shields.io/github/forks/joshterrill/CVE-2025-55182-realistic-poc">	<img alt="stars" src="https://img.shields.io/github/stars/joshterrill/CVE-2025-55182-realistic-poc">
+- [yiyihuohuo/CVE-2025-55182scan](https://github.com/yiyihuohuo/CVE-2025-55182scan)	<img alt="forks" src="https://img.shields.io/github/forks/yiyihuohuo/CVE-2025-55182scan">	<img alt="stars" src="https://img.shields.io/github/stars/yiyihuohuo/CVE-2025-55182scan">
+- [ThemeHackers/CVE-2025-55182](https://github.com/ThemeHackers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
