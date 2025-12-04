@@ -2035,6 +2035,10 @@
 - [M0onPu15e/next.js-scanner](https://github.com/M0onPu15e/next.js-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/M0onPu15e/next.js-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/M0onPu15e/next.js-scanner">
 - [joaonevess/rust-flight](https://github.com/joaonevess/rust-flight)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/rust-flight">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/rust-flight">
 - [7ealvivek/CVE-2025-55182-by-realvivek](https://github.com/7ealvivek/CVE-2025-55182-by-realvivek)	<img alt="forks" src="https://img.shields.io/github/forks/7ealvivek/CVE-2025-55182-by-realvivek">	<img alt="stars" src="https://img.shields.io/github/stars/7ealvivek/CVE-2025-55182-by-realvivek">
+- [sudo-Yangziran/CVE-2025-55182POC](https://github.com/sudo-Yangziran/CVE-2025-55182POC)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-Yangziran/CVE-2025-55182POC">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-Yangziran/CVE-2025-55182POC">
+- [jf0x3a/CVE-2025-55182-exploit](https://github.com/jf0x3a/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jf0x3a/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jf0x3a/CVE-2025-55182-exploit">
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/assetnote/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/assetnote/react2shell-scanner">
+- [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
