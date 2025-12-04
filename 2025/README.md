@@ -454,6 +454,7 @@
 - [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gensecaihq/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gensecaihq/react2shell-scanner">
 - [Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
+- [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
 
 ---
 ## CVE-2025-66022 ()
@@ -2061,6 +2062,8 @@
 - [luskafaria/cve-2025-55182](https://github.com/luskafaria/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luskafaria/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luskafaria/cve-2025-55182">
 - [c0rydoras/CVE-2025-55182](https://github.com/c0rydoras/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/c0rydoras/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/c0rydoras/CVE-2025-55182">
 - [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/carlosaruy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/carlosaruy/CVE-2025-55182">
+- [0xPThree/cve-2025-55182](https://github.com/0xPThree/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xPThree/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xPThree/cve-2025-55182">
+- [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
 
 ---
 ## CVE-2025-54988 ()
