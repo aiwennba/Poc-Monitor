@@ -2033,6 +2033,7 @@
 - [mingyisecurity-lab/CVE-2025-55182-TOOLS](https://github.com/mingyisecurity-lab/CVE-2025-55182-TOOLS)	<img alt="forks" src="https://img.shields.io/github/forks/mingyisecurity-lab/CVE-2025-55182-TOOLS">	<img alt="stars" src="https://img.shields.io/github/stars/mingyisecurity-lab/CVE-2025-55182-TOOLS">
 - [rpjboyarski/java4script](https://github.com/rpjboyarski/java4script)	<img alt="forks" src="https://img.shields.io/github/forks/rpjboyarski/java4script">	<img alt="stars" src="https://img.shields.io/github/stars/rpjboyarski/java4script">
 - [M0onPu15e/next.js-scanner](https://github.com/M0onPu15e/next.js-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/M0onPu15e/next.js-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/M0onPu15e/next.js-scanner">
+- [joaonevess/rust-flight](https://github.com/joaonevess/rust-flight)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/rust-flight">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/rust-flight">
 
 ---
 ## CVE-2025-54988 ()
