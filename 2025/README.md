@@ -2053,6 +2053,7 @@
 - [hzhsec/cve_2025_55182_test](https://github.com/hzhsec/cve_2025_55182_test)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/cve_2025_55182_test">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/cve_2025_55182_test">
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gensecaihq/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gensecaihq/react2shell-scanner">
 - [Chelsea486MHz/CVE-2025-55182-test](https://github.com/Chelsea486MHz/CVE-2025-55182-test)	<img alt="forks" src="https://img.shields.io/github/forks/Chelsea486MHz/CVE-2025-55182-test">	<img alt="stars" src="https://img.shields.io/github/stars/Chelsea486MHz/CVE-2025-55182-test">
+- [oways/React2shell-CVE-2025-55182-checker](https://github.com/oways/React2shell-CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/oways/React2shell-CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/oways/React2shell-CVE-2025-55182-checker">
 
 ---
 ## CVE-2025-54988 ()
