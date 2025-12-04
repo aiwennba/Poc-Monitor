@@ -2034,6 +2034,7 @@
 - [rpjboyarski/java4script](https://github.com/rpjboyarski/java4script)	<img alt="forks" src="https://img.shields.io/github/forks/rpjboyarski/java4script">	<img alt="stars" src="https://img.shields.io/github/stars/rpjboyarski/java4script">
 - [M0onPu15e/next.js-scanner](https://github.com/M0onPu15e/next.js-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/M0onPu15e/next.js-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/M0onPu15e/next.js-scanner">
 - [joaonevess/rust-flight](https://github.com/joaonevess/rust-flight)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/rust-flight">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/rust-flight">
+- [7ealvivek/CVE-2025-55182-by-realvivek](https://github.com/7ealvivek/CVE-2025-55182-by-realvivek)	<img alt="forks" src="https://img.shields.io/github/forks/7ealvivek/CVE-2025-55182-by-realvivek">	<img alt="stars" src="https://img.shields.io/github/stars/7ealvivek/CVE-2025-55182-by-realvivek">
 
 ---
 ## CVE-2025-54988 ()
@@ -6937,6 +6938,7 @@
 ## CVE-2025-13486 ()
 > 
 - [lasthero-887/CVE-2025-13486---Poc](https://github.com/lasthero-887/CVE-2025-13486---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/lasthero-887/CVE-2025-13486---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/lasthero-887/CVE-2025-13486---Poc">
+- [0xnemian/CVE-2025-13486.-CVE-2025-13486](https://github.com/0xnemian/CVE-2025-13486.-CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xnemian/CVE-2025-13486.-CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xnemian/CVE-2025-13486.-CVE-2025-13486">
 
 ---
 ## CVE-2025-13390 ()
