@@ -2031,6 +2031,8 @@
 - [ThemeHackers/CVE-2025-55182](https://github.com/ThemeHackers/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-55182">
 - [Sat0ru-qwq/CVE-2025-55182-exp](https://github.com/Sat0ru-qwq/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Sat0ru-qwq/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Sat0ru-qwq/CVE-2025-55182-exp">
 - [mingyisecurity-lab/CVE-2025-55182-TOOLS](https://github.com/mingyisecurity-lab/CVE-2025-55182-TOOLS)	<img alt="forks" src="https://img.shields.io/github/forks/mingyisecurity-lab/CVE-2025-55182-TOOLS">	<img alt="stars" src="https://img.shields.io/github/stars/mingyisecurity-lab/CVE-2025-55182-TOOLS">
+- [rpjboyarski/java4script](https://github.com/rpjboyarski/java4script)	<img alt="forks" src="https://img.shields.io/github/forks/rpjboyarski/java4script">	<img alt="stars" src="https://img.shields.io/github/stars/rpjboyarski/java4script">
+- [M0onPu15e/next.js-scanner](https://github.com/M0onPu15e/next.js-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/M0onPu15e/next.js-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/M0onPu15e/next.js-scanner">
 
 ---
 ## CVE-2025-54988 ()
