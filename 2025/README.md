@@ -2057,6 +2057,7 @@
 - [CyCognito/cve-2025-55182-rsc-rce](https://github.com/CyCognito/cve-2025-55182-rsc-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyCognito/cve-2025-55182-rsc-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyCognito/cve-2025-55182-rsc-rce">
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/msanft/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/msanft/CVE-2025-55182">
 - [ivaavimusic/React19-fix-vibecoders](https://github.com/ivaavimusic/React19-fix-vibecoders)	<img alt="forks" src="https://img.shields.io/github/forks/ivaavimusic/React19-fix-vibecoders">	<img alt="stars" src="https://img.shields.io/github/stars/ivaavimusic/React19-fix-vibecoders">
+- [luskafaria/cve-2025-55182](https://github.com/luskafaria/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/luskafaria/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/luskafaria/cve-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -3297,6 +3298,8 @@
 - [bummie/CVE-2025-48384-submodule](https://github.com/bummie/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384-submodule">
 - [bummie/CVE-2025-48384-submodule](https://github.com/bummie/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/bummie/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/bummie/CVE-2025-48384-submodule">
 - [TheCodeAddiction/CVE-2025-48384](https://github.com/TheCodeAddiction/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/TheCodeAddiction/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/TheCodeAddiction/CVE-2025-48384">
+- [zr0n/CVE-2025-48384-main](https://github.com/zr0n/CVE-2025-48384-main)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/CVE-2025-48384-main">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/CVE-2025-48384-main">
+- [zr0n/CVE-2025-48384-sub](https://github.com/zr0n/CVE-2025-48384-sub)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/CVE-2025-48384-sub">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/CVE-2025-48384-sub">
 
 ---
 ## CVE-2025-4822 ()
