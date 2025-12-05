@@ -7028,6 +7028,7 @@
 - [0xnemian/CVE-2025-13486.-CVE-2025-13486](https://github.com/0xnemian/CVE-2025-13486.-CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xnemian/CVE-2025-13486.-CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xnemian/CVE-2025-13486.-CVE-2025-13486">
 - [0xanis/CVE-2025-13486-POC](https://github.com/0xanis/CVE-2025-13486-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xanis/CVE-2025-13486-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xanis/CVE-2025-13486-POC">
 - [KrE80r/cve-2025-13486-vuln-setup](https://github.com/KrE80r/cve-2025-13486-vuln-setup)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/cve-2025-13486-vuln-setup">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/cve-2025-13486-vuln-setup">
+- [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
 
 ---
 ## CVE-2025-13390 ()
