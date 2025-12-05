@@ -2143,6 +2143,9 @@
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
 - [GelukCrab/React-Server-Components-RCE](https://github.com/GelukCrab/React-Server-Components-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/GelukCrab/React-Server-Components-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/GelukCrab/React-Server-Components-RCE">
 - [Golden-Secure/CVE-2025-55182](https://github.com/Golden-Secure/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Golden-Secure/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Golden-Secure/CVE-2025-55182">
+- [alexandre-briongos-wavestone/react-cve-2025-55182-lab](https://github.com/alexandre-briongos-wavestone/react-cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-briongos-wavestone/react-cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-briongos-wavestone/react-cve-2025-55182-lab">
+- [XiaomingX/CVE-2025-55182-poc](https://github.com/XiaomingX/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2025-55182-poc">
+- [INTELEON404/CVE-2025-55182](https://github.com/INTELEON404/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/INTELEON404/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/INTELEON404/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -6968,6 +6971,11 @@
 - [Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Armand2002/Exploit-CVE-2025-1974-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Armand2002/Exploit-CVE-2025-1974-Lab">
 - [BiiTts/POC-IngressNightmare-CVE-2025-1974](https://github.com/BiiTts/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-IngressNightmare-CVE-2025-1974">
 - [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-1974">
+
+---
+## CVE-2025-1913 ()
+> 
+- [S0haib518-KSA/CVE-2025-1913-PoC](https://github.com/S0haib518-KSA/CVE-2025-1913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/S0haib518-KSA/CVE-2025-1913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/S0haib518-KSA/CVE-2025-1913-PoC">
 
 ---
 ## CVE-2025-1793 ()
