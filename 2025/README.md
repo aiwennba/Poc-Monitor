@@ -2142,6 +2142,7 @@
 - [Airis101/CVE-2025-55182-analysis](https://github.com/Airis101/CVE-2025-55182-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Airis101/CVE-2025-55182-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Airis101/CVE-2025-55182-analysis">
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
 - [GelukCrab/React-Server-Components-RCE](https://github.com/GelukCrab/React-Server-Components-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/GelukCrab/React-Server-Components-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/GelukCrab/React-Server-Components-RCE">
+- [Golden-Secure/CVE-2025-55182](https://github.com/Golden-Secure/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Golden-Secure/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Golden-Secure/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
