@@ -477,6 +477,7 @@
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
 - [imbas007/POC-CVE-2025-66478](https://github.com/imbas007/POC-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-66478">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
+- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
 
 ---
 ## CVE-2025-66022 ()
@@ -2156,6 +2157,7 @@
 - [zzhorc/CVE-2025-55182](https://github.com/zzhorc/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zzhorc/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zzhorc/CVE-2025-55182">
 - [nomorebreach/POC-CVE-2025-55182](https://github.com/nomorebreach/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nomorebreach/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nomorebreach/POC-CVE-2025-55182">
 - [rl0x01/CVE-2025-55182_PoC](https://github.com/rl0x01/CVE-2025-55182_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rl0x01/CVE-2025-55182_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rl0x01/CVE-2025-55182_PoC">
+- [Atlantis02-sec/Vulnerability-assessment](https://github.com/Atlantis02-sec/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Atlantis02-sec/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Atlantis02-sec/Vulnerability-assessment">
 
 ---
 ## CVE-2025-54988 ()
