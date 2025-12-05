@@ -2120,6 +2120,9 @@
 - [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)	<img alt="forks" src="https://img.shields.io/github/forks/mrknow001/RSC_Detector">	<img alt="stars" src="https://img.shields.io/github/stars/mrknow001/RSC_Detector">
 - [Spritualkb/CVE-2025-55182-exp](https://github.com/Spritualkb/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Spritualkb/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Spritualkb/CVE-2025-55182-exp">
 - [younesZdDz/CVE-2025-55182](https://github.com/younesZdDz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/younesZdDz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/younesZdDz/CVE-2025-55182">
+- [RuoJi6/CVE-2025-55182-RCE-shell](https://github.com/RuoJi6/CVE-2025-55182-RCE-shell)	<img alt="forks" src="https://img.shields.io/github/forks/RuoJi6/CVE-2025-55182-RCE-shell">	<img alt="stars" src="https://img.shields.io/github/stars/RuoJi6/CVE-2025-55182-RCE-shell">
+- [hualy13/CVE-2025-55182](https://github.com/hualy13/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hualy13/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hualy13/CVE-2025-55182">
+- [sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner">
 
 ---
 ## CVE-2025-54988 ()
