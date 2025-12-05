@@ -2177,6 +2177,8 @@
 - [pax-k/react2shell-CVE-2025-55182-full-rce-script](https://github.com/pax-k/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/pax-k/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/pax-k/react2shell-CVE-2025-55182-full-rce-script">
 - [hackersatyamrastogi/react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/react2shell-ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/react2shell-ultimate">
 - [kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/kOaDT/poc-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182">
+- [yanoshercohen/CVE-2025-55182](https://github.com/yanoshercohen/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yanoshercohen/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yanoshercohen/CVE-2025-55182">
+- [StealthMoud/CVE-2025-55182-Scanner](https://github.com/StealthMoud/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/CVE-2025-55182-Scanner">
 
 ---
 ## CVE-2025-54988 ()
