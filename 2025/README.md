@@ -2215,6 +2215,8 @@
 - [zorejt/Rust_CVE-2025-55182](https://github.com/zorejt/Rust_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zorejt/Rust_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zorejt/Rust_CVE-2025-55182">
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 - [Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-](https://github.com/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/Kryptopacy/Next.js-RCE-Patcher--CVE-2025-55182-">
+- [yunaranyancat/CVE-2025-55182-NSE](https://github.com/yunaranyancat/CVE-2025-55182-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/yunaranyancat/CVE-2025-55182-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/yunaranyancat/CVE-2025-55182-NSE">
+- [MrSol0/CVE-2025-55182-Terminal](https://github.com/MrSol0/CVE-2025-55182-Terminal)	<img alt="forks" src="https://img.shields.io/github/forks/MrSol0/CVE-2025-55182-Terminal">	<img alt="stars" src="https://img.shields.io/github/stars/MrSol0/CVE-2025-55182-Terminal">
 
 ---
 ## CVE-2025-54988 ()
