@@ -499,6 +499,8 @@
 - [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 - [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)	<img alt="forks" src="https://img.shields.io/github/forks/vercel-labs/fix-react2shell-next">	<img alt="stars" src="https://img.shields.io/github/stars/vercel-labs/fix-react2shell-next">
+- [aiexz/CVE-2025-66478-kinda-waf](https://github.com/aiexz/CVE-2025-66478-kinda-waf)	<img alt="forks" src="https://img.shields.io/github/forks/aiexz/CVE-2025-66478-kinda-waf">	<img alt="stars" src="https://img.shields.io/github/stars/aiexz/CVE-2025-66478-kinda-waf">
+- [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 
 ---
 ## CVE-2025-66022 ()
