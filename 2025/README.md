@@ -2208,6 +2208,7 @@
 - [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
 - [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
 - [ayoub-intigriti/react2shell-cve](https://github.com/ayoub-intigriti/react2shell-cve)	<img alt="forks" src="https://img.shields.io/github/forks/ayoub-intigriti/react2shell-cve">	<img alt="stars" src="https://img.shields.io/github/stars/ayoub-intigriti/react2shell-cve">
+- [zorejt/CVE-2025-55182_rust](https://github.com/zorejt/CVE-2025-55182_rust)	<img alt="forks" src="https://img.shields.io/github/forks/zorejt/CVE-2025-55182_rust">	<img alt="stars" src="https://img.shields.io/github/stars/zorejt/CVE-2025-55182_rust">
 
 ---
 ## CVE-2025-54988 ()
