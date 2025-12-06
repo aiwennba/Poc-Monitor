@@ -479,6 +479,7 @@
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
 - [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
 - [sh1ro8/react2shell](https://github.com/sh1ro8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/sh1ro8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/sh1ro8/react2shell">
+- [namest504/CVE-2025-66478-Exploit-Poc](https://github.com/namest504/CVE-2025-66478-Exploit-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/namest504/CVE-2025-66478-Exploit-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/namest504/CVE-2025-66478-Exploit-Poc">
 
 ---
 ## CVE-2025-66022 ()
@@ -596,6 +597,11 @@
 ## CVE-2025-65320 ()
 > 
 - [Smarttfoxx/CVE-2025-65320](https://github.com/Smarttfoxx/CVE-2025-65320)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-65320">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-65320">
+
+---
+## CVE-2025-65300 ()
+> 
+- [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
 
 ---
 ## CVE-2025-6514 ()
