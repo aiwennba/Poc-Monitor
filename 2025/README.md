@@ -628,6 +628,11 @@
 - [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
 
 ---
+## CVE-2025-65271 ()
+> 
+- [1337Skid/CVE-2025-65271](https://github.com/1337Skid/CVE-2025-65271)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2025-65271">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2025-65271">
+
+---
 ## CVE-2025-6514 ()
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
