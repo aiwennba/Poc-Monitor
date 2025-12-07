@@ -2290,6 +2290,9 @@
 - [SainiONHacks/CVE-2025-55182-Scanner](https://github.com/SainiONHacks/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/SainiONHacks/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/SainiONHacks/CVE-2025-55182-Scanner">
 - [M4xSec/CVE-2025-55182-React2Shell-RCE-Shell](https://github.com/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell">
 - [Dh4v4l8/CVE-2025-55182-poc-tool](https://github.com/Dh4v4l8/CVE-2025-55182-poc-tool)	<img alt="forks" src="https://img.shields.io/github/forks/Dh4v4l8/CVE-2025-55182-poc-tool">	<img alt="stars" src="https://img.shields.io/github/stars/Dh4v4l8/CVE-2025-55182-poc-tool">
+- [surajhacx/react2shellpoc](https://github.com/surajhacx/react2shellpoc)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/react2shellpoc">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/react2shellpoc">
+- [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
+- [umairahmadh/react-vuln-scanner](https://github.com/umairahmadh/react-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/umairahmadh/react-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/umairahmadh/react-vuln-scanner">
 
 ---
 ## CVE-2025-54988 ()
@@ -7239,6 +7242,7 @@
 ## CVE-2025-13377 ()
 > 
 - [IceSpice31/CVE-2025-13377-Exploit](https://github.com/IceSpice31/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IceSpice31/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IceSpice31/CVE-2025-13377-Exploit">
+- [Rimas214/CVE-2025-13377-Exploit](https://github.com/Rimas214/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Rimas214/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Rimas214/CVE-2025-13377-Exploit">
 
 ---
 ## CVE-2025-13372 ()
