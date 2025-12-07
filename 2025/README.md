@@ -2293,6 +2293,8 @@
 - [surajhacx/react2shellpoc](https://github.com/surajhacx/react2shellpoc)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/react2shellpoc">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/react2shellpoc">
 - [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
 - [umairahmadh/react-vuln-scanner](https://github.com/umairahmadh/react-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/umairahmadh/react-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/umairahmadh/react-vuln-scanner">
+- [kavienanj/CVE-2025-55182](https://github.com/kavienanj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/kavienanj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/kavienanj/CVE-2025-55182">
+- [nightmare653/react-scanner-CVE-2025-55182-recon](https://github.com/nightmare653/react-scanner-CVE-2025-55182-recon)	<img alt="forks" src="https://img.shields.io/github/forks/nightmare653/react-scanner-CVE-2025-55182-recon">	<img alt="stars" src="https://img.shields.io/github/stars/nightmare653/react-scanner-CVE-2025-55182-recon">
 
 ---
 ## CVE-2025-54988 ()
@@ -5539,6 +5541,7 @@
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [liamromanis101/CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2025-29927-NextJS">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2025-29927-NextJS">
+- [radzek15/CVE-2025-29927-Next.js-middleware](https://github.com/radzek15/CVE-2025-29927-Next.js-middleware)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-29927-Next.js-middleware">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-29927-Next.js-middleware">
 
 ---
 ## CVE-2025-29891 ()
