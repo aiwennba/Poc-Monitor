@@ -2341,6 +2341,8 @@
 - [randarts/react-rce](https://github.com/randarts/react-rce)	<img alt="forks" src="https://img.shields.io/github/forks/randarts/react-rce">	<img alt="stars" src="https://img.shields.io/github/stars/randarts/react-rce">
 - [7amzahard/React2shell](https://github.com/7amzahard/React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/React2shell">
 - [HUAHUAI23/CVE-2025-55182-POC](https://github.com/HUAHUAI23/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HUAHUAI23/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HUAHUAI23/CVE-2025-55182-POC">
+- [yaupunal/CVE-2025-55182-scanner](https://github.com/yaupunal/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yaupunal/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yaupunal/CVE-2025-55182-scanner">
+- [cahyod/react2shell](https://github.com/cahyod/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/cahyod/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/cahyod/react2shell">
 
 ---
 ## CVE-2025-54988 ()
