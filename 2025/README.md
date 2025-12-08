@@ -2353,6 +2353,7 @@
 - [Ibonok/CVE-2025-55182-Burp-Passive-Extension](https://github.com/Ibonok/CVE-2025-55182-Burp-Passive-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2025-55182-Burp-Passive-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2025-55182-Burp-Passive-Extension">
 - [jandelima/cve-2025-55182-poc-test](https://github.com/jandelima/cve-2025-55182-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/jandelima/cve-2025-55182-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/jandelima/cve-2025-55182-poc-test">
 - [Cyberking0x1/CVE2025-55182](https://github.com/Cyberking0x1/CVE2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Cyberking0x1/CVE2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Cyberking0x1/CVE2025-55182">
+- [FurkanKAYAPINAR/React-Next-Scanner](https://github.com/FurkanKAYAPINAR/React-Next-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/React-Next-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/React-Next-Scanner">
 
 ---
 ## CVE-2025-54988 ()
