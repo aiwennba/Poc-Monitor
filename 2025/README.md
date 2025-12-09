@@ -7378,6 +7378,11 @@
 - [ShantyPrime/CVE-2025-1337-Poc](https://github.com/ShantyPrime/CVE-2025-1337-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ShantyPrime/CVE-2025-1337-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ShantyPrime/CVE-2025-1337-Poc">
 
 ---
+## CVE-2025-13342 ()
+> 
+- [Altelus1/CVE-2025-13342](https://github.com/Altelus1/CVE-2025-13342)	<img alt="forks" src="https://img.shields.io/github/forks/Altelus1/CVE-2025-13342">	<img alt="stars" src="https://img.shields.io/github/stars/Altelus1/CVE-2025-13342">
+
+---
 ## CVE-2025-13315 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-13315](https://github.com/Ashwesker/Blackash-CVE-2025-13315)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13315">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13315">
