@@ -2420,6 +2420,7 @@
 - [alfazhossain/CVE-2025-55182-Exploiter](https://github.com/alfazhossain/CVE-2025-55182-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/alfazhossain/CVE-2025-55182-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/alfazhossain/CVE-2025-55182-Exploiter">
 - [keshavyaduvans/cve-2025-55182](https://github.com/keshavyaduvans/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/keshavyaduvans/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/keshavyaduvans/cve-2025-55182">
 - [ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner](https://github.com/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner">
+- [byte16384/CVE-2025-55182](https://github.com/byte16384/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/byte16384/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/byte16384/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
