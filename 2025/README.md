@@ -2463,6 +2463,7 @@
 - [amir-malek/react-cve-2025-55182](https://github.com/amir-malek/react-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/amir-malek/react-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/amir-malek/react-cve-2025-55182">
 - [Jaycelation/CVE-2025-55182](https://github.com/Jaycelation/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Jaycelation/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Jaycelation/CVE-2025-55182">
 - [shyambhanushali/React2Shell](https://github.com/shyambhanushali/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shyambhanushali/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shyambhanushali/React2Shell">
+- [Ankitspandey07/React2Shell](https://github.com/Ankitspandey07/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ankitspandey07/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ankitspandey07/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
