@@ -587,6 +587,7 @@
 > 
 - [Anthony558238/CVE-2025-65964-poc](https://github.com/Anthony558238/CVE-2025-65964-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Anthony558238/CVE-2025-65964-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Anthony558238/CVE-2025-65964-poc">
 - [Syzygy-K/CVE-2025-65964-Exploit](https://github.com/Syzygy-K/CVE-2025-65964-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Syzygy-K/CVE-2025-65964-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Syzygy-K/CVE-2025-65964-Exploit">
+- [Geekby/n8n-CVE-2025-65964](https://github.com/Geekby/n8n-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Geekby/n8n-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Geekby/n8n-CVE-2025-65964">
 
 ---
 ## CVE-2025-65900 ()
@@ -2365,7 +2366,7 @@
 - [rapticore/ore_react2shell_scanner](https://github.com/rapticore/ore_react2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/rapticore/ore_react2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/rapticore/ore_react2shell_scanner">
 - [ahmedshamsddin/CVE-2025-55182](https://github.com/ahmedshamsddin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/CVE-2025-55182">
 - [jumodada/react-cve-2025-55182-demo](https://github.com/jumodada/react-cve-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/jumodada/react-cve-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/jumodada/react-cve-2025-55182-demo">
-- [mil4ne/CVE-2025-55182-React2Shell-](https://github.com/mil4ne/CVE-2025-55182-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2025-55182-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2025-55182-React2Shell-">
+- [mil4ne/CVE-2025-55182-React2Shell](https://github.com/mil4ne/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2025-55182-React2Shell">
 - [LemonTeatw1/CVE-2025-55182-exploit](https://github.com/LemonTeatw1/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LemonTeatw1/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LemonTeatw1/CVE-2025-55182-exploit">
 - [ethicalrohitt/React2Shell_cve-2025-55182](https://github.com/ethicalrohitt/React2Shell_cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ethicalrohitt/React2Shell_cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ethicalrohitt/React2Shell_cve-2025-55182">
 - [ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell](https://github.com/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ihhgimhana/React2Shell-CVE-2025-55182-PoC-Reverse-Shell">
@@ -2472,6 +2473,7 @@
 - [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 - [osman-butt/CVE-2025-55182-demo](https://github.com/osman-butt/CVE-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/osman-butt/CVE-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/osman-butt/CVE-2025-55182-demo">
 - [trax69/cve-2025-55182-poc](https://github.com/trax69/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/trax69/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/trax69/cve-2025-55182-poc">
+- [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
