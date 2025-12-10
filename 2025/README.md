@@ -114,6 +114,7 @@
 - [BridgerAlderson/CVE-2025-9074-PoC](https://github.com/BridgerAlderson/CVE-2025-9074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-9074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-9074-PoC">
 - [xwpdx0/poc-2025-9074](https://github.com/xwpdx0/poc-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/xwpdx0/poc-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/xwpdx0/poc-2025-9074">
 - [PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape](https://github.com/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">
+- [pppxo/CVE-2025-9074-PoC-Bash](https://github.com/pppxo/CVE-2025-9074-PoC-Bash)	<img alt="forks" src="https://img.shields.io/github/forks/pppxo/CVE-2025-9074-PoC-Bash">	<img alt="stars" src="https://img.shields.io/github/stars/pppxo/CVE-2025-9074-PoC-Bash">
 
 ---
 ## CVE-2025-9043 ()
