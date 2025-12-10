@@ -2478,6 +2478,7 @@
 - [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
 - [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
 - [iamblacksolo2-BugBounty/POC2-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC2-CVE-2025-55182">
+- [theori-io/reactguard](https://github.com/theori-io/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/reactguard">
 
 ---
 ## CVE-2025-54988 ()
@@ -2717,6 +2718,7 @@
 - [fortihack/CVE-2025-53772](https://github.com/fortihack/CVE-2025-53772)	<img alt="forks" src="https://img.shields.io/github/forks/fortihack/CVE-2025-53772">	<img alt="stars" src="https://img.shields.io/github/stars/fortihack/CVE-2025-53772">
 - [go-bi/CVE-2025-53772-](https://github.com/go-bi/CVE-2025-53772-)	<img alt="forks" src="https://img.shields.io/github/forks/go-bi/CVE-2025-53772-">	<img alt="stars" src="https://img.shields.io/github/stars/go-bi/CVE-2025-53772-">
 - [SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC](https://github.com/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC">
+- [sailay1996/CVE-2025-53772-standalone](https://github.com/sailay1996/CVE-2025-53772-standalone)	<img alt="forks" src="https://img.shields.io/github/forks/sailay1996/CVE-2025-53772-standalone">	<img alt="stars" src="https://img.shields.io/github/stars/sailay1996/CVE-2025-53772-standalone">
 
 ---
 ## CVE-2025-53770 ()
