@@ -2487,6 +2487,7 @@
 - [gunyakit/CVE-2025-55182-PoC-exploit](https://github.com/gunyakit/CVE-2025-55182-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-55182-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-55182-PoC-exploit">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
+- [Sotatek-KhaiNguyen3/CVE-2025-55182](https://github.com/Sotatek-KhaiNguyen3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Sotatek-KhaiNguyen3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Sotatek-KhaiNguyen3/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -2726,7 +2727,7 @@
 - [fortihack/CVE-2025-53772](https://github.com/fortihack/CVE-2025-53772)	<img alt="forks" src="https://img.shields.io/github/forks/fortihack/CVE-2025-53772">	<img alt="stars" src="https://img.shields.io/github/stars/fortihack/CVE-2025-53772">
 - [go-bi/CVE-2025-53772-](https://github.com/go-bi/CVE-2025-53772-)	<img alt="forks" src="https://img.shields.io/github/forks/go-bi/CVE-2025-53772-">	<img alt="stars" src="https://img.shields.io/github/stars/go-bi/CVE-2025-53772-">
 - [SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC](https://github.com/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SleepNotF0und/CVE-2025-53772-IIS-WebDeploy-RCE-POC">
-- [sailay1996/CVE-2025-53772-standalone](https://github.com/sailay1996/CVE-2025-53772-standalone)	<img alt="forks" src="https://img.shields.io/github/forks/sailay1996/CVE-2025-53772-standalone">	<img alt="stars" src="https://img.shields.io/github/stars/sailay1996/CVE-2025-53772-standalone">
+- [sailay1996/CVE-2025-53772](https://github.com/sailay1996/CVE-2025-53772)	<img alt="forks" src="https://img.shields.io/github/forks/sailay1996/CVE-2025-53772">	<img alt="stars" src="https://img.shields.io/github/stars/sailay1996/CVE-2025-53772">
 
 ---
 ## CVE-2025-53770 ()
