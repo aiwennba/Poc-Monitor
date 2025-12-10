@@ -2497,6 +2497,7 @@
 - [gonaumov/cve-2025-55182-checker](https://github.com/gonaumov/cve-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/gonaumov/cve-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/gonaumov/cve-2025-55182-checker">
 - [rix4uni/CVE-2025-55182](https://github.com/rix4uni/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2025-55182">
 - [BeichenDream/CVE-2025-55182-GodzillaMemoryShell](https://github.com/BeichenDream/CVE-2025-55182-GodzillaMemoryShell)	<img alt="forks" src="https://img.shields.io/github/forks/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">	<img alt="stars" src="https://img.shields.io/github/stars/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">
+- [Legus-Yeung/CVE-2025-55182-exploit](https://github.com/Legus-Yeung/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Legus-Yeung/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Legus-Yeung/CVE-2025-55182-exploit">
 
 ---
 ## CVE-2025-54988 ()
