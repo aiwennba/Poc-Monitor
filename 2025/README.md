@@ -4985,6 +4985,7 @@
 - [Kiraly07/Demo_CVE-2025-3248](https://github.com/Kiraly07/Demo_CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Kiraly07/Demo_CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Kiraly07/Demo_CVE-2025-3248">
 - [bambooqj/cve-2025-3248](https://github.com/bambooqj/cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/bambooqj/cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/bambooqj/cve-2025-3248">
 - [drackyjr/cve-2025-3248-exploit](https://github.com/drackyjr/cve-2025-3248-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/cve-2025-3248-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/cve-2025-3248-exploit">
+- [b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-3248-POC">
 
 ---
 ## CVE-2025-32463 ()
