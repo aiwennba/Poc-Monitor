@@ -2474,6 +2474,7 @@
 - [osman-butt/CVE-2025-55182-demo](https://github.com/osman-butt/CVE-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/osman-butt/CVE-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/osman-butt/CVE-2025-55182-demo">
 - [trax69/cve-2025-55182-poc](https://github.com/trax69/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/trax69/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/trax69/cve-2025-55182-poc">
 - [Arcueld/CVE-2025-55182](https://github.com/Arcueld/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Arcueld/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Arcueld/CVE-2025-55182">
+- [notkittenn/poc_react2shell](https://github.com/notkittenn/poc_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/notkittenn/poc_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/notkittenn/poc_react2shell">
 
 ---
 ## CVE-2025-54988 ()
@@ -4843,6 +4844,7 @@
 - [SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073](https://github.com/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
 - [Ashwesker/Blackash-CVE-2025-33073](https://github.com/Ashwesker/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-33073">
+- [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
