@@ -4985,7 +4985,7 @@
 - [imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-3248">
 - [0xgh057r3c0n/CVE-2025-3248](https://github.com/0xgh057r3c0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-3248">
 - [zapstiko/CVE-2025-3248](https://github.com/zapstiko/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/zapstiko/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/zapstiko/CVE-2025-3248">
-- [B1ack4sh/Blackash-CVE-2025-3248](https://github.com/B1ack4sh/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-3248">
+- [Ashwesker/Blackash-CVE-2025-3248](https://github.com/Ashwesker/Blackash-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-3248">
 - [issamjr/CVE-2025-3248-Scanner](https://github.com/issamjr/CVE-2025-3248-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-3248-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-3248-Scanner">
 - [0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0-d3y/langflow-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0-d3y/langflow-rce-exploit">
 - [dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3248">
@@ -7342,6 +7342,7 @@
 - [Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Armand2002/Exploit-CVE-2025-1974-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Armand2002/Exploit-CVE-2025-1974-Lab">
 - [BiiTts/POC-IngressNightmare-CVE-2025-1974](https://github.com/BiiTts/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-IngressNightmare-CVE-2025-1974">
 - [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-1974">
+- [gunyakit/CVE-2025-1974-PoC-exploit](https://github.com/gunyakit/CVE-2025-1974-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-1974-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-1974-PoC-exploit">
 
 ---
 ## CVE-2025-1913 ()
