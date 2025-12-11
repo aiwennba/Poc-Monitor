@@ -221,6 +221,7 @@
 ## CVE-2025-8110 ()
 > 
 - [rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-8110">
+- [Ashwesker/Blackash-CVE-2025-8110](https://github.com/Ashwesker/Blackash-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -2611,6 +2612,7 @@
 - [trilogy-group/react2shell-scan](https://github.com/trilogy-group/react2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/trilogy-group/react2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/trilogy-group/react2shell-scan">
 - [anuththara2007-W/CVE-2025-55182-Exploit-extension](https://github.com/anuththara2007-W/CVE-2025-55182-Exploit-extension)	<img alt="forks" src="https://img.shields.io/github/forks/anuththara2007-W/CVE-2025-55182-Exploit-extension">	<img alt="stars" src="https://img.shields.io/github/stars/anuththara2007-W/CVE-2025-55182-Exploit-extension">
 - [talentte/react2shell-scanner](https://github.com/talentte/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/talentte/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/talentte/react2shell-scanner">
+- [andrei2308/react2shell](https://github.com/andrei2308/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/andrei2308/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/andrei2308/react2shell">
 
 ---
 ## CVE-2025-54988 ()
