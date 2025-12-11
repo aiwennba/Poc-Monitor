@@ -1126,6 +1126,11 @@
 - [cristibtz/CVE-2025-62369](https://github.com/cristibtz/CVE-2025-62369)	<img alt="forks" src="https://img.shields.io/github/forks/cristibtz/CVE-2025-62369">	<img alt="stars" src="https://img.shields.io/github/stars/cristibtz/CVE-2025-62369">
 
 ---
+## CVE-2025-62222 ()
+> 
+- [SadisticNight/PoC-CVE-2025-62222](https://github.com/SadisticNight/PoC-CVE-2025-62222)	<img alt="forks" src="https://img.shields.io/github/forks/SadisticNight/PoC-CVE-2025-62222">	<img alt="stars" src="https://img.shields.io/github/stars/SadisticNight/PoC-CVE-2025-62222">
+
+---
 ## CVE-2025-62221 ()
 > 
 - [JeanKauffman1305/CVE-2025-62221-Exploit-](https://github.com/JeanKauffman1305/CVE-2025-62221-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/JeanKauffman1305/CVE-2025-62221-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/JeanKauffman1305/CVE-2025-62221-Exploit-">
@@ -7756,6 +7761,11 @@
 - [6h4ack/CVE-2025-12101-checker](https://github.com/6h4ack/CVE-2025-12101-checker)	<img alt="forks" src="https://img.shields.io/github/forks/6h4ack/CVE-2025-12101-checker">	<img alt="stars" src="https://img.shields.io/github/stars/6h4ack/CVE-2025-12101-checker">
 - [boneys/CVE-2025-12101-Scanner-PoC](https://github.com/boneys/CVE-2025-12101-Scanner-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boneys/CVE-2025-12101-Scanner-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boneys/CVE-2025-12101-Scanner-PoC">
 - [7amzahard/CVE-2025-21202-exploit](https://github.com/7amzahard/CVE-2025-21202-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/CVE-2025-21202-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/CVE-2025-21202-exploit">
+
+---
+## CVE-2025-12097 ()
+> 
+- [matejsmycka/PoC-CVE-2025-12097](https://github.com/matejsmycka/PoC-CVE-2025-12097)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/PoC-CVE-2025-12097">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/PoC-CVE-2025-12097">
 
 ---
 ## CVE-2025-11953 ()
