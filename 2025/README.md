@@ -2659,6 +2659,7 @@
 - [ryanhafid/Scan_CVE-2025-55182](https://github.com/ryanhafid/Scan_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/Scan_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/Scan_CVE-2025-55182">
 - [ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/PoC_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/PoC_CVE-2025-55182">
 - [0xLutfifakee/CVE-2025-55182-React2Shell](https://github.com/0xLutfifakee/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xLutfifakee/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xLutfifakee/CVE-2025-55182-React2Shell">
+- [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -4875,6 +4876,11 @@
 > 
 - [Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3776">
 - [Totunm/CVE-2025-3776](https://github.com/Totunm/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3776">
+
+---
+## CVE-2025-36924 ()
+> 
+- [margaretegpid/CVE-2025-36924](https://github.com/margaretegpid/CVE-2025-36924)	<img alt="forks" src="https://img.shields.io/github/forks/margaretegpid/CVE-2025-36924">	<img alt="stars" src="https://img.shields.io/github/stars/margaretegpid/CVE-2025-36924">
 
 ---
 ## CVE-2025-36535 ()
