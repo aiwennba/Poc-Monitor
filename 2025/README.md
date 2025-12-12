@@ -2648,6 +2648,9 @@
 - [securifyai/React2Shell-CVE-2025-55182](https://github.com/securifyai/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/securifyai/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/securifyai/React2Shell-CVE-2025-55182">
 - [W41T3D3V1L/COMPLETE-CVE-2025-55182](https://github.com/W41T3D3V1L/COMPLETE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/W41T3D3V1L/COMPLETE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/W41T3D3V1L/COMPLETE-CVE-2025-55182">
 - [0x5k/rs_CVE-2025-55182_React2Shell](https://github.com/0x5k/rs_CVE-2025-55182_React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0x5k/rs_CVE-2025-55182_React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0x5k/rs_CVE-2025-55182_React2Shell">
+- [oguri-souhei/CVE-2025-55182](https://github.com/oguri-souhei/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/oguri-souhei/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/oguri-souhei/CVE-2025-55182">
+- [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-](https://github.com/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-)	<img alt="forks" src="https://img.shields.io/github/forks/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">	<img alt="stars" src="https://img.shields.io/github/stars/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">
 
 ---
 ## CVE-2025-54988 ()
