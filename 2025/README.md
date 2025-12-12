@@ -2293,6 +2293,7 @@
 ## CVE-2025-55183 ()
 > 
 - [Saturate/CVE-2025-55183](https://github.com/Saturate/CVE-2025-55183)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55183">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55183">
+- [kimtruth/CVE-2025-55183-poc](https://github.com/kimtruth/CVE-2025-55183-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kimtruth/CVE-2025-55183-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kimtruth/CVE-2025-55183-poc">
 
 ---
 ## CVE-2025-55182 ()
@@ -2628,6 +2629,7 @@
 - [j0lt-github/react2shell-burp](https://github.com/j0lt-github/react2shell-burp)	<img alt="forks" src="https://img.shields.io/github/forks/j0lt-github/react2shell-burp">	<img alt="stars" src="https://img.shields.io/github/stars/j0lt-github/react2shell-burp">
 - [4nuxd/React2Shell](https://github.com/4nuxd/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/React2Shell">
 - [VolksRat71/react2shellexploitvisualized](https://github.com/VolksRat71/react2shellexploitvisualized)	<img alt="forks" src="https://img.shields.io/github/forks/VolksRat71/react2shellexploitvisualized">	<img alt="stars" src="https://img.shields.io/github/stars/VolksRat71/react2shellexploitvisualized">
+- [IrsyadSEC/CVE-2025-55182-MassPayloadAttack](https://github.com/IrsyadSEC/CVE-2025-55182-MassPayloadAttack)	<img alt="forks" src="https://img.shields.io/github/forks/IrsyadSEC/CVE-2025-55182-MassPayloadAttack">	<img alt="stars" src="https://img.shields.io/github/stars/IrsyadSEC/CVE-2025-55182-MassPayloadAttack">
 
 ---
 ## CVE-2025-54988 ()
