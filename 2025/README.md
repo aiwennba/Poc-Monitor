@@ -2302,6 +2302,7 @@
 - [caohungphu/react2shell](https://github.com/caohungphu/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/caohungphu/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/caohungphu/react2shell">
 - [StealthMoud/cve-2025-55184-demo](https://github.com/StealthMoud/cve-2025-55184-demo)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/cve-2025-55184-demo">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/cve-2025-55184-demo">
 - [abdozkaya/rsc-security-auditor](https://github.com/abdozkaya/rsc-security-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/abdozkaya/rsc-security-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/abdozkaya/rsc-security-auditor">
+- [StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/react-server-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/react-server-cve-lab">
 
 ---
 ## CVE-2025-55183 ()
@@ -2311,6 +2312,8 @@
 - [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update)	<img alt="forks" src="https://img.shields.io/github/forks/williavs/nextjs-security-update">	<img alt="stars" src="https://img.shields.io/github/stars/williavs/nextjs-security-update">
 - [X-Cotang/CVE-2025-55183_POC](https://github.com/X-Cotang/CVE-2025-55183_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-Cotang/CVE-2025-55183_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-Cotang/CVE-2025-55183_POC">
 - [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/react-server-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/react-server-cve-lab">
+- [omaidnebari/RSC-Scanner-POC](https://github.com/omaidnebari/RSC-Scanner-POC)	<img alt="forks" src="https://img.shields.io/github/forks/omaidnebari/RSC-Scanner-POC">	<img alt="stars" src="https://img.shields.io/github/stars/omaidnebari/RSC-Scanner-POC">
 
 ---
 ## CVE-2025-55182 ()
