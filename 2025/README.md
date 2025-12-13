@@ -2675,6 +2675,7 @@
 - [eaizy/react2hulud-scan](https://github.com/eaizy/react2hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/eaizy/react2hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/eaizy/react2hulud-scan">
 - [sho-luv/React2Shell](https://github.com/sho-luv/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/React2Shell">
 - [TheStingR/ReactOOPS-WriteUp](https://github.com/TheStingR/ReactOOPS-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/ReactOOPS-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/ReactOOPS-WriteUp">
+- [mantvmass/react2shell](https://github.com/mantvmass/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mantvmass/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mantvmass/react2shell">
 
 ---
 ## CVE-2025-54988 ()
