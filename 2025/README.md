@@ -629,6 +629,7 @@
 - [Syzygy-K/CVE-2025-65964-Exploit](https://github.com/Syzygy-K/CVE-2025-65964-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Syzygy-K/CVE-2025-65964-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Syzygy-K/CVE-2025-65964-Exploit">
 - [Geekby/n8n-CVE-2025-65964](https://github.com/Geekby/n8n-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Geekby/n8n-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Geekby/n8n-CVE-2025-65964">
 - [Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-65964">
+- [Saboor-Hakimi-23/CVE-2025-65964](https://github.com/Saboor-Hakimi-23/CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi-23/CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi-23/CVE-2025-65964">
 
 ---
 ## CVE-2025-65900 ()
@@ -2873,6 +2874,7 @@
 ## CVE-2025-54100 ()
 > 
 - [osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/osman1337-security/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/osman1337-security/CVE-2025-54100">
+- [ThemeHackers/CVE-2025-54100](https://github.com/ThemeHackers/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-54100">
 
 ---
 ## CVE-2025-53964 ()
@@ -6646,6 +6648,7 @@
 - [Yucaerin/CVE-2025-2539](https://github.com/Yucaerin/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-2539">
 - [d4rkh0rse/CVE-2025-2539](https://github.com/d4rkh0rse/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/d4rkh0rse/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/d4rkh0rse/CVE-2025-2539">
 - [AlvaXPloit/CVE-2025-2539](https://github.com/AlvaXPloit/CVE-2025-2539)	<img alt="forks" src="https://img.shields.io/github/forks/AlvaXPloit/CVE-2025-2539">	<img alt="stars" src="https://img.shields.io/github/stars/AlvaXPloit/CVE-2025-2539">
+- [fazaroot/CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read](https://github.com/fazaroot/CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/fazaroot/CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/fazaroot/CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read">
 
 ---
 ## CVE-2025-25369 ()
