@@ -7652,7 +7652,7 @@
 ---
 ## CVE-2025-14174 ()
 > 
-- [MalBean/CVE-2025-14174-Bypass-](https://github.com/MalBean/CVE-2025-14174-Bypass-)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass-">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass-">
+- [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
 
 ---
 ## CVE-2025-13796 ()
