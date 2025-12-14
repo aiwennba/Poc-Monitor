@@ -804,6 +804,7 @@
 - [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
 - [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
 - [truediogo/CVE-2025-64720-PoC](https://github.com/truediogo/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720-PoC">
+- [dantsco/CVE-2025-64720-PoC](https://github.com/dantsco/CVE-2025-64720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dantsco/CVE-2025-64720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dantsco/CVE-2025-64720-PoC">
 
 ---
 ## CVE-2025-64708 ()
@@ -2329,6 +2330,7 @@
 - [StealthMoud/react-server-cve-lab](https://github.com/StealthMoud/react-server-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/StealthMoud/react-server-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/StealthMoud/react-server-cve-lab">
 - [cyberleelawat/CVE-2025-55184](https://github.com/cyberleelawat/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/cyberleelawat/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/cyberleelawat/CVE-2025-55184">
 - [Kajal5414/CVE-2025-55184_Testing](https://github.com/Kajal5414/CVE-2025-55184_Testing)	<img alt="forks" src="https://img.shields.io/github/forks/Kajal5414/CVE-2025-55184_Testing">	<img alt="stars" src="https://img.shields.io/github/stars/Kajal5414/CVE-2025-55184_Testing">
+- [KingHacker353/CVE-2025-55184](https://github.com/KingHacker353/CVE-2025-55184)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-55184">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-55184">
 
 ---
 ## CVE-2025-55183 ()
