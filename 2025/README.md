@@ -634,6 +634,7 @@
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [viperh/poc-cve-next](https://github.com/viperh/poc-cve-next)	<img alt="forks" src="https://img.shields.io/github/forks/viperh/poc-cve-next">	<img alt="stars" src="https://img.shields.io/github/stars/viperh/poc-cve-next">
 - [zhixiangyao/CVE-2025-66478-Exploit-PoC](https://github.com/zhixiangyao/CVE-2025-66478-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zhixiangyao/CVE-2025-66478-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zhixiangyao/CVE-2025-66478-Exploit-PoC">
+- [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
 
 ---
 ## CVE-2025-66470 ()
@@ -2766,6 +2767,7 @@
 - [EQSTLab/CVE-2025-55182](https://github.com/EQSTLab/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-55182">
 - [scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/FiberBreak">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/FiberBreak">
 - [d0cnull/nextjs-CVE-2025-55182](https://github.com/d0cnull/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/d0cnull/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/d0cnull/nextjs-CVE-2025-55182">
+- [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
 
 ---
 ## CVE-2025-54988 ()
