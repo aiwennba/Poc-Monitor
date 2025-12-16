@@ -808,6 +808,11 @@
 - [1337Skid/CVE-2025-65271](https://github.com/1337Skid/CVE-2025-65271)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2025-65271">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2025-65271">
 
 ---
+## CVE-2025-65270 ()
+> 
+- [xh4vm/CVE-2025-65270](https://github.com/xh4vm/CVE-2025-65270)	<img alt="forks" src="https://img.shields.io/github/forks/xh4vm/CVE-2025-65270">	<img alt="stars" src="https://img.shields.io/github/stars/xh4vm/CVE-2025-65270">
+
+---
 ## CVE-2025-6514 ()
 > 
 - [ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)	<img alt="forks" src="https://img.shields.io/github/forks/ChaseHCS/CVE-2025-6514">	<img alt="stars" src="https://img.shields.io/github/stars/ChaseHCS/CVE-2025-6514">
@@ -2752,6 +2757,7 @@
 - [Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182](https://github.com/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/react2shell-scanner-CVE-2025-55182">
 - [doc0null/nextjs-CVE-2025-55182](https://github.com/doc0null/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/doc0null/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/doc0null/nextjs-CVE-2025-55182">
 - [premdanav/react2shelldemo](https://github.com/premdanav/react2shelldemo)	<img alt="forks" src="https://img.shields.io/github/forks/premdanav/react2shelldemo">	<img alt="stars" src="https://img.shields.io/github/stars/premdanav/react2shelldemo">
+- [itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/itumo-arigatone/study-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/itumo-arigatone/study-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
