@@ -474,9 +474,19 @@
 - [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
 
 ---
+## CVE-2025-67888 ()
+> 
+- [reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67888">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67888">
+
+---
 ## CVE-2025-67887 ()
 > 
 - [reewardius/CVE-2025-67887](https://github.com/reewardius/CVE-2025-67887)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67887">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67887">
+
+---
+## CVE-2025-67886 ()
+> 
+- [reewardius/CVE-2025-67886](https://github.com/reewardius/CVE-2025-67886)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67886">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67886">
 
 ---
 ## CVE-2025-67780 ()
