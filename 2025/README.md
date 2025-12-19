@@ -459,6 +459,11 @@
 - [byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-6860">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-6860">
 
 ---
+## CVE-2025-68461 ()
+> 
+- [rxerium/CVE-2025-68461](https://github.com/rxerium/CVE-2025-68461)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68461">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68461">
+
+---
 ## CVE-2025-68434 ()
 > 
 - [Nixon-H/CVE-2025-68434-OSPOS-CSRF](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF">
@@ -7038,6 +7043,7 @@
 - [dr4x-c0d3r/xwiki-exploit](https://github.com/dr4x-c0d3r/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/xwiki-exploit">
 - [dr4xp/xwiki-rce](https://github.com/dr4xp/xwiki-rce)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/xwiki-rce">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/xwiki-rce">
 - [o0wo0o/CVE-2025-24893_Shell](https://github.com/o0wo0o/CVE-2025-24893_Shell)	<img alt="forks" src="https://img.shields.io/github/forks/o0wo0o/CVE-2025-24893_Shell">	<img alt="stars" src="https://img.shields.io/github/stars/o0wo0o/CVE-2025-24893_Shell">
+- [WhiteDominion/CVE-2025-24893](https://github.com/WhiteDominion/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteDominion/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteDominion/CVE-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
@@ -7856,6 +7862,11 @@
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
 
 ---
+## CVE-2025-14733 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-14733](https://github.com/Ashwesker/Blackash-CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14733">
+
+---
 ## CVE-2025-14700 ()
 > 
 - [Nosiume/CVE-2025-14700-poc](https://github.com/Nosiume/CVE-2025-14700-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-14700-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-14700-poc">
@@ -7942,6 +7953,7 @@
 - [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
 - [0xgh057r3c0n/CVE-2025-13486](https://github.com/0xgh057r3c0n/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-13486">
 - [pukixploit/CVE-2025-13486](https://github.com/pukixploit/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/pukixploit/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/pukixploit/CVE-2025-13486">
+- [whattheslime/CVE-2025-13486-exploit](https://github.com/whattheslime/CVE-2025-13486-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2025-13486-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2025-13486-exploit">
 
 ---
 ## CVE-2025-13401 ()
