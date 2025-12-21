@@ -2489,6 +2489,7 @@ length to be included in the checksum calculation is fully consumed.
 - [CDeer1111/CVE-2024-48990](https://github.com/CDeer1111/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/CDeer1111/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/CDeer1111/CVE-2024-48990">
 - [o-sec/CVE-2024-48990](https://github.com/o-sec/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/o-sec/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/o-sec/CVE-2024-48990">
 - [tahsinunluturk/needrestart-privesc-cve-2024-48990](https://github.com/tahsinunluturk/needrestart-privesc-cve-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/tahsinunluturk/needrestart-privesc-cve-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/tahsinunluturk/needrestart-privesc-cve-2024-48990">
+- [sobbing333/CVE-2024-48990-POC](https://github.com/sobbing333/CVE-2024-48990-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sobbing333/CVE-2024-48990-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sobbing333/CVE-2024-48990-POC">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
@@ -10436,6 +10437,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [zhulin837/checkmk_cve-2024-0670](https://github.com/zhulin837/checkmk_cve-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/zhulin837/checkmk_cve-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/zhulin837/checkmk_cve-2024-0670">
 - [magicrc/CVE-2024-0670](https://github.com/magicrc/CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2024-0670">
 - [elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit](https://github.com/elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/elsevar11/CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit">
+- [fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE](https://github.com/fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/Fsociety-CVE-2024-0670-CheckMK-LPE">
 
 ---
 ## CVE-2024-06666 ()
