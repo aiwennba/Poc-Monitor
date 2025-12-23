@@ -7172,7 +7172,7 @@
 - [uzairhaider502/CVE-2025-24813](https://github.com/uzairhaider502/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/uzairhaider502/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/uzairhaider502/CVE-2025-24813">
 - [cyglegit/CVE-2025-24813](https://github.com/cyglegit/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/cyglegit/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/cyglegit/CVE-2025-24813">
 - [137f/PoC-CVE-2025-24813](https://github.com/137f/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-24813">
-- [137f/PoC-CVE-2025-24813](https://github.com/137f/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-24813">
+- [ftz7/PoC-CVE-2025-24813](https://github.com/ftz7/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/ftz7/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/ftz7/PoC-CVE-2025-24813">
 - [thebringerofdeath789/CVE-2025-24813](https://github.com/thebringerofdeath789/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/thebringerofdeath789/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/thebringerofdeath789/CVE-2025-24813">
 - [threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat](https://github.com/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">
 - [CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAlbez/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAlbez/CVE-2025-24813-PoC">
@@ -7183,6 +7183,7 @@
 - [Arthurabriel/POC-CVE-2025-24813](https://github.com/Arthurabriel/POC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Arthurabriel/POC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Arthurabriel/POC-CVE-2025-24813">
 - [pirenga/CVE-2025-24813](https://github.com/pirenga/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/CVE-2025-24813">
 - [gunyakit/CVE-2025-24813-PoC-exploit](https://github.com/gunyakit/CVE-2025-24813-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-24813-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-24813-PoC-exploit">
+- [seahcy/CVE-2025-24813](https://github.com/seahcy/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/seahcy/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/seahcy/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
