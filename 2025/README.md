@@ -225,6 +225,8 @@
 - [rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-8110">
 - [Ashwesker/Blackash-CVE-2025-8110](https://github.com/Ashwesker/Blackash-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-8110">
 - [111ddea/goga-cve-2025-8110](https://github.com/111ddea/goga-cve-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/goga-cve-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/goga-cve-2025-8110">
+- [tovd-go/CVE-2025-8110](https://github.com/tovd-go/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/tovd-go/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/tovd-go/CVE-2025-8110">
+- [zAbuQasem/gogs-CVE-2025-8110](https://github.com/zAbuQasem/gogs-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/zAbuQasem/gogs-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/zAbuQasem/gogs-CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
@@ -2949,6 +2951,7 @@
 - [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
 - [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
 - [Anon2Fear/CVE-2025-55182](https://github.com/Anon2Fear/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2025-55182">
+- [d01ki/react2shell-lab](https://github.com/d01ki/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/d01ki/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/d01ki/react2shell-lab">
 
 ---
 ## CVE-2025-54988 ()
