@@ -731,6 +731,14 @@
 - [Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478">
 - [mio-qwq/nextjs-cve-2025-66478-ctf](https://github.com/mio-qwq/nextjs-cve-2025-66478-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/mio-qwq/nextjs-cve-2025-66478-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/mio-qwq/nextjs-cve-2025-66478-ctf">
 - [thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
+- [wiixx44/CVE-2025-55182](https://github.com/wiixx44/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wiixx44/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wiixx44/CVE-2025-55182">
+- [Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mayca369/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mayca369/CVE-2025-55182">
+- [meneim99/react2shell-scanner](https://github.com/meneim99/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/meneim99/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/meneim99/react2shell-scanner">
+- [mayank729/CVE-2025-55182-scanner](https://github.com/mayank729/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mayank729/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mayank729/CVE-2025-55182-scanner">
+- [phornnato/CVE-2025-55182](https://github.com/phornnato/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/phornnato/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/phornnato/CVE-2025-55182">
+- [slreaperking/CVE-2025-55182-poc](https://github.com/slreaperking/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/slreaperking/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/slreaperking/CVE-2025-55182-poc">
+- [chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script">
+- [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RavinduRathnayaka/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RavinduRathnayaka/CVE-2025-55182-PoC">
 
 ---
 ## CVE-2025-66470 ()
@@ -2985,6 +2993,8 @@
 - [Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mayca369/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mayca369/CVE-2025-55182">
 - [wiixx44/CVE-2025-55182](https://github.com/wiixx44/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wiixx44/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wiixx44/CVE-2025-55182">
 - [alyaapm/CVE-2025-55182-shellinteractive](https://github.com/alyaapm/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/alyaapm/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/alyaapm/CVE-2025-55182-shellinteractive">
+- [sobuj0007/Nextjs_RCE_Exploit_Tool](https://github.com/sobuj0007/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sobuj0007/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sobuj0007/Nextjs_RCE_Exploit_Tool">
+- [thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
@@ -5659,6 +5669,7 @@
 - [Ghstxz/CVE-2025-32463](https://github.com/Ghstxz/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Ghstxz/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Ghstxz/CVE-2025-32463">
 - [ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation](https://github.com/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">
 - [justjoeyking/CVE-2025-32463](https://github.com/justjoeyking/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/justjoeyking/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/justjoeyking/CVE-2025-32463">
+- [Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Alperen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Alperen/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
