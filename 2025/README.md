@@ -8025,6 +8025,11 @@
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
 
 ---
+## CVE-2025-14847 ()
+> 
+- [onewinner/CVE-2025-14847](https://github.com/onewinner/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/onewinner/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/onewinner/CVE-2025-14847">
+
+---
 ## CVE-2025-14765 ()
 > 
 - [InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766](https://github.com/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14765-and-CVE-2025-14766">
