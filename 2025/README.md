@@ -487,6 +487,7 @@
 - [hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate](https://github.com/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">
 - [mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613](https://github.com/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">
 - [releaseown/Analysis-n8n-CVE-2025-68613](https://github.com/releaseown/Analysis-n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/releaseown/Analysis-n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/releaseown/Analysis-n8n-CVE-2025-68613">
+- [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Dlanang/homelab-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Dlanang/homelab-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
