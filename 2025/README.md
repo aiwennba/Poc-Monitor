@@ -3974,7 +3974,7 @@
 - [Zain3311/CVE-2025-49844](https://github.com/Zain3311/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Zain3311/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Zain3311/CVE-2025-49844">
 - [ksnnd32/redis_exploit](https://github.com/ksnnd32/redis_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ksnnd32/redis_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ksnnd32/redis_exploit">
 - [elyasbassir/CVE-2025-49844](https://github.com/elyasbassir/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/elyasbassir/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/elyasbassir/CVE-2025-49844">
-- [Ashwesker/Blackash-CVE-2025-49844](https://github.com/Ashwesker/Blackash-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-49844">
+- [Ashwesker/Ashwesker-CVE-2025-49844](https://github.com/Ashwesker/Ashwesker-CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-49844">
 - [saneki/cve-2025-49844](https://github.com/saneki/cve-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/saneki/cve-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/saneki/cve-2025-49844">
 - [Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Network-Sec/CVE-2025-49844-RediShell-AI-made-Revshell">
 - [hzhsec/redis-cve_2025_49844](https://github.com/hzhsec/redis-cve_2025_49844)	<img alt="forks" src="https://img.shields.io/github/forks/hzhsec/redis-cve_2025_49844">	<img alt="stars" src="https://img.shields.io/github/stars/hzhsec/redis-cve_2025_49844">
@@ -5758,6 +5758,7 @@
 - [ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation](https://github.com/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">
 - [justjoeyking/CVE-2025-32463](https://github.com/justjoeyking/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/justjoeyking/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/justjoeyking/CVE-2025-32463">
 - [Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Alperen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Alperen/CVE-2025-32463">
+- [aexdyhaxor/CVE-2025-32463](https://github.com/aexdyhaxor/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -5838,6 +5839,7 @@
 - [radzek15/CVE-2025-32433](https://github.com/radzek15/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-32433">
 - [soltanali0/CVE-2025-32433-Eploit](https://github.com/soltanali0/CVE-2025-32433-Eploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-32433-Eploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-32433-Eploit">
 - [giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/cve-2025-32433_rce_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/cve-2025-32433_rce_exploit">
+- [AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-](https://github.com/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-)	<img alt="forks" src="https://img.shields.io/github/forks/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-">	<img alt="stars" src="https://img.shields.io/github/stars/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-">
 
 ---
 ## CVE-2025-32432 ()
@@ -8133,6 +8135,7 @@
 - [Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847](https://github.com/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">
 - [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
 - [chinaxploiter/CVE-2025-14847-PoC](https://github.com/chinaxploiter/CVE-2025-14847-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2025-14847-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2025-14847-PoC">
+- [14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026](https://github.com/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026">
 
 ---
 ## CVE-2025-14765 ()
