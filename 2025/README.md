@@ -774,6 +774,7 @@
 - [slreaperking/CVE-2025-55182-poc](https://github.com/slreaperking/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/slreaperking/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/slreaperking/CVE-2025-55182-poc">
 - [chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script)	<img alt="forks" src="https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script">	<img alt="stars" src="https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script">
 - [RavinduRathnayaka/CVE-2025-55182-PoC](https://github.com/RavinduRathnayaka/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/RavinduRathnayaka/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/RavinduRathnayaka/CVE-2025-55182-PoC">
+- [NAYLINNU/CVE-2025-66478](https://github.com/NAYLINNU/CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/NAYLINNU/CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/NAYLINNU/CVE-2025-66478">
 
 ---
 ## CVE-2025-66470 ()
