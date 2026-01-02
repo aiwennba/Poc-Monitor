@@ -6335,6 +6335,8 @@
 - [TopskiyPavelQwertyGang/Review.CVE-2021-3156](https://github.com/TopskiyPavelQwertyGang/Review.CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/TopskiyPavelQwertyGang/Review.CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/TopskiyPavelQwertyGang/Review.CVE-2021-3156">
 - [Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/Sudo-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/Sudo-CVE-2021-3156">
 - [terribleMOTHMAN/my_CVE-2021-3156](https://github.com/terribleMOTHMAN/my_CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/terribleMOTHMAN/my_CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/terribleMOTHMAN/my_CVE-2021-3156">
+- [VilmarTuminskii/cve-2021-3156-sudo-lab](https://github.com/VilmarTuminskii/cve-2021-3156-sudo-lab)	<img alt="forks" src="https://img.shields.io/github/forks/VilmarTuminskii/cve-2021-3156-sudo-lab">	<img alt="stars" src="https://img.shields.io/github/stars/VilmarTuminskii/cve-2021-3156-sudo-lab">
+- [HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA](https://github.com/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA)	<img alt="forks" src="https://img.shields.io/github/forks/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA">	<img alt="stars" src="https://img.shields.io/github/stars/HuzaifaTariqAfzalKhan/CVE-Exploit-Research-Development-ITSOLERA">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
