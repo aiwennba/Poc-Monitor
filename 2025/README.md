@@ -8279,6 +8279,11 @@
 - [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177">
 
 ---
+## CVE-2025-14998 ()
+> 
+- [KTN1990/CVE-2025-14998](https://github.com/KTN1990/CVE-2025-14998)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2025-14998">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2025-14998">
+
+---
 ## CVE-2025-14857 ()
 > 
 - [Ermensonx/CVE-2025-14857-MongoBleed](https://github.com/Ermensonx/CVE-2025-14857-MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/Ermensonx/CVE-2025-14857-MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/Ermensonx/CVE-2025-14857-MongoBleed">
