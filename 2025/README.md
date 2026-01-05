@@ -8458,6 +8458,7 @@
 > 
 - [sidmug3307/CVE-2025-13390-Exploit](https://github.com/sidmug3307/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sidmug3307/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sidmug3307/CVE-2025-13390-Exploit">
 - [d0n601/CVE-2025-13390](https://github.com/d0n601/CVE-2025-13390)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-13390">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-13390">
+- [Nxploited/CVE-2025-13390](https://github.com/Nxploited/CVE-2025-13390)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-13390">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-13390">
 
 ---
 ## CVE-2025-1338 ()
@@ -8574,6 +8575,11 @@
 > 
 - [alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce](https://github.com/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/alnashawatirohwederb2167-max/cve-2025-12735-expr-eval-rce">
 - [AN5I/cve-2025-12735-expr-eval-rce](https://github.com/AN5I/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-12735-expr-eval-rce">
+
+---
+## CVE-2025-12674 ()
+> 
+- [Nxploited/CVE-2025-12674](https://github.com/Nxploited/CVE-2025-12674)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-12674">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-12674">
 
 ---
 ## CVE-2025-12654 ()
