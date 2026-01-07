@@ -469,6 +469,11 @@
 - [luxzy28/CVE-2025-6934](https://github.com/luxzy28/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/luxzy28/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/luxzy28/CVE-2025-6934">
 
 ---
+## CVE-2025-69194 ()
+> 
+- [secdongle/POC_CVE-2025-69194](https://github.com/secdongle/POC_CVE-2025-69194)	<img alt="forks" src="https://img.shields.io/github/forks/secdongle/POC_CVE-2025-69194">	<img alt="stars" src="https://img.shields.io/github/stars/secdongle/POC_CVE-2025-69194">
+
+---
 ## CVE-2025-6907 ()
 > 
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
@@ -1028,6 +1033,7 @@
 ## CVE-2025-65354 ()
 > 
 - [amaansiddd787/CVE-2025-65354](https://github.com/amaansiddd787/CVE-2025-65354)	<img alt="forks" src="https://img.shields.io/github/forks/amaansiddd787/CVE-2025-65354">	<img alt="stars" src="https://img.shields.io/github/stars/amaansiddd787/CVE-2025-65354">
+- [EarthAngel666/CVE-2025-65354](https://github.com/EarthAngel666/CVE-2025-65354)	<img alt="forks" src="https://img.shields.io/github/forks/EarthAngel666/CVE-2025-65354">	<img alt="stars" src="https://img.shields.io/github/stars/EarthAngel666/CVE-2025-65354">
 
 ---
 ## CVE-2025-65346 ()
@@ -8340,6 +8346,7 @@
 - [ElJoamy/MongoBleed-exploit](https://github.com/ElJoamy/MongoBleed-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ElJoamy/MongoBleed-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ElJoamy/MongoBleed-exploit">
 - [keraattin/Mongobleed-Detector-CVE-2025-14847](https://github.com/keraattin/Mongobleed-Detector-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/Mongobleed-Detector-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/Mongobleed-Detector-CVE-2025-14847">
 - [waheeb71/CVE-2025-14847](https://github.com/waheeb71/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/waheeb71/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/waheeb71/CVE-2025-14847">
+- [CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner](https://github.com/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner">
 
 ---
 ## CVE-2025-14783 ()
