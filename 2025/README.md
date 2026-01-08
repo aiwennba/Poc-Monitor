@@ -490,6 +490,11 @@
 - [Nxploited/CVE-2025-68860](https://github.com/Nxploited/CVE-2025-68860)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-68860">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-68860">
 
 ---
+## CVE-2025-68705 ()
+> 
+- [imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check](https://github.com/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check">
+
+---
 ## CVE-2025-68664 ()
 > 
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
