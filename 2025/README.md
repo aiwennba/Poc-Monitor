@@ -972,6 +972,7 @@
 ## CVE-2025-65731 ()
 > 
 - [whitej3rry/CVE-2025-65731](https://github.com/whitej3rry/CVE-2025-65731)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2025-65731">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2025-65731">
+- [whitej3rry/CVE-2025-65731](https://github.com/whitej3rry/CVE-2025-65731)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2025-65731">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2025-65731">
 
 ---
 ## CVE-2025-65681 ()
