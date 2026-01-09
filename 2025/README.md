@@ -8801,6 +8801,11 @@
 - [B1ack4sh/Blackash-CVE-2025-11953](https://github.com/B1ack4sh/Blackash-CVE-2025-11953)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-11953">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-11953">
 
 ---
+## CVE-2025-11877 ()
+> 
+- [hyunchiya/CVE-2025-11877](https://github.com/hyunchiya/CVE-2025-11877)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-11877">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-11877">
+
+---
 ## CVE-2025-11833 ()
 > 
 - [modhopmarrow1973/CVE-2025-11833-LAB](https://github.com/modhopmarrow1973/CVE-2025-11833-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/modhopmarrow1973/CVE-2025-11833-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/modhopmarrow1973/CVE-2025-11833-LAB">
