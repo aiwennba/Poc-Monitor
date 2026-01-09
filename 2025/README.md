@@ -7569,6 +7569,7 @@
 - [BreakingRohit/BreakingRohit-CVE-2025-24893-PoC](https://github.com/BreakingRohit/BreakingRohit-CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BreakingRohit/BreakingRohit-CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BreakingRohit/BreakingRohit-CVE-2025-24893-PoC">
 - [BreakingRohit/CVE-2025-24893-PoC](https://github.com/BreakingRohit/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BreakingRohit/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BreakingRohit/CVE-2025-24893-PoC">
 - [hitchy22/xwiki-exploit](https://github.com/hitchy22/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hitchy22/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hitchy22/xwiki-exploit">
+- [TomKingori/xwiki-cve-2025-24893-exploit](https://github.com/TomKingori/xwiki-cve-2025-24893-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TomKingori/xwiki-cve-2025-24893-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TomKingori/xwiki-cve-2025-24893-exploit">
 
 ---
 ## CVE-2025-24813 ()
@@ -8323,6 +8324,7 @@
 - [Markusino488/cve-2025-8088](https://github.com/Markusino488/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Markusino488/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Markusino488/cve-2025-8088">
 - [juccoblak/CVE-2025-6554](https://github.com/juccoblak/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/juccoblak/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/juccoblak/CVE-2025-6554">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
+- [TomKingori/xwiki-cve-2025-24893-exploit](https://github.com/TomKingori/xwiki-cve-2025-24893-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TomKingori/xwiki-cve-2025-24893-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TomKingori/xwiki-cve-2025-24893-exploit">
 
 ---
 ## CVE-2025-20229 ()
