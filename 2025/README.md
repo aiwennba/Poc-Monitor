@@ -630,6 +630,11 @@
 - [RajChowdhury240/CVE-2025-67435](https://github.com/RajChowdhury240/CVE-2025-67435)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/CVE-2025-67435">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/CVE-2025-67435">
 
 ---
+## CVE-2025-67325 ()
+> 
+- [mr7s3d0/CVE-2025-67325](https://github.com/mr7s3d0/CVE-2025-67325)	<img alt="forks" src="https://img.shields.io/github/forks/mr7s3d0/CVE-2025-67325">	<img alt="stars" src="https://img.shields.io/github/stars/mr7s3d0/CVE-2025-67325">
+
+---
 ## CVE-2025-67315 ()
 > 
 - [r-pradyun/CVE-2025-67315](https://github.com/r-pradyun/CVE-2025-67315)	<img alt="forks" src="https://img.shields.io/github/forks/r-pradyun/CVE-2025-67315">	<img alt="stars" src="https://img.shields.io/github/stars/r-pradyun/CVE-2025-67315">
@@ -4915,6 +4920,11 @@
 ## CVE-2025-45960 ()
 > 
 - [pracharapol/CVE-2025-45960](https://github.com/pracharapol/CVE-2025-45960)	<img alt="forks" src="https://img.shields.io/github/forks/pracharapol/CVE-2025-45960">	<img alt="stars" src="https://img.shields.io/github/stars/pracharapol/CVE-2025-45960">
+
+---
+## CVE-2025-45955 ()
+> 
+- [surendrapuppala7/CVE-2025-45955](https://github.com/surendrapuppala7/CVE-2025-45955)	<img alt="forks" src="https://img.shields.io/github/forks/surendrapuppala7/CVE-2025-45955">	<img alt="stars" src="https://img.shields.io/github/stars/surendrapuppala7/CVE-2025-45955">
 
 ---
 ## CVE-2025-4593 ()
