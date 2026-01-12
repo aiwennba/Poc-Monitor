@@ -3747,6 +3747,11 @@
 - [voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)	<img alt="forks" src="https://img.shields.io/github/forks/voyagken/CVE-2025-5280-V8-OOB">	<img alt="stars" src="https://img.shields.io/github/stars/voyagken/CVE-2025-5280-V8-OOB">
 
 ---
+## CVE-2025-52694 ()
+> 
+- [Winz18/CVE-2025-52694-POC](https://github.com/Winz18/CVE-2025-52694-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Winz18/CVE-2025-52694-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Winz18/CVE-2025-52694-POC">
+
+---
 ## CVE-2025-52692 ()
 > 
 - [yt2w/CVE-2025-52692](https://github.com/yt2w/CVE-2025-52692)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52692">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52692">
@@ -6530,7 +6535,7 @@
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 - [iSee857/CVE-2025-30208-PoC](https://github.com/iSee857/CVE-2025-30208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-30208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-30208-PoC">
 - [LiChaser/CVE-2025-30208](https://github.com/LiChaser/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/LiChaser/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/LiChaser/CVE-2025-30208">
-- [On1onss/CVE-2025-30208-LFI](https://github.com/On1onss/CVE-2025-30208-LFI)	<img alt="forks" src="https://img.shields.io/github/forks/On1onss/CVE-2025-30208-LFI">	<img alt="stars" src="https://img.shields.io/github/stars/On1onss/CVE-2025-30208-LFI">
+- [On1onss/CVE-2025-30208](https://github.com/On1onss/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/On1onss/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/On1onss/CVE-2025-30208">
 - [4xura/CVE-2025-30208](https://github.com/4xura/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2025-30208">
 - [sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite)	<img alt="forks" src="https://img.shields.io/github/forks/sadhfdw129/CVE-2025-30208-Vite">	<img alt="stars" src="https://img.shields.io/github/stars/sadhfdw129/CVE-2025-30208-Vite">
 - [keklick1337/CVE-2025-30208-ViteVulnScanner](https://github.com/keklick1337/CVE-2025-30208-ViteVulnScanner)	<img alt="forks" src="https://img.shields.io/github/forks/keklick1337/CVE-2025-30208-ViteVulnScanner">	<img alt="stars" src="https://img.shields.io/github/stars/keklick1337/CVE-2025-30208-ViteVulnScanner">
@@ -8923,8 +8928,9 @@
 ## CVE-2025-11953 ()
 > 
 - [SaidBenaissa/cve-2025-11953-vulnerability-demo](https://github.com/SaidBenaissa/cve-2025-11953-vulnerability-demo)	<img alt="forks" src="https://img.shields.io/github/forks/SaidBenaissa/cve-2025-11953-vulnerability-demo">	<img alt="stars" src="https://img.shields.io/github/stars/SaidBenaissa/cve-2025-11953-vulnerability-demo">
-- [B1ack4sh/Blackash-CVE-2025-11953](https://github.com/B1ack4sh/Blackash-CVE-2025-11953)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-11953">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-11953">
+- [Ashwesker/Ashwesker-CVE-2025-11953](https://github.com/Ashwesker/Ashwesker-CVE-2025-11953)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-11953">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-11953">
 - [Mr-In4inci3le/CVE-2025-11953-POC-](https://github.com/Mr-In4inci3le/CVE-2025-11953-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-In4inci3le/CVE-2025-11953-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-In4inci3le/CVE-2025-11953-POC-">
+- [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
 
 ---
 ## CVE-2025-11877 ()
