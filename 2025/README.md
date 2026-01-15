@@ -1701,6 +1701,11 @@
 - [Jinxia62/Oracle-Identity-Manager-CVE-2025-61757](https://github.com/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757)	<img alt="forks" src="https://img.shields.io/github/forks/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757">	<img alt="stars" src="https://img.shields.io/github/stars/Jinxia62/Oracle-Identity-Manager-CVE-2025-61757">
 
 ---
+## CVE-2025-61686 ()
+> 
+- [FlowerWitch/CVE-2025-61686_docker](https://github.com/FlowerWitch/CVE-2025-61686_docker)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2025-61686_docker">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2025-61686_docker">
+
+---
 ## CVE-2025-61498 ()
 > 
 - [sakshi-garg02/CVE-2025-61498](https://github.com/sakshi-garg02/CVE-2025-61498)	<img alt="forks" src="https://img.shields.io/github/forks/sakshi-garg02/CVE-2025-61498">	<img alt="stars" src="https://img.shields.io/github/stars/sakshi-garg02/CVE-2025-61498">
