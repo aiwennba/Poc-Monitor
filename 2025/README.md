@@ -8684,6 +8684,11 @@
 - [Ashwesker/Ashwesker-CVE-2025-14558](https://github.com/Ashwesker/Ashwesker-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-14558">
 
 ---
+## CVE-2025-14502 ()
+> 
+- [Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502](https://github.com/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502)	<img alt="forks" src="https://img.shields.io/github/forks/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502">	<img alt="stars" src="https://img.shields.io/github/stars/Kai-One001/WordPress-News-and-Blog-Designer-Bundle-CVE-2025-14502">
+
+---
 ## CVE-2025-14440 ()
 > 
 - [Nxploited/CVE-2025-14440](https://github.com/Nxploited/CVE-2025-14440)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14440">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14440">
