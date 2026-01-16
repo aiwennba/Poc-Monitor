@@ -7585,6 +7585,9 @@ For more details, please review the linked advisory on this CVE.
 - [Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197](https://github.com/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197)	<img alt="forks" src="https://img.shields.io/github/forks/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197">	<img alt="stars" src="https://img.shields.io/github/stars/Arkha-Corvus/LetsDefend-SOC235-Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515-EventID-197">
 - [CyberSentinel321/cve-2023-22515-lab](https://github.com/CyberSentinel321/cve-2023-22515-lab)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSentinel321/cve-2023-22515-lab">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSentinel321/cve-2023-22515-lab">
 - [radzek15/CVE-2023-22515](https://github.com/radzek15/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2023-22515">
+- [dkq-k/cve-2023-22515-1](https://github.com/dkq-k/cve-2023-22515-1)	<img alt="forks" src="https://img.shields.io/github/forks/dkq-k/cve-2023-22515-1">	<img alt="stars" src="https://img.shields.io/github/stars/dkq-k/cve-2023-22515-1">
+- [dkq-k/CVE-2023-22515](https://github.com/dkq-k/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/dkq-k/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/dkq-k/CVE-2023-22515">
+- [tranphuc2005/CVE-2023-22515](https://github.com/tranphuc2005/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/tranphuc2005/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/tranphuc2005/CVE-2023-22515">
 
 ---
 ## CVE-2023-22493 ()
