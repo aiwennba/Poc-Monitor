@@ -4524,6 +4524,7 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 ## CVE-2024-38476 ()
 > 
 - [abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-](https://github.com/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-)	<img alt="forks" src="https://img.shields.io/github/forks/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-">	<img alt="stars" src="https://img.shields.io/github/stars/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-">
+- [mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/apache-vulnerability-testing">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/apache-vulnerability-testing">
 
 ---
 ## CVE-2024-38475 (2024-07-01T19:15:00)
