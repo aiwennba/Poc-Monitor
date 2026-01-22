@@ -16,6 +16,7 @@
 - [parameciumzhang/Tell-Me-Root](https://github.com/parameciumzhang/Tell-Me-Root)	<img alt="forks" src="https://img.shields.io/github/forks/parameciumzhang/Tell-Me-Root">	<img alt="stars" src="https://img.shields.io/github/stars/parameciumzhang/Tell-Me-Root">
 - [yanxinwu946/CVE-2026-24061--telnetd](https://github.com/yanxinwu946/CVE-2026-24061--telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-24061--telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-24061--telnetd">
 - [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2026-24061">
+- [h3athen/CVE-2026-24061](https://github.com/h3athen/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/h3athen/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/h3athen/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
@@ -192,6 +193,11 @@
 ## CVE-2026-0628 ()
 > 
 - [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
+
+---
+## CVE-2026-0594 ()
+> 
+- [m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">
 
 ---
 ## CVE-2026-0547 ()

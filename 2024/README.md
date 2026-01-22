@@ -2234,6 +2234,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50498">
 - [p0et08/CVE-2024-50498](https://github.com/p0et08/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-50498">
 - [Nxploited/CVE-2024-50498](https://github.com/Nxploited/CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-50498">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50498">
 
 ---
 ## CVE-2024-50493 (2024-10-29T08:15:00)
@@ -10221,6 +10222,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [OliveiraaX/-CVE-2024-10924](https://github.com/OliveiraaX/-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/-CVE-2024-10924">
 - [ademto/wordpress-cve-2024-10924-pentest](https://github.com/ademto/wordpress-cve-2024-10924-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/ademto/wordpress-cve-2024-10924-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/ademto/wordpress-cve-2024-10924-pentest">
 - [bodoinon/CVE-2024-10924](https://github.com/bodoinon/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/bodoinon/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/bodoinon/CVE-2024-10924">
+- [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)
