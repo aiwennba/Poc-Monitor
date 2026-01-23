@@ -3937,6 +3937,10 @@
 - [DeathShotXD/CVE-2025-52691-APT-PoC](https://github.com/DeathShotXD/CVE-2025-52691-APT-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/CVE-2025-52691-APT-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/CVE-2025-52691-APT-PoC">
 - [hilwa24/CVE-2025-52691](https://github.com/hilwa24/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/hilwa24/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/hilwa24/CVE-2025-52691">
 - [ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001](https://github.com/ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2025-52691-PoC-SmarterMail-authentication-bypass-exploit-WT-2026-0001">
+- [SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp](https://github.com/SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/SuJing-cy/CVE-2025-2025-52691-SmarterMail-Exp">
+- [watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691](https://github.com/watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-SmarterMail-CVE-2025-52691">
+- [nxgn-kd01/smartermail-cve-scanner](https://github.com/nxgn-kd01/smartermail-cve-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nxgn-kd01/smartermail-cve-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nxgn-kd01/smartermail-cve-scanner">
+- [rimbadirgantara/CVE-2025-52691-poc](https://github.com/rimbadirgantara/CVE-2025-52691-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2025-52691-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2025-52691-poc">
 
 ---
 ## CVE-2025-52689 ()
@@ -8233,6 +8237,7 @@
 - [0xWhoami35/CVE-2025-2294](https://github.com/0xWhoami35/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2025-2294">
 - [r0otk3r/CVE-2025-2294](https://github.com/r0otk3r/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-2294">
 - [iteride/CVE-2025-2294](https://github.com/iteride/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-2294">
+- [fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker](https://github.com/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker">
 
 ---
 ## CVE-2025-22870 ()
