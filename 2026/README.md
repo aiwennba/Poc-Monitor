@@ -30,6 +30,8 @@
 - [midox008/CVE-2026-24061](https://github.com/midox008/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/midox008/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/midox008/CVE-2026-24061">
 - [BrainBob/CVE-2026-24061](https://github.com/BrainBob/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/BrainBob/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/BrainBob/CVE-2026-24061">
 - [BrainBob/Telnet-TestVuln-CVE-2026-24061](https://github.com/BrainBob/Telnet-TestVuln-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/BrainBob/Telnet-TestVuln-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/BrainBob/Telnet-TestVuln-CVE-2026-24061">
+- [cyberpoul/CVE-2026-24061-POC](https://github.com/cyberpoul/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2026-24061-POC">
+- [DeadlyHollows/CVE-2026-24061-setup](https://github.com/DeadlyHollows/CVE-2026-24061-setup)	<img alt="forks" src="https://img.shields.io/github/forks/DeadlyHollows/CVE-2026-24061-setup">	<img alt="stars" src="https://img.shields.io/github/stars/DeadlyHollows/CVE-2026-24061-setup">
 
 ---
 ## CVE-2026-2395 ()
