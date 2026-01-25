@@ -39,6 +39,7 @@
 - [DeadlyHollows/CVE-2026-24061-setup](https://github.com/DeadlyHollows/CVE-2026-24061-setup)	<img alt="forks" src="https://img.shields.io/github/forks/DeadlyHollows/CVE-2026-24061-setup">	<img alt="stars" src="https://img.shields.io/github/stars/DeadlyHollows/CVE-2026-24061-setup">
 - [madfxr/Twenty-Three-Scanner](https://github.com/madfxr/Twenty-Three-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/madfxr/Twenty-Three-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/madfxr/Twenty-Three-Scanner">
 - [Alter-N0X/CVE-2026-24061-PoC](https://github.com/Alter-N0X/CVE-2026-24061-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alter-N0X/CVE-2026-24061-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alter-N0X/CVE-2026-24061-PoC">
+- [typeconfused/CVE-2026-24061](https://github.com/typeconfused/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/typeconfused/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/typeconfused/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
