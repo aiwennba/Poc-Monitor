@@ -60,6 +60,7 @@
 - [androidteacher/CVE-2026-24061-PoC-Telnetd](https://github.com/androidteacher/CVE-2026-24061-PoC-Telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/CVE-2026-24061-PoC-Telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/CVE-2026-24061-PoC-Telnetd">
 - [novitahk/Exploit-CVE-2026-24061](https://github.com/novitahk/Exploit-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/novitahk/Exploit-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/novitahk/Exploit-CVE-2026-24061">
 - [cumakurt/tscan](https://github.com/cumakurt/tscan)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/tscan">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/tscan">
+- [MY0723/GNU-Inetutils-telnet-CVE-2026-24061-](https://github.com/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-)	<img alt="forks" src="https://img.shields.io/github/forks/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-">	<img alt="stars" src="https://img.shields.io/github/stars/MY0723/GNU-Inetutils-telnet-CVE-2026-24061-">
 
 ---
 ## CVE-2026-2395 ()
@@ -236,6 +237,7 @@
 > 
 - [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20805-POC">
 - [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uzair-Baig0900/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uzair-Baig0900/CVE-2026-20805-PoC">
+- [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">
 
 ---
 ## CVE-2026-20045 ()
