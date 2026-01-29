@@ -3460,6 +3460,7 @@
 - [lizimu1518-snow/cve-2025-55182](https://github.com/lizimu1518-snow/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lizimu1518-snow/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lizimu1518-snow/cve-2025-55182">
 - [AsadAhmad-1337/React-2-Shell](https://github.com/AsadAhmad-1337/React-2-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/AsadAhmad-1337/React-2-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/AsadAhmad-1337/React-2-Shell">
 - [Nullsecur1ty/React2shell-RCE-MassScanner](https://github.com/Nullsecur1ty/React2shell-RCE-MassScanner)	<img alt="forks" src="https://img.shields.io/github/forks/Nullsecur1ty/React2shell-RCE-MassScanner">	<img alt="stars" src="https://img.shields.io/github/stars/Nullsecur1ty/React2shell-RCE-MassScanner">
+- [raghid-setiawan/CVE-2025-55182-PoC-http-exec](https://github.com/raghid-setiawan/CVE-2025-55182-PoC-http-exec)	<img alt="forks" src="https://img.shields.io/github/forks/raghid-setiawan/CVE-2025-55182-PoC-http-exec">	<img alt="stars" src="https://img.shields.io/github/stars/raghid-setiawan/CVE-2025-55182-PoC-http-exec">
 
 ---
 ## CVE-2025-54988 ()
@@ -3649,6 +3650,7 @@
 - [mistymntncop/CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2025-5419">
 - [pavan3478/CVE-2025-5419](https://github.com/pavan3478/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/pavan3478/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/pavan3478/CVE-2025-5419">
 - [somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/somprasong-tukman/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/somprasong-tukman/CVE-2025-5419">
+- [bjrjk/CVE-2025-5419](https://github.com/bjrjk/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2025-5419">
 
 ---
 ## CVE-2025-54136 ()
