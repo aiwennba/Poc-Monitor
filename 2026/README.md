@@ -19,6 +19,11 @@
 - [absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass](https://github.com/absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2026-24858-FortiCloud-SSO-Authentication-Bypass">
 
 ---
+## CVE-2026-24841 ()
+> 
+- [otakuliu/CVE-2026-24841_Range](https://github.com/otakuliu/CVE-2026-24841_Range)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/CVE-2026-24841_Range">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/CVE-2026-24841_Range">
+
+---
 ## CVE-2026-24688 ()
 > 
 - [JoakimBulow/CVE-2026-24688](https://github.com/JoakimBulow/CVE-2026-24688)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-24688">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-24688">
@@ -337,6 +342,7 @@
 ## CVE-2026-1457 ()
 > 
 - [ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution](https://github.com/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457-TP-Link-VIGI-C385-Authenticated-Remote-Code-Execution">
+- [ii4gsp/CVE-2026-1457](https://github.com/ii4gsp/CVE-2026-1457)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457">
 - [ii4gsp/CVE-2026-1457](https://github.com/ii4gsp/CVE-2026-1457)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-1457">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-1457">
 
 ---
