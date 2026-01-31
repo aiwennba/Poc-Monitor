@@ -3484,6 +3484,7 @@
 - [Nullsecur1ty/React2shell-RCE-MassScanner](https://github.com/Nullsecur1ty/React2shell-RCE-MassScanner)	<img alt="forks" src="https://img.shields.io/github/forks/Nullsecur1ty/React2shell-RCE-MassScanner">	<img alt="stars" src="https://img.shields.io/github/stars/Nullsecur1ty/React2shell-RCE-MassScanner">
 - [raghid-setiawan/CVE-2025-55182-PoC-http-exec](https://github.com/raghid-setiawan/CVE-2025-55182-PoC-http-exec)	<img alt="forks" src="https://img.shields.io/github/forks/raghid-setiawan/CVE-2025-55182-PoC-http-exec">	<img alt="stars" src="https://img.shields.io/github/stars/raghid-setiawan/CVE-2025-55182-PoC-http-exec">
 - [deepankarkumar1/CVE-2025-55182_Vulnerable-Application](https://github.com/deepankarkumar1/CVE-2025-55182_Vulnerable-Application)	<img alt="forks" src="https://img.shields.io/github/forks/deepankarkumar1/CVE-2025-55182_Vulnerable-Application">	<img alt="stars" src="https://img.shields.io/github/stars/deepankarkumar1/CVE-2025-55182_Vulnerable-Application">
+- [wnaspy/CVE-2025-55182](https://github.com/wnaspy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/wnaspy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/wnaspy/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
