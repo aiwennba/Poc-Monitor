@@ -7403,6 +7403,12 @@
 - [alialucas7/CVE-2025-27521_PoC](https://github.com/alialucas7/CVE-2025-27521_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27521_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27521_PoC">
 
 ---
+## CVE-2025-27520 ()
+> 
+- [Evillm/CVE-2025-27520-PoC](https://github.com/Evillm/CVE-2025-27520-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-27520-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-27520-PoC">
+- [amalpvatayam67/day09-bentoml-deser-lab](https://github.com/amalpvatayam67/day09-bentoml-deser-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day09-bentoml-deser-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day09-bentoml-deser-lab">
+
+---
 ## CVE-2025-27519 ()
 > 
 - [Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)	<img alt="forks" src="https://img.shields.io/github/forks/Diabl0xE/CVE-2025-27519">	<img alt="stars" src="https://img.shields.io/github/stars/Diabl0xE/CVE-2025-27519">
