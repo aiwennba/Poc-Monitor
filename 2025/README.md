@@ -589,6 +589,21 @@
 - [Nxploited/CVE-2025-68860](https://github.com/Nxploited/CVE-2025-68860)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-68860">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-68860">
 
 ---
+## CVE-2025-68723 ()
+> 
+- [osmancanvural/CVE-2025-68723](https://github.com/osmancanvural/CVE-2025-68723)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2025-68723">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2025-68723">
+
+---
+## CVE-2025-68722 ()
+> 
+- [osmancanvural/CVE-2025-68722](https://github.com/osmancanvural/CVE-2025-68722)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2025-68722">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2025-68722">
+
+---
+## CVE-2025-68721 ()
+> 
+- [osmancanvural/CVE-2025-68721](https://github.com/osmancanvural/CVE-2025-68721)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2025-68721">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2025-68721">
+
+---
 ## CVE-2025-68705 ()
 > 
 - [imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check](https://github.com/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check">
