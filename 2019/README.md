@@ -878,6 +878,7 @@
 > 
 - [CQ-Tools/CVE-2019-5483-unfixed](https://github.com/CQ-Tools/CVE-2019-5483-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5483-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5483-unfixed">
 - [CQ-Tools/CVE-2019-5483-fixed](https://github.com/CQ-Tools/CVE-2019-5483-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5483-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5483-fixed">
+- [ossf-cve-benchmark/CVE-2019-5483](https://github.com/ossf-cve-benchmark/CVE-2019-5483)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-5483">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-5483">
 
 ---
 ## CVE-2019-5477 (2019-08-16T16:15:00)
@@ -1836,6 +1837,7 @@ use after free.
 > 
 - [CQ-Tools/CVE-2019-20174-fixed](https://github.com/CQ-Tools/CVE-2019-20174-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-20174-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-20174-fixed">
 - [CQ-Tools/CVE-2019-20174-unfixed](https://github.com/CQ-Tools/CVE-2019-20174-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-20174-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-20174-unfixed">
+- [ossf-cve-benchmark/CVE-2019-20174](https://github.com/ossf-cve-benchmark/CVE-2019-20174)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-20174">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-20174">
 
 ---
 ## CVE-2019-20172 (2019-12-31T03:15:00)
