@@ -256,6 +256,7 @@
 - [tovd-go/CVE-2025-8110](https://github.com/tovd-go/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/tovd-go/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/tovd-go/CVE-2025-8110">
 - [zAbuQasem/gogs-CVE-2025-8110](https://github.com/zAbuQasem/gogs-CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/zAbuQasem/gogs-CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/zAbuQasem/gogs-CVE-2025-8110">
 - [freiwi/CVE-2025-8110](https://github.com/freiwi/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/freiwi/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/freiwi/CVE-2025-8110">
+- [George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution](https://github.com/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution">
 
 ---
 ## CVE-2025-8088 ()
@@ -1854,6 +1855,7 @@
 - [GhoStZA-debug/CVE-2025-61882](https://github.com/GhoStZA-debug/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/GhoStZA-debug/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/GhoStZA-debug/CVE-2025-61882">
 - [Zhert-lab/CVE-2025-61882-CVE-2025-61884](https://github.com/Zhert-lab/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/Zhert-lab/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/Zhert-lab/CVE-2025-61882-CVE-2025-61884">
 - [222dff-afk/Blackash-CVE-2025-61882](https://github.com/222dff-afk/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/222dff-afk/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/222dff-afk/Blackash-CVE-2025-61882">
+- [George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE](https://github.com/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">
 
 ---
 ## CVE-2025-61777 ()
@@ -2255,6 +2257,7 @@
 ## CVE-2025-59470 ()
 > 
 - [b1gchoi/CVE-2025-59470](https://github.com/b1gchoi/CVE-2025-59470)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-59470">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-59470">
+- [George0Papasotiriou/CVE-2025-59470-PostgreSQL-Command-Injection](https://github.com/George0Papasotiriou/CVE-2025-59470-PostgreSQL-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-59470-PostgreSQL-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-59470-PostgreSQL-Command-Injection">
 
 ---
 ## CVE-2025-5947 ()
@@ -3569,6 +3572,7 @@
 - [MuhammadUwais/React2Shell](https://github.com/MuhammadUwais/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadUwais/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadUwais/React2Shell">
 - [Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC">
 - [BrianLopezM99/react2shell-CVE-2025-55182](https://github.com/BrianLopezM99/react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BrianLopezM99/react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BrianLopezM99/react2shell-CVE-2025-55182">
+- [George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-](https://github.com/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">
 
 ---
 ## CVE-2025-55130 ()
@@ -8929,6 +8933,11 @@
 - [maximo896/CVE-2025-1562](https://github.com/maximo896/CVE-2025-1562)	<img alt="forks" src="https://img.shields.io/github/forks/maximo896/CVE-2025-1562">	<img alt="stars" src="https://img.shields.io/github/stars/maximo896/CVE-2025-1562">
 
 ---
+## CVE-2025-15556 ()
+> 
+- [George0Papasotiriou/CVE-2025-15556-Notepad-WinGUp-Updater-RCE](https://github.com/George0Papasotiriou/CVE-2025-15556-Notepad-WinGUp-Updater-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-15556-Notepad-WinGUp-Updater-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-15556-Notepad-WinGUp-Updater-RCE">
+
+---
 ## CVE-2025-15545 ()
 > 
 - [Xernary/CVE-2025-15545](https://github.com/Xernary/CVE-2025-15545)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2025-15545">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2025-15545">
@@ -9120,6 +9129,7 @@
 - [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
 - [Satirush/CVE-2025-14174-Poc](https://github.com/Satirush/CVE-2025-14174-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Satirush/CVE-2025-14174-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Satirush/CVE-2025-14174-Poc">
 - [zeroxjf/CVE-2025-14174-analysis](https://github.com/zeroxjf/CVE-2025-14174-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2025-14174-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2025-14174-analysis">
+- [George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day](https://github.com/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day">
 
 ---
 ## CVE-2025-14172 ()
