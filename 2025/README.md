@@ -3753,6 +3753,7 @@
 - [25145hg654511135gfhfkr8488r8r8r8r8r/test](https://github.com/25145hg654511135gfhfkr8488r8r8r8r8r/test)	<img alt="forks" src="https://img.shields.io/github/forks/25145hg654511135gfhfkr8488r8r8r8r8r/test">	<img alt="stars" src="https://img.shields.io/github/stars/25145hg654511135gfhfkr8488r8r8r8r8r/test">
 - [AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day">
 - [netmatthew3771/CVE-2025-54253](https://github.com/netmatthew3771/CVE-2025-54253)	<img alt="forks" src="https://img.shields.io/github/forks/netmatthew3771/CVE-2025-54253">	<img alt="stars" src="https://img.shields.io/github/stars/netmatthew3771/CVE-2025-54253">
+- [zoomdbz/AEMPWN](https://github.com/zoomdbz/AEMPWN)	<img alt="forks" src="https://img.shields.io/github/forks/zoomdbz/AEMPWN">	<img alt="stars" src="https://img.shields.io/github/stars/zoomdbz/AEMPWN">
 
 ---
 ## CVE-2025-54236 ()
@@ -4708,6 +4709,8 @@
 - [Ahmedf000/CVE-2025-49132_HTB_SEASON10](https://github.com/Ahmedf000/CVE-2025-49132_HTB_SEASON10)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmedf000/CVE-2025-49132_HTB_SEASON10">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmedf000/CVE-2025-49132_HTB_SEASON10">
 - [Pwndalf/CVE-2025-49132-PoC](https://github.com/Pwndalf/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Pwndalf/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Pwndalf/CVE-2025-49132-PoC">
 - [Pwndalf/CVE-2025-49132-PoC](https://github.com/Pwndalf/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Pwndalf/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Pwndalf/CVE-2025-49132-PoC">
+- [Daemon-AT4/pearlescent](https://github.com/Daemon-AT4/pearlescent)	<img alt="forks" src="https://img.shields.io/github/forks/Daemon-AT4/pearlescent">	<img alt="stars" src="https://img.shields.io/github/stars/Daemon-AT4/pearlescent">
+- [dollarboysushil/CVE-2025-49132-Pterodactyl-Panel-Unauthenticated-Remote-Code-Execution-RCE-](https://github.com/dollarboysushil/CVE-2025-49132-Pterodactyl-Panel-Unauthenticated-Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/CVE-2025-49132-Pterodactyl-Panel-Unauthenticated-Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/CVE-2025-49132-Pterodactyl-Panel-Unauthenticated-Remote-Code-Execution-RCE-">
 
 ---
 ## CVE-2025-49131 ()
