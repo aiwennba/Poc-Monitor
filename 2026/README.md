@@ -533,6 +533,9 @@
 > 
 - [BTtea/CVE-2026-20841-PoC](https://github.com/BTtea/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BTtea/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BTtea/CVE-2026-20841-PoC">
 - [tangent65536/CVE-2026-20841](https://github.com/tangent65536/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/tangent65536/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/tangent65536/CVE-2026-20841">
+- [uky007/CVE-2026-20841_notepad_analysis](https://github.com/uky007/CVE-2026-20841_notepad_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2026-20841_notepad_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2026-20841_notepad_analysis">
+- [patchpoint/CVE-2026-20841](https://github.com/patchpoint/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2026-20841">
+- [RajaUzairAbdullah/CVE-2026-20841](https://github.com/RajaUzairAbdullah/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/RajaUzairAbdullah/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/RajaUzairAbdullah/CVE-2026-20841">
 
 ---
 ## CVE-2026-20805 ()
