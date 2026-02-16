@@ -545,6 +545,11 @@
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
 
 ---
+## CVE-2025-69690 ()
+> 
+- [privlabs/CVE-2025-69690-CVE-2025-69691](https://github.com/privlabs/CVE-2025-69690-CVE-2025-69691)	<img alt="forks" src="https://img.shields.io/github/forks/privlabs/CVE-2025-69690-CVE-2025-69691">	<img alt="stars" src="https://img.shields.io/github/stars/privlabs/CVE-2025-69690-CVE-2025-69691">
+
+---
 ## CVE-2025-6965 ()
 > 
 - [mariaecgzv/CVE-2025-6965-](https://github.com/mariaecgzv/CVE-2025-6965-)	<img alt="forks" src="https://img.shields.io/github/forks/mariaecgzv/CVE-2025-6965-">	<img alt="stars" src="https://img.shields.io/github/stars/mariaecgzv/CVE-2025-6965-">
@@ -4766,7 +4771,7 @@
 - [thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE](https://github.com/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE">
 - [scroollocker/CVE-2025-49132](https://github.com/scroollocker/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/scroollocker/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/scroollocker/CVE-2025-49132">
 - [cylentsec/CVE-2025-49132_PoC](https://github.com/cylentsec/CVE-2025-49132_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cylentsec/CVE-2025-49132_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cylentsec/CVE-2025-49132_PoC">
-- [xffsec/CVE-2025-49132](https://github.com/xffsec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2025-49132">
+- [rippsec/CVE-2025-49132](https://github.com/rippsec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-49132">
 - [popyue/CVE-2025-49132](https://github.com/popyue/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-49132">
 
 ---
