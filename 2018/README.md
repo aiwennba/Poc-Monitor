@@ -465,6 +465,11 @@
 - [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
 
 ---
+## CVE-2018-5968 ()
+> 
+- [andikahilmy/CVE-2018-5968-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-5968-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-5968-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-5968-jackson-databind-vulnerable">
+
+---
 ## CVE-2018-5955 (2018-01-21T22:29:00)
 > An issue was discovered in GitStack through 2.3.10. User controlled input is not sufficiently filtered, allowing an unauthenticated attacker to add a user to the server via the username and password fields to the rest/user/ URI.
 - [MikeTheHash/CVE-2018-5955](https://github.com/MikeTheHash/CVE-2018-5955)	<img alt="forks" src="https://img.shields.io/github/forks/MikeTheHash/CVE-2018-5955">	<img alt="stars" src="https://img.shields.io/github/stars/MikeTheHash/CVE-2018-5955">
@@ -1674,6 +1679,7 @@
 > 
 - [Imsol0/APACHE-CVE-2018-1306-Lab-project](https://github.com/Imsol0/APACHE-CVE-2018-1306-Lab-project)	<img alt="forks" src="https://img.shields.io/github/forks/Imsol0/APACHE-CVE-2018-1306-Lab-project">	<img alt="stars" src="https://img.shields.io/github/stars/Imsol0/APACHE-CVE-2018-1306-Lab-project">
 - [JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306](https://github.com/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306)	<img alt="forks" src="https://img.shields.io/github/forks/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306">	<img alt="stars" src="https://img.shields.io/github/stars/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306">
+- [andikahilmy/CVE-2018-1306-portals-pluto-vulnerable](https://github.com/andikahilmy/CVE-2018-1306-portals-pluto-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1306-portals-pluto-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1306-portals-pluto-vulnerable">
 
 ---
 ## CVE-2018-1297 (2018-02-13T12:29:00)
@@ -1716,6 +1722,11 @@
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">
+
+---
+## CVE-2018-12540 ()
+> 
+- [andikahilmy/CVE-2018-12540-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12540-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12540-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12540-vertx-web-vulnerable">
 
 ---
 ## CVE-2018-12533 ()
@@ -1770,6 +1781,11 @@
 ## CVE-2018-12023 ()
 > 
 - [andikahilmy/CVE-2018-12023-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable">
+
+---
+## CVE-2018-12022 ()
+> 
+- [andikahilmy/CVE-2018-12022-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-12022-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12022-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12022-jackson-databind-vulnerable">
 
 ---
 ## CVE-2018-11784 (2018-10-04T13:29:00)
@@ -2014,6 +2030,12 @@
 ## CVE-2018-1000850 ()
 > 
 - [shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0](https://github.com/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">
+
+---
+## CVE-2018-1000844 ()
+> 
+- [andikahilmy/CVE-2018-1000844-retrofit-vulnerable](https://github.com/andikahilmy/CVE-2018-1000844-retrofit-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">
+- [epicosy/Retrofit-1](https://github.com/epicosy/Retrofit-1)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/Retrofit-1">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/Retrofit-1">
 
 ---
 ## CVE-2018-1000531 ()

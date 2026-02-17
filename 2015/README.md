@@ -146,6 +146,11 @@
 - [Live-Hack-CVE/CVE-2015-6764](https://github.com/Live-Hack-CVE/CVE-2015-6764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6764">
 
 ---
+## CVE-2015-6748 ()
+> 
+- [andikahilmy/CVE-2015-6748-jsoup-vulnerable](https://github.com/andikahilmy/CVE-2015-6748-jsoup-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2015-6748-jsoup-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2015-6748-jsoup-vulnerable">
+
+---
 ## CVE-2015-6668 (2017-10-19T21:29:00)
 > The Job Manager plugin before 0.7.25 allows remote attackers to read arbitrary CV files via a brute force attack to the WordPress upload directory structure, related to an insecure direct object reference.
 - [jimdiroffii/CVE-2015-6668](https://github.com/jimdiroffii/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/jimdiroffii/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/jimdiroffii/CVE-2015-6668">

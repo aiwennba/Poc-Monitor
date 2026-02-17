@@ -1472,6 +1472,7 @@
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36182](https://github.com/Live-Hack-CVE/CVE-2020-36182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36182">
 - [Live-Hack-CVE/CVE-2020-36182](https://github.com/Live-Hack-CVE/CVE-2020-36182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36182">
+- [andikahilmy/CVE-2020-36182-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-36182-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-36182-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-36182-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-36181 (2021-01-06T23:15:00)
@@ -2650,6 +2651,7 @@
 > 
 - [cuijiung/xstream-CVE-2020-26258](https://github.com/cuijiung/xstream-CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/cuijiung/xstream-CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/cuijiung/xstream-CVE-2020-26258">
 - [Al1ex/CVE-2020-26258](https://github.com/Al1ex/CVE-2020-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26258">
+- [andikahilmy/CVE-2020-26258-xstream-vulnerable](https://github.com/andikahilmy/CVE-2020-26258-xstream-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-26258-xstream-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-26258-xstream-vulnerable">
 
 ---
 ## CVE-2020-26257 (2020-12-09T19:15:00)
@@ -4501,6 +4503,11 @@
 ## CVE-2020-14064 (2020-07-15T20:15:00)
 > IceWarp Email Server 12.3.0.1 has Incorrect Access Control for user accounts.
 - [networksecure/CVE-2020-14064](https://github.com/networksecure/CVE-2020-14064)	<img alt="forks" src="https://img.shields.io/github/forks/networksecure/CVE-2020-14064">	<img alt="stars" src="https://img.shields.io/github/stars/networksecure/CVE-2020-14064">
+
+---
+## CVE-2020-14062 ()
+> 
+- [andikahilmy/CVE-2020-14062-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-14062-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-14062-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-14062-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-14061 ()

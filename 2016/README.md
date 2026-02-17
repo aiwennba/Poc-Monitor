@@ -533,6 +533,11 @@
 - [pouriam23/final-CVE-2016-5180](https://github.com/pouriam23/final-CVE-2016-5180)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/final-CVE-2016-5180">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/final-CVE-2016-5180">
 
 ---
+## CVE-2016-4974 ()
+> 
+- [andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable](https://github.com/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-4974-qpid-broker-j-vulnerable">
+
+---
 ## CVE-2016-4655 (2016-08-25T21:59:00)
 > The kernel in Apple iOS before 9.3.5 allows attackers to obtain sensitive information from memory via a crafted app.
 - [0xyf77/CVE-2016-4655](https://github.com/0xyf77/CVE-2016-4655)	<img alt="forks" src="https://img.shields.io/github/forks/0xyf77/CVE-2016-4655">	<img alt="stars" src="https://img.shields.io/github/stars/0xyf77/CVE-2016-4655">

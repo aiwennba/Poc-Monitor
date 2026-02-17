@@ -1148,6 +1148,11 @@
 - [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2021-43890_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2021-43890_poc">
 
 ---
+## CVE-2021-43859 ()
+> 
+- [andikahilmy/CVE-2021-43859-xstream-vulnerable](https://github.com/andikahilmy/CVE-2021-43859-xstream-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-43859-xstream-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-43859-xstream-vulnerable">
+
+---
 ## CVE-2021-43858 (2021-12-27T22:15:00)
 > MinIO is a Kubernetes native application for cloud storage. Prior to version `RELEASE.2021-12-27T07-23-18Z`, a malicious client can hand-craft an HTTP API call that allows for updating policy for a user and gaining higher privileges. The patch in version `RELEASE.2021-12-27T07-23-18Z` changes the accepted request body type and removes the ability to apply policy changes through this API. There is a workaround for this vulnerability: Changing passwords can be disabled by adding an explicit `Deny` rule to disable the API for users.
 - [khuntor/CVE-2021-43858-MinIO](https://github.com/khuntor/CVE-2021-43858-MinIO)	<img alt="forks" src="https://img.shields.io/github/forks/khuntor/CVE-2021-43858-MinIO">	<img alt="stars" src="https://img.shields.io/github/stars/khuntor/CVE-2021-43858-MinIO">
@@ -9225,6 +9230,11 @@
 - [Live-Hack-CVE/CVE-2021-21366](https://github.com/Live-Hack-CVE/CVE-2021-21366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21366">
 
 ---
+## CVE-2021-21364 ()
+> 
+- [andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable](https://github.com/andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-21364-swagger-codegen-vulnerable">
+
+---
 ## CVE-2021-21363 ()
 > 
 - [andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable](https://github.com/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-21363-swagger-codegen-vulnerable">
@@ -9496,6 +9506,11 @@
 ## CVE-2021-20224 (2022-08-25T20:15:00)
 > An integer overflow issue was discovered in ImageMagick's ExportIndexQuantum() function in MagickCore/quantum-export.c. Function calls to GetPixelIndex() could result in values outside the range of representable for the 'unsigned char'. When ImageMagick processes a crafted pdf file, this could lead to an undefined behaviour or a crash.
 - [Live-Hack-CVE/CVE-2021-20224](https://github.com/Live-Hack-CVE/CVE-2021-20224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20224">
+
+---
+## CVE-2021-20190 ()
+> 
+- [andikahilmy/CVE-2021-20190-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2021-20190-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-20190-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-20190-jackson-databind-vulnerable">
 
 ---
 ## CVE-2021-20138 (2021-12-09T16:15:00)
