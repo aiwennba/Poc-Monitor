@@ -78,6 +78,11 @@
 - [Fl5xia/CVE-2017-9805](https://github.com/Fl5xia/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/Fl5xia/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/Fl5xia/CVE-2017-9805">
 
 ---
+## CVE-2017-9801 ()
+> 
+- [andikahilmy/CVE-2017-9801-commons-email-vulnerable](https://github.com/andikahilmy/CVE-2017-9801-commons-email-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-9801-commons-email-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-9801-commons-email-vulnerable">
+
+---
 ## CVE-2017-9757 (2017-06-19T13:29:00)
 > IPFire 2.19 has a Remote Command Injection vulnerability in ids.cgi via the OINKCODE parameter, which is mishandled by a shell. This can be exploited directly by authenticated users, or through CSRF.
 - [peterleiva/CVE-2017-9757](https://github.com/peterleiva/CVE-2017-9757)	<img alt="forks" src="https://img.shields.io/github/forks/peterleiva/CVE-2017-9757">	<img alt="stars" src="https://img.shields.io/github/stars/peterleiva/CVE-2017-9757">
@@ -267,6 +272,11 @@
 > 
 - [Al-Lord0x/CVE-2017-7679](https://github.com/Al-Lord0x/CVE-2017-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2017-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2017-7679">
 - [snknritr/CVE-2017-7679-in-python](https://github.com/snknritr/CVE-2017-7679-in-python)	<img alt="forks" src="https://img.shields.io/github/forks/snknritr/CVE-2017-7679-in-python">	<img alt="stars" src="https://img.shields.io/github/stars/snknritr/CVE-2017-7679-in-python">
+
+---
+## CVE-2017-7662 ()
+> 
+- [andikahilmy/CVE-2017-7662-cxf-fediz-vulnerable](https://github.com/andikahilmy/CVE-2017-7662-cxf-fediz-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7662-cxf-fediz-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7662-cxf-fediz-vulnerable">
 
 ---
 ## CVE-2017-7661 ()
@@ -908,6 +918,11 @@
 ## CVE-2017-18926 (2020-11-06T18:15:00)
 > raptor_xml_writer_start_element_common in raptor_xml_writer.c in Raptor RDF Syntax Library 2.0.15 miscalculates the maximum nspace declarations for the XML writer, leading to heap-based buffer overflows (sometimes seen in raptor_qname_format_as_xml).
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
+
+---
+## CVE-2017-18640 ()
+> 
+- [andikahilmy/CVE-2017-18640-snakeyaml-vulnerable](https://github.com/andikahilmy/CVE-2017-18640-snakeyaml-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-18640-snakeyaml-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-18640-snakeyaml-vulnerable">
 
 ---
 ## CVE-2017-18362 ()

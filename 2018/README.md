@@ -1648,6 +1648,11 @@
 - [Zierax/CVE-2018-13379](https://github.com/Zierax/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/Zierax/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/Zierax/CVE-2018-13379">
 
 ---
+## CVE-2018-1337 ()
+> 
+- [andikahilmy/CVE-2018-1337-directory-ldap-api-vulnerable](https://github.com/andikahilmy/CVE-2018-1337-directory-ldap-api-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1337-directory-ldap-api-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1337-directory-ldap-api-vulnerable">
+
+---
 ## CVE-2018-1335 (2018-04-25T21:29:00)
 > From Apache Tika versions 1.7 to 1.17, clients could send carefully crafted headers to tika-server that could be used to inject commands into the command line of the server running tika-server. This vulnerability only affects those running tika-server on a server that is open to untrusted clients. The mitigation is to upgrade to Tika 1.18.
 - [Zebra64/CVE-2018-1335](https://github.com/Zebra64/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/Zebra64/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/Zebra64/CVE-2018-1335">
@@ -1717,6 +1722,11 @@
 - [shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE](https://github.com/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE">
 
 ---
+## CVE-2018-12544 ()
+> 
+- [andikahilmy/CVE-2018-12544-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12544-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12544-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12544-vertx-web-vulnerable">
+
+---
 ## CVE-2018-12542 ()
 > 
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
@@ -1724,9 +1734,20 @@
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">
 
 ---
+## CVE-2018-12541 ()
+> 
+- [andikahilmy/CVE-2018-12541-vert.x-vulnerable](https://github.com/andikahilmy/CVE-2018-12541-vert.x-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12541-vert.x-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12541-vert.x-vulnerable">
+
+---
 ## CVE-2018-12540 ()
 > 
 - [andikahilmy/CVE-2018-12540-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12540-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12540-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12540-vertx-web-vulnerable">
+
+---
+## CVE-2018-12537 ()
+> 
+- [andikahilmy/CVE-2018-12537-vert.x-vulnerable](https://github.com/andikahilmy/CVE-2018-12537-vert.x-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12537-vert.x-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12537-vert.x-vulnerable">
+- [tafamace/CVE-2018-12537](https://github.com/tafamace/CVE-2018-12537)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2018-12537">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2018-12537">
 
 ---
 ## CVE-2018-12533 ()
@@ -2036,6 +2057,11 @@
 > 
 - [andikahilmy/CVE-2018-1000844-retrofit-vulnerable](https://github.com/andikahilmy/CVE-2018-1000844-retrofit-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">
 - [epicosy/Retrofit-1](https://github.com/epicosy/Retrofit-1)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/Retrofit-1">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/Retrofit-1">
+
+---
+## CVE-2018-1000822 ()
+> 
+- [andikahilmy/CVE-2018-1000822-fess-vulnerable](https://github.com/andikahilmy/CVE-2018-1000822-fess-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000822-fess-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000822-fess-vulnerable">
 
 ---
 ## CVE-2018-1000531 ()

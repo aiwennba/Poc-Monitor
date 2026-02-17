@@ -44,6 +44,11 @@
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
 
 ---
+## CVE-2026-25964 ()
+> 
+- [drkim-dev/CVE-2026-25964](https://github.com/drkim-dev/CVE-2026-25964)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-25964">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-25964">
+
+---
 ## CVE-2026-25939 ()
 > 
 - [mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary](https://github.com/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25939-SCADA-FUXA-Unauthenticated-Remote-Arbitrary">

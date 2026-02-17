@@ -805,3 +805,8 @@
 ## CVE-2014-0075 ()
 > 
 - [LiviuPtr/CVE-2014-0075_PoC](https://github.com/LiviuPtr/CVE-2014-0075_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LiviuPtr/CVE-2014-0075_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LiviuPtr/CVE-2014-0075_PoC">
+
+---
+## CVE-2014-0050 ()
+> 
+- [andikahilmy/CVE-2014-0050-commons-fileupload-vulnerable](https://github.com/andikahilmy/CVE-2014-0050-commons-fileupload-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2014-0050-commons-fileupload-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2014-0050-commons-fileupload-vulnerable">
