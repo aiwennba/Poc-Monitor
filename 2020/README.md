@@ -34,6 +34,12 @@
 - [Live-Hack-CVE/CVE-2020-9715](https://github.com/Live-Hack-CVE/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9715">
 
 ---
+## CVE-2020-9548 ()
+> 
+- [andikahilmy/CVE-2020-9548-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-9548-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-9548-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-9548-jackson-databind-vulnerable">
+- [fairyming/CVE-2020-9548](https://github.com/fairyming/CVE-2020-9548)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2020-9548">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2020-9548">
+
+---
 ## CVE-2020-9547 ()
 > 
 - [Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2020-9547">
