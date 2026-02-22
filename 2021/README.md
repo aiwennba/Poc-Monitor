@@ -4399,6 +4399,7 @@
 - [n3tsurge/CVE-2021-36934](https://github.com/n3tsurge/CVE-2021-36934)	<img alt="forks" src="https://img.shields.io/github/forks/n3tsurge/CVE-2021-36934">	<img alt="stars" src="https://img.shields.io/github/stars/n3tsurge/CVE-2021-36934">
 - [ossec25/CVE-2021-36934-](https://github.com/ossec25/CVE-2021-36934-)	<img alt="forks" src="https://img.shields.io/github/forks/ossec25/CVE-2021-36934-">	<img alt="stars" src="https://img.shields.io/github/stars/ossec25/CVE-2021-36934-">
 - [P1rat3R00t/Why-so-Serious-SAM](https://github.com/P1rat3R00t/Why-so-Serious-SAM)	<img alt="forks" src="https://img.shields.io/github/forks/P1rat3R00t/Why-so-Serious-SAM">	<img alt="stars" src="https://img.shields.io/github/stars/P1rat3R00t/Why-so-Serious-SAM">
+- [d4yon/CVE-2021-36934-HiveNightmare-Lab](https://github.com/d4yon/CVE-2021-36934-HiveNightmare-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/d4yon/CVE-2021-36934-HiveNightmare-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/d4yon/CVE-2021-36934-HiveNightmare-Lab">
 
 ---
 ## CVE-2021-36917 (2021-11-24T17:15:00)
