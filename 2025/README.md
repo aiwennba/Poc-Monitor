@@ -972,6 +972,11 @@
 - [scap3sh4rk/CVE-2025-66683](https://github.com/scap3sh4rk/CVE-2025-66683)	<img alt="forks" src="https://img.shields.io/github/forks/scap3sh4rk/CVE-2025-66683">	<img alt="stars" src="https://img.shields.io/github/stars/scap3sh4rk/CVE-2025-66683">
 
 ---
+## CVE-2025-66680 ()
+> 
+- [cwjchoi01/CVE-2025-66680](https://github.com/cwjchoi01/CVE-2025-66680)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2025-66680">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2025-66680">
+
+---
 ## CVE-2025-66678 ()
 > 
 - [cwjchoi01/CVE-2025-66678](https://github.com/cwjchoi01/CVE-2025-66678)	<img alt="forks" src="https://img.shields.io/github/forks/cwjchoi01/CVE-2025-66678">	<img alt="stars" src="https://img.shields.io/github/stars/cwjchoi01/CVE-2025-66678">
@@ -3735,6 +3740,7 @@
 - [androidteacher/REACT-CVE-2025-55182-Lab](https://github.com/androidteacher/REACT-CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/REACT-CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/REACT-CVE-2025-55182-Lab">
 - [MrMahile/MassScanning-CVE-2025-55182](https://github.com/MrMahile/MassScanning-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrMahile/MassScanning-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrMahile/MassScanning-CVE-2025-55182">
 - [InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner](https://github.com/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">
+- [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 
 ---
 ## CVE-2025-55130 ()
