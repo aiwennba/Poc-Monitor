@@ -3657,6 +3657,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [m0d0ri205/PDFJS](https://github.com/m0d0ri205/PDFJS)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/PDFJS">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/PDFJS">
 - [1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf](https://github.com/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">
 - [risytprem58/CVE-2024-4367-POC](https://github.com/risytprem58/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/risytprem58/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/risytprem58/CVE-2024-4367-POC">
+- [John-Popovici/CVE-2024-4367-pdfjs-exploit](https://github.com/John-Popovici/CVE-2024-4367-pdfjs-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2024-4367-pdfjs-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2024-4367-pdfjs-exploit">
 
 ---
 ## CVE-2024-43639 ()

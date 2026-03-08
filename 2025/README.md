@@ -1557,6 +1557,7 @@
 - [smuft1707/CVE-2025-6440](https://github.com/smuft1707/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/smuft1707/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/smuft1707/CVE-2025-6440">
 - [rimbadirgantara/CVE-2025-6440](https://github.com/rimbadirgantara/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/rimbadirgantara/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/rimbadirgantara/CVE-2025-6440">
 - [cafcbraock/CVE-2025-6440](https://github.com/cafcbraock/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/cafcbraock/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/cafcbraock/CVE-2025-6440">
+- [0axz-tools/CVE-2025-6440](https://github.com/0axz-tools/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()
