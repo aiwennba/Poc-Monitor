@@ -275,6 +275,11 @@
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
 
 ---
+## CVE-2026-26026 ()
+> 
+- [Ne0re0/CVE-2026-26026-Exploit-PoC](https://github.com/Ne0re0/CVE-2026-26026-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ne0re0/CVE-2026-26026-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ne0re0/CVE-2026-26026-Exploit-PoC">
+
+---
 ## CVE-2026-26012 ()
 > 
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
