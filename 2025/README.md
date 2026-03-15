@@ -2395,6 +2395,11 @@
 - [Mkway/CVE-2025-60021](https://github.com/Mkway/CVE-2025-60021)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2025-60021">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2025-60021">
 
 ---
+## CVE-2025-60012 ()
+> 
+- [sid6224/CVE-2025-60012-POC](https://github.com/sid6224/CVE-2025-60012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sid6224/CVE-2025-60012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sid6224/CVE-2025-60012-POC">
+
+---
 ## CVE-2025-59934 ()
 > 
 - [suriryuk/cve-2025-59934](https://github.com/suriryuk/cve-2025-59934)	<img alt="forks" src="https://img.shields.io/github/forks/suriryuk/cve-2025-59934">	<img alt="stars" src="https://img.shields.io/github/stars/suriryuk/cve-2025-59934">
@@ -3186,6 +3191,7 @@
 - [celiagomezserra/CVE-2025-5548](https://github.com/celiagomezserra/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/celiagomezserra/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/celiagomezserra/CVE-2025-5548">
 - [ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548](https://github.com/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/ZoneToolsCiber/Explotando-FreeFloatFTP-CVE-2025-5548">
 - [alfa8sa/CVE-2025-5548](https://github.com/alfa8sa/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alfa8sa/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alfa8sa/CVE-2025-5548">
+- [iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow](https://github.com/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/iamEscri/CVE-2025-5548-FreeFloat-FTP-Buffer-Overflow">
 
 ---
 ## CVE-2025-55462 ()
