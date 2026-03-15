@@ -1236,7 +1236,7 @@
 ---
 ## CVE-2025-66034 ()
 > 
-- [symphony2colour/fonttools-varlib-cve-2025-66034-rce.py](https://github.com/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/fonttools-varlib-cve-2025-66034-rce.py">
+- [symphony2colour/varlib-cve-2025-66034](https://github.com/symphony2colour/varlib-cve-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/varlib-cve-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/varlib-cve-2025-66034">
 
 ---
 ## CVE-2025-66022 ()
