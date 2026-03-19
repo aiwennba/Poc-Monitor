@@ -42,6 +42,7 @@
 ## CVE-2026-3888 ()
 > 
 - [fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.](https://github.com/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3888-POC-all-from-the-Qualys-platform.">
+- [Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher](https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">
 
 ---
 ## CVE-2026-3847 ()
@@ -83,6 +84,11 @@
 ## CVE-2026-3288 ()
 > 
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
+
+---
+## CVE-2026-32731 ()
+> 
+- [0xEr3n/CVE-2026-32731](https://github.com/0xEr3n/CVE-2026-32731)	<img alt="forks" src="https://img.shields.io/github/forks/0xEr3n/CVE-2026-32731">	<img alt="stars" src="https://img.shields.io/github/stars/0xEr3n/CVE-2026-32731">
 
 ---
 ## CVE-2026-32722 ()
