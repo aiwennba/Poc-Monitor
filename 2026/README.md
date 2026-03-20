@@ -1420,6 +1420,7 @@
 ## CVE-2026-1492 ()
 > 
 - [dreamboyim66-boop/CVE-2026-1492-POC](https://github.com/dreamboyim66-boop/CVE-2026-1492-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dreamboyim66-boop/CVE-2026-1492-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dreamboyim66-boop/CVE-2026-1492-POC">
+- [the8frust/CVE-2026-1492](https://github.com/the8frust/CVE-2026-1492)	<img alt="forks" src="https://img.shields.io/github/forks/the8frust/CVE-2026-1492">	<img alt="stars" src="https://img.shields.io/github/stars/the8frust/CVE-2026-1492">
 
 ---
 ## CVE-2026-1490 ()
