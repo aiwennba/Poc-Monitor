@@ -9906,6 +9906,11 @@
 - [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
 
 ---
+## CVE-2025-11926 ()
+> 
+- [prabhatverma47/CVE-2025-11926](https://github.com/prabhatverma47/CVE-2025-11926)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-11926">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-11926">
+
+---
 ## CVE-2025-11877 ()
 > 
 - [hyunchiya/CVE-2025-11877](https://github.com/hyunchiya/CVE-2025-11877)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-11877">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-11877">
