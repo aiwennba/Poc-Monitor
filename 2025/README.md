@@ -118,6 +118,11 @@
 - [MooseLoveti/Trinity-Audio-CVE-Report](https://github.com/MooseLoveti/Trinity-Audio-CVE-Report)	<img alt="forks" src="https://img.shields.io/github/forks/MooseLoveti/Trinity-Audio-CVE-Report">	<img alt="stars" src="https://img.shields.io/github/stars/MooseLoveti/Trinity-Audio-CVE-Report">
 
 ---
+## CVE-2025-9172 ()
+> 
+- [jFriedli/CVE-2025-9172](https://github.com/jFriedli/CVE-2025-9172)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-9172">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-9172">
+
+---
 ## CVE-2025-9132 ()
 > 
 - [barbaraeivyu/CVE-2025-9132](https://github.com/barbaraeivyu/CVE-2025-9132)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-9132">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-9132">
@@ -849,6 +854,11 @@
 - [Nosiume/CVE-2025-68055-poc](https://github.com/Nosiume/CVE-2025-68055-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-68055-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-68055-poc">
 
 ---
+## CVE-2025-6792 ()
+> 
+- [jFriedli/CVE-2025-6792](https://github.com/jFriedli/CVE-2025-6792)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-6792">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-6792">
+
+---
 ## CVE-2025-67888 ()
 > 
 - [reewardius/CVE-2025-67888](https://github.com/reewardius/CVE-2025-67888)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67888">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67888">
@@ -863,6 +873,16 @@
 ## CVE-2025-67886 ()
 > 
 - [reewardius/CVE-2025-67886](https://github.com/reewardius/CVE-2025-67886)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67886">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67886">
+
+---
+## CVE-2025-6783 ()
+> 
+- [jFriedli/CVE-2025-6783](https://github.com/jFriedli/CVE-2025-6783)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-6783">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-6783">
+
+---
+## CVE-2025-6782 ()
+> 
+- [jFriedli/CVE-2025-6782](https://github.com/jFriedli/CVE-2025-6782)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-6782">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-6782">
 
 ---
 ## CVE-2025-67780 ()
