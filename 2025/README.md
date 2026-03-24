@@ -9619,6 +9619,11 @@
 - [hyunchiya/CVE-2025-14436](https://github.com/hyunchiya/CVE-2025-14436)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-14436">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-14436">
 
 ---
+## CVE-2025-14340 ()
+> 
+- [DeepSecurityResearch/CVE-2025-14340](https://github.com/DeepSecurityResearch/CVE-2025-14340)	<img alt="forks" src="https://img.shields.io/github/forks/DeepSecurityResearch/CVE-2025-14340">	<img alt="stars" src="https://img.shields.io/github/stars/DeepSecurityResearch/CVE-2025-14340">
+
+---
 ## CVE-2025-14321 ()
 > 
 - [h3raklez/CVE-2025-14321](https://github.com/h3raklez/CVE-2025-14321)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-14321">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-14321">
