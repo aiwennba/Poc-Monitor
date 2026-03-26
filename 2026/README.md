@@ -88,6 +88,11 @@
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
 
 ---
+## CVE-2026-34200 ()
+> 
+- [skoveit/CVE-2026-34200](https://github.com/skoveit/CVE-2026-34200)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34200">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34200">
+
+---
 ## CVE-2026-34070 ()
 > 
 - [Rickidevs/CVE-2026-34070](https://github.com/Rickidevs/CVE-2026-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-34070">
@@ -968,6 +973,7 @@
 - [0xAshwesker/CVE-2026-24061](https://github.com/0xAshwesker/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-24061">
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
+- [ekomsSavior/telnet_scan](https://github.com/ekomsSavior/telnet_scan)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/telnet_scan">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/telnet_scan">
 
 ---
 ## CVE-2026-2406 ()
