@@ -291,6 +291,12 @@
 - [bx33661/CVE-2026-30039](https://github.com/bx33661/CVE-2026-30039)	<img alt="forks" src="https://img.shields.io/github/forks/bx33661/CVE-2026-30039">	<img alt="stars" src="https://img.shields.io/github/stars/bx33661/CVE-2026-30039">
 
 ---
+## CVE-2026-29971 ()
+> 
+- [Tharooon/CVE-2026-29971](https://github.com/Tharooon/CVE-2026-29971)	<img alt="forks" src="https://img.shields.io/github/forks/Tharooon/CVE-2026-29971">	<img alt="stars" src="https://img.shields.io/github/stars/Tharooon/CVE-2026-29971">
+- [tharunchidurala-cyber/BACkupCVE-2026-29971](https://github.com/tharunchidurala-cyber/BACkupCVE-2026-29971)	<img alt="forks" src="https://img.shields.io/github/forks/tharunchidurala-cyber/BACkupCVE-2026-29971">	<img alt="stars" src="https://img.shields.io/github/stars/tharunchidurala-cyber/BACkupCVE-2026-29971">
+
+---
 ## CVE-2026-2991 ()
 > 
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
