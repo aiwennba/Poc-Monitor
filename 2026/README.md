@@ -302,6 +302,11 @@
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
 
 ---
+## CVE-2026-29909 ()
+> 
+- [qflksheep/CVE-2026-29909-MRCMS-vulnerability](https://github.com/qflksheep/CVE-2026-29909-MRCMS-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/qflksheep/CVE-2026-29909-MRCMS-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/qflksheep/CVE-2026-29909-MRCMS-vulnerability">
+
+---
 ## CVE-2026-29905 ()
 > 
 - [Stalin-143/CVE-2026-29905](https://github.com/Stalin-143/CVE-2026-29905)	<img alt="forks" src="https://img.shields.io/github/forks/Stalin-143/CVE-2026-29905">	<img alt="stars" src="https://img.shields.io/github/stars/Stalin-143/CVE-2026-29905">
@@ -1107,6 +1112,7 @@
 - [InzegoSec/CVE-2026-23744](https://github.com/InzegoSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/InzegoSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/InzegoSec/CVE-2026-23744">
 - [z4yd3/PoC-CVE-2026-23744](https://github.com/z4yd3/PoC-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-23744">
 - [ctzisme/CVE-2026-23744](https://github.com/ctzisme/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/CVE-2026-23744">
+- [yassertioursi/htb-kobold-writeup](https://github.com/yassertioursi/htb-kobold-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/yassertioursi/htb-kobold-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/yassertioursi/htb-kobold-writeup">
 
 ---
 ## CVE-2026-23723 ()
