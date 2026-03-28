@@ -414,6 +414,11 @@
 - [richardpaimu34/CVE-2026-2848](https://github.com/richardpaimu34/CVE-2026-2848)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-2848">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-2848">
 
 ---
+## CVE-2026-28466 ()
+> 
+- [Orioning/CVE-2026-28466](https://github.com/Orioning/CVE-2026-28466)	<img alt="forks" src="https://img.shields.io/github/forks/Orioning/CVE-2026-28466">	<img alt="stars" src="https://img.shields.io/github/stars/Orioning/CVE-2026-28466">
+
+---
 ## CVE-2026-28372 ()
 > 
 - [mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation](https://github.com/mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-28372-GNU-inetutils-telnetd-Privilege-Escalation">
@@ -827,6 +832,11 @@
 - [Jvr2022/CVE-2026-25126](https://github.com/Jvr2022/CVE-2026-25126)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-25126">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-25126">
 
 ---
+## CVE-2026-25099 ()
+> 
+- [yahiahamza/CVE-2026-25099](https://github.com/yahiahamza/CVE-2026-25099)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-25099">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-25099">
+
+---
 ## CVE-2026-25075 ()
 > 
 - [BishopFox/CVE-2026-25075-check](https://github.com/BishopFox/CVE-2026-25075-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-25075-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-25075-check">
@@ -1158,6 +1168,7 @@
 - [AhmadF77/CVE-2026-23744](https://github.com/AhmadF77/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/AhmadF77/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/AhmadF77/CVE-2026-23744">
 - [fcjaviergarcia/CVE-2026-23744-POC](https://github.com/fcjaviergarcia/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fcjaviergarcia/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fcjaviergarcia/CVE-2026-23744-POC">
 - [0xg00se/CVE-2026-23744-script](https://github.com/0xg00se/CVE-2026-23744-script)	<img alt="forks" src="https://img.shields.io/github/forks/0xg00se/CVE-2026-23744-script">	<img alt="stars" src="https://img.shields.io/github/stars/0xg00se/CVE-2026-23744-script">
+- [d3vn0mi/CVE-2026-23744-POC](https://github.com/d3vn0mi/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2026-23744-POC">
 
 ---
 ## CVE-2026-23723 ()
@@ -1584,6 +1595,7 @@
 > 
 - [Sushilsin/CVE-2026-20079](https://github.com/Sushilsin/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20079">
 - [b1gchoi/CVE-2026-20079](https://github.com/b1gchoi/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-20079">
+- [0xBlackash/CVE-2026-20079](https://github.com/0xBlackash/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20079">
 
 ---
 ## CVE-2026-20045 ()
