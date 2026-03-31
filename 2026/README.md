@@ -62,6 +62,7 @@
 - [Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher](https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">
 - [netw0rk7/CVE-2026-3888-PoC](https://github.com/netw0rk7/CVE-2026-3888-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2026-3888-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2026-3888-PoC">
 - [nomaisthere/CVE-2026-3888](https://github.com/nomaisthere/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2026-3888">
+- [DanielTangnes/CVE-2026-3888](https://github.com/DanielTangnes/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/DanielTangnes/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/DanielTangnes/CVE-2026-3888">
 
 ---
 ## CVE-2026-3847 ()
@@ -212,6 +213,11 @@
 ## CVE-2026-32722 ()
 > 
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
+
+---
+## CVE-2026-32321 ()
+> 
+- [drkim-dev/CVE-2026-32321](https://github.com/drkim-dev/CVE-2026-32321)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-32321">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-32321">
 
 ---
 ## CVE-2026-3228 ()
