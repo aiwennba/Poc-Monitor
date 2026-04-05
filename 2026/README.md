@@ -526,6 +526,11 @@
 - [b0b0haha/CVE-2026-29954](https://github.com/b0b0haha/CVE-2026-29954)	<img alt="forks" src="https://img.shields.io/github/forks/b0b0haha/CVE-2026-29954">	<img alt="stars" src="https://img.shields.io/github/stars/b0b0haha/CVE-2026-29954">
 
 ---
+## CVE-2026-29923 ()
+> 
+- [Smarttfoxx/CVE-2026-29923](https://github.com/Smarttfoxx/CVE-2026-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/CVE-2026-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/CVE-2026-29923">
+
+---
 ## CVE-2026-2991 ()
 > 
 - [joshuavanderpoll/CVE-2026-2991](https://github.com/joshuavanderpoll/CVE-2026-2991)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-2991">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-2991">
@@ -1339,6 +1344,7 @@
 - [0xBlackash/CVE-2026-24061](https://github.com/0xBlackash/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-24061">
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
+- [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 
 ---
 ## CVE-2026-24018 ()
