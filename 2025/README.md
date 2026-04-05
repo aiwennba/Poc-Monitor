@@ -9500,6 +9500,11 @@
 - [Usama-Figueira/-CVE-2025-1793-poc](https://github.com/Usama-Figueira/-CVE-2025-1793-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Usama-Figueira/-CVE-2025-1793-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Usama-Figueira/-CVE-2025-1793-poc">
 
 ---
+## CVE-2025-1739 ()
+> 
+- [n0n4m3x41/CVE-2025-1739](https://github.com/n0n4m3x41/CVE-2025-1739)	<img alt="forks" src="https://img.shields.io/github/forks/n0n4m3x41/CVE-2025-1739">	<img alt="stars" src="https://img.shields.io/github/stars/n0n4m3x41/CVE-2025-1739">
+
+---
 ## CVE-2025-1738 ()
 > 
 - [n0n4m3x41/CVE-2025-1738](https://github.com/n0n4m3x41/CVE-2025-1738)	<img alt="forks" src="https://img.shields.io/github/forks/n0n4m3x41/CVE-2025-1738">	<img alt="stars" src="https://img.shields.io/github/stars/n0n4m3x41/CVE-2025-1738">
