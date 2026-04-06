@@ -1481,6 +1481,7 @@
 - [0xgh057r3c0n/CVE-2026-22812](https://github.com/0xgh057r3c0n/CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-22812">
 - [barrersoftware/opencode-secure](https://github.com/barrersoftware/opencode-secure)	<img alt="forks" src="https://img.shields.io/github/forks/barrersoftware/opencode-secure">	<img alt="stars" src="https://img.shields.io/github/stars/barrersoftware/opencode-secure">
 - [CayberMods/CVE-2026-22812-POC](https://github.com/CayberMods/CVE-2026-22812-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CayberMods/CVE-2026-22812-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CayberMods/CVE-2026-22812-POC">
+- [0xBlackash/CVE-2026-22812](https://github.com/0xBlackash/CVE-2026-22812)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22812">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22812">
 
 ---
 ## CVE-2026-22807 ()
@@ -1928,6 +1929,11 @@
 ## CVE-2026-1729 ()
 > 
 - [ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass](https://github.com/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">
+
+---
+## CVE-2026-1668 ()
+> 
+- [tangrs/cve-2026-1668-poc](https://github.com/tangrs/cve-2026-1668-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tangrs/cve-2026-1668-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tangrs/cve-2026-1668-poc">
 
 ---
 ## CVE-2026-1657 ()
