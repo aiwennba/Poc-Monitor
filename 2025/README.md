@@ -629,6 +629,11 @@
 - [SNISS/CVE-2025-69516](https://github.com/SNISS/CVE-2025-69516)	<img alt="forks" src="https://img.shields.io/github/forks/SNISS/CVE-2025-69516">	<img alt="stars" src="https://img.shields.io/github/stars/SNISS/CVE-2025-69516">
 
 ---
+## CVE-2025-69515 ()
+> 
+- [thorat-shubham/JXL_Infotainment_CVE-2025-69515](https://github.com/thorat-shubham/JXL_Infotainment_CVE-2025-69515)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_CVE-2025-69515">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_CVE-2025-69515">
+
+---
 ## CVE-2025-69460 ()
 > 
 - [Tagoletta/CVE-2025-69460](https://github.com/Tagoletta/CVE-2025-69460)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69460">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69460">
@@ -3145,6 +3150,11 @@
 ## CVE-2025-56019 ()
 > 
 - [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">
+
+---
+## CVE-2025-56015 ()
+> 
+- [e1st/CVE-2025-56015](https://github.com/e1st/CVE-2025-56015)	<img alt="forks" src="https://img.shields.io/github/forks/e1st/CVE-2025-56015">	<img alt="stars" src="https://img.shields.io/github/stars/e1st/CVE-2025-56015">
 
 ---
 ## CVE-2025-56005 ()
