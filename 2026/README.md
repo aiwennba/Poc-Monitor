@@ -89,6 +89,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-39371 ()
+> 
+- [zebbernCVE/CVE-2026-39371](https://github.com/zebbernCVE/CVE-2026-39371)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-39371">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-39371">
+
+---
 ## CVE-2026-39324 ()
 > 
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
