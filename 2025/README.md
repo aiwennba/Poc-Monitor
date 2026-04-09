@@ -9762,6 +9762,11 @@
 - [DeepSecurityResearch/CVE-2025-14340](https://github.com/DeepSecurityResearch/CVE-2025-14340)	<img alt="forks" src="https://img.shields.io/github/forks/DeepSecurityResearch/CVE-2025-14340">	<img alt="stars" src="https://img.shields.io/github/stars/DeepSecurityResearch/CVE-2025-14340">
 
 ---
+## CVE-2025-14325 ()
+> 
+- [WostGit/cve-2025-14325-full-repro](https://github.com/WostGit/cve-2025-14325-full-repro)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/cve-2025-14325-full-repro">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/cve-2025-14325-full-repro">
+
+---
 ## CVE-2025-14321 ()
 > 
 - [h3raklez/CVE-2025-14321](https://github.com/h3raklez/CVE-2025-14321)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-14321">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-14321">
