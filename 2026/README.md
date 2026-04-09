@@ -196,6 +196,11 @@
 - [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
 
 ---
+## CVE-2026-34724 ()
+> 
+- [0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724">
+
+---
 ## CVE-2026-3442 ()
 > 
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
@@ -748,6 +753,7 @@
 > 
 - [WostGit/CVE-2026-2796](https://github.com/WostGit/CVE-2026-2796)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/CVE-2026-2796">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/CVE-2026-2796">
 - [WostGit/cve-2026-2796-repro](https://github.com/WostGit/cve-2026-2796-repro)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/cve-2026-2796-repro">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/cve-2026-2796-repro">
+- [Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow](https://github.com/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">
 
 ---
 ## CVE-2026-27959 ()
