@@ -271,6 +271,11 @@
 - [0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724">
 
 ---
+## CVE-2026-34621 ()
+> 
+- [ercihan/CVE-2026-34621](https://github.com/ercihan/CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-34621">
+
+---
 ## CVE-2026-3442 ()
 > 
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
