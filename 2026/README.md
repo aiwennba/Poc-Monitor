@@ -229,6 +229,7 @@
 - [fevar54/CVE-2026-35616-detector.py](https://github.com/fevar54/CVE-2026-35616-detector.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-35616-detector.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-35616-detector.py">
 - [BishopFox/CVE-2026-35616-check](https://github.com/BishopFox/CVE-2026-35616-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-35616-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-35616-check">
 - [fevar54/forticlient_ems_cve_2026_35616_poc.py](https://github.com/fevar54/forticlient_ems_cve_2026_35616_poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/forticlient_ems_cve_2026_35616_poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/forticlient_ems_cve_2026_35616_poc.py">
+- [keraattin/CVE-2026-35616](https://github.com/keraattin/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35616">
 
 ---
 ## CVE-2026-35584 ()
@@ -280,6 +281,7 @@
 ## CVE-2026-34621 ()
 > 
 - [ercihan/CVE-2026-34621](https://github.com/ercihan/CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-34621">
+- [eduardorossi84/CVE-2026-34621-POC](https://github.com/eduardorossi84/CVE-2026-34621-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-34621-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-34621-POC">
 
 ---
 ## CVE-2026-3442 ()
@@ -441,6 +443,7 @@
 - [masterwok/CVE-2026-33017-Langflow-PoC](https://github.com/masterwok/CVE-2026-33017-Langflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2026-33017-Langflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2026-33017-Langflow-PoC">
 - [oscarmine/CVE-2026-33017-Exploit](https://github.com/oscarmine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-33017-Exploit">
 - [oscar-mine/CVE-2026-33017-Exploit](https://github.com/oscar-mine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/CVE-2026-33017-Exploit">
+- [Spydomain/CVE-2026-33017-lab](https://github.com/Spydomain/CVE-2026-33017-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2026-33017-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2026-33017-lab">
 
 ---
 ## CVE-2026-32945 ()
@@ -2485,3 +2488,6 @@
 ## CVE-2026-000 ()
 > 
 - [r3m0t3nu11/biotime-CVE-2026-000-Auth-rce](https://github.com/r3m0t3nu11/biotime-CVE-2026-000-Auth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/r3m0t3nu11/biotime-CVE-2026-000-Auth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/r3m0t3nu11/biotime-CVE-2026-000-Auth-rce">
+- [sufnir/POC-CVE-2026-00001](https://github.com/sufnir/POC-CVE-2026-00001)	<img alt="forks" src="https://img.shields.io/github/forks/sufnir/POC-CVE-2026-00001">	<img alt="stars" src="https://img.shields.io/github/stars/sufnir/POC-CVE-2026-00001">
+- [aydin5245/cve-2026-0006](https://github.com/aydin5245/cve-2026-0006)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/cve-2026-0006">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/cve-2026-0006">
+- [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
