@@ -2802,6 +2802,7 @@
 - [kartik2005221/CVE-2025-58434-poc](https://github.com/kartik2005221/CVE-2025-58434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-poc">
 - [kartik2005221/CVE-2025-58434-AND-59528-POC](https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-AND-59528-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-AND-59528-POC">
 - [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
+- [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
 
 ---
 ## CVE-2025-5840 ()
@@ -4033,13 +4034,14 @@
 - [toprak-t800/CVE-2025-55182](https://github.com/toprak-t800/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/toprak-t800/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/toprak-t800/CVE-2025-55182">
 - [porsellaj/cve-2025-55182-react2shell-analysis](https://github.com/porsellaj/cve-2025-55182-react2shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/porsellaj/cve-2025-55182-react2shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/porsellaj/cve-2025-55182-react2shell-analysis">
 - [hexsh1dow/CVE-2025-55182](https://github.com/hexsh1dow/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hexsh1dow/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hexsh1dow/CVE-2025-55182">
-- [masterwok/CVE-2025-55182-React2Shell-PoC](https://github.com/masterwok/CVE-2025-55182-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2025-55182-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2025-55182-React2Shell-PoC">
+- [masterwok/PoC-CVE-2025-55182](https://github.com/masterwok/PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2025-55182">
 - [kaxm23/CVE-2025-55182-Auto-Scanner](https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/CVE-2025-55182-Auto-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/CVE-2025-55182-Auto-Scanner">
 - [kaxm23/rust-cve-2025-55182-scanner](https://github.com/kaxm23/rust-cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/rust-cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/rust-cve-2025-55182-scanner">
 - [RewantChaudhari/nextjs-rce-incident-response](https://github.com/RewantChaudhari/nextjs-rce-incident-response)	<img alt="forks" src="https://img.shields.io/github/forks/RewantChaudhari/nextjs-rce-incident-response">	<img alt="stars" src="https://img.shields.io/github/stars/RewantChaudhari/nextjs-rce-incident-response">
 - [oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/R2SAE">
 - [AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500](https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">
 - [DeDnY/CVE-2025-55182-poc-panel](https://github.com/DeDnY/CVE-2025-55182-poc-panel)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-poc-panel">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-poc-panel">
+- [opsecramdan/react2shell-cve-2025-55182](https://github.com/opsecramdan/react2shell-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/opsecramdan/react2shell-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/opsecramdan/react2shell-cve-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
