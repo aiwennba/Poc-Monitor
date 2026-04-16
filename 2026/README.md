@@ -252,6 +252,11 @@
 - [snapdowgg/CVE-2026-3786](https://github.com/snapdowgg/CVE-2026-3786)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2026-3786">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2026-3786">
 
 ---
+## CVE-2026-37750 ()
+> 
+- [menevarad007/CVE-2026-37750](https://github.com/menevarad007/CVE-2026-37750)	<img alt="forks" src="https://img.shields.io/github/forks/menevarad007/CVE-2026-37750">	<img alt="stars" src="https://img.shields.io/github/stars/menevarad007/CVE-2026-37750">
+
+---
 ## CVE-2026-37749 ()
 > 
 - [menevarad007/CVE-2026-37749](https://github.com/menevarad007/CVE-2026-37749)	<img alt="forks" src="https://img.shields.io/github/forks/menevarad007/CVE-2026-37749">	<img alt="stars" src="https://img.shields.io/github/stars/menevarad007/CVE-2026-37749">
