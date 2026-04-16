@@ -2309,6 +2309,11 @@
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
 
 ---
+## CVE-2026-1880 ()
+> 
+- [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
+
+---
 ## CVE-2026-1862 ()
 > 
 - [b1gchoi/CVE-2026-1862-exp](https://github.com/b1gchoi/CVE-2026-1862-exp)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-1862-exp">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-1862-exp">
