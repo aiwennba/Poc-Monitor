@@ -1235,6 +1235,7 @@
 ## CVE-2026-2631 ()
 > 
 - [Nxploited/CVE-2026-2631](https://github.com/Nxploited/CVE-2026-2631)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-2631">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-2631">
+- [AnggaTechI/Mass-Scanner-CVE-2026-2631](https://github.com/AnggaTechI/Mass-Scanner-CVE-2026-2631)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/Mass-Scanner-CVE-2026-2631">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/Mass-Scanner-CVE-2026-2631">
 
 ---
 ## CVE-2026-2628 ()
@@ -2464,6 +2465,7 @@
 ## CVE-2026-1405 ()
 > 
 - [Nxploited/CVE-2026-1405](https://github.com/Nxploited/CVE-2026-1405)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1405">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1405">
+- [AnggaTechI/Mass-Scanner-CVE-2026-1405](https://github.com/AnggaTechI/Mass-Scanner-CVE-2026-1405)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/Mass-Scanner-CVE-2026-1405">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/Mass-Scanner-CVE-2026-1405">
 
 ---
 ## CVE-2026-1375 ()
