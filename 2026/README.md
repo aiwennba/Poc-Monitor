@@ -16,6 +16,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-6355 ()
+> 
+- [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
+
+---
 ## CVE-2026-6227 ()
 > 
 - [Pixel-DefaultBR/CVE-2026-6227](https://github.com/Pixel-DefaultBR/CVE-2026-6227)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2026-6227">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2026-6227">
@@ -1079,6 +1084,11 @@
 - [mbanyamer/CVE-2026-27574-OneUptime-RCE](https://github.com/mbanyamer/CVE-2026-27574-OneUptime-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27574-OneUptime-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27574-OneUptime-RCE">
 
 ---
+## CVE-2026-27542 ()
+> 
+- [Nxploited/CVE-2026-27542-CVE-2026-27540-](https://github.com/Nxploited/CVE-2026-27542-CVE-2026-27540-)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-27542-CVE-2026-27540-">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-27542-CVE-2026-27540-">
+
+---
 ## CVE-2026-27541 ()
 > 
 - [rootdirective-sec/CVE-2026-27541-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-27541-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-27541-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-27541-Analysis-Lab">
@@ -1675,6 +1685,7 @@
 - [ekomsSavior/telnet_scan](https://github.com/ekomsSavior/telnet_scan)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/telnet_scan">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/telnet_scan">
 - [athack-ctf/chall2026-telneted](https://github.com/athack-ctf/chall2026-telneted)	<img alt="forks" src="https://img.shields.io/github/forks/athack-ctf/chall2026-telneted">	<img alt="stars" src="https://img.shields.io/github/stars/athack-ctf/chall2026-telneted">
 - [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
+- [RStephanH/vuln-deb](https://github.com/RStephanH/vuln-deb)	<img alt="forks" src="https://img.shields.io/github/forks/RStephanH/vuln-deb">	<img alt="stars" src="https://img.shields.io/github/stars/RStephanH/vuln-deb">
 
 ---
 ## CVE-2026-2406 ()
