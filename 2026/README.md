@@ -67,6 +67,11 @@
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
 
 ---
+## CVE-2026-5194 ()
+> 
+- [jenniferreire26/CVE-2026-5194](https://github.com/jenniferreire26/CVE-2026-5194)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-5194">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-5194">
+
+---
 ## CVE-2026-5173 ()
 > 
 - [0xBlackash/CVE-2026-5173](https://github.com/0xBlackash/CVE-2026-5173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5173">
@@ -117,6 +122,7 @@
 ## CVE-2026-4447 ()
 > 
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
+- [NetVanguard-cmd/CVE-2026-4447](https://github.com/NetVanguard-cmd/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-4447">
 
 ---
 ## CVE-2026-4406 ()
@@ -802,6 +808,7 @@
 - [fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC](https://github.com/fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3055---Citrix-NetScaler-Memory-Overread-PoC">
 - [fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n](https://github.com/fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3055-Scanner---Herramienta-de-Detecci-n">
 - [l0lsec/check-cve-2026-3055-netscaler](https://github.com/l0lsec/check-cve-2026-3055-netscaler)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/check-cve-2026-3055-netscaler">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/check-cve-2026-3055-netscaler">
+- [NetVanguard-cmd/CVE-2026-3055](https://github.com/NetVanguard-cmd/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-3055">
 
 ---
 ## CVE-2026-30498 ()
@@ -1086,6 +1093,11 @@
 - [lukasz-rybak/CVE-2026-27621](https://github.com/lukasz-rybak/CVE-2026-27621)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-27621">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-27621">
 
 ---
+## CVE-2026-27597 ()
+> 
+- [NetVanguard-cmd/CVE-2026-27597](https://github.com/NetVanguard-cmd/CVE-2026-27597)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-27597">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-27597">
+
+---
 ## CVE-2026-27579 ()
 > 
 - [mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration](https://github.com/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">
@@ -1115,6 +1127,7 @@
 ## CVE-2026-27507 ()
 > 
 - [RootAid/CVE-2026-27507](https://github.com/RootAid/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-27507">
+- [NetVanguard-cmd/CVE-2026-27507](https://github.com/NetVanguard-cmd/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-27507">
 
 ---
 ## CVE-2026-27483 ()
