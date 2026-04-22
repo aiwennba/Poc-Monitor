@@ -970,6 +970,7 @@
 ## CVE-2026-29053 ()
 > 
 - [rootxran/CVE-2026-29053](https://github.com/rootxran/CVE-2026-29053)	<img alt="forks" src="https://img.shields.io/github/forks/rootxran/CVE-2026-29053">	<img alt="stars" src="https://img.shields.io/github/stars/rootxran/CVE-2026-29053">
+- [AC8999/CVE-2026-29053](https://github.com/AC8999/CVE-2026-29053)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2026-29053">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2026-29053">
 
 ---
 ## CVE-2026-29041 ()
@@ -1225,6 +1226,11 @@
 ## CVE-2026-26980 ()
 > 
 - [vognik/CVE-2026-26980](https://github.com/vognik/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/vognik/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/vognik/CVE-2026-26980">
+
+---
+## CVE-2026-26903 ()
+> 
+- [John-Jung/CVE-2026-26903-PoC](https://github.com/John-Jung/CVE-2026-26903-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-26903-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-26903-PoC">
 
 ---
 ## CVE-2026-26833 ()
