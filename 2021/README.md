@@ -2497,6 +2497,7 @@
 - [tsiddiquea/cve-reproduction-lab](https://github.com/tsiddiquea/cve-reproduction-lab)	<img alt="forks" src="https://img.shields.io/github/forks/tsiddiquea/cve-reproduction-lab">	<img alt="stars" src="https://img.shields.io/github/stars/tsiddiquea/cve-reproduction-lab">
 - [Nanxsec/exploitApache](https://github.com/Nanxsec/exploitApache)	<img alt="forks" src="https://img.shields.io/github/forks/Nanxsec/exploitApache">	<img alt="stars" src="https://img.shields.io/github/stars/Nanxsec/exploitApache">
 - [snapdowgg/CVE-2021-41773](https://github.com/snapdowgg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2021-41773">
+- [klmntbelgium/cve-2021-41773-exploration](https://github.com/klmntbelgium/cve-2021-41773-exploration)	<img alt="forks" src="https://img.shields.io/github/forks/klmntbelgium/cve-2021-41773-exploration">	<img alt="stars" src="https://img.shields.io/github/stars/klmntbelgium/cve-2021-41773-exploration">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
