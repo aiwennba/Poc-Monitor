@@ -196,6 +196,11 @@
 - [kaleth4/CVE-2026-41303](https://github.com/kaleth4/CVE-2026-41303)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-41303">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-41303">
 
 ---
+## CVE-2026-41177 ()
+> 
+- [TurkiOS/CVE-2026-41177-Squidex-CMS](https://github.com/TurkiOS/CVE-2026-41177-Squidex-CMS)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/CVE-2026-41177-Squidex-CMS">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/CVE-2026-41177-Squidex-CMS">
+
+---
 ## CVE-2026-4112 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
@@ -729,6 +734,11 @@
 ## CVE-2026-32722 ()
 > 
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
+
+---
+## CVE-2026-32699 ()
+> 
+- [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
 
 ---
 ## CVE-2026-32662 ()
