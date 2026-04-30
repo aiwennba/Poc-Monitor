@@ -1139,6 +1139,7 @@
 - [meowteusz/copyfailautopatch](https://github.com/meowteusz/copyfailautopatch)	<img alt="forks" src="https://img.shields.io/github/forks/meowteusz/copyfailautopatch">	<img alt="stars" src="https://img.shields.io/github/stars/meowteusz/copyfailautopatch">
 - [mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431">
 - [Juguitos/copy-fail](https://github.com/Juguitos/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/Juguitos/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/Juguitos/copy-fail">
+- [maniakh/CVE-2026-31431---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-31431---Copy-Fail-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maniakh/CVE-2026-31431---Copy-Fail-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maniakh/CVE-2026-31431---Copy-Fail-PoC">
 
 ---
 ## CVE-2026-3143 ()
