@@ -619,6 +619,11 @@
 - [helGayhub233/CVE-2026-34486-Tribes](https://github.com/helGayhub233/CVE-2026-34486-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/helGayhub233/CVE-2026-34486-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/helGayhub233/CVE-2026-34486-Tribes">
 
 ---
+## CVE-2026-34475 ()
+> 
+- [bitbcybr/way2poc_cve-2026-34475](https://github.com/bitbcybr/way2poc_cve-2026-34475)	<img alt="forks" src="https://img.shields.io/github/forks/bitbcybr/way2poc_cve-2026-34475">	<img alt="stars" src="https://img.shields.io/github/stars/bitbcybr/way2poc_cve-2026-34475">
+
+---
 ## CVE-2026-3442 ()
 > 
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
@@ -1072,6 +1077,14 @@
 - [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
 - [Linux-zs/cve-2026-31431-mitigation](https://github.com/Linux-zs/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Linux-zs/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Linux-zs/cve-2026-31431-mitigation">
 - [attaattaatta/CVE-2026-31431](https://github.com/attaattaatta/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-31431">
+- [SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian](https://github.com/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian)	<img alt="forks" src="https://img.shields.io/github/forks/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian">	<img alt="stars" src="https://img.shields.io/github/stars/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian">
+- [galoryber/CVE-2026-31431-cleaned](https://github.com/galoryber/CVE-2026-31431-cleaned)	<img alt="forks" src="https://img.shields.io/github/forks/galoryber/CVE-2026-31431-cleaned">	<img alt="stars" src="https://img.shields.io/github/stars/galoryber/CVE-2026-31431-cleaned">
+- [leelong2020/cve-2026-31431](https://github.com/leelong2020/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/leelong2020/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/leelong2020/cve-2026-31431">
+- [scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431](https://github.com/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">
+- [wesmar/CVE-2026-31431](https://github.com/wesmar/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/wesmar/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/wesmar/CVE-2026-31431">
+- [grishinpv/CVE-2026-31431-old-python](https://github.com/grishinpv/CVE-2026-31431-old-python)	<img alt="forks" src="https://img.shields.io/github/forks/grishinpv/CVE-2026-31431-old-python">	<img alt="stars" src="https://img.shields.io/github/stars/grishinpv/CVE-2026-31431-old-python">
+- [yxdm02/CVE-2026-31431](https://github.com/yxdm02/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/yxdm02/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/yxdm02/CVE-2026-31431">
+- [rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch">
 
 ---
 ## CVE-2026-31413 ()
