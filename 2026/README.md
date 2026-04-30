@@ -222,6 +222,7 @@
 > 
 - [Sachinart/CVE-2026-41940-cpanel-0day](https://github.com/Sachinart/CVE-2026-41940-cpanel-0day)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2026-41940-cpanel-0day">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2026-41940-cpanel-0day">
 - [rdyprtmx/poc-cve-2026-41940](https://github.com/rdyprtmx/poc-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/rdyprtmx/poc-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/rdyprtmx/poc-cve-2026-41940">
+- [realawaisakbar/CVE-2026-41940-Exploit-PoC](https://github.com/realawaisakbar/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realawaisakbar/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realawaisakbar/CVE-2026-41940-Exploit-PoC">
 
 ---
 ## CVE-2026-41679 ()
@@ -484,6 +485,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36358 ()
+> 
+- [yuhuamiao/CVE-2026-36358](https://github.com/yuhuamiao/CVE-2026-36358)	<img alt="forks" src="https://img.shields.io/github/forks/yuhuamiao/CVE-2026-36358">	<img alt="stars" src="https://img.shields.io/github/stars/yuhuamiao/CVE-2026-36358">
 
 ---
 ## CVE-2026-3587 ()
@@ -1037,6 +1043,9 @@
 - [iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail](https://github.com/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail">
 - [wuwu001/CVE-2026-31431-exploit](https://github.com/wuwu001/CVE-2026-31431-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wuwu001/CVE-2026-31431-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wuwu001/CVE-2026-31431-exploit">
 - [guard-wait/CVE-2026-31431_EXP](https://github.com/guard-wait/CVE-2026-31431_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2026-31431_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2026-31431_EXP">
+- [lonelyor/CVE-2026-31431-exp](https://github.com/lonelyor/CVE-2026-31431-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lonelyor/CVE-2026-31431-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lonelyor/CVE-2026-31431-exp">
+- [makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit](https://github.com/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit">
+- [kadir/copy-fail-CVE-2026-31431-IOC](https://github.com/kadir/copy-fail-CVE-2026-31431-IOC)	<img alt="forks" src="https://img.shields.io/github/forks/kadir/copy-fail-CVE-2026-31431-IOC">	<img alt="stars" src="https://img.shields.io/github/stars/kadir/copy-fail-CVE-2026-31431-IOC">
 
 ---
 ## CVE-2026-31413 ()
