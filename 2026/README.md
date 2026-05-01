@@ -239,6 +239,10 @@
 - [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
 - [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
+- [mahfuzreham/cpanel-cve-2026-41940](https://github.com/mahfuzreham/cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/cpanel-cve-2026-41940">
+- [merdw/cPanel-CVE-2026-41940-Scanner](https://github.com/merdw/cPanel-CVE-2026-41940-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/merdw/cPanel-CVE-2026-41940-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/merdw/cPanel-CVE-2026-41940-Scanner">
+- [senyx122/CVE-2026-41940](https://github.com/senyx122/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/senyx122/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/senyx122/CVE-2026-41940">
+- [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
 
 ---
 ## CVE-2026-41679 ()
@@ -1148,6 +1152,9 @@
 - [ashok523/cve-2026-31431](https://github.com/ashok523/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ashok523/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ashok523/cve-2026-31431">
 - [aestechno/cve-2026-31431-ansible](https://github.com/aestechno/cve-2026-31431-ansible)	<img alt="forks" src="https://img.shields.io/github/forks/aestechno/cve-2026-31431-ansible">	<img alt="stars" src="https://img.shields.io/github/stars/aestechno/cve-2026-31431-ansible">
 - [johanburati/CVE-2026-31431](https://github.com/johanburati/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/johanburati/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/johanburati/CVE-2026-31431">
+- [ErdemOzgen/copy-fail-cve-2026-31431](https://github.com/ErdemOzgen/copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ErdemOzgen/copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ErdemOzgen/copy-fail-cve-2026-31431">
+- [OmerAti/almalinux-fix-cve-2026-31431](https://github.com/OmerAti/almalinux-fix-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/OmerAti/almalinux-fix-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/OmerAti/almalinux-fix-cve-2026-31431">
+- [HulnotHutu/CVE-2026-31431](https://github.com/HulnotHutu/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/HulnotHutu/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/HulnotHutu/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -3248,6 +3255,11 @@
 > 
 - [TeeyaR/CVE-2026-0227-Palo-Alto](https://github.com/TeeyaR/CVE-2026-0227-Palo-Alto)	<img alt="forks" src="https://img.shields.io/github/forks/TeeyaR/CVE-2026-0227-Palo-Alto">	<img alt="stars" src="https://img.shields.io/github/stars/TeeyaR/CVE-2026-0227-Palo-Alto">
 - [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
+
+---
+## CVE-2026-0047 ()
+> 
+- [mobilehackinglab/CVE-2026-0047-poc](https://github.com/mobilehackinglab/CVE-2026-0047-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0047-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0047-poc">
 
 ---
 ## CVE-2026-0006 ()
