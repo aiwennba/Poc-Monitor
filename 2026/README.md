@@ -1145,6 +1145,9 @@
 - [sngrotesque/CVE-2026-31431](https://github.com/sngrotesque/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sngrotesque/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sngrotesque/CVE-2026-31431">
 - [offsecguy/CVE-2026-31431](https://github.com/offsecguy/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/offsecguy/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/offsecguy/CVE-2026-31431">
 - [poyea/CVE-2026-31431.c](https://github.com/poyea/CVE-2026-31431.c)	<img alt="forks" src="https://img.shields.io/github/forks/poyea/CVE-2026-31431.c">	<img alt="stars" src="https://img.shields.io/github/stars/poyea/CVE-2026-31431.c">
+- [ashok523/cve-2026-31431](https://github.com/ashok523/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ashok523/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ashok523/cve-2026-31431">
+- [aestechno/cve-2026-31431-ansible](https://github.com/aestechno/cve-2026-31431-ansible)	<img alt="forks" src="https://img.shields.io/github/forks/aestechno/cve-2026-31431-ansible">	<img alt="stars" src="https://img.shields.io/github/stars/aestechno/cve-2026-31431-ansible">
+- [johanburati/CVE-2026-31431](https://github.com/johanburati/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/johanburati/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/johanburati/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
