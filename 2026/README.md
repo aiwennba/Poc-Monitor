@@ -216,6 +216,7 @@
 > 
 - [ZeroPathAI/proftpd-CVE-2026-42167-poc](https://github.com/ZeroPathAI/proftpd-CVE-2026-42167-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/proftpd-CVE-2026-42167-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/proftpd-CVE-2026-42167-poc">
 - [dinosn/proftpd-CVE-2026-42167-analysis](https://github.com/dinosn/proftpd-CVE-2026-42167-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/proftpd-CVE-2026-42167-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/proftpd-CVE-2026-42167-analysis">
+- [Sl4cK0TH/CVE-2026-42167-PoC](https://github.com/Sl4cK0TH/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-42167-PoC">
 
 ---
 ## CVE-2026-42141 ()
@@ -985,6 +986,7 @@
 ## CVE-2026-32202 ()
 > 
 - [virus-or-not/CVE-2026-32202](https://github.com/virus-or-not/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/virus-or-not/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/virus-or-not/CVE-2026-32202">
+- [solarlynxsqueeze/CVE-2026-32202](https://github.com/solarlynxsqueeze/CVE-2026-32202)	<img alt="forks" src="https://img.shields.io/github/forks/solarlynxsqueeze/CVE-2026-32202">	<img alt="stars" src="https://img.shields.io/github/stars/solarlynxsqueeze/CVE-2026-32202">
 
 ---
 ## CVE-2026-32201 ()
@@ -1174,6 +1176,12 @@
 - [deckhouse/d8-copy-fail-mitigation](https://github.com/deckhouse/d8-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/deckhouse/d8-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/deckhouse/d8-copy-fail-mitigation">
 - [cyber-joker/copy-fail-python](https://github.com/cyber-joker/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/cyber-joker/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/cyber-joker/copy-fail-python">
 - [jodonnel/copyfail-briefing](https://github.com/jodonnel/copyfail-briefing)	<img alt="forks" src="https://img.shields.io/github/forks/jodonnel/copyfail-briefing">	<img alt="stars" src="https://img.shields.io/github/stars/jodonnel/copyfail-briefing">
+- [sbeteta42/CVE-2026-31431_je_sappelle_RoOt](https://github.com/sbeteta42/CVE-2026-31431_je_sappelle_RoOt)	<img alt="forks" src="https://img.shields.io/github/forks/sbeteta42/CVE-2026-31431_je_sappelle_RoOt">	<img alt="stars" src="https://img.shields.io/github/stars/sbeteta42/CVE-2026-31431_je_sappelle_RoOt">
+- [bedros-p/kopy-fail-CVE-2026-31431](https://github.com/bedros-p/kopy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/bedros-p/kopy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/bedros-p/kopy-fail-CVE-2026-31431">
+- [Silent0x0/Copy-Fail---CVE-2026-31431](https://github.com/Silent0x0/Copy-Fail---CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent0x0/Copy-Fail---CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent0x0/Copy-Fail---CVE-2026-31431">
+- [rvizx/CVE-2026-31431](https://github.com/rvizx/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2026-31431">
+- [Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit](https://github.com/Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit">
+- [Phalanx-CCS/Copy-Fail](https://github.com/Phalanx-CCS/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Phalanx-CCS/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Phalanx-CCS/Copy-Fail">
 
 ---
 ## CVE-2026-3143 ()
