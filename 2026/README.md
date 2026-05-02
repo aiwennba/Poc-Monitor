@@ -1217,6 +1217,7 @@
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [Emmmmllll/copy-fail-zig](https://github.com/Emmmmllll/copy-fail-zig)	<img alt="forks" src="https://img.shields.io/github/forks/Emmmmllll/copy-fail-zig">	<img alt="stars" src="https://img.shields.io/github/stars/Emmmmllll/copy-fail-zig">
 - [monobrau/copyfailscan](https://github.com/monobrau/copyfailscan)	<img alt="forks" src="https://img.shields.io/github/forks/monobrau/copyfailscan">	<img alt="stars" src="https://img.shields.io/github/stars/monobrau/copyfailscan">
+- [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
 
 ---
 ## CVE-2026-3143 ()
