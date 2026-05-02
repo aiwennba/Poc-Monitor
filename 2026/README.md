@@ -274,6 +274,7 @@
 - [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
+- [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1253,6 +1254,9 @@
 - [TheMursalin/CVE-2026-31431](https://github.com/TheMursalin/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMursalin/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMursalin/CVE-2026-31431">
 - [euriconicacio/copy-fail-CVE-2026-31431-poc](https://github.com/euriconicacio/copy-fail-CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/euriconicacio/copy-fail-CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/euriconicacio/copy-fail-CVE-2026-31431-poc">
 - [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
+- [suominen/CVE-2026-31431](https://github.com/suominen/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-31431">
+- [mahdi13830510/CVE-2026-31431-mitigation-suite](https://github.com/mahdi13830510/CVE-2026-31431-mitigation-suite)	<img alt="forks" src="https://img.shields.io/github/forks/mahdi13830510/CVE-2026-31431-mitigation-suite">	<img alt="stars" src="https://img.shields.io/github/stars/mahdi13830510/CVE-2026-31431-mitigation-suite">
+- [KanbaraAkihito/CVE-2026-31431-copyfail-rs](https://github.com/KanbaraAkihito/CVE-2026-31431-copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/KanbaraAkihito/CVE-2026-31431-copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/KanbaraAkihito/CVE-2026-31431-copyfail-rs">
 
 ---
 ## CVE-2026-3143 ()
