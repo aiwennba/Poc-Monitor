@@ -1279,6 +1279,8 @@
 - [joltcan/ansible-role-cve-2026-31431](https://github.com/joltcan/ansible-role-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/joltcan/ansible-role-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/joltcan/ansible-role-cve-2026-31431">
 - [pulentoski/CVE-2026-31431](https://github.com/pulentoski/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pulentoski/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pulentoski/CVE-2026-31431">
 - [Gr-1m/CVE-2026-31431](https://github.com/Gr-1m/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/CVE-2026-31431">
+- [CybroZeus/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431">
+- [rivaldofwijaya/copy-success](https://github.com/rivaldofwijaya/copy-success)	<img alt="forks" src="https://img.shields.io/github/forks/rivaldofwijaya/copy-success">	<img alt="stars" src="https://img.shields.io/github/stars/rivaldofwijaya/copy-success">
 
 ---
 ## CVE-2026-3143 ()
