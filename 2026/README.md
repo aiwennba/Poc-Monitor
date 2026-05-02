@@ -11,6 +11,11 @@
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
 
 ---
+## CVE-2026-7567 ()
+> 
+- [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
+
+---
 ## CVE-2026-7401 ()
 > 
 - [Xmyronn/CVE-2026-7401-XSS](https://github.com/Xmyronn/CVE-2026-7401-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7401-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7401-XSS">
@@ -1230,6 +1235,18 @@
 - [malwarekid/CVE-2026-31431](https://github.com/malwarekid/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/malwarekid/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/malwarekid/CVE-2026-31431">
 - [xd20111/CVE-2026-31431](https://github.com/xd20111/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-31431">
 - [moaaz-mostafa123/CVE-2026-31431](https://github.com/moaaz-mostafa123/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/moaaz-mostafa123/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/moaaz-mostafa123/CVE-2026-31431">
+- [Trex1e/copyfail-CVE-2026-31431](https://github.com/Trex1e/copyfail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Trex1e/copyfail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Trex1e/copyfail-CVE-2026-31431">
+- [suominen/CVE-2026-31431](https://github.com/suominen/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-31431">
+- [EynaExp/Copy-Fail-CVE-2026-31431-modernized](https://github.com/EynaExp/Copy-Fail-CVE-2026-31431-modernized)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/Copy-Fail-CVE-2026-31431-modernized">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/Copy-Fail-CVE-2026-31431-modernized">
+- [krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-](https://github.com/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-">
+- [MartinPham/copy-fail-CVE-2026-31431-php](https://github.com/MartinPham/copy-fail-CVE-2026-31431-php)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPham/copy-fail-CVE-2026-31431-php">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPham/copy-fail-CVE-2026-31431-php">
+- [2H-K/copyfailRecurrence](https://github.com/2H-K/copyfailRecurrence)	<img alt="forks" src="https://img.shields.io/github/forks/2H-K/copyfailRecurrence">	<img alt="stars" src="https://img.shields.io/github/stars/2H-K/copyfailRecurrence">
+- [0xac1dc0de/CVE-2026-31431](https://github.com/0xac1dc0de/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/0xac1dc0de/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/0xac1dc0de/CVE-2026-31431">
+- [ROSNLR5/modrosnlr5](https://github.com/ROSNLR5/modrosnlr5)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/modrosnlr5">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/modrosnlr5">
+- [qi4L/CVE-2026-31431-Container-Escape](https://github.com/qi4L/CVE-2026-31431-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/qi4L/CVE-2026-31431-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/qi4L/CVE-2026-31431-Container-Escape">
+- [TheMursalin/CVE-2026-31431](https://github.com/TheMursalin/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/TheMursalin/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/TheMursalin/CVE-2026-31431">
+- [euriconicacio/copy-fail-CVE-2026-31431-poc](https://github.com/euriconicacio/copy-fail-CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/euriconicacio/copy-fail-CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/euriconicacio/copy-fail-CVE-2026-31431-poc">
+- [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
 
 ---
 ## CVE-2026-3143 ()
