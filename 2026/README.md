@@ -367,6 +367,7 @@
 ## CVE-2026-40487 ()
 > 
 - [Astaruf/CVE-2026-40487](https://github.com/Astaruf/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-40487">
+- [0xBlackash/CVE-2026-40487](https://github.com/0xBlackash/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40487">
 
 ---
 ## CVE-2026-40261 ()
