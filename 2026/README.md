@@ -1312,6 +1312,8 @@
 - [vyahello/CVE-2026-31431](https://github.com/vyahello/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vyahello/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vyahello/CVE-2026-31431">
 - [nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector](https://github.com/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector">
 - [sibersan/cve-2026-31431-checker](https://github.com/sibersan/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-31431-checker">
+- [jamal-soc21/Weekly-Breach-Investigation--006](https://github.com/jamal-soc21/Weekly-Breach-Investigation--006)	<img alt="forks" src="https://img.shields.io/github/forks/jamal-soc21/Weekly-Breach-Investigation--006">	<img alt="stars" src="https://img.shields.io/github/stars/jamal-soc21/Weekly-Breach-Investigation--006">
+- [ncmprbll/copy-fail-rs](https://github.com/ncmprbll/copy-fail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/ncmprbll/copy-fail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/ncmprbll/copy-fail-rs">
 
 ---
 ## CVE-2026-3143 ()
