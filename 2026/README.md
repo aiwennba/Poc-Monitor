@@ -1398,6 +1398,7 @@
 - [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
 - [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
 - [KhaosFarbauti/CVE-2026-31431](https://github.com/KhaosFarbauti/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/KhaosFarbauti/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/KhaosFarbauti/CVE-2026-31431">
+- [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
