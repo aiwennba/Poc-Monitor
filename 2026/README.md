@@ -308,6 +308,10 @@
 - [nickpaulsec/cve-2026-41940-poc](https://github.com/nickpaulsec/cve-2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nickpaulsec/cve-2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nickpaulsec/cve-2026-41940-poc">
 - [sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool](https://github.com/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool">
 - [Yuri08loveElaina/cve-2026-41940](https://github.com/Yuri08loveElaina/cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/cve-2026-41940">
+- [iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass](https://github.com/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">
+- [nickpaulsec/2026-41940-poc](https://github.com/nickpaulsec/2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nickpaulsec/2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nickpaulsec/2026-41940-poc">
+- [habibkaratas/sorry-ransomware-analysis](https://github.com/habibkaratas/sorry-ransomware-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/habibkaratas/sorry-ransomware-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/habibkaratas/sorry-ransomware-analysis">
+- [Underh0st/CPanel-Audit-Remediation-Tool](https://github.com/Underh0st/CPanel-Audit-Remediation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Underh0st/CPanel-Audit-Remediation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Underh0st/CPanel-Audit-Remediation-Tool">
 
 ---
 ## CVE-2026-41679 ()
@@ -1386,6 +1390,7 @@
 - [chavezvic/CopyFail-Penguin](https://github.com/chavezvic/CopyFail-Penguin)	<img alt="forks" src="https://img.shields.io/github/forks/chavezvic/CopyFail-Penguin">	<img alt="stars" src="https://img.shields.io/github/stars/chavezvic/CopyFail-Penguin">
 - [kvendler/BigFix-CopyFail-AlmaLinux-Content](https://github.com/kvendler/BigFix-CopyFail-AlmaLinux-Content)	<img alt="forks" src="https://img.shields.io/github/forks/kvendler/BigFix-CopyFail-AlmaLinux-Content">	<img alt="stars" src="https://img.shields.io/github/stars/kvendler/BigFix-CopyFail-AlmaLinux-Content">
 - [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
+- [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
