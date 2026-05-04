@@ -1345,6 +1345,8 @@
 - [jdarkcaos-kai/cve-2026-31431-medium-unpriv-t](https://github.com/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t)	<img alt="forks" src="https://img.shields.io/github/forks/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">	<img alt="stars" src="https://img.shields.io/github/stars/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">
 - [juliosuas/copyfail-guard](https://github.com/juliosuas/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/juliosuas/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/juliosuas/copyfail-guard">
 - [ctzisme/copyfail-guard](https://github.com/ctzisme/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/copyfail-guard">
+- [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
+- [codesource/copyfail-check](https://github.com/codesource/copyfail-check)	<img alt="forks" src="https://img.shields.io/github/forks/codesource/copyfail-check">	<img alt="stars" src="https://img.shields.io/github/stars/codesource/copyfail-check">
 
 ---
 ## CVE-2026-3143 ()
