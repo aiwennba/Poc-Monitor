@@ -1435,6 +1435,9 @@
 - [Raptoratack/CopyFail-Scanner-CVE-2026-31431](https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Raptoratack/CopyFail-Scanner-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Raptoratack/CopyFail-Scanner-CVE-2026-31431">
 - [ozergoker/CVE-2026-31431-copy-fail](https://github.com/ozergoker/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/ozergoker/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/ozergoker/CVE-2026-31431-copy-fail">
 - [Detect-DefenseLab/CVE-2026-31431-detection-defense](https://github.com/Detect-DefenseLab/CVE-2026-31431-detection-defense)	<img alt="forks" src="https://img.shields.io/github/forks/Detect-DefenseLab/CVE-2026-31431-detection-defense">	<img alt="stars" src="https://img.shields.io/github/stars/Detect-DefenseLab/CVE-2026-31431-detection-defense">
+- [mrmtwoj/ubuntu-cve-2026-31431-mitigation](https://github.com/mrmtwoj/ubuntu-cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/ubuntu-cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/ubuntu-cve-2026-31431-mitigation">
+- [RazvanDuda/GhostShell](https://github.com/RazvanDuda/GhostShell)	<img alt="forks" src="https://img.shields.io/github/forks/RazvanDuda/GhostShell">	<img alt="stars" src="https://img.shields.io/github/stars/RazvanDuda/GhostShell">
+- [devtint/CVE-2026-31431](https://github.com/devtint/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -2464,6 +2467,11 @@
 ## CVE-2026-24126 ()
 > 
 - [alexb616/Weblate-CVE-2026-24126](https://github.com/alexb616/Weblate-CVE-2026-24126)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/Weblate-CVE-2026-24126">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/Weblate-CVE-2026-24126">
+
+---
+## CVE-2026-24072 ()
+> 
+- [EricRHancock-coder/CVE-2026-24072-Analysis](https://github.com/EricRHancock-coder/CVE-2026-24072-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/EricRHancock-coder/CVE-2026-24072-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/EricRHancock-coder/CVE-2026-24072-Analysis">
 
 ---
 ## CVE-2026-24061 ()
