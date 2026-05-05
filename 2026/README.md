@@ -1399,6 +1399,10 @@
 - [imkk000/play-go-copy-fail-cve-2026-31431](https://github.com/imkk000/play-go-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/imkk000/play-go-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/imkk000/play-go-copy-fail-cve-2026-31431">
 - [KhaosFarbauti/CVE-2026-31431](https://github.com/KhaosFarbauti/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/KhaosFarbauti/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/KhaosFarbauti/CVE-2026-31431">
 - [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
+- [rippsec/CVE-2026-31431-Copy-Fail](https://github.com/rippsec/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2026-31431-Copy-Fail">
+- [jshDevs/CVE_kernellinux_jsh](https://github.com/jshDevs/CVE_kernellinux_jsh)	<img alt="forks" src="https://img.shields.io/github/forks/jshDevs/CVE_kernellinux_jsh">	<img alt="stars" src="https://img.shields.io/github/stars/jshDevs/CVE_kernellinux_jsh">
+- [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
+- [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
