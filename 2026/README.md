@@ -21,6 +21,11 @@
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
 
 ---
+## CVE-2026-7482 ()
+> 
+- [0x0OZ/CVE-2026-7482-PoC](https://github.com/0x0OZ/CVE-2026-7482-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x0OZ/CVE-2026-7482-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x0OZ/CVE-2026-7482-PoC">
+
+---
 ## CVE-2026-7401 ()
 > 
 - [Xmyronn/CVE-2026-7401-XSS](https://github.com/Xmyronn/CVE-2026-7401-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7401-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7401-XSS">
@@ -2102,6 +2107,12 @@
 > 
 - [blackhatlegend/CVE-2026-26198](https://github.com/blackhatlegend/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-26198">
 - [sergicortesabadia/CVE-2026-26198-analysis](https://github.com/sergicortesabadia/CVE-2026-26198-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sergicortesabadia/CVE-2026-26198-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sergicortesabadia/CVE-2026-26198-analysis">
+
+---
+## CVE-2026-26128 ()
+> 
+- [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128)	<img alt="forks" src="https://img.shields.io/github/forks/jarnovandenbrink/CVE-2026-26128">	<img alt="stars" src="https://img.shields.io/github/stars/jarnovandenbrink/CVE-2026-26128">
+- [jonaslejon/ad-autopwn](https://github.com/jonaslejon/ad-autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/jonaslejon/ad-autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/jonaslejon/ad-autopwn">
 
 ---
 ## CVE-2026-26114 ()
