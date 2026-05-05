@@ -1751,6 +1751,8 @@
 - [jake-young-dev/CVE-2026-29000](https://github.com/jake-young-dev/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-29000">
 - [cipher1x1/CVE-2026-29000](https://github.com/cipher1x1/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/cipher1x1/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/cipher1x1/CVE-2026-29000">
 - [strikoder/CVE-2026-29000-pac4j-jwt](https://github.com/strikoder/CVE-2026-29000-pac4j-jwt)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/CVE-2026-29000-pac4j-jwt">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/CVE-2026-29000-pac4j-jwt">
+- [zF-tm/CVE-2026-29000](https://github.com/zF-tm/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/zF-tm/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/zF-tm/CVE-2026-29000">
+- [ledksv/Principal-HackTheBox](https://github.com/ledksv/Principal-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Principal-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Principal-HackTheBox">
 
 ---
 ## CVE-2026-2898 ()
@@ -3600,6 +3602,7 @@
 ## CVE-2026-0073 ()
 > 
 - [novaek/CVE-2026-0073-Research](https://github.com/novaek/CVE-2026-0073-Research)	<img alt="forks" src="https://img.shields.io/github/forks/novaek/CVE-2026-0073-Research">	<img alt="stars" src="https://img.shields.io/github/stars/novaek/CVE-2026-0073-Research">
+- [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
 
 ---
 ## CVE-2026-0047 ()
