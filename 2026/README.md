@@ -318,6 +318,7 @@
 - [habibkaratas/sorry-ransomware-analysis](https://github.com/habibkaratas/sorry-ransomware-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/habibkaratas/sorry-ransomware-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/habibkaratas/sorry-ransomware-analysis">
 - [Underh0st/CPanel-Audit-Remediation-Tool](https://github.com/Underh0st/CPanel-Audit-Remediation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Underh0st/CPanel-Audit-Remediation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Underh0st/CPanel-Audit-Remediation-Tool">
 - [itsismarcos/CVE-2026-41940](https://github.com/itsismarcos/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/CVE-2026-41940">
+- [ZildanZ/CVE-2026-41940](https://github.com/ZildanZ/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ZildanZ/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ZildanZ/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1410,6 +1411,7 @@
 - [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
 - [6abc/Copy-Fail-CVE-2026-31431](https://github.com/6abc/Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/6abc/Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/6abc/Copy-Fail-CVE-2026-31431">
 - [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
+- [ShahaB108/CVE-2026-31431_Kernel_Checker](https://github.com/ShahaB108/CVE-2026-31431_Kernel_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/ShahaB108/CVE-2026-31431_Kernel_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/ShahaB108/CVE-2026-31431_Kernel_Checker">
 
 ---
 ## CVE-2026-3143 ()
