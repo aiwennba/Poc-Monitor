@@ -2024,6 +2024,7 @@
 ## CVE-2025-6264 ()
 > 
 - [Mauzy0x00/velociraptor_CVE-2025-6264_PoC](https://github.com/Mauzy0x00/velociraptor_CVE-2025-6264_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Mauzy0x00/velociraptor_CVE-2025-6264_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Mauzy0x00/velociraptor_CVE-2025-6264_PoC">
+- [Al-Lord0x/CVE-2025-62641](https://github.com/Al-Lord0x/CVE-2025-62641)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2025-62641">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2025-62641">
 
 ---
 ## CVE-2025-62593 ()
@@ -9511,6 +9512,7 @@
 - [pradip022/CVE-2025-21333-POC](https://github.com/pradip022/CVE-2025-21333-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pradip022/CVE-2025-21333-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pradip022/CVE-2025-21333-POC">
 - [rahul0xkr/Hyper-V-CVE-2025-21333-Analysis](https://github.com/rahul0xkr/Hyper-V-CVE-2025-21333-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Hyper-V-CVE-2025-21333-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Hyper-V-CVE-2025-21333-Analysis">
 - [rahul0xkr/Reproducing-CVE-2025-21333-](https://github.com/rahul0xkr/Reproducing-CVE-2025-21333-)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Reproducing-CVE-2025-21333-">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Reproducing-CVE-2025-21333-">
+- [nu1lptr0/CVE-2025-21333](https://github.com/nu1lptr0/CVE-2025-21333)	<img alt="forks" src="https://img.shields.io/github/forks/nu1lptr0/CVE-2025-21333">	<img alt="stars" src="https://img.shields.io/github/stars/nu1lptr0/CVE-2025-21333">
 
 ---
 ## CVE-2025-21307 ()
