@@ -2632,6 +2632,7 @@
 - [qassam-315/CVE-2026-23918-Elite-Auditor](https://github.com/qassam-315/CVE-2026-23918-Elite-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/CVE-2026-23918-Elite-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/CVE-2026-23918-Elite-Auditor">
 - [12lie20/CVE-2026-23918-test](https://github.com/12lie20/CVE-2026-23918-test)	<img alt="forks" src="https://img.shields.io/github/forks/12lie20/CVE-2026-23918-test">	<img alt="stars" src="https://img.shields.io/github/stars/12lie20/CVE-2026-23918-test">
 - [rshosting/Apache-CVE-2026-23918-fix](https://github.com/rshosting/Apache-CVE-2026-23918-fix)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/Apache-CVE-2026-23918-fix">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/Apache-CVE-2026-23918-fix">
+- [sibersan/cve-2026-23918](https://github.com/sibersan/cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
