@@ -1432,6 +1432,9 @@
 - [Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC](https://github.com/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">
 - [zhanghangorg/cve-2026-31431](https://github.com/zhanghangorg/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangorg/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangorg/cve-2026-31431">
 - [itsystem/afalg-check](https://github.com/itsystem/afalg-check)	<img alt="forks" src="https://img.shields.io/github/forks/itsystem/afalg-check">	<img alt="stars" src="https://img.shields.io/github/stars/itsystem/afalg-check">
+- [Raptoratack/CopyFail-Scanner-CVE-2026-31431](https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Raptoratack/CopyFail-Scanner-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Raptoratack/CopyFail-Scanner-CVE-2026-31431">
+- [ozergoker/CVE-2026-31431-copy-fail](https://github.com/ozergoker/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/ozergoker/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/ozergoker/CVE-2026-31431-copy-fail">
+- [Detect-DefenseLab/CVE-2026-31431-detection-defense](https://github.com/Detect-DefenseLab/CVE-2026-31431-detection-defense)	<img alt="forks" src="https://img.shields.io/github/forks/Detect-DefenseLab/CVE-2026-31431-detection-defense">	<img alt="stars" src="https://img.shields.io/github/stars/Detect-DefenseLab/CVE-2026-31431-detection-defense">
 
 ---
 ## CVE-2026-3143 ()
@@ -2633,6 +2636,7 @@
 - [12lie20/CVE-2026-23918-test](https://github.com/12lie20/CVE-2026-23918-test)	<img alt="forks" src="https://img.shields.io/github/forks/12lie20/CVE-2026-23918-test">	<img alt="stars" src="https://img.shields.io/github/stars/12lie20/CVE-2026-23918-test">
 - [rshosting/Apache-CVE-2026-23918-fix](https://github.com/rshosting/Apache-CVE-2026-23918-fix)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/Apache-CVE-2026-23918-fix">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/Apache-CVE-2026-23918-fix">
 - [sibersan/cve-2026-23918](https://github.com/sibersan/cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-23918">
+- [aa022/-CVE-2026-23918-Passive-Audit](https://github.com/aa022/-CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/-CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/-CVE-2026-23918-Passive-Audit">
 
 ---
 ## CVE-2026-23885 ()
