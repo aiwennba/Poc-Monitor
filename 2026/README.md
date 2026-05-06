@@ -1459,6 +1459,8 @@
 - [OneDemobird/copy-fail-CVE-2026-31431-python3.10-](https://github.com/OneDemobird/copy-fail-CVE-2026-31431-python3.10-)	<img alt="forks" src="https://img.shields.io/github/forks/OneDemobird/copy-fail-CVE-2026-31431-python3.10-">	<img alt="stars" src="https://img.shields.io/github/stars/OneDemobird/copy-fail-CVE-2026-31431-python3.10-">
 - [darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail">
 - [ECHO6789/CVE-2026-31431-fix](https://github.com/ECHO6789/CVE-2026-31431-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2026-31431-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2026-31431-fix">
+- [bigwario/copy-fail-CVE-2026-31431-C](https://github.com/bigwario/copy-fail-CVE-2026-31431-C)	<img alt="forks" src="https://img.shields.io/github/forks/bigwario/copy-fail-CVE-2026-31431-C">	<img alt="stars" src="https://img.shields.io/github/stars/bigwario/copy-fail-CVE-2026-31431-C">
+- [tangjie1/CVE-2026-31431-Check](https://github.com/tangjie1/CVE-2026-31431-Check)	<img alt="forks" src="https://img.shields.io/github/forks/tangjie1/CVE-2026-31431-Check">	<img alt="stars" src="https://img.shields.io/github/stars/tangjie1/CVE-2026-31431-Check">
 
 ---
 ## CVE-2026-3143 ()
