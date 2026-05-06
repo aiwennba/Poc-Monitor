@@ -1480,6 +1480,7 @@
 - [reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail">
 - [hans362/CVE-2026-31431-Copy-Fail-Container-Escape](https://github.com/hans362/CVE-2026-31431-Copy-Fail-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">
 - [philfry/cve-2026-31431-ftrace](https://github.com/philfry/cve-2026-31431-ftrace)	<img alt="forks" src="https://img.shields.io/github/forks/philfry/cve-2026-31431-ftrace">	<img alt="stars" src="https://img.shields.io/github/stars/philfry/cve-2026-31431-ftrace">
+- [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
