@@ -344,6 +344,7 @@
 - [bughunt4me/cpanelCVE-2026-41940](https://github.com/bughunt4me/cpanelCVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/bughunt4me/cpanelCVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/bughunt4me/cpanelCVE-2026-41940">
 - [Richflexpix/cpanel-pwn](https://github.com/Richflexpix/cpanel-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Richflexpix/cpanel-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Richflexpix/cpanel-pwn">
 - [Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC](https://github.com/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Defacto-ridgepole254/CVE-2026-41940-Exploit-PoC">
+- [murrez/CVE-2026-41940](https://github.com/murrez/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -422,6 +423,7 @@
 ---
 ## CVE-2026-40776 ()
 > 
+- [lorenzofradeani/CVE-2026-40776](https://github.com/lorenzofradeani/CVE-2026-40776)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/CVE-2026-40776">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/CVE-2026-40776">
 - [lorenzofradeani/CVE-2026-40776](https://github.com/lorenzofradeani/CVE-2026-40776)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/CVE-2026-40776">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/CVE-2026-40776">
 
 ---
@@ -3649,6 +3651,7 @@
 - [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
 - [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
+- [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 
 ---
 ## CVE-2026-0227 ()
