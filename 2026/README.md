@@ -1873,6 +1873,7 @@
 - [Skynoxk/CVE-2026-27944](https://github.com/Skynoxk/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/Skynoxk/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/Skynoxk/CVE-2026-27944">
 - [Goultarde/CVE-2026-27944-poc](https://github.com/Goultarde/CVE-2026-27944-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2026-27944-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2026-27944-poc">
 - [NULL200OK/-nginxui_discover](https://github.com/NULL200OK/-nginxui_discover)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/-nginxui_discover">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/-nginxui_discover">
+- [jake-young-dev/CVE-2026-27944](https://github.com/jake-young-dev/CVE-2026-27944)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-27944">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-27944">
 
 ---
 ## CVE-2026-27940 ()
