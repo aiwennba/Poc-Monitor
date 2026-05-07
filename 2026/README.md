@@ -211,6 +211,11 @@
 - [NetVanguard-cmd/CVE-2026-4447](https://github.com/NetVanguard-cmd/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-4447">
 
 ---
+## CVE-2026-44262 ()
+> 
+- [joshuavanderpoll/CVE-2026-44262](https://github.com/joshuavanderpoll/CVE-2026-44262)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-44262">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-44262">
+
+---
 ## CVE-2026-4406 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
@@ -1488,6 +1493,10 @@
 - [gagaltotal/cve-2026-31431-copy-fail](https://github.com/gagaltotal/cve-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/cve-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/cve-2026-31431-copy-fail">
 - [ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption">
 - [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
+- [Vatson112/deny-af-alg-bpf](https://github.com/Vatson112/deny-af-alg-bpf)	<img alt="forks" src="https://img.shields.io/github/forks/Vatson112/deny-af-alg-bpf">	<img alt="stars" src="https://img.shields.io/github/stars/Vatson112/deny-af-alg-bpf">
+- [361way/CVE-2026-31431](https://github.com/361way/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/361way/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/361way/CVE-2026-31431">
+- [cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/cx330zer0/CVE-2026-31431-Copy-Fail-add-arm64">
+- [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 
 ---
 ## CVE-2026-3143 ()
