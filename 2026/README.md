@@ -3653,6 +3653,7 @@
 - [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
+- [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
 
 ---
 ## CVE-2026-0227 ()
@@ -3669,6 +3670,7 @@
 - [devtint/CVE-2026-0073](https://github.com/devtint/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-0073">
 - [adityatelange/poc-CVE-2026-0073](https://github.com/adityatelange/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/adityatelange/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/adityatelange/poc-CVE-2026-0073">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
+- [MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">
 
 ---
 ## CVE-2026-0047 ()
