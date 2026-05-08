@@ -122,6 +122,11 @@
 - [tibrn/CVE-2026-5724](https://github.com/tibrn/CVE-2026-5724)	<img alt="forks" src="https://img.shields.io/github/forks/tibrn/CVE-2026-5724">	<img alt="stars" src="https://img.shields.io/github/stars/tibrn/CVE-2026-5724">
 
 ---
+## CVE-2026-5718 ()
+> 
+- [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
+
+---
 ## CVE-2026-5615 ()
 > 
 - [sahmsec/CVE-2026-5615](https://github.com/sahmsec/CVE-2026-5615)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-5615">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-5615">
@@ -250,6 +255,12 @@
 ## CVE-2026-4342 ()
 > 
 - [stuartMoorhouse/CVE-2026-4342](https://github.com/stuartMoorhouse/CVE-2026-4342)	<img alt="forks" src="https://img.shields.io/github/forks/stuartMoorhouse/CVE-2026-4342">	<img alt="stars" src="https://img.shields.io/github/stars/stuartMoorhouse/CVE-2026-4342">
+
+---
+## CVE-2026-43284 ()
+> 
+- [0xBlackash/CVE-2026-43284](https://github.com/0xBlackash/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43284">
+- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
 
 ---
 ## CVE-2026-42940 ()
@@ -1017,6 +1028,11 @@
 - [r3verii/CVE-2026-33555](https://github.com/r3verii/CVE-2026-33555)	<img alt="forks" src="https://img.shields.io/github/forks/r3verii/CVE-2026-33555">	<img alt="stars" src="https://img.shields.io/github/stars/r3verii/CVE-2026-33555">
 
 ---
+## CVE-2026-33534 ()
+> 
+- [EntroVyx/CVE-2026-33534](https://github.com/EntroVyx/CVE-2026-33534)	<img alt="forks" src="https://img.shields.io/github/forks/EntroVyx/CVE-2026-33534">	<img alt="stars" src="https://img.shields.io/github/stars/EntroVyx/CVE-2026-33534">
+
+---
 ## CVE-2026-33532 ()
 > 
 - [danwulff/astro_CVE-2026-33532](https://github.com/danwulff/astro_CVE-2026-33532)	<img alt="forks" src="https://img.shields.io/github/forks/danwulff/astro_CVE-2026-33532">	<img alt="stars" src="https://img.shields.io/github/stars/danwulff/astro_CVE-2026-33532">
@@ -1149,6 +1165,11 @@
 - [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/danindiana/cve-2026-32746-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/danindiana/cve-2026-32746-mitigation">
 - [watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746](https://github.com/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">
 - [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/chosenonehacks/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/chosenonehacks/CVE-2026-32746">
+
+---
+## CVE-2026-32743 ()
+> 
+- [mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-](https://github.com/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-">
 
 ---
 ## CVE-2026-32731 ()
@@ -1522,7 +1543,7 @@
 - [jshDevs/CVE_kernellinux_jsh](https://github.com/jshDevs/CVE_kernellinux_jsh)	<img alt="forks" src="https://img.shields.io/github/forks/jshDevs/CVE_kernellinux_jsh">	<img alt="stars" src="https://img.shields.io/github/stars/jshDevs/CVE_kernellinux_jsh">
 - [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
 - [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
-- [6abc/Copy-Fail-CVE-2026-31431](https://github.com/6abc/Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/6abc/Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/6abc/Copy-Fail-CVE-2026-31431">
+- [6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284](https://github.com/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284">
 - [Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431">
 - [ShahaB108/CVE-2026-31431_Kernel_Checker](https://github.com/ShahaB108/CVE-2026-31431_Kernel_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/ShahaB108/CVE-2026-31431_Kernel_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/ShahaB108/CVE-2026-31431_Kernel_Checker">
 - [deadRabbit92/mitigate-copy-fail.yml](https://github.com/deadRabbit92/mitigate-copy-fail.yml)	<img alt="forks" src="https://img.shields.io/github/forks/deadRabbit92/mitigate-copy-fail.yml">	<img alt="stars" src="https://img.shields.io/github/stars/deadRabbit92/mitigate-copy-fail.yml">
