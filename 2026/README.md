@@ -1191,6 +1191,7 @@
 - [danindiana/cve-2026-32746-mitigation](https://github.com/danindiana/cve-2026-32746-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/danindiana/cve-2026-32746-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/danindiana/cve-2026-32746-mitigation">
 - [watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746](https://github.com/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchtowr-vs-telnetd-CVE-2026-32746">
 - [chosenonehacks/CVE-2026-32746](https://github.com/chosenonehacks/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/chosenonehacks/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/chosenonehacks/CVE-2026-32746">
+- [kaleth4/CVE-2026-32746](https://github.com/kaleth4/CVE-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-32746">
 
 ---
 ## CVE-2026-32743 ()
@@ -1634,6 +1635,7 @@
 - [krisiasty/vcheck](https://github.com/krisiasty/vcheck)	<img alt="forks" src="https://img.shields.io/github/forks/krisiasty/vcheck">	<img alt="stars" src="https://img.shields.io/github/stars/krisiasty/vcheck">
 - [Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe](https://github.com/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">
 - [Helios973/CVE-2026-31431_exp.c](https://github.com/Helios973/CVE-2026-31431_exp.c)	<img alt="forks" src="https://img.shields.io/github/forks/Helios973/CVE-2026-31431_exp.c">	<img alt="stars" src="https://img.shields.io/github/stars/Helios973/CVE-2026-31431_exp.c">
+- [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
 
 ---
 ## CVE-2026-3143 ()
