@@ -800,6 +800,7 @@
 > 
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
 - [comerc/CVE-2025-68664](https://github.com/comerc/CVE-2025-68664)	<img alt="forks" src="https://img.shields.io/github/forks/comerc/CVE-2025-68664">	<img alt="stars" src="https://img.shields.io/github/stars/comerc/CVE-2025-68664">
+- [Johnnyzhou666/langgrinch-cve-2025-68664-analysis](https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Johnnyzhou666/langgrinch-cve-2025-68664-analysis">
 
 ---
 ## CVE-2025-68645 ()
@@ -2893,6 +2894,7 @@
 - [mananispiwpiw/CVE-2025-58434-PoC](https://github.com/mananispiwpiw/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-58434-PoC">
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 - [mananispiwpiw/CVE-2025-58434-PoC](https://github.com/mananispiwpiw/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-58434-PoC">
+- [v3rycl0p3r/CVE-PoC-CVE-2025-58434](https://github.com/v3rycl0p3r/CVE-PoC-CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/v3rycl0p3r/CVE-PoC-CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/v3rycl0p3r/CVE-PoC-CVE-2025-58434">
 
 ---
 ## CVE-2025-5840 ()
