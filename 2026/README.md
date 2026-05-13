@@ -1743,6 +1743,8 @@
 - [John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc](https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">
 - [SystemVll/CVE-2026-31431-copyfail-aarch64](https://github.com/SystemVll/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-31431-copyfail-aarch64">
 - [paulorlima9/copyfail-fix](https://github.com/paulorlima9/copyfail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/paulorlima9/copyfail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/paulorlima9/copyfail-fix">
+- [kuniyal08/Copy-Fail-CVE-2026-31431-Lab](https://github.com/kuniyal08/Copy-Fail-CVE-2026-31431-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Copy-Fail-CVE-2026-31431-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Copy-Fail-CVE-2026-31431-Lab">
+- [Koshmare-Blossom/Copyfail-sh](https://github.com/Koshmare-Blossom/Copyfail-sh)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Copyfail-sh">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Copyfail-sh">
 
 ---
 ## CVE-2026-3143 ()
