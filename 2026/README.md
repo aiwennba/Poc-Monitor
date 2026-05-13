@@ -572,6 +572,11 @@
 - [0xBlackash/CVE-2026-40487](https://github.com/0xBlackash/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40487">
 
 ---
+## CVE-2026-40369 ()
+> 
+- [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
+
+---
 ## CVE-2026-40261 ()
 > 
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
