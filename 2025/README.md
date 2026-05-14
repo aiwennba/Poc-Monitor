@@ -7957,6 +7957,7 @@
 - [TheWaterbug/alpr-dashboard-patches](https://github.com/TheWaterbug/alpr-dashboard-patches)	<img alt="forks" src="https://img.shields.io/github/forks/TheWaterbug/alpr-dashboard-patches">	<img alt="stars" src="https://img.shields.io/github/stars/TheWaterbug/alpr-dashboard-patches">
 - [shahin-shadow/nextjs-auth-bypass](https://github.com/shahin-shadow/nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/shahin-shadow/nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/shahin-shadow/nextjs-auth-bypass">
 - [hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js">
+- [bk-security/auth-header-trust-rules](https://github.com/bk-security/auth-header-trust-rules)	<img alt="forks" src="https://img.shields.io/github/forks/bk-security/auth-header-trust-rules">	<img alt="stars" src="https://img.shields.io/github/stars/bk-security/auth-header-trust-rules">
 
 ---
 ## CVE-2025-29891 ()
