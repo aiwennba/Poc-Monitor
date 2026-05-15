@@ -288,6 +288,11 @@
 - [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
 
 ---
+## CVE-2026-44578 ()
+> 
+- [love07oj/nextjs-cve-2026-44578](https://github.com/love07oj/nextjs-cve-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/love07oj/nextjs-cve-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/love07oj/nextjs-cve-2026-44578">
+
+---
 ## CVE-2026-4447 ()
 > 
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
