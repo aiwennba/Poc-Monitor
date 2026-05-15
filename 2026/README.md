@@ -358,6 +358,8 @@
 - [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
 - [XRSecCD/202605_dirty_frag](https://github.com/XRSecCD/202605_dirty_frag)	<img alt="forks" src="https://img.shields.io/github/forks/XRSecCD/202605_dirty_frag">	<img alt="stars" src="https://img.shields.io/github/stars/XRSecCD/202605_dirty_frag">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [xd20111/CVE-2026-43284](https://github.com/xd20111/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-43284">
+- [ChernStepanov/DirtyFrag-for-dummies](https://github.com/ChernStepanov/DirtyFrag-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/DirtyFrag-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/DirtyFrag-for-dummies">
 
 ---
 ## CVE-2026-42945 ()
@@ -587,6 +589,11 @@
 ## CVE-2026-4112 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
+
+---
+## CVE-2026-41096 ()
+> 
+- [mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive](https://github.com/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">
 
 ---
 ## CVE-2026-41044 ()
@@ -4005,6 +4012,7 @@
 - [0xgh057r3c0n/CVE-2026-0770](https://github.com/0xgh057r3c0n/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-0770">
 - [Yetazyyy/CVE-2026-0770](https://github.com/Yetazyyy/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2026-0770">
 - [0xBlackash/CVE-2026-0770](https://github.com/0xBlackash/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0770">
+- [Ez4rd1x1/CVE-2026-0770](https://github.com/Ez4rd1x1/CVE-2026-0770)	<img alt="forks" src="https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-0770">	<img alt="stars" src="https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-0770">
 
 ---
 ## CVE-2026-0766 ()
@@ -4015,6 +4023,7 @@
 ## CVE-2026-0745 ()
 > 
 - [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
+- [HORKimhab/CVE-2026-0745](https://github.com/HORKimhab/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0745">
 
 ---
 ## CVE-2026-0740 ()
