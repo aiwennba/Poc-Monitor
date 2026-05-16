@@ -115,6 +115,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-6433 ()
+> 
+- [murrez/CVE-2026-6433](https://github.com/murrez/CVE-2026-6433)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-6433">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-6433">
+
+---
 ## CVE-2026-6379 ()
 > 
 - [dinosn/cve-2026-6379](https://github.com/dinosn/cve-2026-6379)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-6379">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-6379">
@@ -405,6 +410,8 @@
 - [jelasin/CVE-2026-42945](https://github.com/jelasin/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42945">
 - [iammerrida-source/nginx-rift-detect](https://github.com/iammerrida-source/nginx-rift-detect)	<img alt="forks" src="https://img.shields.io/github/forks/iammerrida-source/nginx-rift-detect">	<img alt="stars" src="https://img.shields.io/github/stars/iammerrida-source/nginx-rift-detect">
 - [byezero/nginx-cve-2026-42945-check](https://github.com/byezero/nginx-cve-2026-42945-check)	<img alt="forks" src="https://img.shields.io/github/forks/byezero/nginx-cve-2026-42945-check">	<img alt="stars" src="https://img.shields.io/github/stars/byezero/nginx-cve-2026-42945-check">
+- [sibersan/web-server-audit_CVE-2026-42945](https://github.com/sibersan/web-server-audit_CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/web-server-audit_CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/web-server-audit_CVE-2026-42945">
+- [dinosn/cve-2026-42945-nginx32-lab](https://github.com/dinosn/cve-2026-42945-nginx32-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-42945-nginx32-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-42945-nginx32-lab">
 
 ---
 ## CVE-2026-42940 ()
@@ -3154,6 +3161,7 @@
 - [insomnisec/Detections-CVE-2026-23918](https://github.com/insomnisec/Detections-CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/insomnisec/Detections-CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/insomnisec/Detections-CVE-2026-23918">
 - [striga-ai/CVE-2026-23918](https://github.com/striga-ai/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-23918">
 - [Bencodin/CVE-2026-23918-poc](https://github.com/Bencodin/CVE-2026-23918-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Bencodin/CVE-2026-23918-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Bencodin/CVE-2026-23918-poc">
+- [sibersan/apache_audit_cve-2026-23918](https://github.com/sibersan/apache_audit_cve-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/apache_audit_cve-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/apache_audit_cve-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
