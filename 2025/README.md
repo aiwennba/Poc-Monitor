@@ -7973,6 +7973,7 @@
 - [shahin-shadow/nextjs-auth-bypass](https://github.com/shahin-shadow/nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/shahin-shadow/nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/shahin-shadow/nextjs-auth-bypass">
 - [hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js">
 - [bk-security/auth-header-trust-rules](https://github.com/bk-security/auth-header-trust-rules)	<img alt="forks" src="https://img.shields.io/github/forks/bk-security/auth-header-trust-rules">	<img alt="stars" src="https://img.shields.io/github/stars/bk-security/auth-header-trust-rules">
+- [s11s11/CVE-2025-29927](https://github.com/s11s11/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/s11s11/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/s11s11/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
