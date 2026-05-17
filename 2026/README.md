@@ -265,6 +265,8 @@
 > 
 - [studiogangster/CVE-2026-46333](https://github.com/studiogangster/CVE-2026-46333)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-46333">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-46333">
 - [0xBlackash/CVE-2026-46333](https://github.com/0xBlackash/CVE-2026-46333)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46333">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46333">
+- [Aurillium/public-passwd](https://github.com/Aurillium/public-passwd)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/public-passwd">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/public-passwd">
+- [KaraZajac/CHARON](https://github.com/KaraZajac/CHARON)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/CHARON">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/CHARON">
 
 ---
 ## CVE-2026-4631 ()
@@ -2262,6 +2264,11 @@
 ## CVE-2026-2898 ()
 > 
 - [aykhan32/CVE-2026-2898-FunAdmin-Deserialization](https://github.com/aykhan32/CVE-2026-2898-FunAdmin-Deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">
+
+---
+## CVE-2026-28956 ()
+> 
+- [impost0r/CVE-2026-28956](https://github.com/impost0r/CVE-2026-28956)	<img alt="forks" src="https://img.shields.io/github/forks/impost0r/CVE-2026-28956">	<img alt="stars" src="https://img.shields.io/github/stars/impost0r/CVE-2026-28956">
 
 ---
 ## CVE-2026-28858 ()

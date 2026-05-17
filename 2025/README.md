@@ -2649,6 +2649,10 @@
 > 
 - [NetVanguard-cmd/CVE-2025-59536](https://github.com/NetVanguard-cmd/CVE-2025-59536)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-59536">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-59536">
 - [tacdm/cve-2025-59536-poc](https://github.com/tacdm/cve-2025-59536-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tacdm/cve-2025-59536-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tacdm/cve-2025-59536-poc">
+- [DBarr3/AETHER-PROTOCOL-P](https://github.com/DBarr3/AETHER-PROTOCOL-P)	<img alt="forks" src="https://img.shields.io/github/forks/DBarr3/AETHER-PROTOCOL-P">	<img alt="stars" src="https://img.shields.io/github/stars/DBarr3/AETHER-PROTOCOL-P">
+- [Razi-Interactive/claude-project-scanner](https://github.com/Razi-Interactive/claude-project-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Razi-Interactive/claude-project-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Razi-Interactive/claude-project-scanner">
+- [TreRB/ai-ide-config-guard](https://github.com/TreRB/ai-ide-config-guard)	<img alt="forks" src="https://img.shields.io/github/forks/TreRB/ai-ide-config-guard">	<img alt="stars" src="https://img.shields.io/github/stars/TreRB/ai-ide-config-guard">
+- [Rohitberiwala/Claude-Code-MCP-Injection-PoC](https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/Claude-Code-MCP-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/Claude-Code-MCP-Injection-PoC">
 
 ---
 ## CVE-2025-59532 ()
