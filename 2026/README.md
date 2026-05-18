@@ -4176,6 +4176,11 @@
 - [EQSTLab/CVE-2026-0603](https://github.com/EQSTLab/CVE-2026-0603)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-0603">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-0603">
 
 ---
+## CVE-2026-0596 ()
+> 
+- [SparshBiswas-AI/CVE-2026-0596-Reproduction](https://github.com/SparshBiswas-AI/CVE-2026-0596-Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/SparshBiswas-AI/CVE-2026-0596-Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/SparshBiswas-AI/CVE-2026-0596-Reproduction">
+
+---
 ## CVE-2026-0594 ()
 > 
 - [m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-0594-ListSiteContributors-Plugin-Exploit">
