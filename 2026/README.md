@@ -1149,6 +1149,7 @@
 - [404-src/CVE-2026-34486](https://github.com/404-src/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/404-src/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/404-src/CVE-2026-34486">
 - [helGayhub233/CVE-2026-34486-Tribes](https://github.com/helGayhub233/CVE-2026-34486-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/helGayhub233/CVE-2026-34486-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/helGayhub233/CVE-2026-34486-Tribes">
 - [striga-ai/CVE-2026-34486](https://github.com/striga-ai/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-34486">
+- [anonmrc/CVE-2026-34486-e-Tomcat-Tribes](https://github.com/anonmrc/CVE-2026-34486-e-Tomcat-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/anonmrc/CVE-2026-34486-e-Tomcat-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/anonmrc/CVE-2026-34486-e-Tomcat-Tribes">
 
 ---
 ## CVE-2026-34475 ()
