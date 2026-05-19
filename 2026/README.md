@@ -419,6 +419,7 @@
 - [xd20111/CVE-2026-43284](https://github.com/xd20111/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-43284">
 - [ChernStepanov/DirtyFrag-for-dummies](https://github.com/ChernStepanov/DirtyFrag-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/DirtyFrag-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/DirtyFrag-for-dummies">
 - [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
+- [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
 
 ---
 ## CVE-2026-42945 ()
@@ -1954,6 +1955,7 @@
 - [Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
+- [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 
 ---
 ## CVE-2026-3143 ()
