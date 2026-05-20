@@ -1672,6 +1672,7 @@
 ## CVE-2026-31635 ()
 > 
 - [0xBlackash/CVE-2026-31635](https://github.com/0xBlackash/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31635">
+- [Lutfifakee-Project/CVE-2026-31635](https://github.com/Lutfifakee-Project/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31635">
 
 ---
 ## CVE-2026-31431 ()
@@ -2003,6 +2004,7 @@
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
 - [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
+- [sgkdev/ptrace_may_dream](https://github.com/sgkdev/ptrace_may_dream)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/ptrace_may_dream">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/ptrace_may_dream">
 
 ---
 ## CVE-2026-3143 ()
@@ -4294,6 +4296,7 @@
 - [MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MartinPSDev/CVE-2026-0073-Android-ADBD-bypass-POC">
 - [0xBlackash/CVE-2026-0073](https://github.com/0xBlackash/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0073">
 - [tc4dy/CVE-2026-0073-PoC-Exploit](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-0073-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-0073-PoC-Exploit">
+- [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
