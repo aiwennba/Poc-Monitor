@@ -2584,6 +2584,7 @@
 - [snapdowgg/CVE-2021-41773](https://github.com/snapdowgg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2021-41773">
 - [klmntbelgium/cve-2021-41773-exploration](https://github.com/klmntbelgium/cve-2021-41773-exploration)	<img alt="forks" src="https://img.shields.io/github/forks/klmntbelgium/cve-2021-41773-exploration">	<img alt="stars" src="https://img.shields.io/github/stars/klmntbelgium/cve-2021-41773-exploration">
 - [im2nerd/CVE-2021-41773](https://github.com/im2nerd/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/im2nerd/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/im2nerd/CVE-2021-41773">
+- [wvverez/CVE-2021-41773-PoC](https://github.com/wvverez/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2021-41773-PoC">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -5305,6 +5306,7 @@
 ## CVE-2021-35036 (2022-03-01T07:15:00)
 > A cleartext storage of information vulnerability in the Zyxel VMG3625-T50B firmware version V5.50(ABTL.0)b2k could allow an authenticated attacker to obtain sensitive information from the configuration file.
 - [Live-Hack-CVE/CVE-2021-35036](https://github.com/Live-Hack-CVE/CVE-2021-35036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35036">
+- [minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak](https://github.com/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/zyxel-cve-2021-35036-super-admin-password-leak">
 
 ---
 ## CVE-2021-35033 (2021-11-23T22:15:00)
