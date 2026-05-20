@@ -512,6 +512,11 @@
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
 
 ---
+## CVE-2026-42271 ()
+> 
+- [learner202649/CVE-2026-42271-PoC](https://github.com/learner202649/CVE-2026-42271-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-42271-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-42271-PoC">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
