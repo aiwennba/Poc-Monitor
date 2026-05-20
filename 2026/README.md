@@ -426,6 +426,10 @@
 - [ChernStepanov/DirtyFrag-for-dummies](https://github.com/ChernStepanov/DirtyFrag-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/DirtyFrag-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/DirtyFrag-for-dummies">
 - [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
 - [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
+- [LucasPDiniz/CVE-2026-43284](https://github.com/LucasPDiniz/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-43284">
+- [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
+- [grabesec/XCP_ng_CVE-2026-43284_tester](https://github.com/grabesec/XCP_ng_CVE-2026-43284_tester)	<img alt="forks" src="https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-43284_tester">	<img alt="stars" src="https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-43284_tester">
 
 ---
 ## CVE-2026-42945 ()
@@ -459,6 +463,7 @@
 - [hnytgl/cve-2026-42945](https://github.com/hnytgl/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-42945">
 - [MateusVerass/nGixshell](https://github.com/MateusVerass/nGixshell)	<img alt="forks" src="https://img.shields.io/github/forks/MateusVerass/nGixshell">	<img alt="stars" src="https://img.shields.io/github/stars/MateusVerass/nGixshell">
 - [soksofos/wazuh-nginx-cve-2026-42945-sca-lab](https://github.com/soksofos/wazuh-nginx-cve-2026-42945-sca-lab)	<img alt="forks" src="https://img.shields.io/github/forks/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">	<img alt="stars" src="https://img.shields.io/github/stars/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">
+- [gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">
 
 ---
 ## CVE-2026-42940 ()
@@ -645,6 +650,7 @@
 - [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 - [Kowntaewook/CVE-2026-41651-analysis](https://github.com/Kowntaewook/CVE-2026-41651-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Kowntaewook/CVE-2026-41651-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Kowntaewook/CVE-2026-41651-analysis">
 - [mawussid/CVE-2026-41651-Python](https://github.com/mawussid/CVE-2026-41651-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mawussid/CVE-2026-41651-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mawussid/CVE-2026-41651-Python">
+- [Lutfifakee-Project/CVE-2026-41651](https://github.com/Lutfifakee-Project/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
@@ -2589,6 +2595,7 @@
 ## CVE-2026-26980 ()
 > 
 - [vognik/CVE-2026-26980](https://github.com/vognik/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/vognik/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/vognik/CVE-2026-26980">
+- [Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980](https://github.com/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/Kulik-Labs-Development/Ghost-CMS-Code-Injection-Audit-CVE-2026-26980">
 
 ---
 ## CVE-2026-26903 ()
