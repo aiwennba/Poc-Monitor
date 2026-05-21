@@ -8315,6 +8315,7 @@
 - [0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591](https://github.com/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">
 - [0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Jeff/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Jeff/CVE-2025-27591">
 - [Stp1t/CVE-2025-27591](https://github.com/Stp1t/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Stp1t/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Stp1t/CVE-2025-27591">
+- [rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE">
 
 ---
 ## CVE-2025-27590 ()
