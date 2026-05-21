@@ -238,6 +238,12 @@
 - [0xBlackash/CVE-2026-5173](https://github.com/0xBlackash/CVE-2026-5173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5173">
 
 ---
+## CVE-2026-5118 ()
+> 
+- [puj790201-lab/CVE-2026-5118](https://github.com/puj790201-lab/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/puj790201-lab/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/puj790201-lab/CVE-2026-5118">
+- [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">
+
+---
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
@@ -278,6 +284,11 @@
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
+
+---
+## CVE-2026-46529 ()
+> 
+- [N1et/CVE-2026-46529](https://github.com/N1et/CVE-2026-46529)	<img alt="forks" src="https://img.shields.io/github/forks/N1et/CVE-2026-46529">	<img alt="stars" src="https://img.shields.io/github/stars/N1et/CVE-2026-46529">
 
 ---
 ## CVE-2026-46391 ()
@@ -1078,6 +1089,11 @@
 - [PySecTools/CVE-2026-3629](https://github.com/PySecTools/CVE-2026-3629)	<img alt="forks" src="https://img.shields.io/github/forks/PySecTools/CVE-2026-3629">	<img alt="stars" src="https://img.shields.io/github/stars/PySecTools/CVE-2026-3629">
 
 ---
+## CVE-2026-36229 ()
+> 
+- [NullByte8080/CVE-2026-36229](https://github.com/NullByte8080/CVE-2026-36229)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36229">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36229">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
@@ -1724,6 +1740,8 @@
 > 
 - [0xBlackash/CVE-2026-31635](https://github.com/0xBlackash/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31635">
 - [Lutfifakee-Project/CVE-2026-31635](https://github.com/Lutfifakee-Project/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31635">
+- [0xFuffM3/CVE-2026-31635-DirtyDecrypt](https://github.com/0xFuffM3/CVE-2026-31635-DirtyDecrypt)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31635-DirtyDecrypt">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31635-DirtyDecrypt">
+- [aexdyhaxor/DirtyDecrypt](https://github.com/aexdyhaxor/DirtyDecrypt)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/DirtyDecrypt">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/DirtyDecrypt">
 
 ---
 ## CVE-2026-31431 ()
