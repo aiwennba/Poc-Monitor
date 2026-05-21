@@ -6,6 +6,12 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9082 ()
+> 
+- [lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/lysophavin18/cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/lysophavin18/cve-2026-9082">
+- [HORKimhab/CVE-2026-9082](https://github.com/HORKimhab/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9082">
+
+---
 ## CVE-2026-8838 ()
 > 
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
@@ -904,6 +910,16 @@
 - [karimelsheikh1/HTB-Snapped-Writeup](https://github.com/karimelsheikh1/HTB-Snapped-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Snapped-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Snapped-Writeup">
 
 ---
+## CVE-2026-38766 ()
+> 
+- [D7EAD/CVE-2026-38766](https://github.com/D7EAD/CVE-2026-38766)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-38766">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-38766">
+
+---
+## CVE-2026-38765 ()
+> 
+- [D7EAD/CVE-2026-38765](https://github.com/D7EAD/CVE-2026-38765)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-38765">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-38765">
+
+---
 ## CVE-2026-38698 ()
 > 
 - [vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699](https://github.com/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699)	<img alt="forks" src="https://img.shields.io/github/forks/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699">	<img alt="stars" src="https://img.shields.io/github/stars/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699">
@@ -1325,6 +1341,11 @@
 ## CVE-2026-33868 ()
 > 
 - [O99099O/By-Poloss..-..CVE-2026-33868](https://github.com/O99099O/By-Poloss..-..CVE-2026-33868)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-33868">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-33868">
+
+---
+## CVE-2026-33829 ()
+> 
+- [rahultb-sec/CVE-2026-33829-Writeup](https://github.com/rahultb-sec/CVE-2026-33829-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/rahultb-sec/CVE-2026-33829-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/rahultb-sec/CVE-2026-33829-Writeup">
 
 ---
 ## CVE-2026-33827 ()
