@@ -1390,6 +1390,11 @@
 - [lukasz-rybak/CVE-2025-66204](https://github.com/lukasz-rybak/CVE-2025-66204)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-66204">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-66204">
 
 ---
+## CVE-2025-66177 ()
+> 
+- [ang3lL/CVE-2025-66177](https://github.com/ang3lL/CVE-2025-66177)	<img alt="forks" src="https://img.shields.io/github/forks/ang3lL/CVE-2025-66177">	<img alt="stars" src="https://img.shields.io/github/stars/ang3lL/CVE-2025-66177">
+
+---
 ## CVE-2025-66039 ()
 > 
 - [BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX](https://github.com/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX)	<img alt="forks" src="https://img.shields.io/github/forks/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">	<img alt="stars" src="https://img.shields.io/github/stars/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">
@@ -6700,6 +6705,11 @@
 ## CVE-2025-3928 ()
 > 
 - [Totunm/CVE-2025-3928](https://github.com/Totunm/CVE-2025-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3928">
+
+---
+## CVE-2025-39247 ()
+> 
+- [Sita-Technologies/CVE-2025-39247](https://github.com/Sita-Technologies/CVE-2025-39247)	<img alt="forks" src="https://img.shields.io/github/forks/Sita-Technologies/CVE-2025-39247">	<img alt="stars" src="https://img.shields.io/github/stars/Sita-Technologies/CVE-2025-39247">
 
 ---
 ## CVE-2025-3914 ()
