@@ -684,6 +684,11 @@
 - [tc4dy/CVE-2026-41940-POC-Exploit](https://github.com/tc4dy/CVE-2026-41940-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41940-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41940-POC-Exploit">
 
 ---
+## CVE-2026-41901 ()
+> 
+- [HORKimhab/CVE-2026-41901](https://github.com/HORKimhab/CVE-2026-41901)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-41901">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-41901">
+
+---
 ## CVE-2026-41679 ()
 > 
 - [bartfroklage/cve-2026-41679](https://github.com/bartfroklage/cve-2026-41679)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/cve-2026-41679">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/cve-2026-41679">
@@ -2125,6 +2130,9 @@
 - [JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
+- [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
+- [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
+- [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
 
 ---
 ## CVE-2026-3143 ()
@@ -3463,6 +3471,11 @@
 > 
 - [SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-](https://github.com/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-">
 - [SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover](https://github.com/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover">
+
+---
+## CVE-2026-23813 ()
+> 
+- [offseckit/CVE-2026-23813](https://github.com/offseckit/CVE-2026-23813)	<img alt="forks" src="https://img.shields.io/github/forks/offseckit/CVE-2026-23813">	<img alt="stars" src="https://img.shields.io/github/stars/offseckit/CVE-2026-23813">
 
 ---
 ## CVE-2026-23760 ()

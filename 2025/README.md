@@ -5863,6 +5863,7 @@
 > 
 - [d3sca/CVE-2025-46822](https://github.com/d3sca/CVE-2025-46822)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2025-46822">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2025-46822">
 - [d3sca/-CVE-2025-46822-](https://github.com/d3sca/-CVE-2025-46822-)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/-CVE-2025-46822-">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/-CVE-2025-46822-">
+- [HORKimhab/CVE-2025-46822](https://github.com/HORKimhab/CVE-2025-46822)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-46822">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-46822">
 
 ---
 ## CVE-2025-46819 ()
