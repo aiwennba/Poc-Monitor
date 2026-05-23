@@ -10226,6 +10226,11 @@ authentication.   
 - [Nxploited/CVE-2024-12542-PoC](https://github.com/Nxploited/CVE-2024-12542-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12542-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12542-PoC">
 
 ---
+## CVE-2024-12537 ()
+> 
+- [fineman999/POC_CVE-2024-12537](https://github.com/fineman999/POC_CVE-2024-12537)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2024-12537">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2024-12537">
+
+---
 ## CVE-2024-1247 ()
 > 
 - [Nxploited/CVE-2024-1247-PoC](https://github.com/Nxploited/CVE-2024-1247-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-1247-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-1247-PoC">

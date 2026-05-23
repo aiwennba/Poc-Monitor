@@ -156,6 +156,11 @@
 - [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
 
 ---
+## CVE-2026-6279 ()
+> 
+- [xxconi/CVE-2026-6279](https://github.com/xxconi/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6279">
+
+---
 ## CVE-2026-6227 ()
 > 
 - [Pixel-DefaultBR/CVE-2026-6227](https://github.com/Pixel-DefaultBR/CVE-2026-6227)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2026-6227">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2026-6227">
@@ -1781,6 +1786,7 @@
 > 
 - [Jvr2022/CVE-2026-31802](https://github.com/Jvr2022/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-31802">
 - [Recorded-texteditor120/CVE-2026-31802](https://github.com/Recorded-texteditor120/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Recorded-texteditor120/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Recorded-texteditor120/CVE-2026-31802">
+- [ridhinva/npm-tar-traversal-scanner](https://github.com/ridhinva/npm-tar-traversal-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/npm-tar-traversal-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/npm-tar-traversal-scanner">
 
 ---
 ## CVE-2026-31717 ()
