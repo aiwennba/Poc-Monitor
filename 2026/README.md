@@ -284,6 +284,7 @@
 ## CVE-2026-4885 ()
 > 
 - [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
+- [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
 
 ---
 ## CVE-2026-4821 ()
@@ -1892,7 +1893,7 @@
 - [w3llr00t3d/CVE-2026-31431-PoC](https://github.com/w3llr00t3d/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/w3llr00t3d/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/w3llr00t3d/CVE-2026-31431-PoC">
 - [mfloresdacunha/CVE-2026-31431](https://github.com/mfloresdacunha/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mfloresdacunha/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mfloresdacunha/CVE-2026-31431">
 - [Boos4721/copyfail-rs](https://github.com/Boos4721/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Boos4721/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Boos4721/copyfail-rs">
-- [rfxn/copyfail](https://github.com/rfxn/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/copyfail">
+- [rfxn/rfxn-defense](https://github.com/rfxn/rfxn-defense)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/rfxn-defense">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/rfxn-defense">
 - [weirdindiankid/copy-fail](https://github.com/weirdindiankid/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/weirdindiankid/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/weirdindiankid/copy-fail">
 - [mhdgning131/CopyFail-Patcher](https://github.com/mhdgning131/CopyFail-Patcher)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CopyFail-Patcher">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CopyFail-Patcher">
 - [vynazevedo/fail-CVE-2026-31431](https://github.com/vynazevedo/fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vynazevedo/fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vynazevedo/fail-CVE-2026-31431">
