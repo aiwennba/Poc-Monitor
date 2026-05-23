@@ -102,6 +102,7 @@
 - [RinAliyeva/metasploitable2-vsftpd-exploitation](https://github.com/RinAliyeva/metasploitable2-vsftpd-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/RinAliyeva/metasploitable2-vsftpd-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/RinAliyeva/metasploitable2-vsftpd-exploitation">
 - [emilebarnard242/pentest-metasploitable2](https://github.com/emilebarnard242/pentest-metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/emilebarnard242/pentest-metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/emilebarnard242/pentest-metasploitable2">
 - [Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report](https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report)	<img alt="forks" src="https://img.shields.io/github/forks/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">	<img alt="stars" src="https://img.shields.io/github/stars/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">
+- [Chathura123git/ethical-hacking-CVE-2011-2523](https://github.com/Chathura123git/ethical-hacking-CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Chathura123git/ethical-hacking-CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Chathura123git/ethical-hacking-CVE-2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
