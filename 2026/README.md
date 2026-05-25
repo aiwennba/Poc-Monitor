@@ -1056,6 +1056,21 @@
 - [zycoder0day/CVE-2026-3844](https://github.com/zycoder0day/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-3844">
 
 ---
+## CVE-2026-38427 ()
+> 
+- [sermikr0/CVE-2026-38427](https://github.com/sermikr0/CVE-2026-38427)	<img alt="forks" src="https://img.shields.io/github/forks/sermikr0/CVE-2026-38427">	<img alt="stars" src="https://img.shields.io/github/stars/sermikr0/CVE-2026-38427">
+
+---
+## CVE-2026-38426 ()
+> 
+- [sermikr0/CVE-2026-38426](https://github.com/sermikr0/CVE-2026-38426)	<img alt="forks" src="https://img.shields.io/github/forks/sermikr0/CVE-2026-38426">	<img alt="stars" src="https://img.shields.io/github/stars/sermikr0/CVE-2026-38426">
+
+---
+## CVE-2026-38422 ()
+> 
+- [sermikr0/CVE-2026-38422](https://github.com/sermikr0/CVE-2026-38422)	<img alt="forks" src="https://img.shields.io/github/forks/sermikr0/CVE-2026-38422">	<img alt="stars" src="https://img.shields.io/github/stars/sermikr0/CVE-2026-38422">
+
+---
 ## CVE-2026-38361 ()
 > 
 - [a1ohadance/CVE-2026-38361](https://github.com/a1ohadance/CVE-2026-38361)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38361">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38361">
