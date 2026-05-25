@@ -377,6 +377,11 @@
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
 
 ---
+## CVE-2026-45321 ()
+> 
+- [renewablehacking/CVE-2026-45321-Tanstack](https://github.com/renewablehacking/CVE-2026-45321-Tanstack)	<img alt="forks" src="https://img.shields.io/github/forks/renewablehacking/CVE-2026-45321-Tanstack">	<img alt="stars" src="https://img.shields.io/github/stars/renewablehacking/CVE-2026-45321-Tanstack">
+
+---
 ## CVE-2026-45185 ()
 > 
 - [liamromanis101/Dead.Letter-CVE-2026-45185](https://github.com/liamromanis101/Dead.Letter-CVE-2026-45185)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/Dead.Letter-CVE-2026-45185">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/Dead.Letter-CVE-2026-45185">
@@ -1534,6 +1539,11 @@
 - [romain-deperne/CVE-2026-33715](https://github.com/romain-deperne/CVE-2026-33715)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-33715">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-33715">
 
 ---
+## CVE-2026-33712 ()
+> 
+- [portbuster1337/CVE-2026-33712](https://github.com/portbuster1337/CVE-2026-33712)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-33712">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-33712">
+
+---
 ## CVE-2026-33701 ()
 > 
 - [pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation](https://github.com/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation">
@@ -1629,6 +1639,11 @@
 ## CVE-2026-33147 ()
 > 
 - [redyank/CVE-2026-33147](https://github.com/redyank/CVE-2026-33147)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33147">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33147">
+
+---
+## CVE-2026-33137 ()
+> 
+- [portbuster1337/CVE-2026-33137](https://github.com/portbuster1337/CVE-2026-33137)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-33137">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-33137">
 
 ---
 ## CVE-2026-33067 ()
@@ -4087,6 +4102,7 @@
 - [bytehazard/CVE-2026-20700](https://github.com/bytehazard/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/bytehazard/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/bytehazard/CVE-2026-20700">
 - [sundenovak/CVE-2026-20700-An-analysis-WIP](https://github.com/sundenovak/CVE-2026-20700-An-analysis-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/sundenovak/CVE-2026-20700-An-analysis-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/sundenovak/CVE-2026-20700-An-analysis-WIP">
 - [R3n3r0/CVE-2026-20700](https://github.com/R3n3r0/CVE-2026-20700)	<img alt="forks" src="https://img.shields.io/github/forks/R3n3r0/CVE-2026-20700">	<img alt="stars" src="https://img.shields.io/github/stars/R3n3r0/CVE-2026-20700">
+- [notthemystery/CVE-2026-20700-POC-that-ll-never-work](https://github.com/notthemystery/CVE-2026-20700-POC-that-ll-never-work)	<img alt="forks" src="https://img.shields.io/github/forks/notthemystery/CVE-2026-20700-POC-that-ll-never-work">	<img alt="stars" src="https://img.shields.io/github/stars/notthemystery/CVE-2026-20700-POC-that-ll-never-work">
 
 ---
 ## CVE-2026-20698 ()
