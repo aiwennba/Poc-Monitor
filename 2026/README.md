@@ -222,6 +222,7 @@
 > 
 - [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
 - [rootdirective-sec/cve-2026-5718-Lab](https://github.com/rootdirective-sec/cve-2026-5718-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-5718-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-5718-Lab">
+- [xxconi/CVE-2026-5718](https://github.com/xxconi/CVE-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5718">
 
 ---
 ## CVE-2026-5615 ()
@@ -237,6 +238,11 @@
 ## CVE-2026-5465 ()
 > 
 - [kaleth4/CVE-2026-5465](https://github.com/kaleth4/CVE-2026-5465)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-5465">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-5465">
+
+---
+## CVE-2026-5426 ()
+> 
+- [HORKimhab/CVE-2026-5426](https://github.com/HORKimhab/CVE-2026-5426)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-5426">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-5426">
 
 ---
 ## CVE-2026-5281 ()
@@ -375,6 +381,11 @@
 ## CVE-2026-45584 ()
 > 
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
+
+---
+## CVE-2026-45401 ()
+> 
+- [nayakchinmohan/CVE-2026-45401](https://github.com/nayakchinmohan/CVE-2026-45401)	<img alt="forks" src="https://img.shields.io/github/forks/nayakchinmohan/CVE-2026-45401">	<img alt="stars" src="https://img.shields.io/github/stars/nayakchinmohan/CVE-2026-45401">
 
 ---
 ## CVE-2026-45321 ()
@@ -527,6 +538,7 @@
 - [Koshmare-Blossom/DirtyFrag-go](https://github.com/Koshmare-Blossom/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/DirtyFrag-go">
 - [Aiyakami/rust_dirtyfrag](https://github.com/Aiyakami/rust_dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/rust_dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/rust_dirtyfrag">
 - [AtlasVector/Dirty-Frag-CVE-2026-43284](https://github.com/AtlasVector/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Dirty-Frag-CVE-2026-43284">
+- [jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC](https://github.com/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">
 
 ---
 ## CVE-2026-42945 ()
@@ -1684,6 +1696,11 @@
 - [0xBlackash/CVE-2026-33017](https://github.com/0xBlackash/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-33017">
 - [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Jorrit-VM/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Jorrit-VM/CVE-2026-33017">
 - [r3nsi15/CVE-2026-33017-langflow-rce](https://github.com/r3nsi15/CVE-2026-33017-langflow-rce)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/CVE-2026-33017-langflow-rce">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/CVE-2026-33017-langflow-rce">
+
+---
+## CVE-2026-3296 ()
+> 
+- [xxconi/CVE-2026-3296](https://github.com/xxconi/CVE-2026-3296)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-3296">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-3296">
 
 ---
 ## CVE-2026-32945 ()
