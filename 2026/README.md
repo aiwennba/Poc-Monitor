@@ -64,6 +64,11 @@
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
 
 ---
+## CVE-2026-7791 ()
+> 
+- [BenZamir/CVE-2026-7791](https://github.com/BenZamir/CVE-2026-7791)	<img alt="forks" src="https://img.shields.io/github/forks/BenZamir/CVE-2026-7791">	<img alt="stars" src="https://img.shields.io/github/stars/BenZamir/CVE-2026-7791">
+
+---
 ## CVE-2026-7731 ()
 > 
 - [SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-](https://github.com/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Refraction-Vortex-CVE-2026-7731-">
@@ -316,6 +321,11 @@
 > 
 - [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
 - [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
+
+---
+## CVE-2026-48710 ()
+> 
+- [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
 
 ---
 ## CVE-2026-4821 ()
