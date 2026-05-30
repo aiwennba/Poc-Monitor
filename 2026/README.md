@@ -358,6 +358,7 @@
 ## CVE-2026-48778 ()
 > 
 - [kavin-jindal/CVE-2026-48778-PoC](https://github.com/kavin-jindal/CVE-2026-48778-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kavin-jindal/CVE-2026-48778-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kavin-jindal/CVE-2026-48778-PoC">
+- [XK3NF4/CVE-2026-48778](https://github.com/XK3NF4/CVE-2026-48778)	<img alt="forks" src="https://img.shields.io/github/forks/XK3NF4/CVE-2026-48778">	<img alt="stars" src="https://img.shields.io/github/stars/XK3NF4/CVE-2026-48778">
 
 ---
 ## CVE-2026-48710 ()
