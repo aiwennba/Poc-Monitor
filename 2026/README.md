@@ -66,6 +66,7 @@
 ## CVE-2026-8732 ()
 > 
 - [Jenderal92/CVE-2026-8732](https://github.com/Jenderal92/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8732">
+- [xShadow-Here/CVE-2026-8732](https://github.com/xShadow-Here/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-8732">
 
 ---
 ## CVE-2026-8196 ()
@@ -3751,6 +3752,7 @@
 - [thisisish/HTB-DevHub](https://github.com/thisisish/HTB-DevHub)	<img alt="forks" src="https://img.shields.io/github/forks/thisisish/HTB-DevHub">	<img alt="stars" src="https://img.shields.io/github/stars/thisisish/HTB-DevHub">
 - [p1ctur3p3rf3ct/CVE-2026-23744](https://github.com/p1ctur3p3rf3ct/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2026-23744">
 - [SuriyaBoon/DevHub-HackTheBox-ss11](https://github.com/SuriyaBoon/DevHub-HackTheBox-ss11)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/DevHub-HackTheBox-ss11">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/DevHub-HackTheBox-ss11">
+- [sbouabid-sec/CVE-2026-23744-POC](https://github.com/sbouabid-sec/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sbouabid-sec/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sbouabid-sec/CVE-2026-23744-POC">
 
 ---
 ## CVE-2026-23723 ()
