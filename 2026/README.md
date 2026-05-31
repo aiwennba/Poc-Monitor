@@ -355,6 +355,11 @@
 - [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
 
 ---
+## CVE-2026-48800 ()
+> 
+- [kavin-jindal/CVE-2026-48800-PoC](https://github.com/kavin-jindal/CVE-2026-48800-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kavin-jindal/CVE-2026-48800-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kavin-jindal/CVE-2026-48800-PoC">
+
+---
 ## CVE-2026-48778 ()
 > 
 - [kavin-jindal/CVE-2026-48778-PoC](https://github.com/kavin-jindal/CVE-2026-48778-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kavin-jindal/CVE-2026-48778-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kavin-jindal/CVE-2026-48778-PoC">
@@ -4718,6 +4723,11 @@
 ## CVE-2026-0047 ()
 > 
 - [mobilehackinglab/CVE-2026-0047-poc](https://github.com/mobilehackinglab/CVE-2026-0047-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0047-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0047-poc">
+
+---
+## CVE-2026-0013 ()
+> 
+- [inforcqb/cve-2026-0013-exploit](https://github.com/inforcqb/cve-2026-0013-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/inforcqb/cve-2026-0013-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/inforcqb/cve-2026-0013-exploit">
 
 ---
 ## CVE-2026-0006 ()
