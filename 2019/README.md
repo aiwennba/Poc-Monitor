@@ -231,6 +231,7 @@
 - [coolkiee/CVE-2019-9053](https://github.com/coolkiee/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/coolkiee/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/coolkiee/CVE-2019-9053">
 - [killukeren/-CVE-2019-9053](https://github.com/killukeren/-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/killukeren/-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/killukeren/-CVE-2019-9053">
 - [v4rr10r/CVE-2019-9053](https://github.com/v4rr10r/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/v4rr10r/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/v4rr10r/CVE-2019-9053">
+- [Jeanback1/CVE-2019-9053-exploit](https://github.com/Jeanback1/CVE-2019-9053-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2019-9053-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2019-9053-exploit">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
@@ -3734,6 +3735,11 @@ use after free.
 ## CVE-2019-0222 ()
 > 
 - [shoucheng3/apache__activemq_CVE-2019-0222_5-15-8](https://github.com/shoucheng3/apache__activemq_CVE-2019-0222_5-15-8)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__activemq_CVE-2019-0222_5-15-8">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__activemq_CVE-2019-0222_5-15-8">
+
+---
+## CVE-2019-0211 ()
+> 
+- [Jeanback1/CVE-2019-0211-exploit](https://github.com/Jeanback1/CVE-2019-0211-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2019-0211-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2019-0211-exploit">
 
 ---
 ## CVE-2019-0210 (2019-10-29T19:15:00)
