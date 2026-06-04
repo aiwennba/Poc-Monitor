@@ -434,6 +434,11 @@
 - [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800)	<img alt="forks" src="https://img.shields.io/github/forks/SvenLie/next-rep-CVE-2026-4800">	<img alt="stars" src="https://img.shields.io/github/stars/SvenLie/next-rep-CVE-2026-4800">
 
 ---
+## CVE-2026-47423 ()
+> 
+- [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
+
+---
 ## CVE-2026-47102 ()
 > 
 - [learner202649/CVE-2026-47102-PoC](https://github.com/learner202649/CVE-2026-47102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-47102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-47102-PoC">
@@ -2422,7 +2427,7 @@
 - [JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
-- [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
+- [ridhinva/linux-kernel-algif-aead-checker](https://github.com/ridhinva/linux-kernel-algif-aead-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/linux-kernel-algif-aead-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/linux-kernel-algif-aead-checker">
 - [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
 - [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
 - [Iamliuxiaozhen/copy_fail](https://github.com/Iamliuxiaozhen/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/Iamliuxiaozhen/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/Iamliuxiaozhen/copy_fail">
@@ -2430,6 +2435,8 @@
 - [songzzzz/CVE-2026-31431](https://github.com/songzzzz/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/songzzzz/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/songzzzz/CVE-2026-31431">
 - [K3ysTr0K3R/CVE-2026-31431-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2026-31431-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-31431-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-31431-EXPLOIT">
 - [tematemaru/CVE-2026-31431-simple-test](https://github.com/tematemaru/CVE-2026-31431-simple-test)	<img alt="forks" src="https://img.shields.io/github/forks/tematemaru/CVE-2026-31431-simple-test">	<img alt="stars" src="https://img.shields.io/github/stars/tematemaru/CVE-2026-31431-simple-test">
+- [1neptune/CopyFail](https://github.com/1neptune/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/CopyFail">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-3143 ()
