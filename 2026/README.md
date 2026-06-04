@@ -73,6 +73,11 @@
 - [CryptReaper12/CVE-2026-8732](https://github.com/CryptReaper12/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8732">
 
 ---
+## CVE-2026-8389 ()
+> 
+- [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)	<img alt="forks" src="https://img.shields.io/github/forks/crixpwn/CVE-2026-8389">	<img alt="stars" src="https://img.shields.io/github/stars/crixpwn/CVE-2026-8389">
+
+---
 ## CVE-2026-8206 ()
 > 
 - [O99099O/CVE-2026-8206-Poc-](https://github.com/O99099O/CVE-2026-8206-Poc-)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/CVE-2026-8206-Poc-">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/CVE-2026-8206-Poc-">
@@ -192,6 +197,11 @@
 ## CVE-2026-6849 ()
 > 
 - [osmancanvural/CVE-2026-6849](https://github.com/osmancanvural/CVE-2026-6849)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-6849">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-6849">
+
+---
+## CVE-2026-6815 ()
+> 
+- [danilo-dellorco/CVE-2026-6815](https://github.com/danilo-dellorco/CVE-2026-6815)	<img alt="forks" src="https://img.shields.io/github/forks/danilo-dellorco/CVE-2026-6815">	<img alt="stars" src="https://img.shields.io/github/stars/danilo-dellorco/CVE-2026-6815">
 
 ---
 ## CVE-2026-6807 ()
@@ -987,6 +997,10 @@
 > 
 - [mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive](https://github.com/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/DNS-Mayhem-CVE-2026-41096-Deep-Dive">
 - [m0n1x90/CVE-2026-41096](https://github.com/m0n1x90/CVE-2026-41096)	<img alt="forks" src="https://img.shields.io/github/forks/m0n1x90/CVE-2026-41096">	<img alt="stars" src="https://img.shields.io/github/stars/m0n1x90/CVE-2026-41096">
+- [TwoSevenOneT/CVE-2026-41096-Attack-Surface](https://github.com/TwoSevenOneT/CVE-2026-41096-Attack-Surface)	<img alt="forks" src="https://img.shields.io/github/forks/TwoSevenOneT/CVE-2026-41096-Attack-Surface">	<img alt="stars" src="https://img.shields.io/github/stars/TwoSevenOneT/CVE-2026-41096-Attack-Surface">
+- [satchfunky/CVE-2026-41096-POC](https://github.com/satchfunky/CVE-2026-41096-POC)	<img alt="forks" src="https://img.shields.io/github/forks/satchfunky/CVE-2026-41096-POC">	<img alt="stars" src="https://img.shields.io/github/stars/satchfunky/CVE-2026-41096-POC">
+- [CryptReaper12/CVE-2026-41096](https://github.com/CryptReaper12/CVE-2026-41096)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-41096">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-41096">
+- [ByteWraith1/CVE-2026-41096](https://github.com/ByteWraith1/CVE-2026-41096)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-41096">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-41096">
 
 ---
 ## CVE-2026-41091 ()
@@ -1002,6 +1016,7 @@
 - [sananpa/CVE-2026-41089](https://github.com/sananpa/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/sananpa/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/sananpa/CVE-2026-41089">
 - [0xBlackash/CVE-2026-41089](https://github.com/0xBlackash/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41089">
 - [ADScanPro/CVE-2026-41089-LongLogon](https://github.com/ADScanPro/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/ADScanPro/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/ADScanPro/CVE-2026-41089-LongLogon">
+- [Vanquishermacdetach/CVE-2026-41089-509](https://github.com/Vanquishermacdetach/CVE-2026-41089-509)	<img alt="forks" src="https://img.shields.io/github/forks/Vanquishermacdetach/CVE-2026-41089-509">	<img alt="stars" src="https://img.shields.io/github/stars/Vanquishermacdetach/CVE-2026-41089-509">
 
 ---
 ## CVE-2026-41044 ()
