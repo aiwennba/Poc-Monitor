@@ -4908,6 +4908,7 @@
 - [unnaim/adbHijacker](https://github.com/unnaim/adbHijacker)	<img alt="forks" src="https://img.shields.io/github/forks/unnaim/adbHijacker">	<img alt="stars" src="https://img.shields.io/github/stars/unnaim/adbHijacker">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
 - [xqi1337/poc-CVE-2026-0073](https://github.com/xqi1337/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/xqi1337/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/xqi1337/poc-CVE-2026-0073">
+- [fredevsec/CVE-2026-0073](https://github.com/fredevsec/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/fredevsec/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/fredevsec/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
