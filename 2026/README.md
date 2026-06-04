@@ -352,6 +352,11 @@
 - [Yucaerin/CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-5118">
 
 ---
+## CVE-2026-5076 ()
+> 
+- [zycoder0day/CVE-2026-5076](https://github.com/zycoder0day/CVE-2026-5076)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5076">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5076">
+
+---
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
@@ -365,9 +370,15 @@
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 
 ---
+## CVE-2026-50142 ()
+> 
+- [MuhammedHussein17/libheif-cve-2026-50142](https://github.com/MuhammedHussein17/libheif-cve-2026-50142)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammedHussein17/libheif-cve-2026-50142">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammedHussein17/libheif-cve-2026-50142">
+
+---
 ## CVE-2026-49975 ()
 > 
 - [fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-](https://github.com/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">
+- [mrx-arafat/CVE-2026-49975-POC](https://github.com/mrx-arafat/CVE-2026-49975-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mrx-arafat/CVE-2026-49975-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mrx-arafat/CVE-2026-49975-POC">
 
 ---
 ## CVE-2026-49009 ()
@@ -2605,6 +2616,16 @@
 - [NetVanguard-cmd/CVE-2026-3055](https://github.com/NetVanguard-cmd/CVE-2026-3055)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-3055">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-3055">
 
 ---
+## CVE-2026-30503 ()
+> 
+- [dharmstm/CVE-2026-30503-OpenKM-6.3.12-Stored-XSS](https://github.com/dharmstm/CVE-2026-30503-OpenKM-6.3.12-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/dharmstm/CVE-2026-30503-OpenKM-6.3.12-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/dharmstm/CVE-2026-30503-OpenKM-6.3.12-Stored-XSS">
+
+---
+## CVE-2026-30502 ()
+> 
+- [dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS](https://github.com/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS">
+
+---
 ## CVE-2026-30498 ()
 > 
 - [Mehdi-Ben-Hamou/CVE-2026-30498](https://github.com/Mehdi-Ben-Hamou/CVE-2026-30498)	<img alt="forks" src="https://img.shields.io/github/forks/Mehdi-Ben-Hamou/CVE-2026-30498">	<img alt="stars" src="https://img.shields.io/github/stars/Mehdi-Ben-Hamou/CVE-2026-30498">
@@ -2770,10 +2791,12 @@
 - [Gajraj238/CVE-2026-29000](https://github.com/Gajraj238/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Gajraj238/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Gajraj238/CVE-2026-29000">
 - [jake-young-dev/CVE-2026-29000](https://github.com/jake-young-dev/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/jake-young-dev/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/jake-young-dev/CVE-2026-29000">
 - [cipher1x1/CVE-2026-29000](https://github.com/cipher1x1/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/cipher1x1/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/cipher1x1/CVE-2026-29000">
-- [strikoder/CVE-2026-29000-pac4j-jwt](https://github.com/strikoder/CVE-2026-29000-pac4j-jwt)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/CVE-2026-29000-pac4j-jwt">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/CVE-2026-29000-pac4j-jwt">
+- [STK-Security/CVE-2026-29000-pac4j-jwt](https://github.com/STK-Security/CVE-2026-29000-pac4j-jwt)	<img alt="forks" src="https://img.shields.io/github/forks/STK-Security/CVE-2026-29000-pac4j-jwt">	<img alt="stars" src="https://img.shields.io/github/stars/STK-Security/CVE-2026-29000-pac4j-jwt">
 - [zF-tm/CVE-2026-29000](https://github.com/zF-tm/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/zF-tm/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/zF-tm/CVE-2026-29000">
 - [ledksv/Principal-HackTheBox](https://github.com/ledksv/Principal-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Principal-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Principal-HackTheBox">
 - [tc4dy/CVE-2026-29000-PoC-Exploit](https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-29000-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-29000-PoC-Exploit">
+- [lucastran05/CVE-2026-29000](https://github.com/lucastran05/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/lucastran05/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/lucastran05/CVE-2026-29000">
+- [c0gnit00/CVE-2026-29000](https://github.com/c0gnit00/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-29000">
 
 ---
 ## CVE-2026-28992 ()
