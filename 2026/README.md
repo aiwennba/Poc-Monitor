@@ -943,6 +943,7 @@
 - [zwanski2019/cPanelSniper](https://github.com/zwanski2019/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/zwanski2019/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/zwanski2019/cPanelSniper">
 - [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
 - [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/olofsatte/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/olofsatte/CVE-2026-41940-PoC">
+- [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
 
 ---
 ## CVE-2026-41901 ()
@@ -3804,6 +3805,7 @@
 - [HD0x01/CVE-2026-24061-NSE](https://github.com/HD0x01/CVE-2026-24061-NSE)	<img alt="forks" src="https://img.shields.io/github/forks/HD0x01/CVE-2026-24061-NSE">	<img alt="stars" src="https://img.shields.io/github/stars/HD0x01/CVE-2026-24061-NSE">
 - [przemytn/CVE-2026-24061](https://github.com/przemytn/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/przemytn/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/przemytn/CVE-2026-24061">
 - [Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
+- [jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/jacubes/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/jacubes/CVE-2026-24061">
 
 ---
 ## CVE-2026-24055 ()
