@@ -936,6 +936,8 @@
 - [sardine-web/Automated-scanner-CVE-2026-41940](https://github.com/sardine-web/Automated-scanner-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/Automated-scanner-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/Automated-scanner-CVE-2026-41940">
 - [willygailo/CVE-2026-41940-Linux](https://github.com/willygailo/CVE-2026-41940-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-41940-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-41940-Linux">
 - [zwanski2019/cPanelSniper](https://github.com/zwanski2019/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/zwanski2019/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/zwanski2019/cPanelSniper">
+- [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
+- [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/olofsatte/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/olofsatte/CVE-2026-41940-PoC">
 
 ---
 ## CVE-2026-41901 ()
@@ -2579,6 +2581,11 @@
 ## CVE-2026-31280 ()
 > 
 - [CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom](https://github.com/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom">
+
+---
+## CVE-2026-31266 ()
+> 
+- [0xrixet/Craftcms-PoC-CVE-2026-31266](https://github.com/0xrixet/Craftcms-PoC-CVE-2026-31266)	<img alt="forks" src="https://img.shields.io/github/forks/0xrixet/Craftcms-PoC-CVE-2026-31266">	<img alt="stars" src="https://img.shields.io/github/stars/0xrixet/Craftcms-PoC-CVE-2026-31266">
 
 ---
 ## CVE-2026-31024 ()

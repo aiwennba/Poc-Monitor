@@ -4216,6 +4216,8 @@
 - [LuizHenz/PoC-CVE-2025-55182](https://github.com/LuizHenz/PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LuizHenz/PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LuizHenz/PoC-CVE-2025-55182">
 - [K3ysTr0K3R/CVE-2025-55182-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2025-55182-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-55182-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-55182-EXPLOIT">
 - [hakkuri01/r2rs](https://github.com/hakkuri01/r2rs)	<img alt="forks" src="https://img.shields.io/github/forks/hakkuri01/r2rs">	<img alt="stars" src="https://img.shields.io/github/stars/hakkuri01/r2rs">
+- [yurahshell/CVE-2025-55182](https://github.com/yurahshell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-55182">
+- [tanvirahmedcs/CVE-2025-55182](https://github.com/tanvirahmedcs/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tanvirahmedcs/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tanvirahmedcs/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -5430,6 +5432,7 @@
 - [4nuxd/CVE-2025-49132](https://github.com/4nuxd/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/CVE-2025-49132">
 - [revasec/CVE-2025-49132](https://github.com/revasec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-49132">
 - [nik123-py/CVE-2025-49132_HTB_SEASON10](https://github.com/nik123-py/CVE-2025-49132_HTB_SEASON10)	<img alt="forks" src="https://img.shields.io/github/forks/nik123-py/CVE-2025-49132_HTB_SEASON10">	<img alt="stars" src="https://img.shields.io/github/stars/nik123-py/CVE-2025-49132_HTB_SEASON10">
+- [yurahshell/CVE-2025-49132](https://github.com/yurahshell/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
