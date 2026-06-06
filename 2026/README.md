@@ -1048,6 +1048,8 @@
 - [Darkuoremember32/CVE-2026-41089-470](https://github.com/Darkuoremember32/CVE-2026-41089-470)	<img alt="forks" src="https://img.shields.io/github/forks/Darkuoremember32/CVE-2026-41089-470">	<img alt="stars" src="https://img.shields.io/github/stars/Darkuoremember32/CVE-2026-41089-470">
 - [Darkuoremember32/CVE-2026-41089-532](https://github.com/Darkuoremember32/CVE-2026-41089-532)	<img alt="forks" src="https://img.shields.io/github/forks/Darkuoremember32/CVE-2026-41089-532">	<img alt="stars" src="https://img.shields.io/github/stars/Darkuoremember32/CVE-2026-41089-532">
 - [SkySmokeMoat/CVE-2026-41089-552](https://github.com/SkySmokeMoat/CVE-2026-41089-552)	<img alt="forks" src="https://img.shields.io/github/forks/SkySmokeMoat/CVE-2026-41089-552">	<img alt="stars" src="https://img.shields.io/github/stars/SkySmokeMoat/CVE-2026-41089-552">
+- [Mapclaregister/CVE-2026-41089-191](https://github.com/Mapclaregister/CVE-2026-41089-191)	<img alt="forks" src="https://img.shields.io/github/forks/Mapclaregister/CVE-2026-41089-191">	<img alt="stars" src="https://img.shields.io/github/stars/Mapclaregister/CVE-2026-41089-191">
+- [Fuchsiafromcurl/CVE-2026-41089-274](https://github.com/Fuchsiafromcurl/CVE-2026-41089-274)	<img alt="forks" src="https://img.shields.io/github/forks/Fuchsiafromcurl/CVE-2026-41089-274">	<img alt="stars" src="https://img.shields.io/github/stars/Fuchsiafromcurl/CVE-2026-41089-274">
 
 ---
 ## CVE-2026-41044 ()
@@ -1122,6 +1124,11 @@
 - [pjt3591oo/CVE-2026-40175-poc](https://github.com/pjt3591oo/CVE-2026-40175-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pjt3591oo/CVE-2026-40175-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pjt3591oo/CVE-2026-40175-poc">
 - [LeeKangHyun/axios-security-guide](https://github.com/LeeKangHyun/axios-security-guide)	<img alt="forks" src="https://img.shields.io/github/forks/LeeKangHyun/axios-security-guide">	<img alt="stars" src="https://img.shields.io/github/stars/LeeKangHyun/axios-security-guide">
 - [surri/audit-axios](https://github.com/surri/audit-axios)	<img alt="forks" src="https://img.shields.io/github/forks/surri/audit-axios">	<img alt="stars" src="https://img.shields.io/github/stars/surri/audit-axios">
+
+---
+## CVE-2026-40072 ()
+> 
+- [u1tr0nex/cve-2026-40072-ssrf-lab](https://github.com/u1tr0nex/cve-2026-40072-ssrf-lab)	<img alt="forks" src="https://img.shields.io/github/forks/u1tr0nex/cve-2026-40072-ssrf-lab">	<img alt="stars" src="https://img.shields.io/github/stars/u1tr0nex/cve-2026-40072-ssrf-lab">
 
 ---
 ## CVE-2026-40003 ()
@@ -4231,6 +4238,7 @@
 - [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876">
 - [Mefhika120/CVE-2026-21876](https://github.com/Mefhika120/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/Mefhika120/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/Mefhika120/CVE-2026-21876">
 - [CVEs-Labs/CVE-2026-21876](https://github.com/CVEs-Labs/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-21876">
+- [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876)	<img alt="forks" src="https://img.shields.io/github/forks/daytriftnewgen/CVE-2026-21876">	<img alt="stars" src="https://img.shields.io/github/stars/daytriftnewgen/CVE-2026-21876">
 
 ---
 ## CVE-2026-21858 ()
