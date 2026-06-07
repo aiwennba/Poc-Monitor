@@ -574,6 +574,12 @@
 - [Nxploited/CVE-2026-4484](https://github.com/Nxploited/CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-4484">
 
 ---
+## CVE-2026-4480 ()
+> 
+- [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
+- [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
+
+---
 ## CVE-2026-44706 ()
 > 
 - [hakaioffsec/CVE-2026-44706](https://github.com/hakaioffsec/CVE-2026-44706)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-44706">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-44706">
