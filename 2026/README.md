@@ -369,6 +369,12 @@
 - [zycoder0day/CVE-2026-5076](https://github.com/zycoder0day/CVE-2026-5076)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5076">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5076">
 
 ---
+## CVE-2026-50751 ()
+> 
+- [WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts](https://github.com/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">
+- [0xBlackash/CVE-2026-50751](https://github.com/0xBlackash/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50751">
+
+---
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
@@ -591,6 +597,7 @@
 - [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
 - [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
 - [0xBlackash/CVE-2026-4480](https://github.com/0xBlackash/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-4480">
+- [CarlosEduardoPM/CVE-2026-4480](https://github.com/CarlosEduardoPM/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosEduardoPM/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosEduardoPM/CVE-2026-4480">
 
 ---
 ## CVE-2026-44706 ()
