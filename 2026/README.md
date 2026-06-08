@@ -28,6 +28,7 @@
 - [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 - [3nou9h/CVE-2026-9256-Poc](https://github.com/3nou9h/CVE-2026-9256-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/3nou9h/CVE-2026-9256-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/3nou9h/CVE-2026-9256-Poc">
 - [06-ux/CVE-2026-9256-POC](https://github.com/06-ux/CVE-2026-9256-POC)	<img alt="forks" src="https://img.shields.io/github/forks/06-ux/CVE-2026-9256-POC">	<img alt="stars" src="https://img.shields.io/github/stars/06-ux/CVE-2026-9256-POC">
+- [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip)	<img alt="forks" src="https://img.shields.io/github/forks/y198nt/Nginx-chain-Rift-Poolslip">	<img alt="stars" src="https://img.shields.io/github/stars/y198nt/Nginx-chain-Rift-Poolslip">
 
 ---
 ## CVE-2026-9082 ()
@@ -41,6 +42,7 @@
 - [N45HT/drupal-cve-2026-9082-checker](https://github.com/N45HT/drupal-cve-2026-9082-checker)	<img alt="forks" src="https://img.shields.io/github/forks/N45HT/drupal-cve-2026-9082-checker">	<img alt="stars" src="https://img.shields.io/github/stars/N45HT/drupal-cve-2026-9082-checker">
 - [strobelpierre/CVE-2026-9082](https://github.com/strobelpierre/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/strobelpierre/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/strobelpierre/CVE-2026-9082">
 - [thinhap/CVE-2026-9082-PoC](https://github.com/thinhap/CVE-2026-9082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/thinhap/CVE-2026-9082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/thinhap/CVE-2026-9082-PoC">
+- [11romain/CVE-2026-9082](https://github.com/11romain/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/11romain/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/11romain/CVE-2026-9082">
 
 ---
 ## CVE-2026-9018 ()
@@ -3829,6 +3831,8 @@
 - [ahmadsadeeq/TelnetdBypass-](https://github.com/ahmadsadeeq/TelnetdBypass-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmadsadeeq/TelnetdBypass-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmadsadeeq/TelnetdBypass-">
 - [jacubes/CVE-2026-24061](https://github.com/jacubes/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/jacubes/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/jacubes/CVE-2026-24061">
 - [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
+- [achnouri/CVE-2026-24061-GNU-InetUtils-telnetd](https://github.com/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">
+- [K3ysTr0K3R/CVE-2026-24061](https://github.com/K3ysTr0K3R/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
