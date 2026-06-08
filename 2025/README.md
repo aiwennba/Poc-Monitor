@@ -2888,6 +2888,11 @@
 - [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
 
 ---
+## CVE-2025-5878 ()
+> 
+- [dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit](https://github.com/dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dickfu/ESAPI-SQLinjection-CVE-2025-5878-Exploit">
+
+---
 ## CVE-2025-58718 ()
 > 
 - [callinston/CVE-2025-58718](https://github.com/callinston/CVE-2025-58718)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-58718">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-58718">
@@ -7402,6 +7407,7 @@
 - [joshuavanderpoll/cve-2025-32433](https://github.com/joshuavanderpoll/cve-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2025-32433">
 - [0xBlackash/CVE-2025-32433](https://github.com/0xBlackash/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-32433">
 - [leehunkoo/hk_CVE-2025-32433](https://github.com/leehunkoo/hk_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/leehunkoo/hk_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/leehunkoo/hk_CVE-2025-32433">
+- [chuzouX/CVE-2025-32433-Exploit-edited](https://github.com/chuzouX/CVE-2025-32433-Exploit-edited)	<img alt="forks" src="https://img.shields.io/github/forks/chuzouX/CVE-2025-32433-Exploit-edited">	<img alt="stars" src="https://img.shields.io/github/stars/chuzouX/CVE-2025-32433-Exploit-edited">
 
 ---
 ## CVE-2025-32432 ()
