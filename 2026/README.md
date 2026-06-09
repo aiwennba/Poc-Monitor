@@ -111,6 +111,11 @@
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
 
 ---
+## CVE-2026-8054 ()
+> 
+- [Mr-xn/CVE-2026-8054](https://github.com/Mr-xn/CVE-2026-8054)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2026-8054">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2026-8054">
+
+---
 ## CVE-2026-7791 ()
 > 
 - [BenZamir/CVE-2026-7791](https://github.com/BenZamir/CVE-2026-7791)	<img alt="forks" src="https://img.shields.io/github/forks/BenZamir/CVE-2026-7791">	<img alt="stars" src="https://img.shields.io/github/stars/BenZamir/CVE-2026-7791">
@@ -588,6 +593,11 @@
 - [HORKimhab/CVE-2026-45091](https://github.com/HORKimhab/CVE-2026-45091)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45091">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45091">
 
 ---
+## CVE-2026-45067 ()
+> 
+- [HORKimhab/CVE-2026-45067](https://github.com/HORKimhab/CVE-2026-45067)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45067">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45067">
+
+---
 ## CVE-2026-4484 ()
 > 
 - [PegasusMetaSec/PEGASUS-CVE-2026-4484](https://github.com/PegasusMetaSec/PEGASUS-CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/PegasusMetaSec/PEGASUS-CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/PegasusMetaSec/PEGASUS-CVE-2026-4484">
@@ -599,7 +609,7 @@
 - [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
 - [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
 - [0xBlackash/CVE-2026-4480](https://github.com/0xBlackash/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-4480">
-- [CarlosEduardoPM/CVE-2026-4480](https://github.com/CarlosEduardoPM/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosEduardoPM/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosEduardoPM/CVE-2026-4480">
+- [CarlosEduardoPM/CVE-2026-4480-POC](https://github.com/CarlosEduardoPM/CVE-2026-4480-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosEduardoPM/CVE-2026-4480-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosEduardoPM/CVE-2026-4480-POC">
 
 ---
 ## CVE-2026-44706 ()
