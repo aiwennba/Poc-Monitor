@@ -412,6 +412,11 @@
 - [j0xh-sec/CVE-2026-49009](https://github.com/j0xh-sec/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/j0xh-sec/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/j0xh-sec/CVE-2026-49009">
 
 ---
+## CVE-2026-48907 ()
+> 
+- [webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE](https://github.com/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">
+
+---
 ## CVE-2026-48866 ()
 > 
 - [0xABCD01/CVE-2026-48866](https://github.com/0xABCD01/CVE-2026-48866)	<img alt="forks" src="https://img.shields.io/github/forks/0xABCD01/CVE-2026-48866">	<img alt="stars" src="https://img.shields.io/github/stars/0xABCD01/CVE-2026-48866">
@@ -853,6 +858,8 @@
 ## CVE-2026-42588 ()
 > 
 - [strivepan/ActiveMQ-cve-2026-42588-scanner-gui](https://github.com/strivepan/ActiveMQ-cve-2026-42588-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/ActiveMQ-cve-2026-42588-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/ActiveMQ-cve-2026-42588-scanner-gui">
+- [hnytgl/CVE-2026-42588](https://github.com/hnytgl/CVE-2026-42588)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2026-42588">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2026-42588">
+- [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
 
 ---
 ## CVE-2026-4257 ()
@@ -1118,6 +1125,7 @@
 - [StampDreamFitting/CVE-2026-41089-986](https://github.com/StampDreamFitting/CVE-2026-41089-986)	<img alt="forks" src="https://img.shields.io/github/forks/StampDreamFitting/CVE-2026-41089-986">	<img alt="stars" src="https://img.shields.io/github/stars/StampDreamFitting/CVE-2026-41089-986">
 - [RoyalViceroyBear/CVE-2026-41089-706](https://github.com/RoyalViceroyBear/CVE-2026-41089-706)	<img alt="forks" src="https://img.shields.io/github/forks/RoyalViceroyBear/CVE-2026-41089-706">	<img alt="stars" src="https://img.shields.io/github/stars/RoyalViceroyBear/CVE-2026-41089-706">
 - [jenniferreire26/CVE-2026-41089](https://github.com/jenniferreire26/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-41089">
+- [Coasttruvitalize/CVE-2026-41089-latest](https://github.com/Coasttruvitalize/CVE-2026-41089-latest)	<img alt="forks" src="https://img.shields.io/github/forks/Coasttruvitalize/CVE-2026-41089-latest">	<img alt="stars" src="https://img.shields.io/github/stars/Coasttruvitalize/CVE-2026-41089-latest">
 
 ---
 ## CVE-2026-41044 ()
