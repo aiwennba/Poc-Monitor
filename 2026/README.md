@@ -4058,6 +4058,7 @@
 - [avivyap/CVE-2026-23744](https://github.com/avivyap/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/avivyap/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/avivyap/CVE-2026-23744">
 - [Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit](https://github.com/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">
 - [oryk0/CVE-2026-23744](https://github.com/oryk0/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/oryk0/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/oryk0/CVE-2026-23744">
+- [kennedy-aikohi/mcpjam-cve-2026-23744-validator](https://github.com/kennedy-aikohi/mcpjam-cve-2026-23744-validator)	<img alt="forks" src="https://img.shields.io/github/forks/kennedy-aikohi/mcpjam-cve-2026-23744-validator">	<img alt="stars" src="https://img.shields.io/github/stars/kennedy-aikohi/mcpjam-cve-2026-23744-validator">
 
 ---
 ## CVE-2026-23723 ()
@@ -5132,6 +5133,11 @@
 ## CVE-2026-00001 ()
 > 
 - [sufnir/POC-CVE-2026-00001](https://github.com/sufnir/POC-CVE-2026-00001)	<img alt="forks" src="https://img.shields.io/github/forks/sufnir/POC-CVE-2026-00001">	<img alt="stars" src="https://img.shields.io/github/stars/sufnir/POC-CVE-2026-00001">
+
+---
+## CVE-2026-00000 ()
+> 
+- [4ybrick/CVE-2026-00000](https://github.com/4ybrick/CVE-2026-00000)	<img alt="forks" src="https://img.shields.io/github/forks/4ybrick/CVE-2026-00000">	<img alt="stars" src="https://img.shields.io/github/stars/4ybrick/CVE-2026-00000">
 
 ---
 ## CVE-2026-000 ()
