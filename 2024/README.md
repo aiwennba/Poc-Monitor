@@ -9994,6 +9994,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 - [labc-dev/CVE-2024-2024](https://github.com/labc-dev/CVE-2024-2024)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-2024">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-2024">
 
 ---
+## CVE-2024-20154 ()
+> 
+- [sneakid/CVE-2024-20154](https://github.com/sneakid/CVE-2024-20154)	<img alt="forks" src="https://img.shields.io/github/forks/sneakid/CVE-2024-20154">	<img alt="stars" src="https://img.shields.io/github/stars/sneakid/CVE-2024-20154">
+
+---
 ## CVE-2024-20137 ()
 > 
 - [takistmr/CVE-2024-20137](https://github.com/takistmr/CVE-2024-20137)	<img alt="forks" src="https://img.shields.io/github/forks/takistmr/CVE-2024-20137">	<img alt="stars" src="https://img.shields.io/github/stars/takistmr/CVE-2024-20137">
