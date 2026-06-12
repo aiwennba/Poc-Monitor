@@ -461,6 +461,7 @@
 > 
 - [webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE](https://github.com/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48907-Unauthenticated-RCE-in-JCE">
 - [ywh-jfellus/CVE-2026-48907](https://github.com/ywh-jfellus/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-48907">
+- [0xBlackash/CVE-2026-48907](https://github.com/0xBlackash/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -897,6 +898,7 @@
 - [lowilol/CVE-2026-42945-NGINX-Rift-Check-Script](https://github.com/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script)	<img alt="forks" src="https://img.shields.io/github/forks/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">	<img alt="stars" src="https://img.shields.io/github/stars/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">
 - [jenniferreire26/CVE-2026-42945](https://github.com/jenniferreire26/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-42945">
 - [LiaoZiqi-GZFLS/CVE-2026-42945](https://github.com/LiaoZiqi-GZFLS/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-42945">
+- [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
 
 ---
 ## CVE-2026-42940 ()
@@ -1226,6 +1228,11 @@
 ## CVE-2026-40897 ()
 > 
 - [EQSTLab/CVE-2026-40897](https://github.com/EQSTLab/CVE-2026-40897)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-40897">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-40897">
+
+---
+## CVE-2026-40791 ()
+> 
+- [Rat5ak/CVE-2026-40791-WP-Time-Slots-Booking-Form-XSS](https://github.com/Rat5ak/CVE-2026-40791-WP-Time-Slots-Booking-Form-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-40791-WP-Time-Slots-Booking-Form-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-40791-WP-Time-Slots-Booking-Form-XSS">
 
 ---
 ## CVE-2026-40776 ()
@@ -1697,6 +1704,11 @@
 ## CVE-2026-35330 ()
 > 
 - [JohannesLks/CVE-2026-35330](https://github.com/JohannesLks/CVE-2026-35330)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35330">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35330">
+
+---
+## CVE-2026-35273 ()
+> 
+- [0xBlackash/CVE-2026-35273](https://github.com/0xBlackash/CVE-2026-35273)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-35273">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-35273">
 
 ---
 ## CVE-2026-35250 ()
@@ -5198,6 +5210,11 @@
 - [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
 - [lu4m575/CVE-2026-0300](https://github.com/lu4m575/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/lu4m575/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/lu4m575/CVE-2026-0300">
 - [ridhinva/CVE-2026-0300-PANOS-RCE](https://github.com/ridhinva/CVE-2026-0300-PANOS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-0300-PANOS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-0300-PANOS-RCE">
+
+---
+## CVE-2026-0273 ()
+> 
+- [HORKimhab/CVE-2026-0273](https://github.com/HORKimhab/CVE-2026-0273)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0273">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0273">
 
 ---
 ## CVE-2026-0265 ()
