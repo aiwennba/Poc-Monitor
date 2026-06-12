@@ -3154,6 +3154,7 @@
 - [johnniebozura31/CVE-2026-28318](https://github.com/johnniebozura31/CVE-2026-28318)	<img alt="forks" src="https://img.shields.io/github/forks/johnniebozura31/CVE-2026-28318">	<img alt="stars" src="https://img.shields.io/github/stars/johnniebozura31/CVE-2026-28318">
 - [jenniferreire26/CVE-2026-28318](https://github.com/jenniferreire26/CVE-2026-28318)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-28318">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-28318">
 - [BishopFox/CVE-2026-28318-check](https://github.com/BishopFox/CVE-2026-28318-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-28318-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-28318-check">
+- [EaEa0001/servu-cve-2026-28318-poc](https://github.com/EaEa0001/servu-cve-2026-28318-poc)	<img alt="forks" src="https://img.shields.io/github/forks/EaEa0001/servu-cve-2026-28318-poc">	<img alt="stars" src="https://img.shields.io/github/stars/EaEa0001/servu-cve-2026-28318-poc">
 
 ---
 ## CVE-2026-28289 ()
