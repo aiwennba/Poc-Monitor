@@ -522,6 +522,11 @@
 - [retmakarunia/CVE-2026-48172](https://github.com/retmakarunia/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/retmakarunia/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/retmakarunia/CVE-2026-48172">
 
 ---
+## CVE-2026-48017 ()
+> 
+- [romain-deperne/CVE-2026-48017](https://github.com/romain-deperne/CVE-2026-48017)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-48017">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-48017">
+
+---
 ## CVE-2026-4800 ()
 > 
 - [threalwinky/CVE-2026-4800-POC](https://github.com/threalwinky/CVE-2026-4800-POC)	<img alt="forks" src="https://img.shields.io/github/forks/threalwinky/CVE-2026-4800-POC">	<img alt="stars" src="https://img.shields.io/github/stars/threalwinky/CVE-2026-4800-POC">
@@ -1142,6 +1147,11 @@
 - [krraze/CVE-2026-41575](https://github.com/krraze/CVE-2026-41575)	<img alt="forks" src="https://img.shields.io/github/forks/krraze/CVE-2026-41575">	<img alt="stars" src="https://img.shields.io/github/stars/krraze/CVE-2026-41575">
 
 ---
+## CVE-2026-41490 ()
+> 
+- [romain-deperne/CVE-2026-41490](https://github.com/romain-deperne/CVE-2026-41490)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-41490">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-41490">
+
+---
 ## CVE-2026-41462 ()
 > 
 - [0xBlackash/CVE-2026-41462](https://github.com/0xBlackash/CVE-2026-41462)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41462">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41462">
@@ -1244,6 +1254,11 @@
 ## CVE-2026-40897 ()
 > 
 - [EQSTLab/CVE-2026-40897](https://github.com/EQSTLab/CVE-2026-40897)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-40897">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-40897">
+
+---
+## CVE-2026-40864 ()
+> 
+- [romain-deperne/CVE-2026-40864](https://github.com/romain-deperne/CVE-2026-40864)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-40864">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-40864">
 
 ---
 ## CVE-2026-40791 ()
