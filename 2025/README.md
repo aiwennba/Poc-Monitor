@@ -5472,6 +5472,9 @@
 - [yurahshell/CVE-2025-49132](https://github.com/yurahshell/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-49132">
 - [yurahshell/CVE-2025-49132](https://github.com/yurahshell/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2025-49132">
 - [vimmwy/CVE-2025-49132](https://github.com/vimmwy/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/vimmwy/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/vimmwy/CVE-2025-49132">
+- [karimelsheikh1/HTB-Pterodactyl-Writeup](https://github.com/karimelsheikh1/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Pterodactyl-Writeup">
+- [V0idW1re/HTB-Pterodactyl-Writeup](https://github.com/V0idW1re/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/V0idW1re/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/V0idW1re/HTB-Pterodactyl-Writeup">
+- [symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132](https://github.com/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/HTB-Pterodactyl-RCE-CVE-2025-49132">
 
 ---
 ## CVE-2025-49131 ()
