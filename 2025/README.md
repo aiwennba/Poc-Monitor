@@ -4248,6 +4248,7 @@
 - [Alejandro609x/JEFAZO-CVE-2025-55182-Checker](https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Alejandro609x/JEFAZO-CVE-2025-55182-Checker">
 - [cc3305/CVE-2025-55182](https://github.com/cc3305/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-55182">
 - [SentinelXofficial/CVE-2025-55182](https://github.com/SentinelXofficial/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/CVE-2025-55182">
+- [olezhaku/react2shell-toolkit](https://github.com/olezhaku/react2shell-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/olezhaku/react2shell-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/olezhaku/react2shell-toolkit">
 
 ---
 ## CVE-2025-55130 ()
@@ -7893,6 +7894,7 @@
 - [Lusensec/CVE-2025-30208](https://github.com/Lusensec/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Lusensec/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Lusensec/CVE-2025-30208">
 - [layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers](https://github.com/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers)	<img alt="forks" src="https://img.shields.io/github/forks/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">	<img alt="stars" src="https://img.shields.io/github/stars/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">
 - [HazaVVIP/CVE-2025-30208](https://github.com/HazaVVIP/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/HazaVVIP/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/HazaVVIP/CVE-2025-30208">
+- [cc3305/CVE-2025-30208](https://github.com/cc3305/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2025-30208">
 
 ---
 ## CVE-2025-30144 ()
