@@ -614,6 +614,7 @@
 - [87achrafg-stack/CVE-2026-48907](https://github.com/87achrafg-stack/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-48907">
 - [HORKimhab/CVE-2026-48907](https://github.com/HORKimhab/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48907">
 - [wearehackers160/CVE-2026-48907](https://github.com/wearehackers160/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/wearehackers160/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/wearehackers160/CVE-2026-48907">
+- [g0thamRabb1t/joomla-jce-cve-2026-48907-detection](https://github.com/g0thamRabb1t/joomla-jce-cve-2026-48907-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/joomla-jce-cve-2026-48907-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/joomla-jce-cve-2026-48907-detection">
 
 ---
 ## CVE-2026-48866 ()
@@ -682,6 +683,11 @@
 > 
 - [threalwinky/CVE-2026-4800-POC](https://github.com/threalwinky/CVE-2026-4800-POC)	<img alt="forks" src="https://img.shields.io/github/forks/threalwinky/CVE-2026-4800-POC">	<img alt="stars" src="https://img.shields.io/github/stars/threalwinky/CVE-2026-4800-POC">
 - [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800)	<img alt="forks" src="https://img.shields.io/github/forks/SvenLie/next-rep-CVE-2026-4800">	<img alt="stars" src="https://img.shields.io/github/stars/SvenLie/next-rep-CVE-2026-4800">
+
+---
+## CVE-2026-47670 ()
+> 
+- [error-inside/CVE-2026-47670](https://github.com/error-inside/CVE-2026-47670)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-47670">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-47670">
 
 ---
 ## CVE-2026-47423 ()
@@ -1600,6 +1606,7 @@
 - [0xBlackash/CVE-2026-39808](https://github.com/0xBlackash/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39808">
 - [ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808](https://github.com/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/FortiSandbox-RCE-Exploit-CVE-2026-39808">
 - [HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808">
+- [error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-39808">
 
 ---
 ## CVE-2026-39440 ()
@@ -5396,6 +5403,8 @@
 - [ogenich/CVE-2026-10520](https://github.com/ogenich/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/ogenich/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/ogenich/CVE-2026-10520">
 - [watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">
 - [0xBlackash/CVE-2026-10520](https://github.com/0xBlackash/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-10520">
+- [error-inside/CVE-2026-10520](https://github.com/error-inside/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-10520">
+- [HORKimhab/CVE-2026-10520-10523](https://github.com/HORKimhab/CVE-2026-10520-10523)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10520-10523">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10520-10523">
 
 ---
 ## CVE-2026-10290 ()
