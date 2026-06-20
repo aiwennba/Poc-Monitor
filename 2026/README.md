@@ -955,6 +955,7 @@
 - [panchocosil/verify-ghsa-c4j6-fc7j-m34r](https://github.com/panchocosil/verify-ghsa-c4j6-fc7j-m34r)	<img alt="forks" src="https://img.shields.io/github/forks/panchocosil/verify-ghsa-c4j6-fc7j-m34r">	<img alt="stars" src="https://img.shields.io/github/stars/panchocosil/verify-ghsa-c4j6-fc7j-m34r">
 - [dwisiswant0/next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/next-16.2.4-pocs">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/next-16.2.4-pocs">
 - [0xBlackash/CVE-2026-44578](https://github.com/0xBlackash/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-44578">
+- [GadaLuBau1337/CVE-2026-44578](https://github.com/GadaLuBau1337/CVE-2026-44578)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2026-44578">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2026-44578">
 
 ---
 ## CVE-2026-4447 ()
@@ -1441,6 +1442,7 @@
 ## CVE-2026-41091 ()
 > 
 - [0xBlackash/CVE-2026-41091](https://github.com/0xBlackash/CVE-2026-41091)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41091">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41091">
+- [tc4dy/CVE-2026-41091-PoC-Exploit](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41091-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41091-PoC-Exploit">
 
 ---
 ## CVE-2026-41089 ()
