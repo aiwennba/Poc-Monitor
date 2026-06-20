@@ -924,6 +924,7 @@
 - [0xBlackash/CVE-2026-4480](https://github.com/0xBlackash/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-4480">
 - [CarlosEduardoPM/CVE-2026-4480-POC](https://github.com/CarlosEduardoPM/CVE-2026-4480-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosEduardoPM/CVE-2026-4480-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosEduardoPM/CVE-2026-4480-POC">
 - [Vusal777/CVE-2026-4480-exploit-poc](https://github.com/Vusal777/CVE-2026-4480-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Vusal777/CVE-2026-4480-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Vusal777/CVE-2026-4480-exploit-poc">
+- [ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC">
 
 ---
 ## CVE-2026-44706 ()
@@ -5444,6 +5445,7 @@
 ## CVE-2026-11551 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
+- [xxconi/2026-11551](https://github.com/xxconi/2026-11551)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/2026-11551">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/2026-11551">
 
 ---
 ## CVE-2026-11417 ()
