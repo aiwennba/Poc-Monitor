@@ -1853,6 +1853,11 @@
 - [Pavanvootla-sec/CVE-2026-37196](https://github.com/Pavanvootla-sec/CVE-2026-37196)	<img alt="forks" src="https://img.shields.io/github/forks/Pavanvootla-sec/CVE-2026-37196">	<img alt="stars" src="https://img.shields.io/github/stars/Pavanvootla-sec/CVE-2026-37196">
 
 ---
+## CVE-2026-37149 ()
+> 
+- [pateldhyeyit/CVE-2026-37149](https://github.com/pateldhyeyit/CVE-2026-37149)	<img alt="forks" src="https://img.shields.io/github/forks/pateldhyeyit/CVE-2026-37149">	<img alt="stars" src="https://img.shields.io/github/stars/pateldhyeyit/CVE-2026-37149">
+
+---
 ## CVE-2026-37073 ()
 > 
 - [jfs-jfs/CVE-2026-37073](https://github.com/jfs-jfs/CVE-2026-37073)	<img alt="forks" src="https://img.shields.io/github/forks/jfs-jfs/CVE-2026-37073">	<img alt="stars" src="https://img.shields.io/github/stars/jfs-jfs/CVE-2026-37073">
