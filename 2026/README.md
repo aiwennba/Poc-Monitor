@@ -564,6 +564,11 @@
 - [passwa11/CVE-2026-49952](https://github.com/passwa11/CVE-2026-49952)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-49952">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-49952">
 
 ---
+## CVE-2026-49757 ()
+> 
+- [Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching](https://github.com/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">
+
+---
 ## CVE-2026-49492 ()
 > 
 - [byte16384/CVE-2026-49492-PoC](https://github.com/byte16384/CVE-2026-49492-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/byte16384/CVE-2026-49492-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/byte16384/CVE-2026-49492-PoC">
@@ -614,6 +619,11 @@
 > 
 - [INTELEON404/CVE-2026-49009](https://github.com/INTELEON404/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/INTELEON404/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/INTELEON404/CVE-2026-49009">
 - [j0xh-sec/CVE-2026-49009](https://github.com/j0xh-sec/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/j0xh-sec/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/j0xh-sec/CVE-2026-49009">
+
+---
+## CVE-2026-48908 ()
+> 
+- [webshellseo8/CVE-2026-48908-POC](https://github.com/webshellseo8/CVE-2026-48908-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-48908-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-48908-POC">
 
 ---
 ## CVE-2026-48907 ()
@@ -5306,6 +5316,7 @@
 > 
 - [Nxploited/CVE-2026-1555](https://github.com/Nxploited/CVE-2026-1555)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1555">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1555">
 - [webshellseo8/CVE-2026-1555-POC](https://github.com/webshellseo8/CVE-2026-1555-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-1555-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-1555-POC">
+- [willygailo/WG-CVE-2026-1555-Linux](https://github.com/willygailo/WG-CVE-2026-1555-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/WG-CVE-2026-1555-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/WG-CVE-2026-1555-Linux">
 
 ---
 ## CVE-2026-1550 ()
@@ -5447,6 +5458,7 @@
 ## CVE-2026-11561 ()
 > 
 - [alperenkesk/CVE-2026-11561](https://github.com/alperenkesk/CVE-2026-11561)	<img alt="forks" src="https://img.shields.io/github/forks/alperenkesk/CVE-2026-11561">	<img alt="stars" src="https://img.shields.io/github/stars/alperenkesk/CVE-2026-11561">
+- [alperenkesk/CVE-2026-11561](https://github.com/alperenkesk/CVE-2026-11561)	<img alt="forks" src="https://img.shields.io/github/forks/alperenkesk/CVE-2026-11561">	<img alt="stars" src="https://img.shields.io/github/stars/alperenkesk/CVE-2026-11561">
 
 ---
 ## CVE-2026-11551 ()
@@ -5454,6 +5466,11 @@
 - [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
 - [xxconi/2026-11551](https://github.com/xxconi/2026-11551)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/2026-11551">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/2026-11551">
 - [ubaydev/CVE-2026-11551-PoC](https://github.com/ubaydev/CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2026-11551-PoC">
+
+---
+## CVE-2026-11450 ()
+> 
+- [Hunt-Benito/glinet-beryl-ax-triple-rce-cve-2026-11450-11451-11452-unauthenticated-root-on-travel-router](https://github.com/Hunt-Benito/glinet-beryl-ax-triple-rce-cve-2026-11450-11451-11452-unauthenticated-root-on-travel-router)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/glinet-beryl-ax-triple-rce-cve-2026-11450-11451-11452-unauthenticated-root-on-travel-router">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/glinet-beryl-ax-triple-rce-cve-2026-11450-11451-11452-unauthenticated-root-on-travel-router">
 
 ---
 ## CVE-2026-11417 ()
