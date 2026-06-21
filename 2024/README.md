@@ -10687,6 +10687,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [vettrivel007/CVE-2024-1086](https://github.com/vettrivel007/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-1086">
 - [ClaraSto/CVE-2024-1086_Ausarbeitung](https://github.com/ClaraSto/CVE-2024-1086_Ausarbeitung)	<img alt="forks" src="https://img.shields.io/github/forks/ClaraSto/CVE-2024-1086_Ausarbeitung">	<img alt="stars" src="https://img.shields.io/github/stars/ClaraSto/CVE-2024-1086_Ausarbeitung">
 - [b1nhack/CVE-2024-1086](https://github.com/b1nhack/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/b1nhack/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/b1nhack/CVE-2024-1086">
+- [Luisbuilds-data/cve-2024-1086-writeup](https://github.com/Luisbuilds-data/cve-2024-1086-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Luisbuilds-data/cve-2024-1086-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Luisbuilds-data/cve-2024-1086-writeup">
 
 ---
 ## CVE-2024-10858 ()
