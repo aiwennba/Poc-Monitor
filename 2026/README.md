@@ -1008,6 +1008,11 @@
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
 
 ---
+## CVE-2026-43655 ()
+> 
+- [Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF](https://github.com/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">
+
+---
 ## CVE-2026-43515 ()
 > 
 - [covepseng/cve-2026-43515-poc](https://github.com/covepseng/cve-2026-43515-poc)	<img alt="forks" src="https://img.shields.io/github/forks/covepseng/cve-2026-43515-poc">	<img alt="stars" src="https://img.shields.io/github/stars/covepseng/cve-2026-43515-poc">
