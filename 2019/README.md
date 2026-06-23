@@ -1806,6 +1806,7 @@ use after free.
 - [wired0ut/CVE-2019-2215](https://github.com/wired0ut/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/wired0ut/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/wired0ut/CVE-2019-2215">
 - [i-redbyte/android-badbinder-demo](https://github.com/i-redbyte/android-badbinder-demo)	<img alt="forks" src="https://img.shields.io/github/forks/i-redbyte/android-badbinder-demo">	<img alt="stars" src="https://img.shields.io/github/stars/i-redbyte/android-badbinder-demo">
 - [codecat007/CVE-2019-2215](https://github.com/codecat007/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/codecat007/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/codecat007/CVE-2019-2215">
+- [mythicaltree/CVE-2019-2215](https://github.com/mythicaltree/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/mythicaltree/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/mythicaltree/CVE-2019-2215">
 
 ---
 ## CVE-2019-2115 ()
@@ -3724,6 +3725,7 @@ use after free.
 - [x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit](https://github.com/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit">
 - [Jorge2Rubio/CVE-2019-0232](https://github.com/Jorge2Rubio/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/Jorge2Rubio/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/Jorge2Rubio/CVE-2019-0232">
 - [r4vl1t0/CVE-2019-0232](https://github.com/r4vl1t0/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/r4vl1t0/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/r4vl1t0/CVE-2019-0232">
+- [blackjuker2/CVE-2019-0232](https://github.com/blackjuker2/CVE-2019-0232)	<img alt="forks" src="https://img.shields.io/github/forks/blackjuker2/CVE-2019-0232">	<img alt="stars" src="https://img.shields.io/github/stars/blackjuker2/CVE-2019-0232">
 
 ---
 ## CVE-2019-0230 (2020-09-14T17:15:00)
