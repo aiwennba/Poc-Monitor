@@ -1265,6 +1265,11 @@
 - [HORKimhab/CVE-2026-42271](https://github.com/HORKimhab/CVE-2026-42271)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42271">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42271">
 
 ---
+## CVE-2026-42221 ()
+> 
+- [fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-](https://github.com/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-)	<img alt="forks" src="https://img.shields.io/github/forks/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-">	<img alt="stars" src="https://img.shields.io/github/stars/fuchiuebusi-lab/nginx-ui-CVE-2026-42221-CVE-2026-42238-">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
