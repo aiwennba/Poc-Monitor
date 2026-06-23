@@ -9700,6 +9700,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">
 - [KaiHaoChen04/monikerlinktest](https://github.com/KaiHaoChen04/monikerlinktest)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHaoChen04/monikerlinktest">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHaoChen04/monikerlinktest">
 - [bhatbhupendra/Moniker-Link--CVE-2024-21413-](https://github.com/bhatbhupendra/Moniker-Link--CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/bhatbhupendra/Moniker-Link--CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/bhatbhupendra/Moniker-Link--CVE-2024-21413-">
+- [H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research](https://github.com/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research)	<img alt="forks" src="https://img.shields.io/github/forks/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">	<img alt="stars" src="https://img.shields.io/github/stars/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
