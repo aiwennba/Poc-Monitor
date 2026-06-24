@@ -1785,6 +1785,7 @@
 - [BaoSec/CVE2025-64446-58034](https://github.com/BaoSec/CVE2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/BaoSec/CVE2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/BaoSec/CVE2025-64446-58034">
 - [eagle-nett/FORTIWEB_CVE-2025-64446-58034](https://github.com/eagle-nett/FORTIWEB_CVE-2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/eagle-nett/FORTIWEB_CVE-2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/eagle-nett/FORTIWEB_CVE-2025-64446-58034">
 - [0xAshwesker/CVE-2025-64446](https://github.com/0xAshwesker/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-64446">
+- [litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034](https://github.com/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034">
 
 ---
 ## CVE-2025-64424 ()
@@ -4264,6 +4265,7 @@
 - [olezhaku/react2shell-toolkit](https://github.com/olezhaku/react2shell-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/olezhaku/react2shell-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/olezhaku/react2shell-toolkit">
 - [Fomovet/cve-2025-55182](https://github.com/Fomovet/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-55182">
 - [avoidme12/CVE-2025-55182-POC](https://github.com/avoidme12/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/avoidme12/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/avoidme12/CVE-2025-55182-POC">
+- [litndat/React2Shell-PoC-CVE-2025-55182](https://github.com/litndat/React2Shell-PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/React2Shell-PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/React2Shell-PoC-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
