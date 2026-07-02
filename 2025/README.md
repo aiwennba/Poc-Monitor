@@ -3106,6 +3106,7 @@
 - [mr-r3b00t/CVE-2025-5777](https://github.com/mr-r3b00t/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-5777">
 - [rashedhasan090/CVE-2025-5777](https://github.com/rashedhasan090/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/CVE-2025-5777">
 - [zaryouhashraf/CVE-2025-5777](https://github.com/zaryouhashraf/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-5777">
+- [sentinel-aidefense/CVE-2025-5777](https://github.com/sentinel-aidefense/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
