@@ -4372,6 +4372,7 @@
 ## CVE-2026-26114 ()
 > 
 - [huynambka/cve-2026-26114](https://github.com/huynambka/cve-2026-26114)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114">
+- [huynambka/cve-2026-26114-poc](https://github.com/huynambka/cve-2026-26114-poc)	<img alt="forks" src="https://img.shields.io/github/forks/huynambka/cve-2026-26114-poc">	<img alt="stars" src="https://img.shields.io/github/stars/huynambka/cve-2026-26114-poc">
 
 ---
 ## CVE-2026-26030 ()
