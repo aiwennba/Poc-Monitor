@@ -9708,6 +9708,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [KaiHaoChen04/monikerlinktest](https://github.com/KaiHaoChen04/monikerlinktest)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHaoChen04/monikerlinktest">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHaoChen04/monikerlinktest">
 - [bhatbhupendra/Moniker-Link--CVE-2024-21413-](https://github.com/bhatbhupendra/Moniker-Link--CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/bhatbhupendra/Moniker-Link--CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/bhatbhupendra/Moniker-Link--CVE-2024-21413-">
 - [H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research](https://github.com/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research)	<img alt="forks" src="https://img.shields.io/github/forks/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">	<img alt="stars" src="https://img.shields.io/github/stars/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">
+- [YoguiCR/CVE-2024-21413-Outlook-Assessment](https://github.com/YoguiCR/CVE-2024-21413-Outlook-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/YoguiCR/CVE-2024-21413-Outlook-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/YoguiCR/CVE-2024-21413-Outlook-Assessment">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
