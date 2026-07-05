@@ -879,6 +879,11 @@
 - [j0xh-sec/CVE-2026-49009](https://github.com/j0xh-sec/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/j0xh-sec/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/j0xh-sec/CVE-2026-49009">
 
 ---
+## CVE-2026-48939 ()
+> 
+- [shinthink/CVE-2026-48939](https://github.com/shinthink/CVE-2026-48939)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-48939">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-48939">
+
+---
 ## CVE-2026-48909 ()
 > 
 - [Is4yev/CVE-2026-48909](https://github.com/Is4yev/CVE-2026-48909)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-48909">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-48909">
