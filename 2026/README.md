@@ -26,6 +26,11 @@
 - [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
 
 ---
+## CVE-2026-9290 ()
+> 
+- [shinthink/CVE-2026-9290](https://github.com/shinthink/CVE-2026-9290)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-9290">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-9290">
+
+---
 ## CVE-2026-9277 ()
 > 
 - [DylanZahedi/CVE-2026-9277](https://github.com/DylanZahedi/CVE-2026-9277)	<img alt="forks" src="https://img.shields.io/github/forks/DylanZahedi/CVE-2026-9277">	<img alt="stars" src="https://img.shields.io/github/stars/DylanZahedi/CVE-2026-9277">
@@ -103,6 +108,11 @@
 - [HORKimhab/CVE-2026-8732](https://github.com/HORKimhab/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8732">
 - [CryptReaper12/CVE-2026-8732](https://github.com/CryptReaper12/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8732">
 - [Diznev/CVE-2026-8732-EXPLOIT](https://github.com/Diznev/CVE-2026-8732-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-8732-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-8732-EXPLOIT">
+
+---
+## CVE-2026-8713 ()
+> 
+- [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
 
 ---
 ## CVE-2026-8461 ()
