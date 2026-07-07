@@ -1769,13 +1769,14 @@
 - [nunpa/CVE-2025-64459](https://github.com/nunpa/CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/nunpa/CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/nunpa/CVE-2025-64459">
 - [Ashwesker/Ashwesker-CVE-2025-64459](https://github.com/Ashwesker/Ashwesker-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-64459">
 - [omarkurt/django-connector-CVE-2025-64459-testbed](https://github.com/omarkurt/django-connector-CVE-2025-64459-testbed)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/django-connector-CVE-2025-64459-testbed">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/django-connector-CVE-2025-64459-testbed">
-- [stanly363/CVE-2025-64459-Poc](https://github.com/stanly363/CVE-2025-64459-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/stanly363/CVE-2025-64459-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/stanly363/CVE-2025-64459-Poc">
+- [0xCyberstan/CVE-2025-64459-Poc](https://github.com/0xCyberstan/CVE-2025-64459-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2025-64459-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2025-64459-Poc">
 - [Z3YR0xX/CVE-2025-64459](https://github.com/Z3YR0xX/CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/Z3YR0xX/CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/Z3YR0xX/CVE-2025-64459">
 - [ALPYAHYA/CVE-2025-64459-Exploit-PoC](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ALPYAHYA/CVE-2025-64459-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ALPYAHYA/CVE-2025-64459-Exploit-PoC">
 - [ALPYAHYA/CVE-2025-64459-Exploit-Fix](https://github.com/ALPYAHYA/CVE-2025-64459-Exploit-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/ALPYAHYA/CVE-2025-64459-Exploit-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/ALPYAHYA/CVE-2025-64459-Exploit-Fix">
 - [alxsourin/Helpdesk-Telecom-CVE-2025-64459](https://github.com/alxsourin/Helpdesk-Telecom-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/alxsourin/Helpdesk-Telecom-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/alxsourin/Helpdesk-Telecom-CVE-2025-64459">
 - [purehate/CVE-2025-64459-hunter](https://github.com/purehate/CVE-2025-64459-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/purehate/CVE-2025-64459-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/purehate/CVE-2025-64459-hunter">
 - [joshualent/django-cve-2025-64459](https://github.com/joshualent/django-cve-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/joshualent/django-cve-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/joshualent/django-cve-2025-64459">
+- [rafaelchriss/RedTeamBrasil-CVE-2025-64459](https://github.com/rafaelchriss/RedTeamBrasil-CVE-2025-64459)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelchriss/RedTeamBrasil-CVE-2025-64459">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelchriss/RedTeamBrasil-CVE-2025-64459">
 
 ---
 ## CVE-2025-64458 ()
@@ -8178,6 +8179,7 @@
 - [gitgudKrish/cve-2025-29927-nextjs](https://github.com/gitgudKrish/cve-2025-29927-nextjs)	<img alt="forks" src="https://img.shields.io/github/forks/gitgudKrish/cve-2025-29927-nextjs">	<img alt="stars" src="https://img.shields.io/github/stars/gitgudKrish/cve-2025-29927-nextjs">
 - [Fomovet/cve-2025-29927](https://github.com/Fomovet/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-29927">
 - [SwapnilDeshpande/cve-2025-29927-lab](https://github.com/SwapnilDeshpande/cve-2025-29927-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SwapnilDeshpande/cve-2025-29927-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SwapnilDeshpande/cve-2025-29927-lab">
+- [surajpandeyp/CVE-2025-29927](https://github.com/surajpandeyp/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
