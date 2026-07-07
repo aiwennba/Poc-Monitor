@@ -31,6 +31,7 @@
 - [limkokholefork/CVE-2011-3192](https://github.com/limkokholefork/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/limkokholefork/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/limkokholefork/CVE-2011-3192">
 - [tkisason/KillApachePy](https://github.com/tkisason/KillApachePy)	<img alt="forks" src="https://img.shields.io/github/forks/tkisason/KillApachePy">	<img alt="stars" src="https://img.shields.io/github/stars/tkisason/KillApachePy">
 - [futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/futurezayka/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/futurezayka/CVE-2011-3192">
+- [bluedragonsecurity/CVE-2011-3192-apache-exploit](https://github.com/bluedragonsecurity/CVE-2011-3192-apache-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2011-3192-apache-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2011-3192-apache-exploit">
 
 ---
 ## CVE-2011-2732 ()
@@ -115,6 +116,12 @@
 ## CVE-2011-2522 (2011-07-29T20:55:00)
 > Multiple cross-site request forgery (CSRF) vulnerabilities in the Samba Web Administration Tool (SWAT) in Samba 3.x before 3.5.10 allow remote attackers to hijack the authentication of administrators for requests that (1) shut down daemons, (2) start daemons, (3) add shares, (4) remove shares, (5) add printers, (6) remove printers, (7) add user accounts, or (8) remove user accounts, as demonstrated by certain start, stop, and restart parameters to the status program.
 - [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
+
+---
+## CVE-2011-1485 ()
+> 
+- [bluedragonsecurity/CVE-2011-1485-pkexec-exploit](https://github.com/bluedragonsecurity/CVE-2011-1485-pkexec-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2011-1485-pkexec-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2011-1485-pkexec-exploit">
+- [Pashkela/CVE-2011-1485](https://github.com/Pashkela/CVE-2011-1485)	<img alt="forks" src="https://img.shields.io/github/forks/Pashkela/CVE-2011-1485">	<img alt="stars" src="https://img.shields.io/github/stars/Pashkela/CVE-2011-1485">
 
 ---
 ## CVE-2011-1473 ()

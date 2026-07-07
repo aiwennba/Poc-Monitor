@@ -919,6 +919,7 @@
 - [0xBlackash/CVE-2026-48908](https://github.com/0xBlackash/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-48908">
 - [bayu06802/CVE-2026-48908](https://github.com/bayu06802/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/bayu06802/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/bayu06802/CVE-2026-48908">
 - [ayiezola/CVE-2026-48908](https://github.com/ayiezola/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/ayiezola/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/ayiezola/CVE-2026-48908">
+- [Jenderal92/CVE-2026-48908](https://github.com/Jenderal92/CVE-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-48908">
 
 ---
 ## CVE-2026-48907 ()
@@ -1530,6 +1531,11 @@
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 - [t1ckprivate/CVE-2026-43284-Dirty-Frag](https://github.com/t1ckprivate/CVE-2026-43284-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2026-43284-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2026-43284-Dirty-Frag">
 - [g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection](https://github.com/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection">
+
+---
+## CVE-2026-42980 ()
+> 
+- [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2026-42980-POC">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2026-42980-POC">
 
 ---
 ## CVE-2026-42978 ()
