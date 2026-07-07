@@ -2608,6 +2608,7 @@
 - [JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server](https://github.com/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server)	<img alt="forks" src="https://img.shields.io/github/forks/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server">	<img alt="stars" src="https://img.shields.io/github/stars/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server">
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 - [a24ac1/CVE-2021-41773-PoC](https://github.com/a24ac1/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2021-41773-PoC">
+- [Park123r/CVE-2021-41773](https://github.com/Park123r/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Park123r/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Park123r/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
