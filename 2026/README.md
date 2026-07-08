@@ -2065,6 +2065,11 @@
 - [0xBlackash/CVE-2026-40487](https://github.com/0xBlackash/CVE-2026-40487)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40487">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40487">
 
 ---
+## CVE-2026-40453 ()
+> 
+- [oscerd/CVE-2026-40453](https://github.com/oscerd/CVE-2026-40453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40453">
+
+---
 ## CVE-2026-40369 ()
 > 
 - [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/orinimron123/CVE-2026-40369-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/orinimron123/CVE-2026-40369-EXPLOIT">
@@ -3740,6 +3745,7 @@
 - [kinryulabs/rootpacket-cve-2026-31431](https://github.com/kinryulabs/rootpacket-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kinryulabs/rootpacket-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kinryulabs/rootpacket-cve-2026-31431">
 - [SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431">
 - [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
+- [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
 
 ---
 ## CVE-2026-3143 ()
