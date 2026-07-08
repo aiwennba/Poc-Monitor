@@ -2666,6 +2666,11 @@
 - [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
 
 ---
+## CVE-2026-35204 ()
+> 
+- [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
+
+---
 ## CVE-2026-3516 ()
 > 
 - [d3kc4rt1/CVE-2026-3516](https://github.com/d3kc4rt1/CVE-2026-3516)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-3516">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-3516">
@@ -2847,6 +2852,7 @@
 - [LAT-06/CVE-2026-34197](https://github.com/LAT-06/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/LAT-06/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/LAT-06/CVE-2026-34197">
 - [hnytgl/cve-2026-34197](https://github.com/hnytgl/cve-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-34197">
 - [asdasddqwdq29-a11y/CVE-2026-34197](https://github.com/asdasddqwdq29-a11y/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/asdasddqwdq29-a11y/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/asdasddqwdq29-a11y/CVE-2026-34197">
+- [pssec-io/CVE-2026-34197](https://github.com/pssec-io/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-34197">
 
 ---
 ## CVE-2026-34160 ()
@@ -4784,6 +4790,11 @@
 - [MichaelAdamGroberman/CVE-2026-25197](https://github.com/MichaelAdamGroberman/CVE-2026-25197)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-25197">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-25197">
 - [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 - [MichaelAdamGroberman/CVE-2026-25197](https://github.com/MichaelAdamGroberman/CVE-2026-25197)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-25197">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-25197">
+
+---
+## CVE-2026-25194 ()
+> 
+- [DexSemon/CVE-2026-25194](https://github.com/DexSemon/CVE-2026-25194)	<img alt="forks" src="https://img.shields.io/github/forks/DexSemon/CVE-2026-25194">	<img alt="stars" src="https://img.shields.io/github/stars/DexSemon/CVE-2026-25194">
 
 ---
 ## CVE-2026-25177 ()
