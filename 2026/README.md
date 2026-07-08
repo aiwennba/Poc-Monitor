@@ -2669,6 +2669,7 @@
 ## CVE-2026-35204 ()
 > 
 - [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
+- [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
 
 ---
 ## CVE-2026-3516 ()
@@ -4334,6 +4335,11 @@
 > 
 - [RootAid/CVE-2026-27507](https://github.com/RootAid/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-27507">
 - [NetVanguard-cmd/CVE-2026-27507](https://github.com/NetVanguard-cmd/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-27507">
+
+---
+## CVE-2026-27495 ()
+> 
+- [DexSemon/CVE-2026-27495](https://github.com/DexSemon/CVE-2026-27495)	<img alt="forks" src="https://img.shields.io/github/forks/DexSemon/CVE-2026-27495">	<img alt="stars" src="https://img.shields.io/github/stars/DexSemon/CVE-2026-27495">
 
 ---
 ## CVE-2026-27483 ()
