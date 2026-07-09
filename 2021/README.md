@@ -2610,6 +2610,7 @@
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 - [a24ac1/CVE-2021-41773-PoC](https://github.com/a24ac1/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2021-41773-PoC">
 - [Park123r/CVE-2021-41773](https://github.com/Park123r/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Park123r/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Park123r/CVE-2021-41773">
+- [johnwickakash12/CVE-2021-41773](https://github.com/johnwickakash12/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/johnwickakash12/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/johnwickakash12/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -3441,6 +3442,9 @@
 - [vaibhavkrishna12004/ubuntu-privesc-lab](https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/vaibhavkrishna12004/ubuntu-privesc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/vaibhavkrishna12004/ubuntu-privesc-lab">
 - [ropydev/CVE-2021-4034-PwnKit](https://github.com/ropydev/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ropydev/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ropydev/CVE-2021-4034-PwnKit">
 - [devianntsec/CVE-2021-4034](https://github.com/devianntsec/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2021-4034">
+- [krleejihyeong/WHS4_CVE-2021-4034](https://github.com/krleejihyeong/WHS4_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/krleejihyeong/WHS4_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/krleejihyeong/WHS4_CVE-2021-4034">
+- [jmg0929/CVE-2021-40346](https://github.com/jmg0929/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/jmg0929/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/jmg0929/CVE-2021-40346">
+- [rusakalimantan/PwnKit-CVE-2021-4034](https://github.com/rusakalimantan/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rusakalimantan/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rusakalimantan/PwnKit-CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
