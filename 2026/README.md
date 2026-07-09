@@ -2029,6 +2029,7 @@
 - [RoyalViceroyBear/CVE-2026-41089-706](https://github.com/RoyalViceroyBear/CVE-2026-41089-706)	<img alt="forks" src="https://img.shields.io/github/forks/RoyalViceroyBear/CVE-2026-41089-706">	<img alt="stars" src="https://img.shields.io/github/stars/RoyalViceroyBear/CVE-2026-41089-706">
 - [jenniferreire26/CVE-2026-41089](https://github.com/jenniferreire26/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-41089">
 - [Coasttruvitalize/CVE-2026-41089-latest](https://github.com/Coasttruvitalize/CVE-2026-41089-latest)	<img alt="forks" src="https://img.shields.io/github/forks/Coasttruvitalize/CVE-2026-41089-latest">	<img alt="stars" src="https://img.shields.io/github/stars/Coasttruvitalize/CVE-2026-41089-latest">
+- [phil-dirt/CVE-2026-41089-LongLogon](https://github.com/phil-dirt/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/phil-dirt/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/phil-dirt/CVE-2026-41089-LongLogon">
 
 ---
 ## CVE-2026-41044 ()
