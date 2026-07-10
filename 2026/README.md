@@ -598,6 +598,11 @@
 - [abdugafforov-bobur/CVE-2026-54415-PoC](https://github.com/abdugafforov-bobur/CVE-2026-54415-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-54415-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-54415-PoC">
 
 ---
+## CVE-2026-54390 ()
+> 
+- [shinthink/CVE-2026-54390](https://github.com/shinthink/CVE-2026-54390)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-54390">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-54390">
+
+---
 ## CVE-2026-54337 ()
 > 
 - [4qu4r1um/CVE-2026-54337-PoC](https://github.com/4qu4r1um/CVE-2026-54337-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/4qu4r1um/CVE-2026-54337-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/4qu4r1um/CVE-2026-54337-PoC">
