@@ -410,6 +410,11 @@
 - [Pumila03/CVE-2026-6009](https://github.com/Pumila03/CVE-2026-6009)	<img alt="forks" src="https://img.shields.io/github/forks/Pumila03/CVE-2026-6009">	<img alt="stars" src="https://img.shields.io/github/stars/Pumila03/CVE-2026-6009">
 
 ---
+## CVE-2026-59734 ()
+> 
+- [cybertechajju/CVE-2026-59734-POC](https://github.com/cybertechajju/CVE-2026-59734-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-59734-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-59734-POC">
+
+---
 ## CVE-2026-5950 ()
 > 
 - [billybaraja/cve-2026-5950-bind9-resolver-dos](https://github.com/billybaraja/cve-2026-5950-bind9-resolver-dos)	<img alt="forks" src="https://img.shields.io/github/forks/billybaraja/cve-2026-5950-bind9-resolver-dos">	<img alt="stars" src="https://img.shields.io/github/stars/billybaraja/cve-2026-5950-bind9-resolver-dos">
@@ -1216,6 +1221,7 @@
 - [vulnquest58/dirtyclone-exploit](https://github.com/vulnquest58/dirtyclone-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/dirtyclone-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/dirtyclone-exploit">
 - [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
 - [V0IDNETWORK/CVE-2026-46331](https://github.com/V0IDNETWORK/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/V0IDNETWORK/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/V0IDNETWORK/CVE-2026-46331">
+- [yanxinwu946/CVE-2026-46331](https://github.com/yanxinwu946/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-46331">
 
 ---
 ## CVE-2026-4631 ()
