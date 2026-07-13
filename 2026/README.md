@@ -659,6 +659,11 @@
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
 
 ---
+## CVE-2026-53805 ()
+> 
+- [HORKimhab/CVE-2026-53805](https://github.com/HORKimhab/CVE-2026-53805)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53805">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53805">
+
+---
 ## CVE-2026-53753 ()
 > 
 - [BiiTts/CVE-2026-53753-Crawl4AI-RCE](https://github.com/BiiTts/CVE-2026-53753-Crawl4AI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-53753-Crawl4AI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-53753-Crawl4AI-RCE">
@@ -798,6 +803,7 @@
 - [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">
 - [Jenderal92/CVE-2026-5118](https://github.com/Jenderal92/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-5118">
 - [Yucaerin/CVE-2026-5118](https://github.com/Yucaerin/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-5118">
+- [1beelze/CVE-2026-5118](https://github.com/1beelze/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-5118">
 
 ---
 ## CVE-2026-51119 ()
@@ -1105,6 +1111,11 @@
 - [retmakarunia/CVE-2026-48172](https://github.com/retmakarunia/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/retmakarunia/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/retmakarunia/CVE-2026-48172">
 
 ---
+## CVE-2026-48095 ()
+> 
+- [HORKimhab/CVE-2026-48095](https://github.com/HORKimhab/CVE-2026-48095)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48095">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48095">
+
+---
 ## CVE-2026-48020 ()
 > 
 - [Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization](https://github.com/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/traefik-stripprefix-auth-bypass-cve-2026-48020-path-normalization">
@@ -1300,6 +1311,7 @@
 - [HORKimhab/CVE-2026-45659](https://github.com/HORKimhab/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45659">
 - [jenniferreire26/CVE-2026-45659](https://github.com/jenniferreire26/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-45659">
 - [amnsecurity/CVE-2026-45659-SharePoint-RCE](https://github.com/amnsecurity/CVE-2026-45659-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-45659-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-45659-SharePoint-RCE">
+- [mistbarbarianspot/CVE-2026-45659-SharePoint-RCE](https://github.com/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE">
 
 ---
 ## CVE-2026-45585 ()
@@ -1598,6 +1610,8 @@
 - [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/x-spy/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/x-spy/CVE-2026-43499-popsicle">
 - [Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/Mi8E5-Unlocker-by-CVE-2026-43499">
 - [dmcdtc/openvz-cve-patch-2026](https://github.com/dmcdtc/openvz-cve-patch-2026)	<img alt="forks" src="https://img.shields.io/github/forks/dmcdtc/openvz-cve-patch-2026">	<img alt="stars" src="https://img.shields.io/github/stars/dmcdtc/openvz-cve-patch-2026">
+- [joehquak/Mi8E5-Unlocker-by-CVE-2026-43499](https://github.com/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/joehquak/Mi8E5-Unlocker-by-CVE-2026-43499">
+- [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
 
 ---
 ## CVE-2026-43494 ()
