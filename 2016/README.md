@@ -217,6 +217,11 @@
 ## CVE-2016-8655 ()
 > 
 - [WhatsWrongAndWhy/CVE-2016-8655](https://github.com/WhatsWrongAndWhy/CVE-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2016-8655">
+- [martinmullins/CVE-2016-8655_Android](https://github.com/martinmullins/CVE-2016-8655_Android)	<img alt="forks" src="https://img.shields.io/github/forks/martinmullins/CVE-2016-8655_Android">	<img alt="stars" src="https://img.shields.io/github/stars/martinmullins/CVE-2016-8655_Android">
+- [KosukeShimofuji/CVE-2016-8655](https://github.com/KosukeShimofuji/CVE-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-8655">
+- [agkunkle/chocobo](https://github.com/agkunkle/chocobo)	<img alt="forks" src="https://img.shields.io/github/forks/agkunkle/chocobo">	<img alt="stars" src="https://img.shields.io/github/stars/agkunkle/chocobo">
+- [LakshmiDesai/CVE-2016-8655](https://github.com/LakshmiDesai/CVE-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/LakshmiDesai/CVE-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/LakshmiDesai/CVE-2016-8655">
+- [scarvell/cve-2016-8655](https://github.com/scarvell/cve-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/scarvell/cve-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/scarvell/cve-2016-8655">
 
 ---
 ## CVE-2016-8390 (2018-06-04T19:29:00)
