@@ -812,6 +812,11 @@
 - [teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR](https://github.com/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">
 
 ---
+## CVE-2026-52199 ()
+> 
+- [lamaper/CVE-2026-52199](https://github.com/lamaper/CVE-2026-52199)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2026-52199">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2026-52199">
+
+---
 ## CVE-2026-5203 ()
 > 
 - [CaginKyr/CVE-2026-5203](https://github.com/CaginKyr/CVE-2026-5203)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-5203">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-5203">
@@ -6478,6 +6483,7 @@
 ## CVE-2026-15409 ()
 > 
 - [HORKimhab/CVE-2026-15409](https://github.com/HORKimhab/CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15409">
+- [remmons-r7/rapid7-CVE-2026-15409](https://github.com/remmons-r7/rapid7-CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/remmons-r7/rapid7-CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/remmons-r7/rapid7-CVE-2026-15409">
 
 ---
 ## CVE-2026-1529 ()
