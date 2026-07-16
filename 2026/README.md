@@ -621,6 +621,11 @@
 - [sentinel-aidefense/CVE-2026-54998-exp](https://github.com/sentinel-aidefense/CVE-2026-54998-exp)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-54998-exp">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-54998-exp">
 
 ---
+## CVE-2026-54992 ()
+> 
+- [DavidCarliez/CVE-2026-54992-PoC](https://github.com/DavidCarliez/CVE-2026-54992-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-54992-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-54992-PoC">
+
+---
 ## CVE-2026-54807 ()
 > 
 - [izxci/CVE-2026-54807](https://github.com/izxci/CVE-2026-54807)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-54807">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-54807">
@@ -933,6 +938,11 @@
 ## CVE-2026-50369 ()
 > 
 - [syxlox/CVE-2026-50369](https://github.com/syxlox/CVE-2026-50369)	<img alt="forks" src="https://img.shields.io/github/forks/syxlox/CVE-2026-50369">	<img alt="stars" src="https://img.shields.io/github/stars/syxlox/CVE-2026-50369">
+
+---
+## CVE-2026-50343 ()
+> 
+- [Rat5ak/CVE-2026-50343-InstallService-EoP](https://github.com/Rat5ak/CVE-2026-50343-InstallService-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-50343-InstallService-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-50343-InstallService-EoP">
 
 ---
 ## CVE-2026-50338 ()
@@ -1274,6 +1284,11 @@
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
+
+---
+## CVE-2026-46592 ()
+> 
+- [oscerd/CVE-2026-46592](https://github.com/oscerd/CVE-2026-46592)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46592">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46592">
 
 ---
 ## CVE-2026-46591 ()
@@ -1787,6 +1802,8 @@
 - [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Colorful-glassblock/duchamp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Colorful-glassblock/duchamp-root">
 - [qianmo-xw/CVE-2026-43499-popsicle](https://github.com/qianmo-xw/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/qianmo-xw/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/qianmo-xw/CVE-2026-43499-popsicle">
 - [BuSung-dev/CVE-2026-43499-S25U](https://github.com/BuSung-dev/CVE-2026-43499-S25U)	<img alt="forks" src="https://img.shields.io/github/forks/BuSung-dev/CVE-2026-43499-S25U">	<img alt="stars" src="https://img.shields.io/github/stars/BuSung-dev/CVE-2026-43499-S25U">
+- [DistrictBlauw/CyberMeowfia-ace3](https://github.com/DistrictBlauw/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/DistrictBlauw/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/DistrictBlauw/CyberMeowfia-ace3">
+- [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko)	<img alt="forks" src="https://img.shields.io/github/forks/SlightNeko/ghostlock-rothko">	<img alt="stars" src="https://img.shields.io/github/stars/SlightNeko/ghostlock-rothko">
 
 ---
 ## CVE-2026-43494 ()
@@ -1794,6 +1811,7 @@
 - [0xBlackash/CVE-2026-43494](https://github.com/0xBlackash/CVE-2026-43494)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43494">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43494">
 - [Koshmare-Blossom/PinTheft-go](https://github.com/Koshmare-Blossom/PinTheft-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/PinTheft-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/PinTheft-go">
 - [letsr00t/CVE-2026-43494-PinTheft-PoC](https://github.com/letsr00t/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2026-43494-PinTheft-PoC">
+- [jayhutajulu1/CVE-2026-43494-PinTheft-PoC](https://github.com/jayhutajulu1/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">
 
 ---
 ## CVE-2026-4342 ()
