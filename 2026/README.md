@@ -492,6 +492,11 @@
 - [xxconi/CVE-2026-5718-PR-V-EXPLO-T](https://github.com/xxconi/CVE-2026-5718-PR-V-EXPLO-T)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5718-PR-V-EXPLO-T">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5718-PR-V-EXPLO-T">
 
 ---
+## CVE-2026-57155 ()
+> 
+- [babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/CVE-2026-57155">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/CVE-2026-57155">
+
+---
 ## CVE-2026-56876 ()
 > 
 - [ziad626/CVE-2026-56876-POC](https://github.com/ziad626/CVE-2026-56876-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ziad626/CVE-2026-56876-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ziad626/CVE-2026-56876-POC">
@@ -5976,6 +5981,11 @@
 - [jermaine22sei/CVE-2026-21957-exp](https://github.com/jermaine22sei/CVE-2026-21957-exp)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-21957-exp">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-21957-exp">
 
 ---
+## CVE-2026-21955 ()
+> 
+- [minq0x1412/CVE-2026-21955](https://github.com/minq0x1412/CVE-2026-21955)	<img alt="forks" src="https://img.shields.io/github/forks/minq0x1412/CVE-2026-21955">	<img alt="stars" src="https://img.shields.io/github/stars/minq0x1412/CVE-2026-21955">
+
+---
 ## CVE-2026-21877 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21877](https://github.com/Ashwesker/Ashwesker-CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21877">
@@ -6542,6 +6552,11 @@
 ## CVE-2026-14894 ()
 > 
 - [1beelze/CVE-2026-14894](https://github.com/1beelze/CVE-2026-14894)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-14894">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-14894">
+
+---
+## CVE-2026-14871 ()
+> 
+- [JFOZ1010/CVE-2026-14871](https://github.com/JFOZ1010/CVE-2026-14871)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/CVE-2026-14871">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/CVE-2026-14871">
 
 ---
 ## CVE-2026-14762 ()
