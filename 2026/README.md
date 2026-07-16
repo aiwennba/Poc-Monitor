@@ -93,6 +93,7 @@
 ## CVE-2026-8838 ()
 > 
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
+- [Sana-404/CVE-2026-8838-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8838-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8838-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8838-Mitigation-and-Detection">
 
 ---
 ## CVE-2026-8836 ()
@@ -141,6 +142,11 @@
 ## CVE-2026-8389 ()
 > 
 - [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)	<img alt="forks" src="https://img.shields.io/github/forks/crixpwn/CVE-2026-8389">	<img alt="stars" src="https://img.shields.io/github/stars/crixpwn/CVE-2026-8389">
+
+---
+## CVE-2026-8388 ()
+> 
+- [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
 
 ---
 ## CVE-2026-8206 ()
@@ -922,6 +928,11 @@
 ## CVE-2026-50507 ()
 > 
 - [HORKimhab/CVE-2026-50507](https://github.com/HORKimhab/CVE-2026-50507)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50507">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50507">
+
+---
+## CVE-2026-50369 ()
+> 
+- [syxlox/CVE-2026-50369](https://github.com/syxlox/CVE-2026-50369)	<img alt="forks" src="https://img.shields.io/github/forks/syxlox/CVE-2026-50369">	<img alt="stars" src="https://img.shields.io/github/stars/syxlox/CVE-2026-50369">
 
 ---
 ## CVE-2026-50338 ()
@@ -1775,6 +1786,7 @@
 - [ctnBobong32/auto_extract_offsets](https://github.com/ctnBobong32/auto_extract_offsets)	<img alt="forks" src="https://img.shields.io/github/forks/ctnBobong32/auto_extract_offsets">	<img alt="stars" src="https://img.shields.io/github/stars/ctnBobong32/auto_extract_offsets">
 - [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Colorful-glassblock/duchamp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Colorful-glassblock/duchamp-root">
 - [qianmo-xw/CVE-2026-43499-popsicle](https://github.com/qianmo-xw/CVE-2026-43499-popsicle)	<img alt="forks" src="https://img.shields.io/github/forks/qianmo-xw/CVE-2026-43499-popsicle">	<img alt="stars" src="https://img.shields.io/github/stars/qianmo-xw/CVE-2026-43499-popsicle">
+- [BuSung-dev/CVE-2026-43499-S25U](https://github.com/BuSung-dev/CVE-2026-43499-S25U)	<img alt="forks" src="https://img.shields.io/github/forks/BuSung-dev/CVE-2026-43499-S25U">	<img alt="stars" src="https://img.shields.io/github/stars/BuSung-dev/CVE-2026-43499-S25U">
 
 ---
 ## CVE-2026-43494 ()
