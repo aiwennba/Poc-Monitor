@@ -414,6 +414,7 @@
 - [h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/h4cd0c/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/h4cd0c/wp2shell">
 - [zi3lak/wp2shell_scanner](https://github.com/zi3lak/wp2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/zi3lak/wp2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/zi3lak/wp2shell_scanner">
 - [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Icex0/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Icex0/wp2shell-poc">
+- [ebrasha/abdal-cve-2026-63030](https://github.com/ebrasha/abdal-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-cve-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -447,6 +448,11 @@
 ## CVE-2026-6018 ()
 > 
 - [m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain](https://github.com/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/m0r4a/CVE-2026-6018-9-Local-Privilege-Escalation-Chain">
+
+---
+## CVE-2026-60137 ()
+> 
+- [ebrasha/abdal-cve-2026-60137](https://github.com/ebrasha/abdal-cve-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-cve-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-cve-2026-60137">
 
 ---
 ## CVE-2026-6009 ()
@@ -6114,6 +6120,11 @@
 ## CVE-2026-21986 ()
 > 
 - [MohaBars/CVE-2026-21986-VirtualBox-DoS](https://github.com/MohaBars/CVE-2026-21986-VirtualBox-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/MohaBars/CVE-2026-21986-VirtualBox-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/MohaBars/CVE-2026-21986-VirtualBox-DoS">
+
+---
+## CVE-2026-21978 ()
+> 
+- [Eangly/CVE-2026-21978](https://github.com/Eangly/CVE-2026-21978)	<img alt="forks" src="https://img.shields.io/github/forks/Eangly/CVE-2026-21978">	<img alt="stars" src="https://img.shields.io/github/stars/Eangly/CVE-2026-21978">
 
 ---
 ## CVE-2026-21962 ()
