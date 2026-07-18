@@ -394,6 +394,13 @@
 - [tcyph3r/wp2shell-cve-2026-63030-root-cause](https://github.com/tcyph3r/wp2shell-cve-2026-63030-root-cause)	<img alt="forks" src="https://img.shields.io/github/forks/tcyph3r/wp2shell-cve-2026-63030-root-cause">	<img alt="stars" src="https://img.shields.io/github/stars/tcyph3r/wp2shell-cve-2026-63030-root-cause">
 - [zeroc00I/CVE-2026-63030](https://github.com/zeroc00I/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2026-63030">
 - [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
+- [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/WP2Shell">
+- [Lutfifakee-Project/wp2shell](https://github.com/Lutfifakee-Project/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/wp2shell">
+- [ekomsSavior/wp2shell](https://github.com/ekomsSavior/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/wp2shell">
+- [dinosn/wp2shell-lab](https://github.com/dinosn/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/wp2shell-lab">
+- [47Cid/wp2shell-lab](https://github.com/47Cid/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/wp2shell-lab">
+- [ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/wp2shell-scanner">
+- [attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)	<img alt="forks" src="https://img.shields.io/github/forks/attackercan/wp2shell-poc2">	<img alt="stars" src="https://img.shields.io/github/stars/attackercan/wp2shell-poc2">
 
 ---
 ## CVE-2026-6279 ()
