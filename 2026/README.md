@@ -402,6 +402,7 @@
 - [ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/wp2shell-scanner">
 - [attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)	<img alt="forks" src="https://img.shields.io/github/forks/attackercan/wp2shell-poc2">	<img alt="stars" src="https://img.shields.io/github/stars/attackercan/wp2shell-poc2">
 - [CybersecSpirit/CVE-2026-63030](https://github.com/CybersecSpirit/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/CybersecSpirit/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/CybersecSpirit/CVE-2026-63030">
+- [kulichr/wp2shell](https://github.com/kulichr/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/kulichr/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/kulichr/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -6455,6 +6456,7 @@
 - [fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-](https://github.com/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">
 - [HORKimhab/CVE-2026-20253](https://github.com/HORKimhab/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20253">
 - [pssec-io/CVE-2026-20253](https://github.com/pssec-io/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-20253">
+- [Het-Kalariya/CVE-2026-20253](https://github.com/Het-Kalariya/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/Het-Kalariya/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/Het-Kalariya/CVE-2026-20253">
 
 ---
 ## CVE-2026-20251 ()
