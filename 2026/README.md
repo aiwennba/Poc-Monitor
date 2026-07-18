@@ -6951,6 +6951,11 @@
 - [webshellseo8/CVE-2026-10795-POC](https://github.com/webshellseo8/CVE-2026-10795-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-10795-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-10795-POC">
 
 ---
+## CVE-2026-10672 ()
+> 
+- [Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri](https://github.com/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">
+
+---
 ## CVE-2026-10580 ()
 > 
 - [0xgh057r3c0n/CVE-2026-10580](https://github.com/0xgh057r3c0n/CVE-2026-10580)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-10580">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-10580">
