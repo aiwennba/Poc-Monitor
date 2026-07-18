@@ -412,6 +412,8 @@
 - [mrx-arafat/CVE-2026-63030-POC](https://github.com/mrx-arafat/CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mrx-arafat/CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mrx-arafat/CVE-2026-63030-POC">
 - [0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/wp2shell">
 - [h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/h4cd0c/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/h4cd0c/wp2shell">
+- [zi3lak/wp2shell_scanner](https://github.com/zi3lak/wp2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/zi3lak/wp2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/zi3lak/wp2shell_scanner">
+- [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Icex0/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Icex0/wp2shell-poc">
 
 ---
 ## CVE-2026-6279 ()
