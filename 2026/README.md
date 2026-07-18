@@ -409,6 +409,9 @@
 - [0xBlackash/CVE-2026-63030](https://github.com/0xBlackash/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-63030">
 - [gbrsh/CVE-2026-63030](https://github.com/gbrsh/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2026-63030">
 - [J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t](https://github.com/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t">
+- [mrx-arafat/CVE-2026-63030-POC](https://github.com/mrx-arafat/CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mrx-arafat/CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mrx-arafat/CVE-2026-63030-POC">
+- [0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/wp2shell">
+- [h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/h4cd0c/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/h4cd0c/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
