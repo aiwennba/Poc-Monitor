@@ -424,6 +424,11 @@
 - [JohenLastGen-JLG/wp2shell](https://github.com/JohenLastGen-JLG/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/wp2shell">
 - [own2pwn-fr/wp2shell-detect](https://github.com/own2pwn-fr/wp2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn-fr/wp2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn-fr/wp2shell-detect">
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
+- [0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-63030">
+- [eyesecurity/wp2shell-compromise-scanner-plugin](https://github.com/eyesecurity/wp2shell-compromise-scanner-plugin)	<img alt="forks" src="https://img.shields.io/github/forks/eyesecurity/wp2shell-compromise-scanner-plugin">	<img alt="stars" src="https://img.shields.io/github/stars/eyesecurity/wp2shell-compromise-scanner-plugin">
+- [bahartanir/wp2shell-scanner](https://github.com/bahartanir/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bahartanir/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bahartanir/wp2shell-scanner">
+- [ikow/wp2shell](https://github.com/ikow/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/wp2shell">
+- [c0gnit00/Wp2Shell](https://github.com/c0gnit00/Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/Wp2Shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -2773,6 +2778,8 @@
 - [AnggaTechI/Mass-Scanner-CVE-2026-3891](https://github.com/AnggaTechI/Mass-Scanner-CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/Mass-Scanner-CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/Mass-Scanner-CVE-2026-3891">
 - [shinthink/CVE-2026-3891](https://github.com/shinthink/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-3891">
 - [m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">
+- [VeronnX666/CVE-2026-3891](https://github.com/VeronnX666/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/VeronnX666/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/VeronnX666/CVE-2026-3891">
+- [willygailo/CVE-2026-3891-Linux](https://github.com/willygailo/CVE-2026-3891-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-3891-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-3891-Linux">
 
 ---
 ## CVE-2026-3888 ()
