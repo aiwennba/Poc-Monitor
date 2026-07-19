@@ -755,6 +755,7 @@
 - [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 - [0Zetrium0/CVE-2025-69212_PoC](https://github.com/0Zetrium0/CVE-2025-69212_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Zetrium0/CVE-2025-69212_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Zetrium0/CVE-2025-69212_PoC">
+- [mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">
 
 ---
 ## CVE-2025-69194 ()
@@ -1752,6 +1753,7 @@
 ## CVE-2025-64512 ()
 > 
 - [luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/CVE-2025-64512-Polyglot-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/CVE-2025-64512-Polyglot-PoC">
+- [matesz44/CVE-2025-64512](https://github.com/matesz44/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-64512">
 
 ---
 ## CVE-2025-64500 ()
