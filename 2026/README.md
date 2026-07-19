@@ -1955,6 +1955,7 @@
 - [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/smt878u-ionstack-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/smt878u-ionstack-poc">
 - [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
 - [Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall](https://github.com/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall)	<img alt="forks" src="https://img.shields.io/github/forks/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">	<img alt="stars" src="https://img.shields.io/github/stars/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">
+- [mumaosong/CVE-2026-43499-cloudflare-gate](https://github.com/mumaosong/CVE-2026-43499-cloudflare-gate)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-43499-cloudflare-gate">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-43499-cloudflare-gate">
 
 ---
 ## CVE-2026-43494 ()
