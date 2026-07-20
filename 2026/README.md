@@ -446,6 +446,7 @@
 - [SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/sxwp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/sxwp2shell">
 - [AkbarWiraN/holy-wp2shell](https://github.com/AkbarWiraN/holy-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/holy-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/holy-wp2shell">
 - [Crypto-Cat/wp2shell](https://github.com/Crypto-Cat/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Crypto-Cat/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Crypto-Cat/wp2shell">
+- [Ch4120N/CVE-2026-63030](https://github.com/Ch4120N/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -1691,6 +1692,7 @@
 - [SkySmokeMoat/yellowkey-bitlocker-644](https://github.com/SkySmokeMoat/yellowkey-bitlocker-644)	<img alt="forks" src="https://img.shields.io/github/forks/SkySmokeMoat/yellowkey-bitlocker-644">	<img alt="stars" src="https://img.shields.io/github/stars/SkySmokeMoat/yellowkey-bitlocker-644">
 - [WellElementalist/yellowkey-bitlocker-313](https://github.com/WellElementalist/yellowkey-bitlocker-313)	<img alt="forks" src="https://img.shields.io/github/forks/WellElementalist/yellowkey-bitlocker-313">	<img alt="stars" src="https://img.shields.io/github/stars/WellElementalist/yellowkey-bitlocker-313">
 - [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
+- [yellowkeys/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -1822,6 +1824,11 @@
 ## CVE-2026-44706 ()
 > 
 - [hakaioffsec/CVE-2026-44706](https://github.com/hakaioffsec/CVE-2026-44706)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-44706">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-44706">
+
+---
+## CVE-2026-44680 ()
+> 
+- [CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework](https://github.com/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-44680-MikroORM-SQL-Injection-Exploit-Framework">
 
 ---
 ## CVE-2026-44656 ()
