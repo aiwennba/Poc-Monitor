@@ -7018,6 +7018,11 @@
 - [moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)	<img alt="forks" src="https://img.shields.io/github/forks/moritakaaz/CVE-2026-12277">	<img alt="stars" src="https://img.shields.io/github/stars/moritakaaz/CVE-2026-12277">
 
 ---
+## CVE-2026-12191 ()
+> 
+- [hakaioffsec/CVE-2026-12191](https://github.com/hakaioffsec/CVE-2026-12191)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-12191">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-12191">
+
+---
 ## CVE-2026-12166 ()
 > 
 - [FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168](https://github.com/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168)	<img alt="forks" src="https://img.shields.io/github/forks/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">	<img alt="stars" src="https://img.shields.io/github/stars/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">
