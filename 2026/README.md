@@ -481,6 +481,11 @@
 - [ebrasha/abdal-cve-2026-60137](https://github.com/ebrasha/abdal-cve-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-cve-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-cve-2026-60137">
 
 ---
+## CVE-2026-60121 ()
+> 
+- [HORKimhab/CVE-2026-60121-CVE-2026-61498](https://github.com/HORKimhab/CVE-2026-60121-CVE-2026-61498)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60121-CVE-2026-61498">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60121-CVE-2026-61498">
+
+---
 ## CVE-2026-6009 ()
 > 
 - [Pumila03/CVE-2026-6009](https://github.com/Pumila03/CVE-2026-6009)	<img alt="forks" src="https://img.shields.io/github/forks/Pumila03/CVE-2026-6009">	<img alt="stars" src="https://img.shields.io/github/stars/Pumila03/CVE-2026-6009">
@@ -1190,6 +1195,11 @@
 ## CVE-2026-49048 ()
 > 
 - [KARA-git/CVE-2026-49048-JoomCCK-SQLi](https://github.com/KARA-git/CVE-2026-49048-JoomCCK-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/KARA-git/CVE-2026-49048-JoomCCK-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/KARA-git/CVE-2026-49048-JoomCCK-SQLi">
+
+---
+## CVE-2026-49042 ()
+> 
+- [oscerd/CVE-2026-49042](https://github.com/oscerd/CVE-2026-49042)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49042">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49042">
 
 ---
 ## CVE-2026-49009 ()
