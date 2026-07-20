@@ -1173,6 +1173,11 @@
 - [izxci/CVE-2026-49104-](https://github.com/izxci/CVE-2026-49104-)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49104-">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49104-">
 
 ---
+## CVE-2026-49098 ()
+> 
+- [oscerd/CVE-2026-49098](https://github.com/oscerd/CVE-2026-49098)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49098">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49098">
+
+---
 ## CVE-2026-49097 ()
 > 
 - [oscerd/CVE-2026-49097](https://github.com/oscerd/CVE-2026-49097)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49097">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49097">
@@ -5961,6 +5966,7 @@
 - [dzmind2312/Mass-CVE-2026-23550-Exploit](https://github.com/dzmind2312/Mass-CVE-2026-23550-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/Mass-CVE-2026-23550-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/Mass-CVE-2026-23550-Exploit">
 - [Cyber-DarkNay/CVE-2026-23550](https://github.com/Cyber-DarkNay/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-23550">
 - [1beelze/CVE-2026-23550](https://github.com/1beelze/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-23550">
+- [baktistr/cve-2026-23550-poc](https://github.com/baktistr/cve-2026-23550-poc)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2026-23550-poc">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2026-23550-poc">
 
 ---
 ## CVE-2026-23524 ()
@@ -7080,6 +7086,11 @@
 ## CVE-2026-11387 ()
 > 
 - [1beelze/CVE-2026-11387](https://github.com/1beelze/CVE-2026-11387)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-11387">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-11387">
+
+---
+## CVE-2026-11374 ()
+> 
+- [BishopFox/CVE-2026-11374-check](https://github.com/BishopFox/CVE-2026-11374-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-11374-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-11374-check">
 
 ---
 ## CVE-2026-1107 ()
