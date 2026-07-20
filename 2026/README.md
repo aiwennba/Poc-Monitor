@@ -437,6 +437,7 @@
 - [vulnquest58/PressVector](https://github.com/vulnquest58/PressVector)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/PressVector">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/PressVector">
 - [hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/wp2shell-scanner">
 - [InstaWP/wp2shell-scan](https://github.com/InstaWP/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/InstaWP/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/InstaWP/wp2shell-scan">
+- [administrator-01001/CVE-2026-63030](https://github.com/administrator-01001/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/administrator-01001/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/administrator-01001/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
