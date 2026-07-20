@@ -438,6 +438,9 @@
 - [hidden-investigations/wp2shell-scanner](https://github.com/hidden-investigations/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/wp2shell-scanner">
 - [InstaWP/wp2shell-scan](https://github.com/InstaWP/wp2shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/InstaWP/wp2shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/InstaWP/wp2shell-scan">
 - [administrator-01001/CVE-2026-63030](https://github.com/administrator-01001/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/administrator-01001/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/administrator-01001/CVE-2026-63030">
+- [joaovicdev/EXPLOIT-CVE-2026-63030](https://github.com/joaovicdev/EXPLOIT-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-63030">
+- [0xjessie21/wp2shell-checker](https://github.com/0xjessie21/wp2shell-checker)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/wp2shell-checker">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/wp2shell-checker">
+- [TomorrowX6/CVE-2026-63030-poc](https://github.com/TomorrowX6/CVE-2026-63030-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TomorrowX6/CVE-2026-63030-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TomorrowX6/CVE-2026-63030-poc">
 
 ---
 ## CVE-2026-6279 ()
@@ -1289,6 +1292,11 @@
 - [jenniferreire26/CVE-2026-48595](https://github.com/jenniferreire26/CVE-2026-48595)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-48595">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-48595">
 
 ---
+## CVE-2026-4858 ()
+> 
+- [EvtDanya/CVE-2026-4858](https://github.com/EvtDanya/CVE-2026-4858)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/CVE-2026-4858">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/CVE-2026-4858">
+
+---
 ## CVE-2026-48558 ()
 > 
 - [J4ck3LSyN-Gen2/CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-48558">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-48558">
@@ -1312,6 +1320,11 @@
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
+
+---
+## CVE-2026-48206 ()
+> 
+- [oscerd/CVE-2026-48206](https://github.com/oscerd/CVE-2026-48206)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-48206">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-48206">
 
 ---
 ## CVE-2026-48205 ()
@@ -1965,6 +1978,7 @@
 - [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
 - [Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall](https://github.com/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall)	<img alt="forks" src="https://img.shields.io/github/forks/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">	<img alt="stars" src="https://img.shields.io/github/stars/Kananosa/CVE-2026-43499-For-Xiaomi-17T-chagall">
 - [mumaosong/CVE-2026-43499-cloudflare-gate](https://github.com/mumaosong/CVE-2026-43499-cloudflare-gate)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-43499-cloudflare-gate">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-43499-cloudflare-gate">
+- [Daniyal48/ghostlock-vagrant-box](https://github.com/Daniyal48/ghostlock-vagrant-box)	<img alt="forks" src="https://img.shields.io/github/forks/Daniyal48/ghostlock-vagrant-box">	<img alt="stars" src="https://img.shields.io/github/stars/Daniyal48/ghostlock-vagrant-box">
 
 ---
 ## CVE-2026-43494 ()
