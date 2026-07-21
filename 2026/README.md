@@ -1698,6 +1698,7 @@
 - [WellElementalist/yellowkey-bitlocker-313](https://github.com/WellElementalist/yellowkey-bitlocker-313)	<img alt="forks" src="https://img.shields.io/github/forks/WellElementalist/yellowkey-bitlocker-313">	<img alt="stars" src="https://img.shields.io/github/stars/WellElementalist/yellowkey-bitlocker-313">
 - [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
 - [yellowkeys/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">
+- [Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Desireeontrial76/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Desireeontrial76/yellowkey-bitlocker">
 
 ---
 ## CVE-2026-45584 ()
