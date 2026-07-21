@@ -441,12 +441,13 @@
 - [joaovicdev/EXPLOIT-CVE-2026-63030](https://github.com/joaovicdev/EXPLOIT-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-63030">
 - [0xjessie21/wp2shell-checker](https://github.com/0xjessie21/wp2shell-checker)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/wp2shell-checker">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/wp2shell-checker">
 - [TomorrowX6/CVE-2026-63030-poc](https://github.com/TomorrowX6/CVE-2026-63030-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TomorrowX6/CVE-2026-63030-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TomorrowX6/CVE-2026-63030-poc">
-- [OffByOn3/CVE-2026-63030-Wp2Shell](https://github.com/OffByOn3/CVE-2026-63030-Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/OffByOn3/CVE-2026-63030-Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/OffByOn3/CVE-2026-63030-Wp2Shell">
+- [GhostInExile/CVE-2026-63030-Wp2Shell](https://github.com/GhostInExile/CVE-2026-63030-Wp2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/GhostInExile/CVE-2026-63030-Wp2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/GhostInExile/CVE-2026-63030-Wp2Shell">
 - [ASYquan/wp2shell-cf-WAF-bypass](https://github.com/ASYquan/wp2shell-cf-WAF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ASYquan/wp2shell-cf-WAF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ASYquan/wp2shell-cf-WAF-bypass">
 - [SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/sxwp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/sxwp2shell">
 - [AkbarWiraN/holy-wp2shell](https://github.com/AkbarWiraN/holy-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/holy-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/holy-wp2shell">
 - [Crypto-Cat/wp2shell](https://github.com/Crypto-Cat/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Crypto-Cat/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Crypto-Cat/wp2shell">
 - [Ch4120N/CVE-2026-63030](https://github.com/Ch4120N/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-63030">
+- [lucifer0xf/wp2shell-Wordpress-TOWN](https://github.com/lucifer0xf/wp2shell-Wordpress-TOWN)	<img alt="forks" src="https://img.shields.io/github/forks/lucifer0xf/wp2shell-Wordpress-TOWN">	<img alt="stars" src="https://img.shields.io/github/stars/lucifer0xf/wp2shell-Wordpress-TOWN">
 
 ---
 ## CVE-2026-6279 ()
@@ -2535,6 +2536,7 @@
 - [jenniferreire26/CVE-2026-41089](https://github.com/jenniferreire26/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-41089">
 - [Coasttruvitalize/CVE-2026-41089-latest](https://github.com/Coasttruvitalize/CVE-2026-41089-latest)	<img alt="forks" src="https://img.shields.io/github/forks/Coasttruvitalize/CVE-2026-41089-latest">	<img alt="stars" src="https://img.shields.io/github/stars/Coasttruvitalize/CVE-2026-41089-latest">
 - [phil-dirt/CVE-2026-41089-LongLogon](https://github.com/phil-dirt/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/phil-dirt/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/phil-dirt/CVE-2026-41089-LongLogon">
+- [HydraSoft/CVE-2026-41089-Netlogon-RCE](https://github.com/HydraSoft/CVE-2026-41089-Netlogon-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HydraSoft/CVE-2026-41089-Netlogon-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HydraSoft/CVE-2026-41089-Netlogon-RCE">
 
 ---
 ## CVE-2026-41044 ()
@@ -3186,6 +3188,11 @@
 ## CVE-2026-3584 ()
 > 
 - [Yucaerin/CVE-2026-3584](https://github.com/Yucaerin/CVE-2026-3584)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-3584">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-3584">
+
+---
+## CVE-2026-3576 ()
+> 
+- [anirbala98/CVE-2026-3576](https://github.com/anirbala98/CVE-2026-3576)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2026-3576">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2026-3576">
 
 ---
 ## CVE-2026-35616 ()
@@ -6956,6 +6963,11 @@
 - [Nxploited/CVE-2026-1357](https://github.com/Nxploited/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1357">
 - [masterwok/PoC-CVE-2026-1357](https://github.com/masterwok/PoC-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-1357">
 - [0xBlackash/CVE-2026-1357](https://github.com/0xBlackash/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-1357">
+
+---
+## CVE-2026-13156 ()
+> 
+- [MinhHK68/CVE-2026-13156](https://github.com/MinhHK68/CVE-2026-13156)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-13156">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-13156">
 
 ---
 ## CVE-2026-1311 ()
