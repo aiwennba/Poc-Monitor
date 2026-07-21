@@ -1774,6 +1774,7 @@
 - [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
 - [yellowkeys/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeys/YellowKey-Bitlocker-CVE-2026-45585">
 - [Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Desireeontrial76/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Desireeontrial76/yellowkey-bitlocker">
+- [boobalover7/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -5428,6 +5429,11 @@
 - [DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/DyniePro/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/DyniePro/CVE-2026-25643">
 
 ---
+## CVE-2026-25632 ()
+> 
+- [lazarus0x1337/CVE-2026-25632](https://github.com/lazarus0x1337/CVE-2026-25632)	<img alt="forks" src="https://img.shields.io/github/forks/lazarus0x1337/CVE-2026-25632">	<img alt="stars" src="https://img.shields.io/github/stars/lazarus0x1337/CVE-2026-25632">
+
+---
 ## CVE-2026-25604 ()
 > 
 - [John-Jung/CVE-2026-25604-PoC](https://github.com/John-Jung/CVE-2026-25604-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-25604-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-25604-PoC">
@@ -6743,6 +6749,11 @@
 ## CVE-2026-20180 ()
 > 
 - [kaleth4/CVE-2026-20180](https://github.com/kaleth4/CVE-2026-20180)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20180">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20180">
+
+---
+## CVE-2026-20169 ()
+> 
+- [gigachadusers/CVE-2026-20169](https://github.com/gigachadusers/CVE-2026-20169)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/CVE-2026-20169">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/CVE-2026-20169">
 
 ---
 ## CVE-2026-20131 ()
