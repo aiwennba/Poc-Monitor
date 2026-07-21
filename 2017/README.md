@@ -381,6 +381,7 @@
 > The packet_set_ring function in net/packet/af_packet.c in the Linux kernel through 4.10.6 does not properly validate certain block-size data, which allows local users to cause a denial of service (integer signedness error and out-of-bounds write), or gain privileges (if the CAP_NET_RAW capability is held), via crafted system calls.
 - [anldori/CVE-2017-7308](https://github.com/anldori/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-7308">
 - [Nigmaz/CVE-2017-7308](https://github.com/Nigmaz/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/Nigmaz/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/Nigmaz/CVE-2017-7308">
+- [WhatsWrongAndWhy/CVE-2017-7308](https://github.com/WhatsWrongAndWhy/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-7308">
 
 ---
 ## CVE-2017-7269 (2017-03-27T02:59:00)
@@ -1023,6 +1024,7 @@
 - [mareks1007/cve-2017-16995](https://github.com/mareks1007/cve-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/mareks1007/cve-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/mareks1007/cve-2017-16995">
 - [ZhiQiAnSecFork/cve-2017-16995](https://github.com/ZhiQiAnSecFork/cve-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/ZhiQiAnSecFork/cve-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/ZhiQiAnSecFork/cve-2017-16995">
 - [xxxTectationxxx/CVE-2017-16995](https://github.com/xxxTectationxxx/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/xxxTectationxxx/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/xxxTectationxxx/CVE-2017-16995">
+- [WhatsWrongAndWhy/CVE-2017-16995](https://github.com/WhatsWrongAndWhy/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-16995">
 
 ---
 ## CVE-2017-16994 (2017-11-27T19:29:00)
@@ -1859,6 +1861,16 @@
 ## CVE-2017-1000208 ()
 > 
 - [andikahilmy/CVE-2017-1000208-swagger-parser-vulnerable](https://github.com/andikahilmy/CVE-2017-1000208-swagger-parser-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-1000208-swagger-parser-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-1000208-swagger-parser-vulnerable">
+
+---
+## CVE-2017-1000112 ()
+> 
+- [WhatsWrongAndWhy/CVE-2017-1000112](https://github.com/WhatsWrongAndWhy/CVE-2017-1000112)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-1000112">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-1000112">
+- [Spydomain/CVE-2017-1000112-PoC](https://github.com/Spydomain/CVE-2017-1000112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2017-1000112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2017-1000112-PoC">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [IT19083124/SNP-Assignment](https://github.com/IT19083124/SNP-Assignment)	<img alt="forks" src="https://img.shields.io/github/forks/IT19083124/SNP-Assignment">	<img alt="stars" src="https://img.shields.io/github/stars/IT19083124/SNP-Assignment">
+- [ol0273st-s/CVE-2017-1000112-Adpated](https://github.com/ol0273st-s/CVE-2017-1000112-Adpated)	<img alt="forks" src="https://img.shields.io/github/forks/ol0273st-s/CVE-2017-1000112-Adpated">	<img alt="stars" src="https://img.shields.io/github/stars/ol0273st-s/CVE-2017-1000112-Adpated">
+- [hikame/docker_escape_pwn](https://github.com/hikame/docker_escape_pwn)	<img alt="forks" src="https://img.shields.io/github/forks/hikame/docker_escape_pwn">	<img alt="stars" src="https://img.shields.io/github/stars/hikame/docker_escape_pwn">
 
 ---
 ## CVE-2017-1000098 (2017-10-05T01:29:00)

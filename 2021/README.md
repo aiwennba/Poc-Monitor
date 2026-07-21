@@ -2294,6 +2294,11 @@
 - [Live-Hack-CVE/CVE-2021-42010](https://github.com/Live-Hack-CVE/CVE-2021-42010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42010">
 
 ---
+## CVE-2021-42008 ()
+> 
+- [WhatsWrongAndWhy/CVE-2021-42008](https://github.com/WhatsWrongAndWhy/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-42008">
+
+---
 ## CVE-2021-42001 (2022-04-30T22:15:00)
 > PingID Desktop prior to 1.7.3 has a misconfiguration in the encryption libraries which can lead to sensitive data exposure. An attacker capable of exploiting this vulnerability may be able to successfully complete an MFA challenge via OTP.
 - [Live-Hack-CVE/CVE-2021-42001](https://github.com/Live-Hack-CVE/CVE-2021-42001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42001">
@@ -2911,8 +2916,9 @@
 ## CVE-2021-41073 (2021-09-19T17:15:00)
 > loop_rw_iter in fs/io_uring.c in the Linux kernel 5.10 through 5.14.6 allows local users to gain privileges by using IORING_OP_PROVIDE_BUFFERS to trigger a free of a kernel buffer, as demonstrated by using /proc/<pid>/maps for exploitation.
 - [Live-Hack-CVE/CVE-2021-41073](https://github.com/Live-Hack-CVE/CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41073">
-- [abhyanandsharma311099/cve2021-41073](https://github.com/abhyanandsharma311099/cve2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/abhyanandsharma311099/cve2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/abhyanandsharma311099/cve2021-41073">
+- [OneFriendlyCoder/cve2021-41073](https://github.com/OneFriendlyCoder/cve2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/OneFriendlyCoder/cve2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/OneFriendlyCoder/cve2021-41073">
 - [chompie1337/Linux_LPE_io_uring_CVE-2021-41073](https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Linux_LPE_io_uring_CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Linux_LPE_io_uring_CVE-2021-41073">
+- [WhatsWrongAndWhy/CVE-2021-41073](https://github.com/WhatsWrongAndWhy/CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-41073">
 
 ---
 ## CVE-2021-4104 (2021-12-14T12:15:00)
@@ -5421,6 +5427,9 @@
 - [azazhe1/Ransomware_CVE_2021_3493](https://github.com/azazhe1/Ransomware_CVE_2021_3493)	<img alt="forks" src="https://img.shields.io/github/forks/azazhe1/Ransomware_CVE_2021_3493">	<img alt="stars" src="https://img.shields.io/github/stars/azazhe1/Ransomware_CVE_2021_3493">
 - [Psychopath-Traveler/CVE-2021-3493](https://github.com/Psychopath-Traveler/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Psychopath-Traveler/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Psychopath-Traveler/CVE-2021-3493">
 - [George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot)	<img alt="forks" src="https://img.shields.io/github/forks/George-Yanni/DeepRoot">	<img alt="stars" src="https://img.shields.io/github/stars/George-Yanni/DeepRoot">
+- [WhatsWrongAndWhy/CVE-2021-3493](https://github.com/WhatsWrongAndWhy/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3493">
+- [Ayham-Megdadi/Zero-Day-Legacy](https://github.com/Ayham-Megdadi/Zero-Day-Legacy)	<img alt="forks" src="https://img.shields.io/github/forks/Ayham-Megdadi/Zero-Day-Legacy">	<img alt="stars" src="https://img.shields.io/github/stars/Ayham-Megdadi/Zero-Day-Legacy">
+- [iqbalhussainas/OverlayFS-LPE-Exploit](https://github.com/iqbalhussainas/OverlayFS-LPE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iqbalhussainas/OverlayFS-LPE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iqbalhussainas/OverlayFS-LPE-Exploit">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
@@ -5431,6 +5440,7 @@
 - [BanaxavSplit/CVE-2021-3490](https://github.com/BanaxavSplit/CVE-2021-3490)	<img alt="forks" src="https://img.shields.io/github/forks/BanaxavSplit/CVE-2021-3490">	<img alt="stars" src="https://img.shields.io/github/stars/BanaxavSplit/CVE-2021-3490">
 - [sandesh9978/cve-2021-3490-ebpf-analysis](https://github.com/sandesh9978/cve-2021-3490-ebpf-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/cve-2021-3490-ebpf-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/cve-2021-3490-ebpf-analysis">
 - [prabeershakya/CVE-2021-3490-POC](https://github.com/prabeershakya/CVE-2021-3490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/prabeershakya/CVE-2021-3490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/prabeershakya/CVE-2021-3490-POC">
+- [WhatsWrongAndWhy/CVE-2021-3490](https://github.com/WhatsWrongAndWhy/CVE-2021-3490)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3490">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3490">
 
 ---
 ## CVE-2021-34865 (2022-01-25T16:15:00)
@@ -6612,6 +6622,7 @@
 - [DakerQirszh/cve-2021-3156](https://github.com/DakerQirszh/cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DakerQirszh/cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DakerQirszh/cve-2021-3156">
 - [Kranti08/CVE-2021-3156-Baron-Samedit](https://github.com/Kranti08/CVE-2021-3156-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Kranti08/CVE-2021-3156-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Kranti08/CVE-2021-3156-Baron-Samedit">
 - [IJBaig/CVE-2021-3156](https://github.com/IJBaig/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/IJBaig/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/IJBaig/CVE-2021-3156">
+- [WhatsWrongAndWhy/CVE-2021-3156](https://github.com/WhatsWrongAndWhy/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3156">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
@@ -6627,6 +6638,11 @@
 ## CVE-2021-31493 (2021-06-15T19:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of OpenText Brava! Desktop 16.6.3.84. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DXF files. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-13304.
 - [Live-Hack-CVE/CVE-2021-31493](https://github.com/Live-Hack-CVE/CVE-2021-31493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31493">
+
+---
+## CVE-2021-31440 ()
+> 
+- [WhatsWrongAndWhy/CVE-2021-31440](https://github.com/WhatsWrongAndWhy/CVE-2021-31440)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-31440">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-31440">
 
 ---
 ## CVE-2021-31375 (2021-10-19T19:15:00)
@@ -7524,6 +7540,7 @@
 ## CVE-2021-27365 ()
 > 
 - [Iweisc/Kernel-CVE-2021-27365-hotfix](https://github.com/Iweisc/Kernel-CVE-2021-27365-hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Iweisc/Kernel-CVE-2021-27365-hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Iweisc/Kernel-CVE-2021-27365-hotfix">
+- [WhatsWrongAndWhy/CVE-2021-27365](https://github.com/WhatsWrongAndWhy/CVE-2021-27365)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-27365">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-27365">
 
 ---
 ## CVE-2021-27343 (2021-04-06T13:15:00)
@@ -8871,6 +8888,7 @@
 - [letsr00t/-2021-LOCALROOT-CVE-2021-22555](https://github.com/letsr00t/-2021-LOCALROOT-CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/-2021-LOCALROOT-CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/-2021-LOCALROOT-CVE-2021-22555">
 - [letsr00t/CVE-2021-22555](https://github.com/letsr00t/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2021-22555">
 - [glutton-su/CVE-2021-22555](https://github.com/glutton-su/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/glutton-su/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/glutton-su/CVE-2021-22555">
+- [WhatsWrongAndWhy/CVE-2021-22555](https://github.com/WhatsWrongAndWhy/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-22555">
 
 ---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
