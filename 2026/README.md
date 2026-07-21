@@ -537,6 +537,8 @@
 - [0xWhoknows/wp2shell](https://github.com/0xWhoknows/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoknows/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoknows/wp2shell">
 - [h4cd0c/wp2shell](https://github.com/h4cd0c/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/h4cd0c/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/h4cd0c/wp2shell">
 - [kulichr/wp2shell](https://github.com/kulichr/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/kulichr/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/kulichr/wp2shell">
+- [Colere-Sys/wp2shell-poc](https://github.com/Colere-Sys/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Colere-Sys/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Colere-Sys/wp2shell-poc">
+- [Bhanunamikaze/WP2Shell-CVE-2026-63030-POC](https://github.com/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/WP2Shell-CVE-2026-63030-POC">
 
 ---
 ## CVE-2026-60121 ()
