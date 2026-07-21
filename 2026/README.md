@@ -915,6 +915,7 @@
 ## CVE-2026-52813 ()
 > 
 - [thecodeb0ss/CVE-2026-52813](https://github.com/thecodeb0ss/CVE-2026-52813)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-52813">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-52813">
+- [iqx6889/CVE-2026-52813-Gogs-RCE](https://github.com/iqx6889/CVE-2026-52813-Gogs-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/iqx6889/CVE-2026-52813-Gogs-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/iqx6889/CVE-2026-52813-Gogs-RCE">
 
 ---
 ## CVE-2026-5281 ()
@@ -2059,6 +2060,7 @@
 - [mumaosong/CVE-2026-43499-cloudflare-gate](https://github.com/mumaosong/CVE-2026-43499-cloudflare-gate)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-43499-cloudflare-gate">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-43499-cloudflare-gate">
 - [Daniyal48/ghostlock-vagrant-box](https://github.com/Daniyal48/ghostlock-vagrant-box)	<img alt="forks" src="https://img.shields.io/github/forks/Daniyal48/ghostlock-vagrant-box">	<img alt="stars" src="https://img.shields.io/github/stars/Daniyal48/ghostlock-vagrant-box">
 - [Petalrain224/CVE-2026-43499-Redmi-Turbo5](https://github.com/Petalrain224/CVE-2026-43499-Redmi-Turbo5)	<img alt="forks" src="https://img.shields.io/github/forks/Petalrain224/CVE-2026-43499-Redmi-Turbo5">	<img alt="stars" src="https://img.shields.io/github/stars/Petalrain224/CVE-2026-43499-Redmi-Turbo5">
+- [geecjdj/CVE-2026-43499](https://github.com/geecjdj/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/geecjdj/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/geecjdj/CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
