@@ -4403,6 +4403,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 > XAML Diagnostics Elevation of Privilege Vulnerability
 - [m417z/CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC)	<img alt="forks" src="https://img.shields.io/github/forks/m417z/CVE-2023-36003-POC">	<img alt="stars" src="https://img.shields.io/github/stars/m417z/CVE-2023-36003-POC">
 - [baph0m3th/CVE-2023-36003](https://github.com/baph0m3th/CVE-2023-36003)	<img alt="forks" src="https://img.shields.io/github/forks/baph0m3th/CVE-2023-36003">	<img alt="stars" src="https://img.shields.io/github/stars/baph0m3th/CVE-2023-36003">
+- [johnnygreeme/CVE-2023-36003](https://github.com/johnnygreeme/CVE-2023-36003)	<img alt="forks" src="https://img.shields.io/github/forks/johnnygreeme/CVE-2023-36003">	<img alt="stars" src="https://img.shields.io/github/stars/johnnygreeme/CVE-2023-36003">
 
 ---
 ## CVE-2023-35985 (2023-11-27T16:15:00)
@@ -7968,6 +7969,11 @@ For more details, please review the linked advisory on this CVE.
 > Windows Graphics Component Remote Code Execution Vulnerability
 - [b11y/CVE-2023-21823](https://github.com/b11y/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-21823">
 - [Elizarfish/CVE-2023-21823](https://github.com/Elizarfish/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Elizarfish/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Elizarfish/CVE-2023-21823">
+
+---
+## CVE-2023-21817 ()
+> 
+- [johnnygreeme/CVE-2023-21817](https://github.com/johnnygreeme/CVE-2023-21817)	<img alt="forks" src="https://img.shields.io/github/forks/johnnygreeme/CVE-2023-21817">	<img alt="stars" src="https://img.shields.io/github/stars/johnnygreeme/CVE-2023-21817">
 
 ---
 ## CVE-2023-21768 (2023-01-10T22:15:00)
