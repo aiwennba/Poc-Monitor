@@ -722,6 +722,11 @@
 - [jasetpen/CVE-2025-69428](https://github.com/jasetpen/CVE-2025-69428)	<img alt="forks" src="https://img.shields.io/github/forks/jasetpen/CVE-2025-69428">	<img alt="stars" src="https://img.shields.io/github/stars/jasetpen/CVE-2025-69428">
 
 ---
+## CVE-2025-69419 ()
+> 
+- [Kha-Beleh/PoC-CVE-2025-69419](https://github.com/Kha-Beleh/PoC-CVE-2025-69419)	<img alt="forks" src="https://img.shields.io/github/forks/Kha-Beleh/PoC-CVE-2025-69419">	<img alt="stars" src="https://img.shields.io/github/stars/Kha-Beleh/PoC-CVE-2025-69419">
+
+---
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
@@ -1764,6 +1769,7 @@
 - [BardLaudian/CVE-2025-64512](https://github.com/BardLaudian/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2025-64512">
 - [joeack123/PoC-for-CVE-2025-64512](https://github.com/joeack123/PoC-for-CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/joeack123/PoC-for-CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/joeack123/PoC-for-CVE-2025-64512">
 - [MehdiChyhab/CVE-2025-64512-exploit](https://github.com/MehdiChyhab/CVE-2025-64512-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiChyhab/CVE-2025-64512-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiChyhab/CVE-2025-64512-exploit">
+- [Cosm3No1de/Bedside.htb_solved](https://github.com/Cosm3No1de/Bedside.htb_solved)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/Bedside.htb_solved">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/Bedside.htb_solved">
 
 ---
 ## CVE-2025-64500 ()
@@ -9257,6 +9263,7 @@
 - [JTMH37/Apache-Tomcat-CVE-2025-24813-Lab](https://github.com/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
+- [Loufa0/CVE-2025-24813](https://github.com/Loufa0/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Loufa0/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Loufa0/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
