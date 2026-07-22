@@ -6332,6 +6332,11 @@
 - [0xBlackash/CVE-2026-22241](https://github.com/0xBlackash/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22241">
 
 ---
+## CVE-2026-22226 ()
+> 
+- [LucasVanHaaren/CVE-2026-22226](https://github.com/LucasVanHaaren/CVE-2026-22226)	<img alt="forks" src="https://img.shields.io/github/forks/LucasVanHaaren/CVE-2026-22226">	<img alt="stars" src="https://img.shields.io/github/stars/LucasVanHaaren/CVE-2026-22226">
+
+---
 ## CVE-2026-22200 ()
 > 
 - [horizon3ai/CVE-2026-22200](https://github.com/horizon3ai/CVE-2026-22200)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-22200">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-22200">
@@ -6900,6 +6905,11 @@
 - [d3kc4rt1/CVE-2026-1657](https://github.com/d3kc4rt1/CVE-2026-1657)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1657">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1657">
 
 ---
+## CVE-2026-16540 ()
+> 
+- [huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments](https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments)	<img alt="forks" src="https://img.shields.io/github/forks/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">	<img alt="stars" src="https://img.shields.io/github/stars/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments">
+
+---
 ## CVE-2026-16219 ()
 > 
 - [HELLBOY3110/cve-2026-16219-croogo-lab](https://github.com/HELLBOY3110/cve-2026-16219-croogo-lab)	<img alt="forks" src="https://img.shields.io/github/forks/HELLBOY3110/cve-2026-16219-croogo-lab">	<img alt="stars" src="https://img.shields.io/github/stars/HELLBOY3110/cve-2026-16219-croogo-lab">
@@ -7045,6 +7055,7 @@
 ## CVE-2026-14266 ()
 > 
 - [hg0434hongzh0/CVE-2026-14266](https://github.com/hg0434hongzh0/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-14266">
+- [4minx/CVE-2026-14266](https://github.com/4minx/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-14266">
 
 ---
 ## CVE-2026-1424 ()
