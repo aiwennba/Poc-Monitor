@@ -9945,6 +9945,7 @@
 ## CVE-2025-20701 ()
 > 
 - [x0jac0b0x/skullcandy-dime3-cve-2025-20701](https://github.com/x0jac0b0x/skullcandy-dime3-cve-2025-20701)	<img alt="forks" src="https://img.shields.io/github/forks/x0jac0b0x/skullcandy-dime3-cve-2025-20701">	<img alt="stars" src="https://img.shields.io/github/stars/x0jac0b0x/skullcandy-dime3-cve-2025-20701">
+- [SpiritualMachines/buds-audit](https://github.com/SpiritualMachines/buds-audit)	<img alt="forks" src="https://img.shields.io/github/forks/SpiritualMachines/buds-audit">	<img alt="stars" src="https://img.shields.io/github/stars/SpiritualMachines/buds-audit">
 
 ---
 ## CVE-2025-20393 ()
