@@ -9941,6 +9941,11 @@
 - [shinthink/CVE-2025-20720](https://github.com/shinthink/CVE-2025-20720)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2025-20720">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2025-20720">
 
 ---
+## CVE-2025-20701 ()
+> 
+- [x0jac0b0x/skullcandy-dime3-cve-2025-20701](https://github.com/x0jac0b0x/skullcandy-dime3-cve-2025-20701)	<img alt="forks" src="https://img.shields.io/github/forks/x0jac0b0x/skullcandy-dime3-cve-2025-20701">	<img alt="stars" src="https://img.shields.io/github/stars/x0jac0b0x/skullcandy-dime3-cve-2025-20701">
+
+---
 ## CVE-2025-20393 ()
 > 
 - [thesystemowner/CVE-2025-20393-POC](https://github.com/thesystemowner/CVE-2025-20393-POC)	<img alt="forks" src="https://img.shields.io/github/forks/thesystemowner/CVE-2025-20393-POC">	<img alt="stars" src="https://img.shields.io/github/stars/thesystemowner/CVE-2025-20393-POC">
