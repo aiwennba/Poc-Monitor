@@ -3164,9 +3164,10 @@
 - [B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57773">
 - [mr-r3b00t/CVE-2025-5777](https://github.com/mr-r3b00t/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-5777">
 - [rashedhasan090/CVE-2025-5777](https://github.com/rashedhasan090/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/rashedhasan090/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/rashedhasan090/CVE-2025-5777">
-- [zaryouhashraf/CVE-2025-5777](https://github.com/zaryouhashraf/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-5777">
+- [0xBlackash/CVE-2025-5777](https://github.com/0xBlackash/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-5777">
 - [sentinel-aidefense/CVE-2025-5777](https://github.com/sentinel-aidefense/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-5777">
 - [razureink/cve-2025-5777-citrixbleed2_reproduction](https://github.com/razureink/cve-2025-5777-citrixbleed2_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-5777-citrixbleed2_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-5777-citrixbleed2_reproduction">
+- [Anshika2709/Citrixbleed2-CVE-2025-5777](https://github.com/Anshika2709/Citrixbleed2-CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/Anshika2709/Citrixbleed2-CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/Anshika2709/Citrixbleed2-CVE-2025-5777">
 
 ---
 ## CVE-2025-5755 ()
@@ -7607,6 +7608,7 @@
 - [n40y/PoC_CVE-2025-32432](https://github.com/n40y/PoC_CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/n40y/PoC_CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/n40y/PoC_CVE-2025-32432">
 - [c0gnit00/CVE-2025-32432](https://github.com/c0gnit00/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2025-32432">
 - [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
+- [theeomega/CVE-2025-32432-POC](https://github.com/theeomega/CVE-2025-32432-POC)	<img alt="forks" src="https://img.shields.io/github/forks/theeomega/CVE-2025-32432-POC">	<img alt="stars" src="https://img.shields.io/github/stars/theeomega/CVE-2025-32432-POC">
 
 ---
 ## CVE-2025-3243 ()
