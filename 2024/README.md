@@ -2630,6 +2630,7 @@ length to be included in the checksum calculation is fully consumed.
 - [Sachinart/CVE-2024-49113-Checker](https://github.com/Sachinart/CVE-2024-49113-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2024-49113-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2024-49113-Checker">
 - [alphatin123/CVE-2024-49113](https://github.com/alphatin123/CVE-2024-49113)	<img alt="forks" src="https://img.shields.io/github/forks/alphatin123/CVE-2024-49113">	<img alt="stars" src="https://img.shields.io/github/stars/alphatin123/CVE-2024-49113">
 - [0xMetr0/metasploit-ldapnightmare](https://github.com/0xMetr0/metasploit-ldapnightmare)	<img alt="forks" src="https://img.shields.io/github/forks/0xMetr0/metasploit-ldapnightmare">	<img alt="stars" src="https://img.shields.io/github/stars/0xMetr0/metasploit-ldapnightmare">
+- [razureink/cve-2024-49113-ldap_nightmare_reproduction](https://github.com/razureink/cve-2024-49113-ldap_nightmare_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-49113-ldap_nightmare_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-49113-ldap_nightmare_reproduction">
 
 ---
 ## CVE-2024-49112 ()
@@ -5915,6 +5916,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [CyprianAtsyor/letsdefend-cve2024-3400-case-study](https://github.com/CyprianAtsyor/letsdefend-cve2024-3400-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/letsdefend-cve2024-3400-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/letsdefend-cve2024-3400-case-study">
 - [Yafiah-Darwesh/cs50-cyber-paloalto-oauth](https://github.com/Yafiah-Darwesh/cs50-cyber-paloalto-oauth)	<img alt="forks" src="https://img.shields.io/github/forks/Yafiah-Darwesh/cs50-cyber-paloalto-oauth">	<img alt="stars" src="https://img.shields.io/github/stars/Yafiah-Darwesh/cs50-cyber-paloalto-oauth">
 - [Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation](https://github.com/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/PAN-OS-CVE-2024-3400-Command-Injection-Investigation">
+- [razureink/cve-2024-3400-panos_rce_reproduction](https://github.com/razureink/cve-2024-3400-panos_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-3400-panos_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-3400-panos_rce_reproduction">
 
 ---
 ## CVE-2024-340 ()
@@ -8819,6 +8821,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [w41l3r/jenkins_scan](https://github.com/w41l3r/jenkins_scan)	<img alt="forks" src="https://img.shields.io/github/forks/w41l3r/jenkins_scan">	<img alt="stars" src="https://img.shields.io/github/stars/w41l3r/jenkins_scan">
 - [classic130/CVE-2024-23897-Jenkins-4.441](https://github.com/classic130/CVE-2024-23897-Jenkins-4.441)	<img alt="forks" src="https://img.shields.io/github/forks/classic130/CVE-2024-23897-Jenkins-4.441">	<img alt="stars" src="https://img.shields.io/github/stars/classic130/CVE-2024-23897-Jenkins-4.441">
 - [Dungsocool/CVE-2024-23897](https://github.com/Dungsocool/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2024-23897">
+- [razureink/cve-2024-23897-jenkins_lfi_reproduction](https://github.com/razureink/cve-2024-23897-jenkins_lfi_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-23897-jenkins_lfi_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-23897-jenkins_lfi_reproduction">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
@@ -10142,6 +10145,11 @@ critical systems.
 - [AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-](https://github.com/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">
 - [AMRICHASFUCK/Mass-CVE-2024-1709](https://github.com/AMRICHASFUCK/Mass-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/AMRICHASFUCK/Mass-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/AMRICHASFUCK/Mass-CVE-2024-1709">
 - [Teexo/ScreenConnect-CVE-2024-1709-Exploit](https://github.com/Teexo/ScreenConnect-CVE-2024-1709-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/ScreenConnect-CVE-2024-1709-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/ScreenConnect-CVE-2024-1709-Exploit">
+
+---
+## CVE-2024-1708 ()
+> 
+- [razureink/cve-2024-1708-connectwise_rce_reproduction](https://github.com/razureink/cve-2024-1708-connectwise_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-1708-connectwise_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-1708-connectwise_rce_reproduction">
 
 ---
 ## CVE-2024-1698 (2024-02-27T06:15:00)
