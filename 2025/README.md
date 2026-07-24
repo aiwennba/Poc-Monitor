@@ -4657,6 +4657,8 @@
 ## CVE-2025-53779 ()
 > 
 - [razureink/cve-2025-53779-kerberos_bypass_reproduction](https://github.com/razureink/cve-2025-53779-kerberos_bypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-53779-kerberos_bypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-53779-kerberos_bypass_reproduction">
+- [b5null/Invoke-BadSuccessor.ps1](https://github.com/b5null/Invoke-BadSuccessor.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/b5null/Invoke-BadSuccessor.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/b5null/Invoke-BadSuccessor.ps1">
+- [Musa-xvi/Active-Directory-BadSuccessor](https://github.com/Musa-xvi/Active-Directory-BadSuccessor)	<img alt="forks" src="https://img.shields.io/github/forks/Musa-xvi/Active-Directory-BadSuccessor">	<img alt="stars" src="https://img.shields.io/github/stars/Musa-xvi/Active-Directory-BadSuccessor">
 
 ---
 ## CVE-2025-53778 ()
