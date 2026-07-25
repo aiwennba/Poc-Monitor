@@ -528,6 +528,11 @@
 - [NicPWNs/CVE-2026-62183](https://github.com/NicPWNs/CVE-2026-62183)	<img alt="forks" src="https://img.shields.io/github/forks/NicPWNs/CVE-2026-62183">	<img alt="stars" src="https://img.shields.io/github/stars/NicPWNs/CVE-2026-62183">
 
 ---
+## CVE-2026-61946 ()
+> 
+- [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR">
+
+---
 ## CVE-2026-6145 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-6145](https://github.com/Hann1bl3L3ct3r/CVE-2026-6145)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-6145">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-6145">
@@ -2230,6 +2235,9 @@
 - [Koshmare-Blossom/PinTheft-go](https://github.com/Koshmare-Blossom/PinTheft-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/PinTheft-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/PinTheft-go">
 - [letsr00t/CVE-2026-43494-PinTheft-PoC](https://github.com/letsr00t/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2026-43494-PinTheft-PoC">
 - [jayhutajulu1/CVE-2026-43494-PinTheft-PoC](https://github.com/jayhutajulu1/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">
+- [Koshmare-Blossom/PinTheft-asm](https://github.com/Koshmare-Blossom/PinTheft-asm)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/PinTheft-asm">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/PinTheft-asm">
+- [tanzz1337/CVE-2026-43494-PinTheft-PoC](https://github.com/tanzz1337/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tanzz1337/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tanzz1337/CVE-2026-43494-PinTheft-PoC">
+- [Kagantua/PinTheft-go](https://github.com/Kagantua/PinTheft-go)	<img alt="forks" src="https://img.shields.io/github/forks/Kagantua/PinTheft-go">	<img alt="stars" src="https://img.shields.io/github/stars/Kagantua/PinTheft-go">
 
 ---
 ## CVE-2026-4342 ()
