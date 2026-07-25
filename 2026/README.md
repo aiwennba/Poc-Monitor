@@ -961,6 +961,7 @@
 - [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/aniqfakhrul/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/aniqfakhrul/CVE-2026-54121">
 - [0xBlackash/CVE-2026-54121](https://github.com/0xBlackash/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-54121">
 - [HORKimhab/CVE-2026-54121](https://github.com/HORKimhab/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54121">
+- [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-54121-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-54121-PoC-Exploit">
 
 ---
 ## CVE-2026-5411 ()
@@ -5441,6 +5442,11 @@
 ## CVE-2026-26221 ()
 > 
 - [mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26221-Hyland-OnBase-Timer-Service-Unauthenticated-RCE">
+
+---
+## CVE-2026-26216 ()
+> 
+- [joaovicdev/EXPLOIT-CVE-2026-26216](https://github.com/joaovicdev/EXPLOIT-CVE-2026-26216)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-26216">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-26216">
 
 ---
 ## CVE-2026-26198 ()
