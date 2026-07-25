@@ -960,6 +960,7 @@
 > 
 - [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/aniqfakhrul/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/aniqfakhrul/CVE-2026-54121">
 - [0xBlackash/CVE-2026-54121](https://github.com/0xBlackash/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-54121">
+- [HORKimhab/CVE-2026-54121](https://github.com/HORKimhab/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -1142,6 +1143,16 @@
 ## CVE-2026-51592 ()
 > 
 - [ardakrg/CVE-2026-51592](https://github.com/ardakrg/CVE-2026-51592)	<img alt="forks" src="https://img.shields.io/github/forks/ardakrg/CVE-2026-51592">	<img alt="stars" src="https://img.shields.io/github/stars/ardakrg/CVE-2026-51592">
+
+---
+## CVE-2026-51565 ()
+> 
+- [1337Skid/CVE-2026-51565](https://github.com/1337Skid/CVE-2026-51565)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2026-51565">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2026-51565">
+
+---
+## CVE-2026-51564 ()
+> 
+- [1337Skid/CVE-2026-51564](https://github.com/1337Skid/CVE-2026-51564)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2026-51564">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2026-51564">
 
 ---
 ## CVE-2026-51385 ()
@@ -4121,6 +4132,7 @@
 ## CVE-2026-32194 ()
 > 
 - [z3r0h3ro/CVE-2026-32194-POC](https://github.com/z3r0h3ro/CVE-2026-32194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-32194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-32194-POC">
+- [HORKimhab/CVE-2026-32194](https://github.com/HORKimhab/CVE-2026-32194)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-32194">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-32194">
 
 ---
 ## CVE-2026-32136 ()
