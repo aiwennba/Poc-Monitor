@@ -509,10 +509,11 @@
 - [mcipekci/wp2shell](https://github.com/mcipekci/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mcipekci/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mcipekci/wp2shell">
 - [Colere-Sys/wp2shell-poc](https://github.com/Colere-Sys/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Colere-Sys/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Colere-Sys/wp2shell-poc">
 - [mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress](https://github.com/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/Fix-CVE-2026-60137-CVE-2026-63030-in-wordpress">
-- [wn-iqbal/wp2shell](https://github.com/wn-iqbal/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/wn-iqbal/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/wn-iqbal/wp2shell">
+- [Iqbalx7/wp2shell](https://github.com/Iqbalx7/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Iqbalx7/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Iqbalx7/wp2shell">
 - [razureink/cve-2026-63030_60137-wordpress_rce_reproduction](https://github.com/razureink/cve-2026-63030_60137-wordpress_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-63030_60137-wordpress_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-63030_60137-wordpress_rce_reproduction">
 - [Giangdurian/CVE-2026-63030-CVE-2026-60137](https://github.com/Giangdurian/CVE-2026-63030-CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-63030-CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-63030-CVE-2026-60137">
 - [shinthink/CVE-2026-63030](https://github.com/shinthink/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-63030">
+- [imXur/WordPress-CVE-2026-63030-Analysis](https://github.com/imXur/WordPress-CVE-2026-63030-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/WordPress-CVE-2026-63030-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/WordPress-CVE-2026-63030-Analysis">
 
 ---
 ## CVE-2026-6279 ()
@@ -957,6 +958,7 @@
 ## CVE-2026-54121 ()
 > 
 - [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/aniqfakhrul/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/aniqfakhrul/CVE-2026-54121">
+- [0xBlackash/CVE-2026-54121](https://github.com/0xBlackash/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
@@ -7177,6 +7179,7 @@
 > 
 - [hg0434hongzh0/CVE-2026-14266](https://github.com/hg0434hongzh0/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-14266">
 - [4minx/CVE-2026-14266](https://github.com/4minx/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-14266">
+- [liyuxuan504-byte/CVE-2026-14266](https://github.com/liyuxuan504-byte/CVE-2026-14266)	<img alt="forks" src="https://img.shields.io/github/forks/liyuxuan504-byte/CVE-2026-14266">	<img alt="stars" src="https://img.shields.io/github/stars/liyuxuan504-byte/CVE-2026-14266">
 
 ---
 ## CVE-2026-1424 ()
