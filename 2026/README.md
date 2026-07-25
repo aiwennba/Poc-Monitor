@@ -860,6 +860,11 @@
 - [DavidCarliez/CVE-2026-54992-PoC](https://github.com/DavidCarliez/CVE-2026-54992-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-54992-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-54992-PoC">
 
 ---
+## CVE-2026-54900 ()
+> 
+- [HORKimhab/CVE-2026-54900](https://github.com/HORKimhab/CVE-2026-54900)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54900">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54900">
+
+---
 ## CVE-2026-54807 ()
 > 
 - [izxci/CVE-2026-54807](https://github.com/izxci/CVE-2026-54807)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-54807">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-54807">
