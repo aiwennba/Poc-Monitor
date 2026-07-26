@@ -982,6 +982,7 @@
 - [0xBlackash/CVE-2026-54121](https://github.com/0xBlackash/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-54121">
 - [HORKimhab/CVE-2026-54121](https://github.com/HORKimhab/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54121">
 - [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-54121-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-54121-PoC-Exploit">
+- [GlendonNotGlen/certighost-cve-2026-54121-slides](https://github.com/GlendonNotGlen/certighost-cve-2026-54121-slides)	<img alt="forks" src="https://img.shields.io/github/forks/GlendonNotGlen/certighost-cve-2026-54121-slides">	<img alt="stars" src="https://img.shields.io/github/stars/GlendonNotGlen/certighost-cve-2026-54121-slides">
 
 ---
 ## CVE-2026-5411 ()
@@ -2660,6 +2661,7 @@
 - [soverineg/cve-2026-41940-PoC](https://github.com/soverineg/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/soverineg/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/soverineg/cve-2026-41940-PoC">
 - [razureink/cve-2026-41940-cpanel_authbypass_reproduction](https://github.com/razureink/cve-2026-41940-cpanel_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-41940-cpanel_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-41940-cpanel_authbypass_reproduction">
 - [AnotherSec/CVE-2026-41940](https://github.com/AnotherSec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AnotherSec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AnotherSec/CVE-2026-41940">
+- [CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit](https://github.com/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit">
 
 ---
 ## CVE-2026-41901 ()
