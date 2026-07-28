@@ -182,6 +182,7 @@
 - [rootdirective-sec/CVE-2026-8206-Lab](https://github.com/rootdirective-sec/CVE-2026-8206-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8206-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8206-Lab">
 - [izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8206">
 - [Jenderal92/CVE-2026-8206](https://github.com/Jenderal92/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8206">
+- [Dungsocool/CVE-2026-8206](https://github.com/Dungsocool/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-8206">
 
 ---
 ## CVE-2026-8196 ()
@@ -1027,6 +1028,7 @@
 - [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-54121-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-54121-PoC-Exploit">
 - [GlendonNotGlen/certighost-cve-2026-54121-slides](https://github.com/GlendonNotGlen/certighost-cve-2026-54121-slides)	<img alt="forks" src="https://img.shields.io/github/forks/GlendonNotGlen/certighost-cve-2026-54121-slides">	<img alt="stars" src="https://img.shields.io/github/stars/GlendonNotGlen/certighost-cve-2026-54121-slides">
 - [marcgoam/CVE-2026-54121-CertiGhost](https://github.com/marcgoam/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/marcgoam/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/marcgoam/CVE-2026-54121-CertiGhost">
+- [ChPratik/CVE-2026-54121](https://github.com/ChPratik/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-54121">
 
 ---
 ## CVE-2026-5411 ()
