@@ -426,6 +426,7 @@
 ## CVE-2026-65761 ()
 > 
 - [shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65761">
+- [ywh-jfellus/CVE-2026-65761](https://github.com/ywh-jfellus/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-65761">
 
 ---
 ## CVE-2026-65694 ()
@@ -1059,6 +1060,11 @@
 ## CVE-2026-54088 ()
 > 
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
+
+---
+## CVE-2026-53921 ()
+> 
+- [0xBlackash/CVE-2026-53921](https://github.com/0xBlackash/CVE-2026-53921)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53921">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53921">
 
 ---
 ## CVE-2026-53913 ()
