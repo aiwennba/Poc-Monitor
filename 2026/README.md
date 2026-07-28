@@ -421,6 +421,7 @@
 ## CVE-2026-65893 ()
 > 
 - [CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894](https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894)	<img alt="forks" src="https://img.shields.io/github/forks/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">	<img alt="stars" src="https://img.shields.io/github/stars/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">
+- [ivmks74/IIITA-IoT-Security-Research](https://github.com/ivmks74/IIITA-IoT-Security-Research)	<img alt="forks" src="https://img.shields.io/github/forks/ivmks74/IIITA-IoT-Security-Research">	<img alt="stars" src="https://img.shields.io/github/stars/ivmks74/IIITA-IoT-Security-Research">
 
 ---
 ## CVE-2026-65761 ()
@@ -2586,6 +2587,7 @@
 - [gagaltotal/CVE-2026-42533-nginx](https://github.com/gagaltotal/CVE-2026-42533-nginx)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42533-nginx">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42533-nginx">
 - [imbas007/CVE-2026-42533](https://github.com/imbas007/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-42533">
 - [jelasin/CVE-2026-42533](https://github.com/jelasin/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42533">
+- [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
 
 ---
 ## CVE-2026-42530 ()
@@ -7209,6 +7211,7 @@
 ## CVE-2026-16232 ()
 > 
 - [sfewer-r7/CVE-2026-16232](https://github.com/sfewer-r7/CVE-2026-16232)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-16232">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-16232">
+- [WadesWeaponShed/Check-Point-Trusted-Access-Review](https://github.com/WadesWeaponShed/Check-Point-Trusted-Access-Review)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/Check-Point-Trusted-Access-Review">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/Check-Point-Trusted-Access-Review">
 
 ---
 ## CVE-2026-16219 ()
@@ -7891,6 +7894,11 @@
 ## CVE-2026-0013 ()
 > 
 - [inforcqb/cve-2026-0013-exploit](https://github.com/inforcqb/cve-2026-0013-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/inforcqb/cve-2026-0013-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/inforcqb/cve-2026-0013-exploit">
+
+---
+## CVE-2026-0009 ()
+> 
+- [cduram/NotCVE-2026-0009](https://github.com/cduram/NotCVE-2026-0009)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/NotCVE-2026-0009">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/NotCVE-2026-0009">
 
 ---
 ## CVE-2026-0006 ()
