@@ -1290,6 +1290,11 @@
 - [lamaper/CVE-2026-52199](https://github.com/lamaper/CVE-2026-52199)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2026-52199">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2026-52199">
 
 ---
+## CVE-2026-52134 ()
+> 
+- [if-forget/CVE-2026-52134-libiec61850](https://github.com/if-forget/CVE-2026-52134-libiec61850)	<img alt="forks" src="https://img.shields.io/github/forks/if-forget/CVE-2026-52134-libiec61850">	<img alt="stars" src="https://img.shields.io/github/stars/if-forget/CVE-2026-52134-libiec61850">
+
+---
 ## CVE-2026-5203 ()
 > 
 - [CaginKyr/CVE-2026-5203](https://github.com/CaginKyr/CVE-2026-5203)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-5203">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-5203">
