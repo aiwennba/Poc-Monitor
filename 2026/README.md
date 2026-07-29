@@ -846,6 +846,11 @@
 - [Is4yev/CVE-2026-57829](https://github.com/Is4yev/CVE-2026-57829)	<img alt="forks" src="https://img.shields.io/github/forks/Is4yev/CVE-2026-57829">	<img alt="stars" src="https://img.shields.io/github/stars/Is4yev/CVE-2026-57829">
 
 ---
+## CVE-2026-57827 ()
+> 
+- [shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57827">
+
+---
 ## CVE-2026-57821 ()
 > 
 - [tc4dy/CVE-2026-57821-PoC-Exploit](https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-57821-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-57821-PoC-Exploit">
@@ -2349,6 +2354,11 @@
 ## CVE-2026-43865 ()
 > 
 - [oscerd/CVE-2026-43865](https://github.com/oscerd/CVE-2026-43865)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-43865">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-43865">
+
+---
+## CVE-2026-43813 ()
+> 
+- [EastArctica/CVE-2026-43813](https://github.com/EastArctica/CVE-2026-43813)	<img alt="forks" src="https://img.shields.io/github/forks/EastArctica/CVE-2026-43813">	<img alt="stars" src="https://img.shields.io/github/stars/EastArctica/CVE-2026-43813">
 
 ---
 ## CVE-2026-43735 ()
