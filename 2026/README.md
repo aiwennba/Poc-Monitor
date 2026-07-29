@@ -821,6 +821,11 @@
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
 
 ---
+## CVE-2026-58025 ()
+> 
+- [shinthink/CVE-2026-58025](https://github.com/shinthink/CVE-2026-58025)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-58025">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-58025">
+
+---
 ## CVE-2026-57973 ()
 > 
 - [riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973)	<img alt="forks" src="https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973">	<img alt="stars" src="https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973">
@@ -1140,6 +1145,11 @@
 ## CVE-2026-5411 ()
 > 
 - [izxci/CVE-2026-5411](https://github.com/izxci/CVE-2026-5411)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5411">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5411">
+
+---
+## CVE-2026-54107 ()
+> 
+- [Pravin761/CVE-2026-54107](https://github.com/Pravin761/CVE-2026-54107)	<img alt="forks" src="https://img.shields.io/github/forks/Pravin761/CVE-2026-54107">	<img alt="stars" src="https://img.shields.io/github/stars/Pravin761/CVE-2026-54107">
 
 ---
 ## CVE-2026-54088 ()
