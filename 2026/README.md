@@ -658,6 +658,7 @@
 - [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-61511">
 - [puj790201-lab/cve-2026-61511](https://github.com/puj790201-lab/cve-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/puj790201-lab/cve-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/puj790201-lab/cve-2026-61511">
 - [codeb0ssx/Ultimate-CVE-2026-61511](https://github.com/codeb0ssx/Ultimate-CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-CVE-2026-61511">
+- [tc4dy/CVE-2026-61511-PoC-Exploit](https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-61511-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-61511-PoC-Exploit">
 
 ---
 ## CVE-2026-6145 ()
@@ -742,6 +743,11 @@
 ## CVE-2026-6009 ()
 > 
 - [Pumila03/CVE-2026-6009](https://github.com/Pumila03/CVE-2026-6009)	<img alt="forks" src="https://img.shields.io/github/forks/Pumila03/CVE-2026-6009">	<img alt="stars" src="https://img.shields.io/github/stars/Pumila03/CVE-2026-6009">
+
+---
+## CVE-2026-60004 ()
+> 
+- [HORKimhab/CVE-2026-60004](https://github.com/HORKimhab/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60004">
 
 ---
 ## CVE-2026-59891 ()
@@ -2450,6 +2456,8 @@
 - [soralis0912/CVE-2026-43499-pmg110-root](https://github.com/soralis0912/CVE-2026-43499-pmg110-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-pmg110-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-pmg110-root">
 - [soralis0912/CVE-2026-43499-warhol-root](https://github.com/soralis0912/CVE-2026-43499-warhol-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-warhol-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-warhol-root">
 - [KawaiiHachimi/CVE-2026-43499-pkb110](https://github.com/KawaiiHachimi/CVE-2026-43499-pkb110)	<img alt="forks" src="https://img.shields.io/github/forks/KawaiiHachimi/CVE-2026-43499-pkb110">	<img alt="stars" src="https://img.shields.io/github/stars/KawaiiHachimi/CVE-2026-43499-pkb110">
+- [233laoliu/mt6985-CVE-2026-43499](https://github.com/233laoliu/mt6985-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/233laoliu/mt6985-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/233laoliu/mt6985-CVE-2026-43499">
+- [Witaqua-tools/Root-My-Device](https://github.com/Witaqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/Witaqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/Witaqua-tools/Root-My-Device">
 
 ---
 ## CVE-2026-43494 ()
@@ -4019,6 +4027,11 @@
 ## CVE-2026-33752 ()
 > 
 - [redyank/CVE-2026-33752](https://github.com/redyank/CVE-2026-33752)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33752">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33752">
+
+---
+## CVE-2026-33718 ()
+> 
+- [HORKimhab/CVE-2026-33718](https://github.com/HORKimhab/CVE-2026-33718)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-33718">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-33718">
 
 ---
 ## CVE-2026-33715 ()
