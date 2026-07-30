@@ -3276,6 +3276,7 @@
 ## CVE-2020-24029 ()
 > 
 - [RedTeamBrasil/CVE-2020-24029](https://github.com/RedTeamBrasil/CVE-2020-24029)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24029">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24029">
+- [underprotection/CVE-2020-24029](https://github.com/underprotection/CVE-2020-24029)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24029">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24029">
 
 ---
 ## CVE-2020-24028 ()
