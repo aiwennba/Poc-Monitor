@@ -496,6 +496,11 @@
 - [ivmks74/IIITA-IoT-Security-Research](https://github.com/ivmks74/IIITA-IoT-Security-Research)	<img alt="forks" src="https://img.shields.io/github/forks/ivmks74/IIITA-IoT-Security-Research">	<img alt="stars" src="https://img.shields.io/github/stars/ivmks74/IIITA-IoT-Security-Research">
 
 ---
+## CVE-2026-65883 ()
+> 
+- [shinthink/CVE-2026-65883](https://github.com/shinthink/CVE-2026-65883)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65883">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65883">
+
+---
 ## CVE-2026-65761 ()
 > 
 - [shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65761">
@@ -874,6 +879,7 @@
 ## CVE-2026-57827 ()
 > 
 - [shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57827">
+- [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
 
 ---
 ## CVE-2026-57821 ()

@@ -3289,6 +3289,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Kanak-CypherX/cve-2024-4577-lab](https://github.com/Kanak-CypherX/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kanak-CypherX/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kanak-CypherX/cve-2024-4577-lab">
 - [gl1tch0x1/PHP_8.1.x_Exploit](https://github.com/gl1tch0x1/PHP_8.1.x_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/PHP_8.1.x_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/PHP_8.1.x_Exploit">
 - [razureink/cve-2024-4577-phpcgi_rce_reproduction](https://github.com/razureink/cve-2024-4577-phpcgi_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-4577-phpcgi_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-4577-phpcgi_rce_reproduction">
+- [NKTriS/HTSOC](https://github.com/NKTriS/HTSOC)	<img alt="forks" src="https://img.shields.io/github/forks/NKTriS/HTSOC">	<img alt="stars" src="https://img.shields.io/github/stars/NKTriS/HTSOC">
 
 ---
 ## CVE-2024-4573 ()
