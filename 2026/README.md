@@ -667,6 +667,7 @@
 - [codeb0ssx/Ultimate-CVE-2026-61511](https://github.com/codeb0ssx/Ultimate-CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-CVE-2026-61511">
 - [tc4dy/CVE-2026-61511-PoC-Exploit](https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-61511-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-61511-PoC-Exploit">
 - [webshellseo8/CVE-2026-61511-POC](https://github.com/webshellseo8/CVE-2026-61511-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-61511-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-61511-POC">
+- [shootcannon/CVE-2026-61511](https://github.com/shootcannon/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/shootcannon/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/shootcannon/CVE-2026-61511">
 
 ---
 ## CVE-2026-6145 ()
@@ -1538,6 +1539,11 @@
 ## CVE-2026-49869 ()
 > 
 - [Ap0dexMe0/CVE-2026-49869](https://github.com/Ap0dexMe0/CVE-2026-49869)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2026-49869">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2026-49869">
+
+---
+## CVE-2026-49865 ()
+> 
+- [cyeezy08/Kimai-CVE-2026-49865-POC](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyeezy08/Kimai-CVE-2026-49865-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyeezy08/Kimai-CVE-2026-49865-POC">
 
 ---
 ## CVE-2026-49777 ()
@@ -2511,7 +2517,7 @@
 - [soralis0912/CVE-2026-43499-warhol-root](https://github.com/soralis0912/CVE-2026-43499-warhol-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-warhol-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-warhol-root">
 - [KawaiiHachimi/CVE-2026-43499-pkb110](https://github.com/KawaiiHachimi/CVE-2026-43499-pkb110)	<img alt="forks" src="https://img.shields.io/github/forks/KawaiiHachimi/CVE-2026-43499-pkb110">	<img alt="stars" src="https://img.shields.io/github/stars/KawaiiHachimi/CVE-2026-43499-pkb110">
 - [233laoliu/mt6985-CVE-2026-43499](https://github.com/233laoliu/mt6985-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/233laoliu/mt6985-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/233laoliu/mt6985-CVE-2026-43499">
-- [Witaqua-tools/Root-My-Device](https://github.com/Witaqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/Witaqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/Witaqua-tools/Root-My-Device">
+- [WitAqua-tools/Root-My-Device](https://github.com/WitAqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/WitAqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/WitAqua-tools/Root-My-Device">
 - [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
 
 ---
