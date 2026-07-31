@@ -545,6 +545,11 @@
 - [litosmartin/CVE-2026-64600-Refluxfs-PoC](https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/litosmartin/CVE-2026-64600-Refluxfs-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/litosmartin/CVE-2026-64600-Refluxfs-PoC">
 
 ---
+## CVE-2026-64531 ()
+> 
+- [mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool](https://github.com/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">
+
+---
 ## CVE-2026-6433 ()
 > 
 - [murrez/CVE-2026-6433](https://github.com/murrez/CVE-2026-6433)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-6433">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-6433">
@@ -2623,9 +2628,14 @@
 - [1neptune/DirtyFrag](https://github.com/1neptune/DirtyFrag)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/DirtyFrag">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/DirtyFrag">
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 - [t1ckprivate/CVE-2026-43284-Dirty-Frag](https://github.com/t1ckprivate/CVE-2026-43284-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2026-43284-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2026-43284-Dirty-Frag">
-- [g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection](https://github.com/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection">
+- [g0thamRabb1t/CVE-2026-43284-dirtyfrag-detection](https://github.com/g0thamRabb1t/CVE-2026-43284-dirtyfrag-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-43284-dirtyfrag-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-43284-dirtyfrag-detection">
 - [nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-](https://github.com/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-)	<img alt="forks" src="https://img.shields.io/github/forks/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-">	<img alt="stars" src="https://img.shields.io/github/stars/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-">
 - [AadityaKandel/CVE-2026-43284](https://github.com/AadityaKandel/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/AadityaKandel/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/AadityaKandel/CVE-2026-43284">
+- [armircetaj/tetragon-dirtyfrag](https://github.com/armircetaj/tetragon-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/armircetaj/tetragon-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/armircetaj/tetragon-dirtyfrag">
+- [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
+- [lukeslp/redtail-ioc](https://github.com/lukeslp/redtail-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/lukeslp/redtail-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/lukeslp/redtail-ioc">
+- [MadExploits/CVE-2026-46300](https://github.com/MadExploits/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/CVE-2026-46300">
+- [nonameuserosint-hue/DirtyFrag-go](https://github.com/nonameuserosint-hue/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/nonameuserosint-hue/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/nonameuserosint-hue/DirtyFrag-go">
 
 ---
 ## CVE-2026-42980 ()
@@ -7389,7 +7399,7 @@
 - [HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-16723">
 - [EQSTLab/CVE-2026-16723](https://github.com/EQSTLab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-16723">
 - [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
-- [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [1xPwn/CVE-2026-16723](https://github.com/1xPwn/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/1xPwn/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/1xPwn/CVE-2026-16723">
 - [why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/why-success/fastjson-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/why-success/fastjson-rce-lab">
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
 - [fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-16723">
