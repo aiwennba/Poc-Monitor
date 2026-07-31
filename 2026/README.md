@@ -394,6 +394,11 @@
 - [nightcorefan94/CVE-2026-6770](https://github.com/nightcorefan94/CVE-2026-6770)	<img alt="forks" src="https://img.shields.io/github/forks/nightcorefan94/CVE-2026-6770">	<img alt="stars" src="https://img.shields.io/github/stars/nightcorefan94/CVE-2026-6770">
 
 ---
+## CVE-2026-67599 ()
+> 
+- [LazyTitan33/CVE-2026-67599_ClearOS_RCE](https://github.com/LazyTitan33/CVE-2026-67599_ClearOS_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LazyTitan33/CVE-2026-67599_ClearOS_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LazyTitan33/CVE-2026-67599_ClearOS_RCE">
+
+---
 ## CVE-2026-67185 ()
 > 
 - [theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-](https://github.com/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-">
@@ -2577,6 +2582,7 @@
 - [FuCnox/CVE-2026-43499-A34](https://github.com/FuCnox/CVE-2026-43499-A34)	<img alt="forks" src="https://img.shields.io/github/forks/FuCnox/CVE-2026-43499-A34">	<img alt="stars" src="https://img.shields.io/github/stars/FuCnox/CVE-2026-43499-A34">
 - [LuZe0y/pd2425-cve-2026-43499-config](https://github.com/LuZe0y/pd2425-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/LuZe0y/pd2425-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/LuZe0y/pd2425-cve-2026-43499-config">
 - [datfooldive/ghostlock-emerald](https://github.com/datfooldive/ghostlock-emerald)	<img alt="forks" src="https://img.shields.io/github/forks/datfooldive/ghostlock-emerald">	<img alt="stars" src="https://img.shields.io/github/stars/datfooldive/ghostlock-emerald">
+- [NothingFumo/ghostlock-aresin](https://github.com/NothingFumo/ghostlock-aresin)	<img alt="forks" src="https://img.shields.io/github/forks/NothingFumo/ghostlock-aresin">	<img alt="stars" src="https://img.shields.io/github/stars/NothingFumo/ghostlock-aresin">
 
 ---
 ## CVE-2026-43494 ()
