@@ -7671,6 +7671,11 @@
 - [MinhHK68/CVE-2026-13156](https://github.com/MinhHK68/CVE-2026-13156)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-13156">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-13156">
 
 ---
+## CVE-2026-13152 ()
+> 
+- [MinhHK68/CVE-2026-13152](https://github.com/MinhHK68/CVE-2026-13152)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-13152">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-13152">
+
+---
 ## CVE-2026-1311 ()
 > 
 - [hacker1337itme/CVE-2026-1311](https://github.com/hacker1337itme/CVE-2026-1311)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-1311">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-1311">
@@ -7849,6 +7854,7 @@
 ## CVE-2026-10702 ()
 > 
 - [HORKimhab/CVE-2026-10702](https://github.com/HORKimhab/CVE-2026-10702)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10702">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10702">
+- [raihants/cve-2026-10702](https://github.com/raihants/cve-2026-10702)	<img alt="forks" src="https://img.shields.io/github/forks/raihants/cve-2026-10702">	<img alt="stars" src="https://img.shields.io/github/stars/raihants/cve-2026-10702">
 
 ---
 ## CVE-2026-10672 ()
