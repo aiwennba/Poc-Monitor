@@ -790,6 +790,7 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 - [0Zetrium0/CVE-2025-69212_PoC](https://github.com/0Zetrium0/CVE-2025-69212_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Zetrium0/CVE-2025-69212_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Zetrium0/CVE-2025-69212_PoC">
 - [mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">
+- [liaomilk/CVE-2025-69212-for-myself](https://github.com/liaomilk/CVE-2025-69212-for-myself)	<img alt="forks" src="https://img.shields.io/github/forks/liaomilk/CVE-2025-69212-for-myself">	<img alt="stars" src="https://img.shields.io/github/stars/liaomilk/CVE-2025-69212-for-myself">
 
 ---
 ## CVE-2025-69194 ()
