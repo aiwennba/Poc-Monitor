@@ -26,6 +26,11 @@
 - [ChPratik/CVE-2026-9830](https://github.com/ChPratik/CVE-2026-9830)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-9830">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-9830">
 
 ---
+## CVE-2026-9811 ()
+> 
+- [aj2108/CVE-2026-9811](https://github.com/aj2108/CVE-2026-9811)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-9811">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-9811">
+
+---
 ## CVE-2026-9789 ()
 > 
 - [ugvxb/CVE-2026-9789](https://github.com/ugvxb/CVE-2026-9789)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9789">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9789">
@@ -3084,6 +3089,7 @@
 - [Lutfifakee-Project/CVE-2026-41651](https://github.com/Lutfifakee-Project/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41651">
 - [0xDVRK/CVE-2026-41651](https://github.com/0xDVRK/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xDVRK/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xDVRK/CVE-2026-41651">
 - [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
+- [gbuyssens/CVE-2026-41651](https://github.com/gbuyssens/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
