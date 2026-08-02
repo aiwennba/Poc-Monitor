@@ -3377,6 +3377,7 @@
 - [HORKimhab/CVE-2026-39987](https://github.com/HORKimhab/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39987">
 - [gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-39987">
 - [jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2026-39987">
+- [vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -3588,6 +3589,7 @@
 - [daniel30padd/CVE-2026-3854](https://github.com/daniel30padd/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/daniel30padd/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/daniel30padd/CVE-2026-3854">
 - [jenniferreire26/CVE-2026-3854](https://github.com/jenniferreire26/CVE-2026-3854)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-3854">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-3854">
 - [royaleybovich/CVE-2026-3854-lab](https://github.com/royaleybovich/CVE-2026-3854-lab)	<img alt="forks" src="https://img.shields.io/github/forks/royaleybovich/CVE-2026-3854-lab">	<img alt="stars" src="https://img.shields.io/github/stars/royaleybovich/CVE-2026-3854-lab">
+- [isagoakira/ghes-cve-scanner](https://github.com/isagoakira/ghes-cve-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/isagoakira/ghes-cve-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/isagoakira/ghes-cve-scanner">
 
 ---
 ## CVE-2026-38526 ()
@@ -7748,6 +7750,11 @@
 ## CVE-2026-1375 ()
 > 
 - [d3kc4rt1/CVE-2026-1375](https://github.com/d3kc4rt1/CVE-2026-1375)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1375">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1375">
+
+---
+## CVE-2026-13714 ()
+> 
+- [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
 
 ---
 ## CVE-2026-1357 ()
