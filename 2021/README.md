@@ -9207,6 +9207,7 @@
 - [SimoesCTT/CTT-enhanced-VMware-vCenter](https://github.com/SimoesCTT/CTT-enhanced-VMware-vCenter)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-enhanced-VMware-vCenter">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-enhanced-VMware-vCenter">
 - [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/VcenterKit">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/VcenterKit">
 - [TAI-REx/CVE-2021-21972](https://github.com/TAI-REx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/TAI-REx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/TAI-REx/CVE-2021-21972">
+- [Hurrrraaaa/CVE-2021-21972](https://github.com/Hurrrraaaa/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Hurrrraaaa/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Hurrrraaaa/CVE-2021-21972">
 
 ---
 ## CVE-2021-21964 (2022-02-04T23:15:00)
@@ -9916,7 +9917,7 @@
 - [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/cube0x0/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/cube0x0/CVE-2021-1675">
 - [Winter3un/CVE-2021-1675](https://github.com/Winter3un/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/Winter3un/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/Winter3un/CVE-2021-1675">
 - [zha0/Microsoft-CVE-2021-1675](https://github.com/zha0/Microsoft-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/zha0/Microsoft-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/zha0/Microsoft-CVE-2021-1675">
-- [thalpius/Microsoft-CVE-2021-1675](https://github.com/thalpius/Microsoft-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/thalpius/Microsoft-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/thalpius/Microsoft-CVE-2021-1675">
+- [thalpius/microsoft-cve-2021-1675](https://github.com/thalpius/microsoft-cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/thalpius/microsoft-cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/thalpius/microsoft-cve-2021-1675">
 - [BeetleChunks/SpoolSploit](https://github.com/BeetleChunks/SpoolSploit)	<img alt="forks" src="https://img.shields.io/github/forks/BeetleChunks/SpoolSploit">	<img alt="stars" src="https://img.shields.io/github/stars/BeetleChunks/SpoolSploit">
 - [JumpsecLabs/PrintNightmare](https://github.com/JumpsecLabs/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/JumpsecLabs/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/JumpsecLabs/PrintNightmare">
 - [galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527](https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527">
