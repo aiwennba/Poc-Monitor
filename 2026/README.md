@@ -419,6 +419,11 @@
 - [IlhomjonR/CVE-2026-67595](https://github.com/IlhomjonR/CVE-2026-67595)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-67595">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-67595">
 
 ---
+## CVE-2026-67206 ()
+> 
+- [anirbala98/CVE-2026-67206](https://github.com/anirbala98/CVE-2026-67206)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2026-67206">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2026-67206">
+
+---
 ## CVE-2026-67185 ()
 > 
 - [theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-](https://github.com/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-67185-Unauthenticated-Path-Traversal-Allows-Arbitrary-File-Read-TinyWeb-">
@@ -831,6 +836,11 @@
 - [0xBlackash/CVE-2026-60004](https://github.com/0xBlackash/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60004">
 
 ---
+## CVE-2026-59941 ()
+> 
+- [far00t01/CVE-2026-59941](https://github.com/far00t01/CVE-2026-59941)	<img alt="forks" src="https://img.shields.io/github/forks/far00t01/CVE-2026-59941">	<img alt="stars" src="https://img.shields.io/github/stars/far00t01/CVE-2026-59941">
+
+---
 ## CVE-2026-59891 ()
 > 
 - [gyubin02/cve-2026-59891-control-lab](https://github.com/gyubin02/cve-2026-59891-control-lab)	<img alt="forks" src="https://img.shields.io/github/forks/gyubin02/cve-2026-59891-control-lab">	<img alt="stars" src="https://img.shields.io/github/stars/gyubin02/cve-2026-59891-control-lab">
@@ -935,6 +945,7 @@
 > 
 - [shinthink/CVE-2026-57827](https://github.com/shinthink/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-57827">
 - [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
+- [Mohammad-008/rsfiles-CVE-2026-57827](https://github.com/Mohammad-008/rsfiles-CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammad-008/rsfiles-CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammad-008/rsfiles-CVE-2026-57827">
 
 ---
 ## CVE-2026-57821 ()
@@ -2638,6 +2649,7 @@
 - [1ndevelopment/CVE-2026-43499-S26](https://github.com/1ndevelopment/CVE-2026-43499-S26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/CVE-2026-43499-S26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/CVE-2026-43499-S26">
 - [suominen/ghostlock](https://github.com/suominen/ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ghostlock">
 - [veygax/HORiZonstack](https://github.com/veygax/HORiZonstack)	<img alt="forks" src="https://img.shields.io/github/forks/veygax/HORiZonstack">	<img alt="stars" src="https://img.shields.io/github/stars/veygax/HORiZonstack">
+- [boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus)	<img alt="forks" src="https://img.shields.io/github/forks/boxiaolanya2008/CVE-2026-43499-Neo11Plus">	<img alt="stars" src="https://img.shields.io/github/stars/boxiaolanya2008/CVE-2026-43499-Neo11Plus">
 
 ---
 ## CVE-2026-43494 ()
