@@ -11,6 +11,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9999 ()
+> 
+- [George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-](https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-">
+
+---
 ## CVE-2026-9973 ()
 > 
 - [jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-9973-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-9973-exploit">
@@ -2276,6 +2281,11 @@
 ## CVE-2026-45729 ()
 > 
 - [yeahhbean/CVE-2026-45729](https://github.com/yeahhbean/CVE-2026-45729)	<img alt="forks" src="https://img.shields.io/github/forks/yeahhbean/CVE-2026-45729">	<img alt="stars" src="https://img.shields.io/github/stars/yeahhbean/CVE-2026-45729">
+
+---
+## CVE-2026-4567 ()
+> 
+- [George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-](https://github.com/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-4567-Post-Quantum-KEM-Timing-Side-Channel-Kyber-Decapsulation-">
 
 ---
 ## CVE-2026-45659 ()
@@ -7787,6 +7797,11 @@
 - [Nxploited/CVE-2026-1357](https://github.com/Nxploited/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1357">
 - [masterwok/PoC-CVE-2026-1357](https://github.com/masterwok/PoC-CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-1357">
 - [0xBlackash/CVE-2026-1357](https://github.com/0xBlackash/CVE-2026-1357)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-1357">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-1357">
+
+---
+## CVE-2026-1337 ()
+> 
+- [George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape](https://github.com/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">
 
 ---
 ## CVE-2026-13233 ()
