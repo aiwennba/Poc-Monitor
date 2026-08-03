@@ -3808,6 +3808,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
 - [yuimamur/CVE-2024-4367-hands-on-01](https://github.com/yuimamur/CVE-2024-4367-hands-on-01)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on-01">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on-01">
 - [yuimamur/CVE-2024-4367-hands-on](https://github.com/yuimamur/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on">
+- [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
 
 ---
 ## CVE-2024-43639 ()
