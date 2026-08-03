@@ -916,6 +916,7 @@
 - [HORKimhab/CVE-2026-60004](https://github.com/HORKimhab/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60004">
 - [EQSTLab/CVE-2026-60004](https://github.com/EQSTLab/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-60004">
 - [0xBlackash/CVE-2026-60004](https://github.com/0xBlackash/CVE-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60004">
+- [imbas007/CVE-2026-60004-POC](https://github.com/imbas007/CVE-2026-60004-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-60004-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-60004-POC">
 
 ---
 ## CVE-2026-59941 ()
@@ -1672,6 +1673,7 @@
 ## CVE-2026-5050 ()
 > 
 - [George0Papasotiriou/CVE-2026-5050-Blind-LDAP-Injection-via-Unescaped-Filter](https://github.com/George0Papasotiriou/CVE-2026-5050-Blind-LDAP-Injection-via-Unescaped-Filter)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-5050-Blind-LDAP-Injection-via-Unescaped-Filter">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-5050-Blind-LDAP-Injection-via-Unescaped-Filter">
+- [HORKimhab/CVE-2026-50507](https://github.com/HORKimhab/CVE-2026-50507)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50507">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50507">
 
 ---
 ## CVE-2026-50454 ()
@@ -3491,6 +3493,7 @@
 - [gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-39987">
 - [jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2026-39987">
 - [vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2026-39987">
+- [Wind010/CVE-2026-39987_PoC](https://github.com/Wind010/CVE-2026-39987_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Wind010/CVE-2026-39987_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Wind010/CVE-2026-39987_PoC">
 
 ---
 ## CVE-2026-39983 ()
@@ -4319,6 +4322,7 @@
 - [dinhvaren/cve-2026-33937](https://github.com/dinhvaren/cve-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/dinhvaren/cve-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/dinhvaren/cve-2026-33937">
 - [EQSTLab/CVE-2026-33937](https://github.com/EQSTLab/CVE-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33937">
 - [garlic-wizard/CVE-2026-33937-for-DarkZeroReturns](https://github.com/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns)	<img alt="forks" src="https://img.shields.io/github/forks/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns">	<img alt="stars" src="https://img.shields.io/github/stars/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns">
+- [c0gnit00/CVE-2026-33937](https://github.com/c0gnit00/CVE-2026-33937)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-33937">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-33937">
 
 ---
 ## CVE-2026-33936 ()
