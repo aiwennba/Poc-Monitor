@@ -726,6 +726,7 @@
 ## CVE-2026-63223 ()
 > 
 - [imbas007/CVE-2026-63223-POC](https://github.com/imbas007/CVE-2026-63223-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-63223-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-63223-POC">
+- [shinthink/CVE-2026-63223](https://github.com/shinthink/CVE-2026-63223)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-63223">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-63223">
 
 ---
 ## CVE-2026-63077 ()
@@ -1040,6 +1041,11 @@
 ## CVE-2026-58057 ()
 > 
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
+
+---
+## CVE-2026-58048 ()
+> 
+- [imbas007/POC-CVE-2026-58048](https://github.com/imbas007/POC-CVE-2026-58048)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-58048">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-58048">
 
 ---
 ## CVE-2026-58025 ()
@@ -1517,6 +1523,11 @@
 ## CVE-2026-52832 ()
 > 
 - [mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard](https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-52832-PoC-exploit-nuclio-dashboard">
+
+---
+## CVE-2026-52824 ()
+> 
+- [AzureADTrent/CVE-2026-52824](https://github.com/AzureADTrent/CVE-2026-52824)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2026-52824">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2026-52824">
 
 ---
 ## CVE-2026-52813 ()
@@ -6946,6 +6957,7 @@
 - [pduggusa/redis-cve-2026-23479-check](https://github.com/pduggusa/redis-cve-2026-23479-check)	<img alt="forks" src="https://img.shields.io/github/forks/pduggusa/redis-cve-2026-23479-check">	<img alt="stars" src="https://img.shields.io/github/stars/pduggusa/redis-cve-2026-23479-check">
 - [jenniferreire26/CVE-2026-23479](https://github.com/jenniferreire26/CVE-2026-23479)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-23479">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-23479">
 - [v1c0mmrt/redis-cve-2026-23479-scanner](https://github.com/v1c0mmrt/redis-cve-2026-23479-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/v1c0mmrt/redis-cve-2026-23479-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/v1c0mmrt/redis-cve-2026-23479-scanner">
+- [rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept](https://github.com/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/rizlmaulanaa/CVE-2026-23479-Redis-UAF-Proof-of-Concept">
 
 ---
 ## CVE-2026-23478 ()
