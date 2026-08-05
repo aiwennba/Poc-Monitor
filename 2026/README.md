@@ -113,6 +113,7 @@
 - [ywh-jfellus/CVE-2026-9198](https://github.com/ywh-jfellus/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9198">
 - [0xgh057r3c0n/CVE-2026-9198](https://github.com/0xgh057r3c0n/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-9198">
 - [samael0x4/CVE-2026-9198](https://github.com/samael0x4/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-9198">
+- [rmhowe425/PoC-CVE-2026-9198](https://github.com/rmhowe425/PoC-CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/PoC-CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/PoC-CVE-2026-9198">
 
 ---
 ## CVE-2026-9090 ()
@@ -2974,6 +2975,7 @@
 - [MadExploits/CVE-2026-46300](https://github.com/MadExploits/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/CVE-2026-46300">
 - [nonameuserosint-hue/DirtyFrag-go](https://github.com/nonameuserosint-hue/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/nonameuserosint-hue/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/nonameuserosint-hue/DirtyFrag-go">
 - [RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-](https://github.com/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-)	<img alt="forks" src="https://img.shields.io/github/forks/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">	<img alt="stars" src="https://img.shields.io/github/stars/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-">
+- [millikanjohnl-blip/dirtyfrag-detection-rules](https://github.com/millikanjohnl-blip/dirtyfrag-detection-rules)	<img alt="forks" src="https://img.shields.io/github/forks/millikanjohnl-blip/dirtyfrag-detection-rules">	<img alt="stars" src="https://img.shields.io/github/stars/millikanjohnl-blip/dirtyfrag-detection-rules">
 
 ---
 ## CVE-2026-42980 ()
@@ -3129,6 +3131,7 @@
 - [imbas007/CVE-2026-42533](https://github.com/imbas007/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2026-42533">
 - [jelasin/CVE-2026-42533](https://github.com/jelasin/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42533">
 - [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
+- [0xCyberstan/CVE-2026-42533-POC](https://github.com/0xCyberstan/CVE-2026-42533-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-42533-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-42533-POC">
 
 ---
 ## CVE-2026-42530 ()
