@@ -710,6 +710,7 @@
 ## CVE-2026-64633 ()
 > 
 - [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
+- [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
 
 ---
 ## CVE-2026-64600 ()
@@ -1111,6 +1112,7 @@
 ## CVE-2026-58048 ()
 > 
 - [imbas007/POC-CVE-2026-58048](https://github.com/imbas007/POC-CVE-2026-58048)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-58048">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-58048">
+- [tc4dy/CVE-2026-58048-PoC-Exploit](https://github.com/tc4dy/CVE-2026-58048-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-58048-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-58048-PoC-Exploit">
 
 ---
 ## CVE-2026-58025 ()
@@ -6460,7 +6462,7 @@
 ---
 ## CVE-2026-25243 ()
 > 
-- [sohail-saha-optiv/CVE-2026-25243](https://github.com/sohail-saha-optiv/CVE-2026-25243)	<img alt="forks" src="https://img.shields.io/github/forks/sohail-saha-optiv/CVE-2026-25243">	<img alt="stars" src="https://img.shields.io/github/stars/sohail-saha-optiv/CVE-2026-25243">
+- [captain-woof/CVE-2026-25243](https://github.com/captain-woof/CVE-2026-25243)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/CVE-2026-25243">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/CVE-2026-25243">
 
 ---
 ## CVE-2026-25242 ()
