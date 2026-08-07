@@ -747,6 +747,7 @@
 - [Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC">
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
+- [5yu4n/CVE-2026-64638](https://github.com/5yu4n/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/5yu4n/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/5yu4n/CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
@@ -1323,6 +1324,11 @@
 ## CVE-2026-55993 ()
 > 
 - [oscerd/CVE-2026-55993](https://github.com/oscerd/CVE-2026-55993)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-55993">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-55993">
+
+---
+## CVE-2026-55957 ()
+> 
+- [mdvpat/CVE-2026-55957-PoC](https://github.com/mdvpat/CVE-2026-55957-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mdvpat/CVE-2026-55957-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mdvpat/CVE-2026-55957-PoC">
 
 ---
 ## CVE-2026-55726 ()
@@ -2998,6 +3004,7 @@
 - [eroorvbsyes-hotmail/CVE-2026-43499_x86_Exploit](https://github.com/eroorvbsyes-hotmail/CVE-2026-43499_x86_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/eroorvbsyes-hotmail/CVE-2026-43499_x86_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/eroorvbsyes-hotmail/CVE-2026-43499_x86_Exploit">
 - [oopnv70-lab/ghostlock-honor-aak](https://github.com/oopnv70-lab/ghostlock-honor-aak)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-honor-aak">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-honor-aak">
 - [taoubi1/ghostlock-sm-a155f](https://github.com/taoubi1/ghostlock-sm-a155f)	<img alt="forks" src="https://img.shields.io/github/forks/taoubi1/ghostlock-sm-a155f">	<img alt="stars" src="https://img.shields.io/github/stars/taoubi1/ghostlock-sm-a155f">
+- [vannet-855/CVE-2026-43499_Target](https://github.com/vannet-855/CVE-2026-43499_Target)	<img alt="forks" src="https://img.shields.io/github/forks/vannet-855/CVE-2026-43499_Target">	<img alt="stars" src="https://img.shields.io/github/stars/vannet-855/CVE-2026-43499_Target">
 
 ---
 ## CVE-2026-43494 ()
