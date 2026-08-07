@@ -2719,6 +2719,11 @@
 - [zzzm0919/CVE-2026-44648](https://github.com/zzzm0919/CVE-2026-44648)	<img alt="forks" src="https://img.shields.io/github/forks/zzzm0919/CVE-2026-44648">	<img alt="stars" src="https://img.shields.io/github/stars/zzzm0919/CVE-2026-44648">
 
 ---
+## CVE-2026-44613 ()
+> 
+- [HORKimhab/CVE-2026-44613](https://github.com/HORKimhab/CVE-2026-44613)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44613">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44613">
+
+---
 ## CVE-2026-44590 ()
 > 
 - [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
@@ -8584,6 +8589,11 @@
 ## CVE-2026-1207 ()
 > 
 - [sw0rd1ight/CVE-2026-1207](https://github.com/sw0rd1ight/CVE-2026-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sw0rd1ight/CVE-2026-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sw0rd1ight/CVE-2026-1207">
+
+---
+## CVE-2026-11961 ()
+> 
+- [JohenLastGen-JLG/CVE-2026-11961](https://github.com/JohenLastGen-JLG/CVE-2026-11961)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/CVE-2026-11961">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/CVE-2026-11961">
 
 ---
 ## CVE-2026-11912 ()
