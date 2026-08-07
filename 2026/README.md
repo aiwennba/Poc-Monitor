@@ -414,6 +414,7 @@
 ## CVE-2026-71554 ()
 > 
 - [SunandM/poc-h2-CVE-2026-71554](https://github.com/SunandM/poc-h2-CVE-2026-71554)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-CVE-2026-71554">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-CVE-2026-71554">
+- [SunandM/poc-h2-duplicate-host](https://github.com/SunandM/poc-h2-duplicate-host)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-duplicate-host">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-duplicate-host">
 
 ---
 ## CVE-2026-71211 ()
@@ -756,6 +757,7 @@
 - [wordsec/XSS2Shell](https://github.com/wordsec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/wordsec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/wordsec/XSS2Shell">
 - [Linuxhackingid-official/XSS2Shell-CVE-2026-64638](https://github.com/Linuxhackingid-official/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxhackingid-official/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxhackingid-official/XSS2Shell-CVE-2026-64638">
 - [ZSecur1ty/XSS2Shell-CVE-2026-64638](https://github.com/ZSecur1ty/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/ZSecur1ty/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/ZSecur1ty/XSS2Shell-CVE-2026-64638">
+- [0xBlackash/CVE-2026-64638](https://github.com/0xBlackash/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
