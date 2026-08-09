@@ -776,7 +776,7 @@
 ---
 ## CVE-2026-64638 ()
 > 
-- [Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC">
+- [Boreas37/CVE-2026-64638-PoC-XSS2Shell-](https://github.com/Boreas37/CVE-2026-64638-PoC-XSS2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-64638-PoC-XSS2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-64638-PoC-XSS2Shell-">
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
 - [686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638">
 - [5yu4n/CVE-2026-64638](https://github.com/5yu4n/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/5yu4n/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/5yu4n/CVE-2026-64638">
@@ -797,6 +797,7 @@
 - [jendmaoul/XSS2Shell-CVE-2026-64638](https://github.com/jendmaoul/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/jendmaoul/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/jendmaoul/XSS2Shell-CVE-2026-64638">
 - [Ahmall-sec/XSS2Shell](https://github.com/Ahmall-sec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/XSS2Shell">
 - [epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner](https://github.com/epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner">
+- [eh-amish/CVE-2026-64638-XSS-to-Shell-PoC](https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">
 
 ---
 ## CVE-2026-64633 ()
