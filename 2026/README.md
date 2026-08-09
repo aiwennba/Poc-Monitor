@@ -798,6 +798,7 @@
 - [Ahmall-sec/XSS2Shell](https://github.com/Ahmall-sec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/XSS2Shell">
 - [epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner](https://github.com/epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/epdjsmit/Repository-name-cve-2026-64638-wordpress-scanner">
 - [eh-amish/CVE-2026-64638-XSS-to-Shell-PoC](https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">
+- [0xlipon/xss2shell](https://github.com/0xlipon/xss2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xlipon/xss2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xlipon/xss2shell">
 
 ---
 ## CVE-2026-64633 ()
@@ -1266,6 +1267,7 @@
 - [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
 - [Mohammad-008/rsfiles-CVE-2026-57827](https://github.com/Mohammad-008/rsfiles-CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammad-008/rsfiles-CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammad-008/rsfiles-CVE-2026-57827">
 - [jjkk123123/CVE-2026-57827](https://github.com/jjkk123123/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/jjkk123123/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/jjkk123123/CVE-2026-57827">
+- [Ahmall-sec/CVE_2026_57827](https://github.com/Ahmall-sec/CVE_2026_57827)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/CVE_2026_57827">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/CVE_2026_57827">
 
 ---
 ## CVE-2026-57821 ()
