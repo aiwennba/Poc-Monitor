@@ -71,6 +71,11 @@
 - [izxci/CVE-2026-9691](https://github.com/izxci/CVE-2026-9691)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-9691">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-9691">
 
 ---
+## CVE-2026-9645 ()
+> 
+- [0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis">
+
+---
 ## CVE-2026-9558 ()
 > 
 - [covepseng/cve-2026-9558-poc](https://github.com/covepseng/cve-2026-9558-poc)	<img alt="forks" src="https://img.shields.io/github/forks/covepseng/cve-2026-9558-poc">	<img alt="stars" src="https://img.shields.io/github/stars/covepseng/cve-2026-9558-poc">
@@ -790,6 +795,7 @@
 - [Dungsocool/CVE-2026-64638](https://github.com/Dungsocool/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-64638">
 - [MR-LeonardoGomes/XSS2Shell-CVE-2026-64638](https://github.com/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638">
 - [jendmaoul/XSS2Shell-CVE-2026-64638](https://github.com/jendmaoul/XSS2Shell-CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/jendmaoul/XSS2Shell-CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/jendmaoul/XSS2Shell-CVE-2026-64638">
+- [Ahmall-sec/XSS2Shell](https://github.com/Ahmall-sec/XSS2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/XSS2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/XSS2Shell">
 
 ---
 ## CVE-2026-64633 ()
