@@ -4451,6 +4451,11 @@
 - [HORKimhab/CVE-2026-34926](https://github.com/HORKimhab/CVE-2026-34926)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-34926">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-34926">
 
 ---
+## CVE-2026-34910 ()
+> 
+- [Boreas37/CVE-2026-34910-PoC](https://github.com/Boreas37/CVE-2026-34910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-34910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-34910-PoC">
+
+---
 ## CVE-2026-34838 ()
 > 
 - [bamuwe/CVE-2026-34838](https://github.com/bamuwe/CVE-2026-34838)	<img alt="forks" src="https://img.shields.io/github/forks/bamuwe/CVE-2026-34838">	<img alt="stars" src="https://img.shields.io/github/stars/bamuwe/CVE-2026-34838">
@@ -7378,6 +7383,7 @@
 ## CVE-2026-22747 ()
 > 
 - [F1n1Sh3r/cve-2026-22747-lab](https://github.com/F1n1Sh3r/cve-2026-22747-lab)	<img alt="forks" src="https://img.shields.io/github/forks/F1n1Sh3r/cve-2026-22747-lab">	<img alt="stars" src="https://img.shields.io/github/stars/F1n1Sh3r/cve-2026-22747-lab">
+- [gsadagopan/cve-2026-22747-sandbox](https://github.com/gsadagopan/cve-2026-22747-sandbox)	<img alt="forks" src="https://img.shields.io/github/forks/gsadagopan/cve-2026-22747-sandbox">	<img alt="stars" src="https://img.shields.io/github/stars/gsadagopan/cve-2026-22747-sandbox">
 
 ---
 ## CVE-2026-22738 ()
