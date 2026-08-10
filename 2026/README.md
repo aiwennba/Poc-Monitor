@@ -7210,6 +7210,7 @@
 - [timgad794/DevHub-HTB-Walkthrough](https://github.com/timgad794/DevHub-HTB-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/timgad794/DevHub-HTB-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/timgad794/DevHub-HTB-Walkthrough">
 - [nullRoot-Red/CVE-2026-23744](https://github.com/nullRoot-Red/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/nullRoot-Red/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/nullRoot-Red/CVE-2026-23744">
 - [amao26/CVE-2026-23744-PoC](https://github.com/amao26/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amao26/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amao26/CVE-2026-23744-PoC">
+- [sonnelon/CVE-2026-23744-PoC](https://github.com/sonnelon/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2026-23744-PoC">
 
 ---
 ## CVE-2026-23723 ()
