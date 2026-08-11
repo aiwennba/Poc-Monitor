@@ -3120,6 +3120,13 @@
 - [wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/wxxsfxyzm/GhostLock-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/wxxsfxyzm/GhostLock-Galaxy">
 - [ruik-tech/Root-My-Galaxy](https://github.com/ruik-tech/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/ruik-tech/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/ruik-tech/Root-My-Galaxy">
 - [yijiacloud/ghostlock-cve-2026-43499-4.19-k40](https://github.com/yijiacloud/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/yijiacloud/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/yijiacloud/ghostlock-cve-2026-43499-4.19-k40">
+- [oopnv70-lab/ghostlock-skeleton-v2](https://github.com/oopnv70-lab/ghostlock-skeleton-v2)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-skeleton-v2">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-skeleton-v2">
+- [yijiacloud/GhostLock-OPPO-PCKM00](https://github.com/yijiacloud/GhostLock-OPPO-PCKM00)	<img alt="forks" src="https://img.shields.io/github/forks/yijiacloud/GhostLock-OPPO-PCKM00">	<img alt="stars" src="https://img.shields.io/github/stars/yijiacloud/GhostLock-OPPO-PCKM00">
+- [zzzxxxxxxxxxx/GhostLock-GOT-W29](https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29)	<img alt="forks" src="https://img.shields.io/github/forks/zzzxxxxxxxxxx/GhostLock-GOT-W29">	<img alt="stars" src="https://img.shields.io/github/stars/zzzxxxxxxxxxx/GhostLock-GOT-W29">
+- [xiaohj233/ghostlock-x200-root](https://github.com/xiaohj233/ghostlock-x200-root)	<img alt="forks" src="https://img.shields.io/github/forks/xiaohj233/ghostlock-x200-root">	<img alt="stars" src="https://img.shields.io/github/stars/xiaohj233/ghostlock-x200-root">
+- [oopnv70-lab/ghostlock-skeleton](https://github.com/oopnv70-lab/ghostlock-skeleton)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-skeleton">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-skeleton">
+- [oopnv70-lab/ghostlock-apk](https://github.com/oopnv70-lab/ghostlock-apk)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-apk">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-apk">
+- [OhLookItsTheIRS/Root-My-Galaxy-tests](https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests)	<img alt="forks" src="https://img.shields.io/github/forks/OhLookItsTheIRS/Root-My-Galaxy-tests">	<img alt="stars" src="https://img.shields.io/github/stars/OhLookItsTheIRS/Root-My-Galaxy-tests">
 
 ---
 ## CVE-2026-43494 ()
@@ -8389,6 +8396,12 @@
 ## CVE-2026-1729 ()
 > 
 - [ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass](https://github.com/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">
+
+---
+## CVE-2026-17106 ()
+> 
+- [HackSpeak/CVE-2026-17106](https://github.com/HackSpeak/CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17106">
+- [masasron/CopyEscape-CVE-2026-17106](https://github.com/masasron/CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/masasron/CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/masasron/CopyEscape-CVE-2026-17106">
 
 ---
 ## CVE-2026-17001 ()
