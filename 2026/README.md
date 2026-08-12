@@ -4926,6 +4926,11 @@
 - [redyank/CVE-2026-33310](https://github.com/redyank/CVE-2026-33310)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33310">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33310">
 
 ---
+## CVE-2026-33267 ()
+> 
+- [Boreas37/CVE-2026-33267-PoC](https://github.com/Boreas37/CVE-2026-33267-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-33267-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-33267-PoC">
+
+---
 ## CVE-2026-33229 ()
 > 
 - [azefzafyoussef/CVE-2026-33229](https://github.com/azefzafyoussef/CVE-2026-33229)	<img alt="forks" src="https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-33229">	<img alt="stars" src="https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-33229">
@@ -8423,6 +8428,11 @@
 ## CVE-2026-17566 ()
 > 
 - [HackSpeak/CVE-2026-17566](https://github.com/HackSpeak/CVE-2026-17566)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17566">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17566">
+
+---
+## CVE-2026-17544 ()
+> 
+- [Boreas37/CVE-2026-17544-PoC](https://github.com/Boreas37/CVE-2026-17544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-17544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-17544-PoC">
 
 ---
 ## CVE-2026-17543 ()
