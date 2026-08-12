@@ -479,6 +479,11 @@
 - [xxconi/CVE-2026-6960](https://github.com/xxconi/CVE-2026-6960)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6960">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6960">
 
 ---
+## CVE-2026-69263 ()
+> 
+- [leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263)	<img alt="forks" src="https://img.shields.io/github/forks/leoelsolh/CVE-2026-69263">	<img alt="stars" src="https://img.shields.io/github/stars/leoelsolh/CVE-2026-69263">
+
+---
 ## CVE-2026-69243 ()
 > 
 - [JVBotelho/cve-2026-69243-poc-aiohttp-smuggling](https://github.com/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling)	<img alt="forks" src="https://img.shields.io/github/forks/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling">	<img alt="stars" src="https://img.shields.io/github/stars/JVBotelho/cve-2026-69243-poc-aiohttp-smuggling">
@@ -2922,6 +2927,11 @@
 ## CVE-2026-44403 ()
 > 
 - [ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit](https://github.com/ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZemarKhos/CVE-2026-44403-WingFTP-v8.1.2-POC-Exploit">
+
+---
+## CVE-2026-44402 ()
+> 
+- [Virgula0/CVE-2026-44402](https://github.com/Virgula0/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/Virgula0/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/Virgula0/CVE-2026-44402">
 
 ---
 ## CVE-2026-44401 ()
@@ -6266,6 +6276,11 @@
 - [d3vn0mi/CVE-2026-27470-POC](https://github.com/d3vn0mi/CVE-2026-27470-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2026-27470-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2026-27470-POC">
 
 ---
+## CVE-2026-27344 ()
+> 
+- [AC8999/CVE-2026-27344](https://github.com/AC8999/CVE-2026-27344)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2026-27344">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2026-27344">
+
+---
 ## CVE-2026-27211 ()
 > 
 - [glitchhawks/CVE-2026-27211](https://github.com/glitchhawks/CVE-2026-27211)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-27211">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-27211">
@@ -7379,6 +7394,7 @@
 - [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
 - [bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bakano98/cve-2026-23111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bakano98/cve-2026-23111-poc">
 - [vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111](https://github.com/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">
+- [Knz-source/CVE-2026-23111-POC-noddlenpottato](https://github.com/Knz-source/CVE-2026-23111-POC-noddlenpottato)	<img alt="forks" src="https://img.shields.io/github/forks/Knz-source/CVE-2026-23111-POC-noddlenpottato">	<img alt="stars" src="https://img.shields.io/github/stars/Knz-source/CVE-2026-23111-POC-noddlenpottato">
 
 ---
 ## CVE-2026-23010 ()
@@ -9279,6 +9295,11 @@
 ## CVE-2026-0092 ()
 > 
 - [Majorjayyy1/CVE-2026-0092](https://github.com/Majorjayyy1/CVE-2026-0092)	<img alt="forks" src="https://img.shields.io/github/forks/Majorjayyy1/CVE-2026-0092">	<img alt="stars" src="https://img.shields.io/github/stars/Majorjayyy1/CVE-2026-0092">
+
+---
+## CVE-2026-0075 ()
+> 
+- [QM4RS/CVE-2026-0075](https://github.com/QM4RS/CVE-2026-0075)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0075">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0075">
 
 ---
 ## CVE-2026-0073 ()
