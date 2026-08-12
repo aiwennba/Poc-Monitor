@@ -885,6 +885,11 @@
 - [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
 
 ---
+## CVE-2026-64563 ()
+> 
+- [guard-wait/CVE-2026-64563_EXP](https://github.com/guard-wait/CVE-2026-64563_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2026-64563_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2026-64563_EXP">
+
+---
 ## CVE-2026-64561 ()
 > 
 - [HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64561">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64561">
@@ -2262,6 +2267,7 @@
 - [cazzysoci/cve-2026-48908](https://github.com/cazzysoci/cve-2026-48908)	<img alt="forks" src="https://img.shields.io/github/forks/cazzysoci/cve-2026-48908">	<img alt="stars" src="https://img.shields.io/github/stars/cazzysoci/cve-2026-48908">
 - [g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection](https://github.com/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection">
 - [imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE](https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE">
+- [yora1928/CVE-2026-48908-by-yora](https://github.com/yora1928/CVE-2026-48908-by-yora)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/CVE-2026-48908-by-yora">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/CVE-2026-48908-by-yora">
 
 ---
 ## CVE-2026-48907 ()
@@ -8458,6 +8464,7 @@
 > 
 - [HackSpeak/CVE-2026-17106](https://github.com/HackSpeak/CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17106">
 - [masasron/CopyEscape-CVE-2026-17106](https://github.com/masasron/CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/masasron/CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/masasron/CopyEscape-CVE-2026-17106">
+- [686f6c61/POC-CopyEscape-CVE-2026-17106](https://github.com/686f6c61/POC-CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-CopyEscape-CVE-2026-17106">
 
 ---
 ## CVE-2026-17001 ()
