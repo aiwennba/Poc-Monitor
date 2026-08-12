@@ -842,6 +842,7 @@
 - [eh-amish/CVE-2026-64638-XSS-to-Shell-PoC](https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC">
 - [0xlipon/xss2shell](https://github.com/0xlipon/xss2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xlipon/xss2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xlipon/xss2shell">
 - [giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab](https://github.com/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">
+- [ZildanZ/CVE-2026-64638](https://github.com/ZildanZ/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/ZildanZ/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/ZildanZ/CVE-2026-64638">
 
 ---
 ## CVE-2026-64633 ()
@@ -1962,6 +1963,7 @@
 > 
 - [0xBlackash/CVE-2026-50656](https://github.com/0xBlackash/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50656">
 - [HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50656">
+- [g0thamRabb1t/CVE-2026-50656-rogueplanet-validation](https://github.com/g0thamRabb1t/CVE-2026-50656-rogueplanet-validation)	<img alt="forks" src="https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-50656-rogueplanet-validation">	<img alt="stars" src="https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-50656-rogueplanet-validation">
 
 ---
 ## CVE-2026-5061 ()
