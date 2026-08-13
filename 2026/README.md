@@ -653,6 +653,7 @@
 ## CVE-2026-66804 ()
 > 
 - [DavidCarliez/CVE-2026-66804-CrossDevice-LPE](https://github.com/DavidCarliez/CVE-2026-66804-CrossDevice-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-66804-CrossDevice-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-66804-CrossDevice-LPE">
+- [Rat5ak/CVE-2026-66804-CrossDevice-Service-EoP](https://github.com/Rat5ak/CVE-2026-66804-CrossDevice-Service-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-66804-CrossDevice-Service-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-66804-CrossDevice-Service-EoP">
 
 ---
 ## CVE-2026-66754 ()
