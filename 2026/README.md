@@ -15,6 +15,8 @@
 > 
 - [George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-](https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9999-Serverless-Function-Event-Injection-Path-Traversal-Code-Overwrite-">
 - [josephfarah-ciso/CVE-2026-9999-exploit](https://github.com/josephfarah-ciso/CVE-2026-9999-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/josephfarah-ciso/CVE-2026-9999-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/josephfarah-ciso/CVE-2026-9999-exploit">
+- [George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite](https://github.com/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-9999-Serverless-Event-Injection-to-Code-Overwrite">
+- [24520597-blip/CVE-2026-999999](https://github.com/24520597-blip/CVE-2026-999999)	<img alt="forks" src="https://img.shields.io/github/forks/24520597-blip/CVE-2026-999999">	<img alt="stars" src="https://img.shields.io/github/stars/24520597-blip/CVE-2026-999999">
 
 ---
 ## CVE-2026-9998 ()
@@ -2492,6 +2494,11 @@
 - [oscerd/CVE-2026-47323](https://github.com/oscerd/CVE-2026-47323)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-47323">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-47323">
 
 ---
+## CVE-2026-47301 ()
+> 
+- [OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit">
+
+---
 ## CVE-2026-47291 ()
 > 
 - [ManagerEmpty/CVE-2026-47291-httpsys](https://github.com/ManagerEmpty/CVE-2026-47291-httpsys)	<img alt="forks" src="https://img.shields.io/github/forks/ManagerEmpty/CVE-2026-47291-httpsys">	<img alt="stars" src="https://img.shields.io/github/stars/ManagerEmpty/CVE-2026-47291-httpsys">
@@ -3204,6 +3211,7 @@
 - [OhLookItsTheIRS/Root-My-Galaxy-tests](https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests)	<img alt="forks" src="https://img.shields.io/github/forks/OhLookItsTheIRS/Root-My-Galaxy-tests">	<img alt="stars" src="https://img.shields.io/github/stars/OhLookItsTheIRS/Root-My-Galaxy-tests">
 - [hybLOVE/iqoo-temp-root](https://github.com/hybLOVE/iqoo-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/hybLOVE/iqoo-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/hybLOVE/iqoo-temp-root">
 - [E-R-Butch/F9360-CVE43499](https://github.com/E-R-Butch/F9360-CVE43499)	<img alt="forks" src="https://img.shields.io/github/forks/E-R-Butch/F9360-CVE43499">	<img alt="stars" src="https://img.shields.io/github/stars/E-R-Butch/F9360-CVE43499">
+- [wzhdgithub/GhostLock](https://github.com/wzhdgithub/GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/wzhdgithub/GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/wzhdgithub/GhostLock">
 
 ---
 ## CVE-2026-43494 ()
