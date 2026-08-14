@@ -1898,6 +1898,11 @@
 - [portbuster1337/CVE-2026-52806](https://github.com/portbuster1337/CVE-2026-52806)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-52806">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-52806">
 
 ---
+## CVE-2026-52715 ()
+> 
+- [686f6c61/POC-GeoLeak-CVE-2026-52715](https://github.com/686f6c61/POC-GeoLeak-CVE-2026-52715)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-GeoLeak-CVE-2026-52715">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-GeoLeak-CVE-2026-52715">
+
+---
 ## CVE-2026-52658 ()
 > 
 - [mirackayikci/CVE-2026-52658](https://github.com/mirackayikci/CVE-2026-52658)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-52658">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-52658">
@@ -6255,6 +6260,8 @@
 ## CVE-2026-27912 ()
 > 
 - [oxstussz-eng/Kerberos-CVE-2026-27912](https://github.com/oxstussz-eng/Kerberos-CVE-2026-27912)	<img alt="forks" src="https://img.shields.io/github/forks/oxstussz-eng/Kerberos-CVE-2026-27912">	<img alt="stars" src="https://img.shields.io/github/stars/oxstussz-eng/Kerberos-CVE-2026-27912">
+- [Semperis-Community/ResetNightmare](https://github.com/Semperis-Community/ResetNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/Semperis-Community/ResetNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/Semperis-Community/ResetNightmare">
+- [mihat2/ResetNightmare-impacket](https://github.com/mihat2/ResetNightmare-impacket)	<img alt="forks" src="https://img.shields.io/github/forks/mihat2/ResetNightmare-impacket">	<img alt="stars" src="https://img.shields.io/github/stars/mihat2/ResetNightmare-impacket">
 
 ---
 ## CVE-2026-27886 ()
