@@ -3298,6 +3298,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [NKTriS/HTSOC](https://github.com/NKTriS/HTSOC)	<img alt="forks" src="https://img.shields.io/github/forks/NKTriS/HTSOC">	<img alt="stars" src="https://img.shields.io/github/stars/NKTriS/HTSOC">
 - [minwunn/CVE-2024-4577-Lab-and-Analysis](https://github.com/minwunn/CVE-2024-4577-Lab-and-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/minwunn/CVE-2024-4577-Lab-and-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/minwunn/CVE-2024-4577-Lab-and-Analysis">
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">
+- [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">
 
 ---
 ## CVE-2024-4573 ()
