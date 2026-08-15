@@ -482,6 +482,11 @@
 - [SunandM/poc-h2-duplicate-host](https://github.com/SunandM/poc-h2-duplicate-host)	<img alt="forks" src="https://img.shields.io/github/forks/SunandM/poc-h2-duplicate-host">	<img alt="stars" src="https://img.shields.io/github/stars/SunandM/poc-h2-duplicate-host">
 
 ---
+## CVE-2026-71362 ()
+> 
+- [dinosn/cve-2026-71362-magento-lab](https://github.com/dinosn/cve-2026-71362-magento-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-71362-magento-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-71362-magento-lab">
+
+---
 ## CVE-2026-71211 ()
 > 
 - [Abdivasiyev2008/CVE-2026-71211-exploit](https://github.com/Abdivasiyev2008/CVE-2026-71211-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Abdivasiyev2008/CVE-2026-71211-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Abdivasiyev2008/CVE-2026-71211-exploit">
@@ -971,6 +976,11 @@
 - [0xBlackash/CVE-2026-64531](https://github.com/0xBlackash/CVE-2026-64531)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64531">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64531">
 - [suominen/ovswrap](https://github.com/suominen/ovswrap)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ovswrap">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ovswrap">
 - [HackSpeak/CVE-2026-64531](https://github.com/HackSpeak/CVE-2026-64531)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64531">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64531">
+
+---
+## CVE-2026-6440 ()
+> 
+- [Alixploit22/CVE-2026-6440](https://github.com/Alixploit22/CVE-2026-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2026-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2026-6440">
 
 ---
 ## CVE-2026-6433 ()
@@ -1816,6 +1826,11 @@
 ## CVE-2026-53595 ()
 > 
 - [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
+
+---
+## CVE-2026-53587 ()
+> 
+- [Alixploit22/CVE-2026-53587](https://github.com/Alixploit22/CVE-2026-53587)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2026-53587">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2026-53587">
 
 ---
 ## CVE-2026-53582 ()
