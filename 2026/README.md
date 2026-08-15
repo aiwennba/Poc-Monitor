@@ -127,6 +127,11 @@
 - [CuteeCat/CVE-2026-9198](https://github.com/CuteeCat/CVE-2026-9198)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-9198">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-9198">
 
 ---
+## CVE-2026-9147 ()
+> 
+- [SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-9147-uproot-rce">
+
+---
 ## CVE-2026-9090 ()
 > 
 - [biosGit/CVE-2026-9090](https://github.com/biosGit/CVE-2026-9090)	<img alt="forks" src="https://img.shields.io/github/forks/biosGit/CVE-2026-9090">	<img alt="stars" src="https://img.shields.io/github/stars/biosGit/CVE-2026-9090">
@@ -8610,6 +8615,7 @@
 ## CVE-2026-17544 ()
 > 
 - [Boreas37/CVE-2026-17544-PoC](https://github.com/Boreas37/CVE-2026-17544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-17544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-17544-PoC">
+- [r2qa/CVE-2026-17544](https://github.com/r2qa/CVE-2026-17544)	<img alt="forks" src="https://img.shields.io/github/forks/r2qa/CVE-2026-17544">	<img alt="stars" src="https://img.shields.io/github/stars/r2qa/CVE-2026-17544">
 
 ---
 ## CVE-2026-17543 ()
