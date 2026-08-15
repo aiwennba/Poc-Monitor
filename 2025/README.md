@@ -591,7 +591,7 @@
 ---
 ## CVE-2025-70559 ()
 > 
-- [isukasanuj/-CVE-2025-70559-](https://github.com/isukasanuj/-CVE-2025-70559-)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/-CVE-2025-70559-">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/-CVE-2025-70559-">
+- [isukasanuj/CVE-2025-70559](https://github.com/isukasanuj/CVE-2025-70559)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/CVE-2025-70559">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/CVE-2025-70559">
 
 ---
 ## CVE-2025-70545 ()
