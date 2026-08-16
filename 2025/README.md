@@ -6720,6 +6720,12 @@
 - [dwawadaw8/CVE-2025-42937](https://github.com/dwawadaw8/CVE-2025-42937)	<img alt="forks" src="https://img.shields.io/github/forks/dwawadaw8/CVE-2025-42937">	<img alt="stars" src="https://img.shields.io/github/stars/dwawadaw8/CVE-2025-42937">
 
 ---
+## CVE-2025-4275 ()
+> 
+- [TheMalwareGuardian/CVE-2025-4275](https://github.com/TheMalwareGuardian/CVE-2025-4275)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-4275">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-4275">
+- [NikolajSchlej/Hydroph0bia](https://github.com/NikolajSchlej/Hydroph0bia)	<img alt="forks" src="https://img.shields.io/github/forks/NikolajSchlej/Hydroph0bia">	<img alt="stars" src="https://img.shields.io/github/stars/NikolajSchlej/Hydroph0bia">
+
+---
 ## CVE-2025-42599 ()
 > 
 - [bronsoneaver/CVE-2025-42599](https://github.com/bronsoneaver/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-42599">
@@ -8091,6 +8097,13 @@
 ## CVE-2025-3054 ()
 > 
 - [frogchung/CVE-2025-3054-Exploit](https://github.com/frogchung/CVE-2025-3054-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/frogchung/CVE-2025-3054-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/frogchung/CVE-2025-3054-Exploit">
+
+---
+## CVE-2025-3052 ()
+> 
+- [TheMalwareGuardian/CVE-2025-3052](https://github.com/TheMalwareGuardian/CVE-2025-3052)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-3052">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-3052">
+- [yonatanasd232132/TALKINGEBN](https://github.com/yonatanasd232132/TALKINGEBN)	<img alt="forks" src="https://img.shields.io/github/forks/yonatanasd232132/TALKINGEBN">	<img alt="stars" src="https://img.shields.io/github/stars/yonatanasd232132/TALKINGEBN">
+- [m4rm0k/talkingBen](https://github.com/m4rm0k/talkingBen)	<img alt="forks" src="https://img.shields.io/github/forks/m4rm0k/talkingBen">	<img alt="stars" src="https://img.shields.io/github/stars/m4rm0k/talkingBen">
 
 ---
 ## CVE-2025-30406 ()
