@@ -1812,6 +1812,11 @@
 - [HORKimhab/CVE-2026-53805](https://github.com/HORKimhab/CVE-2026-53805)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53805">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53805">
 
 ---
+## CVE-2026-53787 ()
+> 
+- [webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-53787-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-53787-POC-">
+
+---
 ## CVE-2026-53753 ()
 > 
 - [BiiTts/CVE-2026-53753-Crawl4AI-RCE](https://github.com/BiiTts/CVE-2026-53753-Crawl4AI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-53753-Crawl4AI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-53753-Crawl4AI-RCE">
