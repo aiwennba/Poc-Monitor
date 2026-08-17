@@ -4069,6 +4069,11 @@
 - [CCELEND/CVE-2026-40369](https://github.com/CCELEND/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/CCELEND/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/CCELEND/CVE-2026-40369">
 
 ---
+## CVE-2026-40345 ()
+> 
+- [Jvr2022/CVE-2026-40345](https://github.com/Jvr2022/CVE-2026-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-40345">
+
+---
 ## CVE-2026-40261 ()
 > 
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
@@ -9046,6 +9051,7 @@
 ## CVE-2026-13714 ()
 > 
 - [Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-13714">
+- [katranSefa/CVE-2026-13714](https://github.com/katranSefa/CVE-2026-13714)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-13714">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-13714">
 
 ---
 ## CVE-2026-13610 ()
