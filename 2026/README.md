@@ -8661,6 +8661,7 @@
 ## CVE-2026-19478 ()
 > 
 - [davkharrr/CVE-2026-19478-PoC](https://github.com/davkharrr/CVE-2026-19478-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davkharrr/CVE-2026-19478-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davkharrr/CVE-2026-19478-PoC">
+- [HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19650-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19650-CVE-2026-19478">
 
 ---
 ## CVE-2026-1937 ()
@@ -8987,6 +8988,11 @@
 ## CVE-2026-1470 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-1470](https://github.com/Ashwesker/Ashwesker-CVE-2026-1470)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1470">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1470">
+
+---
+## CVE-2026-14669 ()
+> 
+- [HackSpeak/CVE-2026-14669](https://github.com/HackSpeak/CVE-2026-14669)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-14669">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-14669">
 
 ---
 ## CVE-2026-14628 ()
