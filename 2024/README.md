@@ -4104,6 +4104,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [ibrahmsql/CVE-2024-42364](https://github.com/ibrahmsql/CVE-2024-42364)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-42364">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-42364">
 
 ---
+## CVE-2024-42353 ()
+> 
+- [curls0206/webob-cve-2024-42353](https://github.com/curls0206/webob-cve-2024-42353)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/webob-cve-2024-42353">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/webob-cve-2024-42353">
+
+---
 ## CVE-2024-42346 (2024-09-20T19:15:00)
 > Galaxy is a free, open-source system for analyzing data, authoring workflows, training and education, publishing tools, managing infrastructure, and more. The editor visualization, /visualizations endpoint, can be used to store HTML tags and trigger javascript execution upon edit operation. All supported branches of Galaxy (and more back to release_20.05) were amended with the supplied patches. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [partywavesec/CVE-2024-42346](https://github.com/partywavesec/CVE-2024-42346)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2024-42346">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2024-42346">
@@ -4192,6 +4197,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41817 ()
 > 
 - [Dxsk/CVE-2024-41817-poc](https://github.com/Dxsk/CVE-2024-41817-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Dxsk/CVE-2024-41817-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Dxsk/CVE-2024-41817-poc">
+
+---
+## CVE-2024-41810 ()
+> 
+- [curls0206/twisted-cve-2024-41810](https://github.com/curls0206/twisted-cve-2024-41810)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/twisted-cve-2024-41810">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/twisted-cve-2024-41810">
 
 ---
 ## CVE-2024-41713 (2024-10-21T21:15:00)
@@ -5017,6 +5027,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Anurag-Chevendra/CVE-2024-38014](https://github.com/Anurag-Chevendra/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Anurag-Chevendra/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Anurag-Chevendra/CVE-2024-38014">
 - [Naman2701B/CVE-2024-38014](https://github.com/Naman2701B/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Naman2701B/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Naman2701B/CVE-2024-38014">
 - [Naman2701B/DLL-for-2024-38014](https://github.com/Naman2701B/DLL-for-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Naman2701B/DLL-for-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Naman2701B/DLL-for-2024-38014">
+
+---
+## CVE-2024-37891 ()
+> 
+- [curls0206/urllib3-cve-2024-37891](https://github.com/curls0206/urllib3-cve-2024-37891)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/urllib3-cve-2024-37891">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/urllib3-cve-2024-37891">
 
 ---
 ## CVE-2024-37889 (2024-06-14T20:15:00)
@@ -5887,6 +5902,11 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 > 
 - [Akira07210/Exploit-CVE-2024-34070](https://github.com/Akira07210/Exploit-CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Akira07210/Exploit-CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Akira07210/Exploit-CVE-2024-34070">
 - [Okymi-X/CVE-2024-34070](https://github.com/Okymi-X/CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Okymi-X/CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Okymi-X/CVE-2024-34070">
+
+---
+## CVE-2024-34064 ()
+> 
+- [curls0206/jinja2-cve-2024-34064](https://github.com/curls0206/jinja2-cve-2024-34064)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/jinja2-cve-2024-34064">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/jinja2-cve-2024-34064">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
@@ -9092,6 +9112,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC">
 - [Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC">
 - [Max78000/CVE-2024-23334-aiohttp](https://github.com/Max78000/CVE-2024-23334-aiohttp)	<img alt="forks" src="https://img.shields.io/github/forks/Max78000/CVE-2024-23334-aiohttp">	<img alt="stars" src="https://img.shields.io/github/stars/Max78000/CVE-2024-23334-aiohttp">
+- [curls0206/aiohttp-cve-2024-23334](https://github.com/curls0206/aiohttp-cve-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/aiohttp-cve-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/aiohttp-cve-2024-23334">
 
 ---
 ## CVE-2024-23298 ()
@@ -9432,6 +9453,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 ## CVE-2024-22198 (2024-01-11T20:15:00)
 > Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to arbitrary command execution by abusing the configuration settings. The `Home > Preference` page exposes a list of system settings such as `Run Mode`, `Jwt Secret`, `Node Secret` and `Terminal Start Command`. While the UI doesn't allow users to modify the `Terminal Start Command` setting, it is possible to do so by sending a request to the API. This issue may lead to authenticated remote code execution, privilege escalation, and information disclosure. This vulnerability has been patched in version 2.0.0.beta.9.
 - [xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/xiw1ll/CVE-2024-22198_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/xiw1ll/CVE-2024-22198_Checker">
+
+---
+## CVE-2024-22195 ()
+> 
+- [curls0206/jinja2-cve-2024-22195](https://github.com/curls0206/jinja2-cve-2024-22195)	<img alt="forks" src="https://img.shields.io/github/forks/curls0206/jinja2-cve-2024-22195">	<img alt="stars" src="https://img.shields.io/github/stars/curls0206/jinja2-cve-2024-22195">
 
 ---
 ## CVE-2024-22145 (2024-05-17T09:15:00)
