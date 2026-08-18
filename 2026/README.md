@@ -1008,6 +1008,9 @@
 - [0xlipon/xss2shell](https://github.com/0xlipon/xss2shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xlipon/xss2shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xlipon/xss2shell">
 - [giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab](https://github.com/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/CVE-2026-64638-XSS2Shell_Lab">
 - [ZildanZ/CVE-2026-64638](https://github.com/ZildanZ/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/ZildanZ/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/ZildanZ/CVE-2026-64638">
+- [kaleth4/CVE-2026-64638](https://github.com/kaleth4/CVE-2026-64638)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-64638">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-64638">
+- [SanaullahAmanullah/xss2shell-check](https://github.com/SanaullahAmanullah/xss2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/SanaullahAmanullah/xss2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/SanaullahAmanullah/xss2shell-check">
+- [Alixploit22/CVEX2SHEL](https://github.com/Alixploit22/CVEX2SHEL)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVEX2SHEL">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVEX2SHEL">
 
 ---
 ## CVE-2026-64633 ()
