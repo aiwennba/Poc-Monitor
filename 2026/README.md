@@ -3416,6 +3416,7 @@
 - [knowlily/cve-2026-43499-honor](https://github.com/knowlily/cve-2026-43499-honor)	<img alt="forks" src="https://img.shields.io/github/forks/knowlily/cve-2026-43499-honor">	<img alt="stars" src="https://img.shields.io/github/stars/knowlily/cve-2026-43499-honor">
 - [CamsShaft/IonStack-S22-cve-2026-43499](https://github.com/CamsShaft/IonStack-S22-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/IonStack-S22-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/IonStack-S22-cve-2026-43499">
 - [NanoTurtle1145/root-my-s9280](https://github.com/NanoTurtle1145/root-my-s9280)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTurtle1145/root-my-s9280">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTurtle1145/root-my-s9280">
+- [gitchw/ghostlock-cve-2026-43499](https://github.com/gitchw/ghostlock-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/gitchw/ghostlock-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/gitchw/ghostlock-cve-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
