@@ -969,6 +969,7 @@
 ## CVE-2026-64849 ()
 > 
 - [codeb0ssx/CVE-2026-64849-PoC](https://github.com/codeb0ssx/CVE-2026-64849-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-64849-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-64849-PoC">
+- [BiuTrap/CVE-2026-64849](https://github.com/BiuTrap/CVE-2026-64849)	<img alt="forks" src="https://img.shields.io/github/forks/BiuTrap/CVE-2026-64849">	<img alt="stars" src="https://img.shields.io/github/stars/BiuTrap/CVE-2026-64849">
 
 ---
 ## CVE-2026-64824 ()
@@ -4901,6 +4902,7 @@
 - [striga-ai/CVE-2026-34486](https://github.com/striga-ai/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/striga-ai/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/striga-ai/CVE-2026-34486">
 - [anonmrc/CVE-2026-34486-e-Tomcat-Tribes](https://github.com/anonmrc/CVE-2026-34486-e-Tomcat-Tribes)	<img alt="forks" src="https://img.shields.io/github/forks/anonmrc/CVE-2026-34486-e-Tomcat-Tribes">	<img alt="stars" src="https://img.shields.io/github/stars/anonmrc/CVE-2026-34486-e-Tomcat-Tribes">
 - [razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction](https://github.com/razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-34486-tomcat_encrypt_bypass_reproduction">
+- [CypherHippie/CVE-2026-34486---unauthenticated-RCE-via-Java-deserialization](https://github.com/CypherHippie/CVE-2026-34486---unauthenticated-RCE-via-Java-deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/CypherHippie/CVE-2026-34486---unauthenticated-RCE-via-Java-deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/CypherHippie/CVE-2026-34486---unauthenticated-RCE-via-Java-deserialization">
 
 ---
 ## CVE-2026-34475 ()
@@ -8755,6 +8757,11 @@
 ## CVE-2026-18577 ()
 > 
 - [HORKimhab/CVE-2026-18577](https://github.com/HORKimhab/CVE-2026-18577)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-18577">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-18577">
+
+---
+## CVE-2026-18504 ()
+> 
+- [HORKimhab/CVE-2026-18504-CVE-2026-16732](https://github.com/HORKimhab/CVE-2026-18504-CVE-2026-16732)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-18504-CVE-2026-16732">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-18504-CVE-2026-16732">
 
 ---
 ## CVE-2026-1844 ()
