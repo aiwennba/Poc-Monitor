@@ -1049,6 +1049,7 @@
 - [ethanolgolf/CVE-2026-64564](https://github.com/ethanolgolf/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/ethanolgolf/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/ethanolgolf/CVE-2026-64564">
 - [HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64564">
 - [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
+- [0xdeadroot/SCTPhantom-CVE-2026-64564](https://github.com/0xdeadroot/SCTPhantom-CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/SCTPhantom-CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/SCTPhantom-CVE-2026-64564">
 
 ---
 ## CVE-2026-64563 ()
@@ -1224,6 +1225,8 @@
 - [sowarma/wp2shell-PoC](https://github.com/sowarma/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sowarma/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sowarma/wp2shell-PoC">
 - [M4xSec/wp2shell-Exploit-Waf-Bypass](https://github.com/M4xSec/wp2shell-Exploit-Waf-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/wp2shell-Exploit-Waf-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/wp2shell-Exploit-Waf-Bypass">
 - [TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-](https://github.com/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">
+- [Madelleimproved411/wp-to-code](https://github.com/Madelleimproved411/wp-to-code)	<img alt="forks" src="https://img.shields.io/github/forks/Madelleimproved411/wp-to-code">	<img alt="stars" src="https://img.shields.io/github/stars/Madelleimproved411/wp-to-code">
+- [g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/WP2Shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -1987,6 +1990,7 @@
 ## CVE-2026-53365 ()
 > 
 - [HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365">
+- [HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365">
 
 ---
 ## CVE-2026-53360 ()
