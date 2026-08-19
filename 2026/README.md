@@ -1223,6 +1223,7 @@
 - [AnggaTechI/CVE-2026-63030](https://github.com/AnggaTechI/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63030">
 - [sowarma/wp2shell-PoC](https://github.com/sowarma/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sowarma/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sowarma/wp2shell-PoC">
 - [M4xSec/wp2shell-Exploit-Waf-Bypass](https://github.com/M4xSec/wp2shell-Exploit-Waf-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/wp2shell-Exploit-Waf-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/wp2shell-Exploit-Waf-Bypass">
+- [TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-](https://github.com/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-)	<img alt="forks" src="https://img.shields.io/github/forks/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">	<img alt="stars" src="https://img.shields.io/github/stars/TranDongA3/POC-CVE-2026-63030-CVE-2026-60137-">
 
 ---
 ## CVE-2026-6279 ()
@@ -1891,6 +1892,11 @@
 ## CVE-2026-54088 ()
 > 
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
+
+---
+## CVE-2026-53959 ()
+> 
+- [anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2026-53959">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2026-53959">
 
 ---
 ## CVE-2026-53921 ()
@@ -4141,6 +4147,11 @@
 > 
 - [HORKimhab/CVE-2026-4020](https://github.com/HORKimhab/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-4020">
 - [faizdotid/CVE-2026-4020](https://github.com/faizdotid/CVE-2026-4020)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/CVE-2026-4020">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/CVE-2026-4020">
+
+---
+## CVE-2026-40179 ()
+> 
+- [bsdrip/CVE-2026-40179-PoC](https://github.com/bsdrip/CVE-2026-40179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bsdrip/CVE-2026-40179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bsdrip/CVE-2026-40179-PoC">
 
 ---
 ## CVE-2026-40176 ()
