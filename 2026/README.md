@@ -1051,6 +1051,7 @@
 - [HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64564">
 - [suominen/sctphantom](https://github.com/suominen/sctphantom)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/sctphantom">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/sctphantom">
 - [0xdeadroot/SCTPhantom-CVE-2026-64564](https://github.com/0xdeadroot/SCTPhantom-CVE-2026-64564)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/SCTPhantom-CVE-2026-64564">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/SCTPhantom-CVE-2026-64564">
+- [yandex-cloud-examples/yc-mk8s-sctphantom-mitigation](https://github.com/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/yandex-cloud-examples/yc-mk8s-sctphantom-mitigation">
 
 ---
 ## CVE-2026-64563 ()
@@ -8959,6 +8960,7 @@
 > 
 - [yora1928/cve-2026-15748](https://github.com/yora1928/cve-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/cve-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/cve-2026-15748">
 - [HORKimhab/CVE-2026-15826-CVE-2026-15748](https://github.com/HORKimhab/CVE-2026-15826-CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15826-CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15826-CVE-2026-15748">
+- [ubaydev/CVE-2026-15748](https://github.com/ubaydev/CVE-2026-15748)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2026-15748">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2026-15748">
 
 ---
 ## CVE-2026-15706 ()
