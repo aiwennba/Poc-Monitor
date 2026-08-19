@@ -3447,6 +3447,7 @@
 - [R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/GhostLock-5.10">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/GhostLock-5.10">
 - [zychen027/CVE-2026-43499_HW-CLT-AL01](https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01)	<img alt="forks" src="https://img.shields.io/github/forks/zychen027/CVE-2026-43499_HW-CLT-AL01">	<img alt="stars" src="https://img.shields.io/github/stars/zychen027/CVE-2026-43499_HW-CLT-AL01">
 - [XiaoBaiLovesStirring/ghostlock-custom](https://github.com/XiaoBaiLovesStirring/ghostlock-custom)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/ghostlock-custom">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/ghostlock-custom">
+- [xrzcc/s26-m1q-ghostlock-selinux](https://github.com/xrzcc/s26-m1q-ghostlock-selinux)	<img alt="forks" src="https://img.shields.io/github/forks/xrzcc/s26-m1q-ghostlock-selinux">	<img alt="stars" src="https://img.shields.io/github/stars/xrzcc/s26-m1q-ghostlock-selinux">
 
 ---
 ## CVE-2026-43494 ()
@@ -8862,6 +8863,7 @@
 - [fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-16723">
 - [learner330/fastjson-cve-2026-16723](https://github.com/learner330/fastjson-cve-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/learner330/fastjson-cve-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/learner330/fastjson-cve-2026-16723">
 - [xiaoqiMikko/fastjson-check](https://github.com/xiaoqiMikko/fastjson-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/fastjson-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/fastjson-check">
+- [Superman-L/CVE-2026-16723](https://github.com/Superman-L/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Superman-L/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Superman-L/CVE-2026-16723">
 
 ---
 ## CVE-2026-1668 ()
