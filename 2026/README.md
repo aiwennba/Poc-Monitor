@@ -975,6 +975,7 @@
 > 
 - [codeb0ssx/CVE-2026-64849-PoC](https://github.com/codeb0ssx/CVE-2026-64849-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/CVE-2026-64849-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/CVE-2026-64849-PoC">
 - [BiuTrap/CVE-2026-64849](https://github.com/BiuTrap/CVE-2026-64849)	<img alt="forks" src="https://img.shields.io/github/forks/BiuTrap/CVE-2026-64849">	<img alt="stars" src="https://img.shields.io/github/stars/BiuTrap/CVE-2026-64849">
+- [zavisco/CVE-2026-64849.yaml](https://github.com/zavisco/CVE-2026-64849.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/zavisco/CVE-2026-64849.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/zavisco/CVE-2026-64849.yaml">
 
 ---
 ## CVE-2026-64824 ()
@@ -1283,6 +1284,11 @@
 ## CVE-2026-61343 ()
 > 
 - [nmagill123/CVE-2026-61343-poc-librebooking-rce](https://github.com/nmagill123/CVE-2026-61343-poc-librebooking-rce)	<img alt="forks" src="https://img.shields.io/github/forks/nmagill123/CVE-2026-61343-poc-librebooking-rce">	<img alt="stars" src="https://img.shields.io/github/stars/nmagill123/CVE-2026-61343-poc-librebooking-rce">
+
+---
+## CVE-2026-61241 ()
+> 
+- [Godliveanton/CVE-2026-61241](https://github.com/Godliveanton/CVE-2026-61241)	<img alt="forks" src="https://img.shields.io/github/forks/Godliveanton/CVE-2026-61241">	<img alt="stars" src="https://img.shields.io/github/stars/Godliveanton/CVE-2026-61241">
 
 ---
 ## CVE-2026-6060 ()
