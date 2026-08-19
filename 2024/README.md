@@ -7713,6 +7713,14 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213)	<img alt="forks" src="https://img.shields.io/github/forks/0x1x02/CVE-2024-28213">	<img alt="stars" src="https://img.shields.io/github/stars/0x1x02/CVE-2024-28213">
 
 ---
+## CVE-2024-28116 ()
+> 
+- [bebarossi/grav-cve-2024-28116](https://github.com/bebarossi/grav-cve-2024-28116)	<img alt="forks" src="https://img.shields.io/github/forks/bebarossi/grav-cve-2024-28116">	<img alt="stars" src="https://img.shields.io/github/stars/bebarossi/grav-cve-2024-28116">
+- [geniuszly/GenGravSSTIExploit](https://github.com/geniuszly/GenGravSSTIExploit)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/GenGravSSTIExploit">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/GenGravSSTIExploit">
+- [gunzf0x/Grav-CMS-RCE-Authenticated](https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/Grav-CMS-RCE-Authenticated">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/Grav-CMS-RCE-Authenticated">
+- [akabe1/Graver](https://github.com/akabe1/Graver)	<img alt="forks" src="https://img.shields.io/github/forks/akabe1/Graver">	<img alt="stars" src="https://img.shields.io/github/stars/akabe1/Graver">
+
+---
 ## CVE-2024-28088 (2024-03-04T00:15:00)
 > LangChain through 0.1.10 allows ../ directory traversal by an actor who is able to control the final part of the path parameter in a load_chain call. This bypasses the intended behavior of loading configurations only from the hwchase17/langchain-hub GitHub repository. The outcome can be disclosure of an API key for a large language model online service, or remote code execution. (A patch is available as of release 0.1.29 of langchain-core.)
 - [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/levpachmanov/cve-2024-28088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/levpachmanov/cve-2024-28088-poc">
