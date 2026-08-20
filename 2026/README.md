@@ -2969,6 +2969,7 @@
 - [0xBlackash/CVE-2026-46242](https://github.com/0xBlackash/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46242">
 - [Baba01hacker666/CVE-2026-46242](https://github.com/Baba01hacker666/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-46242">
 - [SaithFranklinB/ScannerBadEpoll](https://github.com/SaithFranklinB/ScannerBadEpoll)	<img alt="forks" src="https://img.shields.io/github/forks/SaithFranklinB/ScannerBadEpoll">	<img alt="stars" src="https://img.shields.io/github/stars/SaithFranklinB/ScannerBadEpoll">
+- [BinaryMasc/CVE-2026-46242](https://github.com/BinaryMasc/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/BinaryMasc/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/BinaryMasc/CVE-2026-46242">
 
 ---
 ## CVE-2026-46215 ()
@@ -3491,6 +3492,7 @@
 - [XiaoBaiLovesStirring/ghostlock-custom](https://github.com/XiaoBaiLovesStirring/ghostlock-custom)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/ghostlock-custom">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/ghostlock-custom">
 - [xrzcc/s26-m1q-ghostlock-selinux](https://github.com/xrzcc/s26-m1q-ghostlock-selinux)	<img alt="forks" src="https://img.shields.io/github/forks/xrzcc/s26-m1q-ghostlock-selinux">	<img alt="stars" src="https://img.shields.io/github/stars/xrzcc/s26-m1q-ghostlock-selinux">
 - [mobilehackinglab/ghostlock-a17](https://github.com/mobilehackinglab/ghostlock-a17)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/ghostlock-a17">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/ghostlock-a17">
+- [oopnv70-lab/ghostlock-honor-aak-probe](https://github.com/oopnv70-lab/ghostlock-honor-aak-probe)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-honor-aak-probe">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-honor-aak-probe">
 
 ---
 ## CVE-2026-43494 ()
