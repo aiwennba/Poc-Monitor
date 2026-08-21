@@ -376,6 +376,16 @@
 - [anirudhmakkar/cve-2026-7665](https://github.com/anirudhmakkar/cve-2026-7665)	<img alt="forks" src="https://img.shields.io/github/forks/anirudhmakkar/cve-2026-7665">	<img alt="stars" src="https://img.shields.io/github/stars/anirudhmakkar/cve-2026-7665">
 
 ---
+## CVE-2026-76565 ()
+> 
+- [toanln-cov/CVE-2026-76565](https://github.com/toanln-cov/CVE-2026-76565)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-76565">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-76565">
+
+---
+## CVE-2026-76564 ()
+> 
+- [toanln-cov/CVE-2026-76564](https://github.com/toanln-cov/CVE-2026-76564)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-76564">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-76564">
+
+---
 ## CVE-2026-7654 ()
 > 
 - [izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7654">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7654">
@@ -1512,6 +1522,11 @@
 - [J4ck3LSyN-Gen2/CVE-2026-58457](https://github.com/J4ck3LSyN-Gen2/CVE-2026-58457)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-58457">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-58457">
 
 ---
+## CVE-2026-58455 ()
+> 
+- [Boreas37/CVE-2026-58455-PoC](https://github.com/Boreas37/CVE-2026-58455-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-58455-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-58455-PoC">
+
+---
 ## CVE-2026-58424 ()
 > 
 - [BridgerAlderson/CVE-2026-58424](https://github.com/BridgerAlderson/CVE-2026-58424)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-58424">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-58424">
@@ -2593,6 +2608,7 @@
 - [NoXiVaR/CVE-2026-48907](https://github.com/NoXiVaR/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/NoXiVaR/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/NoXiVaR/CVE-2026-48907">
 - [bayu06802/CVE-2026-48907](https://github.com/bayu06802/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/bayu06802/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/bayu06802/CVE-2026-48907">
 - [ChiefYoru/CVE-2026-48907_PoC](https://github.com/ChiefYoru/CVE-2026-48907_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-48907_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-48907_PoC">
+- [CerberusMrXi/JCEzploit-CVE-2026-48907](https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/JCEzploit-CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/JCEzploit-CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
