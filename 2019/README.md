@@ -245,6 +245,7 @@
 - [jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection](https://github.com/jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection">
 - [paulameg/SimpleCTF-THM-Walkthrough](https://github.com/paulameg/SimpleCTF-THM-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/paulameg/SimpleCTF-THM-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/paulameg/SimpleCTF-THM-Walkthrough">
 - [Vedantrana73/cve-2019-9053-py3](https://github.com/Vedantrana73/cve-2019-9053-py3)	<img alt="forks" src="https://img.shields.io/github/forks/Vedantrana73/cve-2019-9053-py3">	<img alt="stars" src="https://img.shields.io/github/stars/Vedantrana73/cve-2019-9053-py3">
+- [quliyevresul7777/CVE-2019-9053](https://github.com/quliyevresul7777/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/quliyevresul7777/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/quliyevresul7777/CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
