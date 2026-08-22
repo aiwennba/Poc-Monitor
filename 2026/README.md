@@ -9774,6 +9774,7 @@
 - [ExDev994/CVE-2026-0740-mass](https://github.com/ExDev994/CVE-2026-0740-mass)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-0740-mass">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-0740-mass">
 - [a24ac1/CVE-2026-0740](https://github.com/a24ac1/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2026-0740">
 - [MadExploits/ninja-form-exploit](https://github.com/MadExploits/ninja-form-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/ninja-form-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/ninja-form-exploit">
+- [llaytynher/CVE-2026-0740-upload-template](https://github.com/llaytynher/CVE-2026-0740-upload-template)	<img alt="forks" src="https://img.shields.io/github/forks/llaytynher/CVE-2026-0740-upload-template">	<img alt="stars" src="https://img.shields.io/github/stars/llaytynher/CVE-2026-0740-upload-template">
 
 ---
 ## CVE-2026-0730 ()
