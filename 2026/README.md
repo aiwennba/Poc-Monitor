@@ -5555,6 +5555,12 @@
 - [webshellseo8/CVE-2026-32488-POC](https://github.com/webshellseo8/CVE-2026-32488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-32488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-32488-POC">
 
 ---
+## CVE-2026-32475 ()
+> 
+- [0xBlackash/CVE-2026-32475](https://github.com/0xBlackash/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-32475">
+- [absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE](https://github.com/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">
+
+---
 ## CVE-2026-32321 ()
 > 
 - [drkim-dev/CVE-2026-32321](https://github.com/drkim-dev/CVE-2026-32321)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-32321">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-32321">
