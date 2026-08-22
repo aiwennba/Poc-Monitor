@@ -4985,6 +4985,7 @@
 ## CVE-2026-34910 ()
 > 
 - [Boreas37/CVE-2026-34910-PoC](https://github.com/Boreas37/CVE-2026-34910-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-34910-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-34910-PoC">
+- [gagaltotal/CVE-2026-34910-unifi-poc](https://github.com/gagaltotal/CVE-2026-34910-unifi-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-34910-unifi-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-34910-unifi-poc">
 
 ---
 ## CVE-2026-34838 ()
