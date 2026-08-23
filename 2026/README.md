@@ -1153,6 +1153,7 @@
 ## CVE-2026-64560 ()
 > 
 - [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-64560-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-64560-Analysis">
+- [xx2901318208/ghostlock-cve-2026-64560](https://github.com/xx2901318208/ghostlock-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/xx2901318208/ghostlock-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/xx2901318208/ghostlock-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
