@@ -10003,6 +10003,7 @@
 ## CVE-2026-0013 ()
 > 
 - [inforcqb/cve-2026-0013-exploit](https://github.com/inforcqb/cve-2026-0013-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/inforcqb/cve-2026-0013-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/inforcqb/cve-2026-0013-exploit">
+- [XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/cve-2026-0013-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/cve-2026-0013-poc">
 
 ---
 ## CVE-2026-0009 ()
