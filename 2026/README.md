@@ -521,6 +521,7 @@
 ## CVE-2026-73570 ()
 > 
 - [HORKimhab/CVE-2026-73570](https://github.com/HORKimhab/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-73570">
+- [0xbug/CVE-2026-73570](https://github.com/0xbug/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/0xbug/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/0xbug/CVE-2026-73570">
 
 ---
 ## CVE-2026-73519 ()
