@@ -605,6 +605,11 @@
 - [dinosn/cve-2026-71362-magento-lab](https://github.com/dinosn/cve-2026-71362-magento-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-71362-magento-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-71362-magento-lab">
 
 ---
+## CVE-2026-71300 ()
+> 
+- [oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-71300">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-71300">
+
+---
 ## CVE-2026-71211 ()
 > 
 - [Abdivasiyev2008/CVE-2026-71211-exploit](https://github.com/Abdivasiyev2008/CVE-2026-71211-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Abdivasiyev2008/CVE-2026-71211-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Abdivasiyev2008/CVE-2026-71211-exploit">
@@ -720,6 +725,7 @@
 > 
 - [HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-68820">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-68820">
 - [fevar54/CVE-2026-68820-Mitigation-PoC-](https://github.com/fevar54/CVE-2026-68820-Mitigation-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-68820-Mitigation-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-68820-Mitigation-PoC-">
+- [ubitquity/Windows-WinSock-UAF-Mitigation](https://github.com/ubitquity/Windows-WinSock-UAF-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/ubitquity/Windows-WinSock-UAF-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/ubitquity/Windows-WinSock-UAF-Mitigation">
 
 ---
 ## CVE-2026-68771 ()
@@ -873,6 +879,21 @@
 ## CVE-2026-66916 ()
 > 
 - [toanln-cov/CVE-2026-66916](https://github.com/toanln-cov/CVE-2026-66916)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-66916">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-66916">
+
+---
+## CVE-2026-66908 ()
+> 
+- [oscerd/CVE-2026-66908](https://github.com/oscerd/CVE-2026-66908)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-66908">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-66908">
+
+---
+## CVE-2026-66907 ()
+> 
+- [oscerd/CVE-2026-66907](https://github.com/oscerd/CVE-2026-66907)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-66907">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-66907">
+
+---
+## CVE-2026-66906 ()
+> 
+- [oscerd/CVE-2026-66906](https://github.com/oscerd/CVE-2026-66906)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-66906">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-66906">
 
 ---
 ## CVE-2026-66804 ()
@@ -1476,6 +1497,11 @@
 ## CVE-2026-60121 ()
 > 
 - [HORKimhab/CVE-2026-60121-CVE-2026-61498](https://github.com/HORKimhab/CVE-2026-60121-CVE-2026-61498)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60121-CVE-2026-61498">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60121-CVE-2026-61498">
+
+---
+## CVE-2026-60093 ()
+> 
+- [oscerd/CVE-2026-60093](https://github.com/oscerd/CVE-2026-60093)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-60093">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-60093">
 
 ---
 ## CVE-2026-6009 ()
