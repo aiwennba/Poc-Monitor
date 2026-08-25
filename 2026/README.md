@@ -448,6 +448,11 @@
 - [totekuh/CVE-2026-75616](https://github.com/totekuh/CVE-2026-75616)	<img alt="forks" src="https://img.shields.io/github/forks/totekuh/CVE-2026-75616">	<img alt="stars" src="https://img.shields.io/github/stars/totekuh/CVE-2026-75616">
 
 ---
+## CVE-2026-75604 ()
+> 
+- [rafabd1/CVE-2026-75604-poc](https://github.com/rafabd1/CVE-2026-75604-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rafabd1/CVE-2026-75604-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rafabd1/CVE-2026-75604-poc">
+
+---
 ## CVE-2026-7515 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-7515-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-7515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-7515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-7515-PoC">
