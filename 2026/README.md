@@ -1785,6 +1785,11 @@
 - [thecodeb0ss/CVE-2026-56782](https://github.com/thecodeb0ss/CVE-2026-56782)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-56782">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-56782">
 
 ---
+## CVE-2026-56705 ()
+> 
+- [Boreas37/CVE-2026-56705](https://github.com/Boreas37/CVE-2026-56705)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-56705">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-56705">
+
+---
 ## CVE-2026-56292 ()
 > 
 - [nullwhisper/CVE-2026-56292-AcyMailing-SQLi](https://github.com/nullwhisper/CVE-2026-56292-AcyMailing-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/nullwhisper/CVE-2026-56292-AcyMailing-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/nullwhisper/CVE-2026-56292-AcyMailing-SQLi">
