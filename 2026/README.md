@@ -4154,6 +4154,11 @@
 - [berdav/CVE-2026-41567](https://github.com/berdav/CVE-2026-41567)	<img alt="forks" src="https://img.shields.io/github/forks/berdav/CVE-2026-41567">	<img alt="stars" src="https://img.shields.io/github/stars/berdav/CVE-2026-41567">
 
 ---
+## CVE-2026-41551 ()
+> 
+- [selecthch/CVE-2026-41551](https://github.com/selecthch/CVE-2026-41551)	<img alt="forks" src="https://img.shields.io/github/forks/selecthch/CVE-2026-41551">	<img alt="stars" src="https://img.shields.io/github/stars/selecthch/CVE-2026-41551">
+
+---
 ## CVE-2026-41490 ()
 > 
 - [romain-deperne/CVE-2026-41490](https://github.com/romain-deperne/CVE-2026-41490)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-41490">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-41490">
@@ -9048,6 +9053,7 @@
 - [T0w0T/POC-CVE-2026-18963](https://github.com/T0w0T/POC-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/T0w0T/POC-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/T0w0T/POC-CVE-2026-18963">
 - [Red-Darkin/CVE-2026-18963-keycloak](https://github.com/Red-Darkin/CVE-2026-18963-keycloak)	<img alt="forks" src="https://img.shields.io/github/forks/Red-Darkin/CVE-2026-18963-keycloak">	<img alt="stars" src="https://img.shields.io/github/stars/Red-Darkin/CVE-2026-18963-keycloak">
 - [prot0tw/Keycloak_CVE-2026-18963_PoC](https://github.com/prot0tw/Keycloak_CVE-2026-18963_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/prot0tw/Keycloak_CVE-2026-18963_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/prot0tw/Keycloak_CVE-2026-18963_PoC">
+- [BlackHatExploitation/Exploit-For-CVE-2026-18963](https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/BlackHatExploitation/Exploit-For-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/BlackHatExploitation/Exploit-For-CVE-2026-18963">
 
 ---
 ## CVE-2026-18953 ()
