@@ -600,6 +600,11 @@
 - [abdugafforov-bobur/CVE-2026-72550-poc](https://github.com/abdugafforov-bobur/CVE-2026-72550-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-72550-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-72550-poc">
 
 ---
+## CVE-2026-72530 ()
+> 
+- [fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-](https://github.com/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-">
+
+---
 ## CVE-2026-7222 ()
 > 
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
@@ -3715,6 +3720,7 @@
 - [ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">
 - [zenyxx-xd/RootMyVivo](https://github.com/zenyxx-xd/RootMyVivo)	<img alt="forks" src="https://img.shields.io/github/forks/zenyxx-xd/RootMyVivo">	<img alt="stars" src="https://img.shields.io/github/stars/zenyxx-xd/RootMyVivo">
 - [JingMatrix/pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root)	<img alt="forks" src="https://img.shields.io/github/forks/JingMatrix/pixel-ksu-root">	<img alt="stars" src="https://img.shields.io/github/stars/JingMatrix/pixel-ksu-root">
+- [sgswzglwlx/vivo-root-build](https://github.com/sgswzglwlx/vivo-root-build)	<img alt="forks" src="https://img.shields.io/github/forks/sgswzglwlx/vivo-root-build">	<img alt="stars" src="https://img.shields.io/github/stars/sgswzglwlx/vivo-root-build">
 
 ---
 ## CVE-2026-43494 ()
