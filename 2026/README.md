@@ -3012,6 +3012,11 @@
 - [SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm](https://github.com/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-4692-trust-me-im-in-rdm">
 
 ---
+## CVE-2026-46858 ()
+> 
+- [sergiofigueras/cve-2026-46858](https://github.com/sergiofigueras/cve-2026-46858)	<img alt="forks" src="https://img.shields.io/github/forks/sergiofigueras/cve-2026-46858">	<img alt="stars" src="https://img.shields.io/github/stars/sergiofigueras/cve-2026-46858">
+
+---
 ## CVE-2026-46840 ()
 > 
 - [fangbarristerbar/CVE-2026-46840-ORDS-RCE](https://github.com/fangbarristerbar/CVE-2026-46840-ORDS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-46840-ORDS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-46840-ORDS-RCE">
