@@ -391,6 +391,7 @@
 ## CVE-2026-76904 ()
 > 
 - [YonLiud/CVE-2026-76904](https://github.com/YonLiud/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-76904">
+- [bickZero93/CVE-2026-76904](https://github.com/bickZero93/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/bickZero93/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/bickZero93/CVE-2026-76904">
 
 ---
 ## CVE-2026-7671 ()
@@ -1294,6 +1295,11 @@
 - [sfewer-r7/CVE-2026-63077](https://github.com/sfewer-r7/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-63077">
 - [BoredHackerBlog/teamcity-CVE-2026-63077-pcap](https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap)	<img alt="forks" src="https://img.shields.io/github/forks/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">	<img alt="stars" src="https://img.shields.io/github/stars/BoredHackerBlog/teamcity-CVE-2026-63077-pcap">
 - [AnggaTechI/CVE-2026-63077](https://github.com/AnggaTechI/CVE-2026-63077)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63077">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63077">
+
+---
+## CVE-2026-63072 ()
+> 
+- [0xBlackash/CVE-2026-63072](https://github.com/0xBlackash/CVE-2026-63072)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-63072">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-63072">
 
 ---
 ## CVE-2026-6307 ()
@@ -2774,6 +2780,7 @@
 - [bayu06802/CVE-2026-48907](https://github.com/bayu06802/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/bayu06802/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/bayu06802/CVE-2026-48907">
 - [ChiefYoru/CVE-2026-48907_PoC](https://github.com/ChiefYoru/CVE-2026-48907_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ChiefYoru/CVE-2026-48907_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ChiefYoru/CVE-2026-48907_PoC">
 - [CerberusMrXi/JCEzploit-CVE-2026-48907](https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/JCEzploit-CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/JCEzploit-CVE-2026-48907">
+- [ksotaria1337/-CVE-2026-48907-](https://github.com/ksotaria1337/-CVE-2026-48907-)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/-CVE-2026-48907-">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/-CVE-2026-48907-">
 
 ---
 ## CVE-2026-48866 ()
@@ -4772,6 +4779,7 @@
 - [zycoder0day/CVE-2026-3844](https://github.com/zycoder0day/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-3844">
 - [Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution](https://github.com/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2026-3844-Breeze-Cache-WordPress-Plugin-Remote-Code-Execution">
 - [AnggaTechI/CVE-2026-3844](https://github.com/AnggaTechI/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-3844">
+- [Alevtinka19/CVE-2026-3844](https://github.com/Alevtinka19/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/Alevtinka19/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/Alevtinka19/CVE-2026-3844">
 
 ---
 ## CVE-2026-38427 ()
