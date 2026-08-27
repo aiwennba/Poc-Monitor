@@ -242,6 +242,11 @@
 - [minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508](https://github.com/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/zyxel-social-login-bypass-cve-2026-8508">
 
 ---
+## CVE-2026-8467 ()
+> 
+- [HORKimhab/CVE-2026-8467](https://github.com/HORKimhab/CVE-2026-8467)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8467">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8467">
+
+---
 ## CVE-2026-8461 ()
 > 
 - [anyanything/CVE-2026-8461-PoC](https://github.com/anyanything/CVE-2026-8461-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/anyanything/CVE-2026-8461-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/anyanything/CVE-2026-8461-PoC">
@@ -442,6 +447,11 @@
 ## CVE-2026-76036 ()
 > 
 - [Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android](https://github.com/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/rendering-code-outside-the-sandbox-cve-2026-76036-dawn-webgpu-buffer-overflow-in-chrome-on-android">
+
+---
+## CVE-2026-75898 ()
+> 
+- [t3bik/CVE-2026-75898](https://github.com/t3bik/CVE-2026-75898)	<img alt="forks" src="https://img.shields.io/github/forks/t3bik/CVE-2026-75898">	<img alt="stars" src="https://img.shields.io/github/stars/t3bik/CVE-2026-75898">
 
 ---
 ## CVE-2026-7574 ()
@@ -2457,6 +2467,11 @@
 ## CVE-2026-50979 ()
 > 
 - [bugresearch/CVE-2026-50979](https://github.com/bugresearch/CVE-2026-50979)	<img alt="forks" src="https://img.shields.io/github/forks/bugresearch/CVE-2026-50979">	<img alt="stars" src="https://img.shields.io/github/stars/bugresearch/CVE-2026-50979">
+
+---
+## CVE-2026-50787 ()
+> 
+- [brynax/CVE-2026-50787](https://github.com/brynax/CVE-2026-50787)	<img alt="forks" src="https://img.shields.io/github/forks/brynax/CVE-2026-50787">	<img alt="stars" src="https://img.shields.io/github/stars/brynax/CVE-2026-50787">
 
 ---
 ## CVE-2026-5076 ()
@@ -8497,6 +8512,7 @@
 - [gregk4sec/cve-2026-21962](https://github.com/gregk4sec/cve-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-21962">
 - [naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool](https://github.com/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/naozibuhao/CVE-2026-21962_Java_GUI_Exploit_Tool">
 - [0xBlackash/CVE-2026-21962](https://github.com/0xBlackash/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-21962">
+- [zeetee1235/CVE-2026-21962](https://github.com/zeetee1235/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/zeetee1235/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/zeetee1235/CVE-2026-21962">
 
 ---
 ## CVE-2026-21957 ()
