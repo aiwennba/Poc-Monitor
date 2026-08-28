@@ -7566,6 +7566,7 @@
 - [drackyjr/cve-2025-3248-exploit](https://github.com/drackyjr/cve-2025-3248-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/cve-2025-3248-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/cve-2025-3248-exploit">
 - [b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-3248-POC">
 - [nebari-playground/langflow-cve-2025-3248](https://github.com/nebari-playground/langflow-cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/nebari-playground/langflow-cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/nebari-playground/langflow-cve-2025-3248">
+- [hideki233/CVE-2025-3248-Langflow-RCE](https://github.com/hideki233/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hideki233/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hideki233/CVE-2025-3248-Langflow-RCE">
 
 ---
 ## CVE-2025-32463 ()
@@ -11273,6 +11274,11 @@
 - [mbanyamer/CVE-2025-11001---7-Zip](https://github.com/mbanyamer/CVE-2025-11001---7-Zip)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-11001---7-Zip">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-11001---7-Zip">
 - [ranasen-rat/CVE-2025-11001](https://github.com/ranasen-rat/CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/ranasen-rat/CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/ranasen-rat/CVE-2025-11001">
 - [B1ack4sh/Blackash-CVE-2025-11001](https://github.com/B1ack4sh/Blackash-CVE-2025-11001)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-11001">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-11001">
+
+---
+## CVE-2025-10952 ()
+> 
+- [Khashayarnzk/CVE-2025-10952-ml-logger-AFR](https://github.com/Khashayarnzk/CVE-2025-10952-ml-logger-AFR)	<img alt="forks" src="https://img.shields.io/github/forks/Khashayarnzk/CVE-2025-10952-ml-logger-AFR">	<img alt="stars" src="https://img.shields.io/github/stars/Khashayarnzk/CVE-2025-10952-ml-logger-AFR">
 
 ---
 ## CVE-2025-10951 ()
