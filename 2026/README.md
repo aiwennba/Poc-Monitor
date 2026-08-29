@@ -9313,6 +9313,11 @@
 - [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
 
 ---
+## CVE-2026-18729 ()
+> 
+- [rmhowe425/POC-CVE-2026-18729](https://github.com/rmhowe425/POC-CVE-2026-18729)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-18729">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-18729">
+
+---
 ## CVE-2026-18718 ()
 > 
 - [sn0x-sharma/CVE-2026-18718](https://github.com/sn0x-sharma/CVE-2026-18718)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-18718">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-18718">
