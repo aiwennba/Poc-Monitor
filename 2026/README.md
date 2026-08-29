@@ -301,6 +301,11 @@
 - [aj2108/CVE-2026-8237](https://github.com/aj2108/CVE-2026-8237)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8237">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8237">
 
 ---
+## CVE-2026-82286 ()
+> 
+- [BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write">
+
+---
 ## CVE-2026-8206 ()
 > 
 - [O99099O/CVE-2026-8206-Poc-](https://github.com/O99099O/CVE-2026-8206-Poc-)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/CVE-2026-8206-Poc-">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/CVE-2026-8206-Poc-">
