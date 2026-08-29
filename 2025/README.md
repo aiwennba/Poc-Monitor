@@ -8469,6 +8469,7 @@
 - [Fomovet/cve-2025-29927](https://github.com/Fomovet/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-29927">
 - [SwapnilDeshpande/cve-2025-29927-lab](https://github.com/SwapnilDeshpande/cve-2025-29927-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SwapnilDeshpande/cve-2025-29927-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SwapnilDeshpande/cve-2025-29927-lab">
 - [surajpandeyp/CVE-2025-29927](https://github.com/surajpandeyp/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-29927">
+- [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 
 ---
 ## CVE-2025-29891 ()
