@@ -961,6 +961,11 @@
 - [IlhomjonR/CVE-2026-67595](https://github.com/IlhomjonR/CVE-2026-67595)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-67595">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-67595">
 
 ---
+## CVE-2026-67363 ()
+> 
+- [Lulztigre/cve-2026-67363-67364](https://github.com/Lulztigre/cve-2026-67363-67364)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-67363-67364">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-67363-67364">
+
+---
 ## CVE-2026-67206 ()
 > 
 - [anirbala98/CVE-2026-67206](https://github.com/anirbala98/CVE-2026-67206)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2026-67206">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2026-67206">
@@ -4013,6 +4018,7 @@
 - [aratane/CVE-2026-42945](https://github.com/aratane/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2026-42945">
 - [Kentox493/CVE-2026-42945_NginxRift](https://github.com/Kentox493/CVE-2026-42945_NginxRift)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-42945_NginxRift">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-42945_NginxRift">
 - [CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check)	<img alt="forks" src="https://img.shields.io/github/forks/CynepMyx/nginx-rift-check">	<img alt="stars" src="https://img.shields.io/github/stars/CynepMyx/nginx-rift-check">
+- [FranklinF25/cve-2026-42945](https://github.com/FranklinF25/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/FranklinF25/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/FranklinF25/cve-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
