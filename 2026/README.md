@@ -292,6 +292,11 @@
 - [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
 
 ---
+## CVE-2026-82539 ()
+> 
+- [Xernary/CVE-2026-82539](https://github.com/Xernary/CVE-2026-82539)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2026-82539">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2026-82539">
+
+---
 ## CVE-2026-8239 ()
 > 
 - [aj2108/CVE-2026-8239](https://github.com/aj2108/CVE-2026-8239)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8239">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8239">
@@ -376,6 +381,11 @@
 - [alpernae/CVE-2026-79617](https://github.com/alpernae/CVE-2026-79617)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2026-79617">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2026-79617">
 
 ---
+## CVE-2026-79483 ()
+> 
+- [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
+
+---
 ## CVE-2026-78329 ()
 > 
 - [oscerd/CVE-2026-78329](https://github.com/oscerd/CVE-2026-78329)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-78329">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-78329">
@@ -435,6 +445,11 @@
 ## CVE-2026-7665 ()
 > 
 - [anirudhmakkar/cve-2026-7665](https://github.com/anirudhmakkar/cve-2026-7665)	<img alt="forks" src="https://img.shields.io/github/forks/anirudhmakkar/cve-2026-7665">	<img alt="stars" src="https://img.shields.io/github/stars/anirudhmakkar/cve-2026-7665">
+
+---
+## CVE-2026-76581 ()
+> 
+- [HORKimhab/CVE-2026-76581](https://github.com/HORKimhab/CVE-2026-76581)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-76581">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-76581">
 
 ---
 ## CVE-2026-76565 ()
@@ -9321,6 +9336,11 @@
 - [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
 
 ---
+## CVE-2026-18741 ()
+> 
+- [LindHunt/CVE-2026-18741](https://github.com/LindHunt/CVE-2026-18741)	<img alt="forks" src="https://img.shields.io/github/forks/LindHunt/CVE-2026-18741">	<img alt="stars" src="https://img.shields.io/github/stars/LindHunt/CVE-2026-18741">
+
+---
 ## CVE-2026-18729 ()
 > 
 - [rmhowe425/POC-CVE-2026-18729](https://github.com/rmhowe425/POC-CVE-2026-18729)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-18729">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-18729">
@@ -9870,6 +9890,11 @@
 ## CVE-2026-12720 ()
 > 
 - [webshellseo8/CVE-2026-12720-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-12720-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-12720-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-12720-Proof-of-Concept">
+
+---
+## CVE-2026-12513 ()
+> 
+- [MinhHK68/CVE-2026-12513](https://github.com/MinhHK68/CVE-2026-12513)	<img alt="forks" src="https://img.shields.io/github/forks/MinhHK68/CVE-2026-12513">	<img alt="stars" src="https://img.shields.io/github/stars/MinhHK68/CVE-2026-12513">
 
 ---
 ## CVE-2026-12485 ()
