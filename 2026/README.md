@@ -1552,6 +1552,11 @@
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
 
 ---
+## CVE-2026-62735 ()
+> 
+- [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2026-62735">
+
+---
 ## CVE-2026-6227 ()
 > 
 - [Pixel-DefaultBR/CVE-2026-6227](https://github.com/Pixel-DefaultBR/CVE-2026-6227)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2026-6227">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2026-6227">
@@ -6682,6 +6687,16 @@
 ## CVE-2026-3030 ()
 > 
 - [George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch](https://github.com/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch">
+
+---
+## CVE-2026-30252 ()
+> 
+- [vEnablee/CVE-2026-30252](https://github.com/vEnablee/CVE-2026-30252)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30252">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30252">
+
+---
+## CVE-2026-30251 ()
+> 
+- [vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30251">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30251">
 
 ---
 ## CVE-2026-30082 ()
