@@ -815,7 +815,7 @@
 ---
 ## CVE-2025-69080 ()
 > 
-- [AndrielSec/CVE-2025-69080-](https://github.com/AndrielSec/CVE-2025-69080-)	<img alt="forks" src="https://img.shields.io/github/forks/AndrielSec/CVE-2025-69080-">	<img alt="stars" src="https://img.shields.io/github/stars/AndrielSec/CVE-2025-69080-">
+- [AndrielSec/CVE-2025-69080](https://github.com/AndrielSec/CVE-2025-69080)	<img alt="forks" src="https://img.shields.io/github/forks/AndrielSec/CVE-2025-69080">	<img alt="stars" src="https://img.shields.io/github/stars/AndrielSec/CVE-2025-69080">
 
 ---
 ## CVE-2025-6907 ()
@@ -10271,6 +10271,7 @@
 - [callinston/CVE-2025-20333-exp](https://github.com/callinston/CVE-2025-20333-exp)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333-exp">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333-exp">
 - [curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner](https://github.com/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">
 - [cobbbex/cve-2025-20333](https://github.com/cobbbex/cve-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/cobbbex/cve-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/cobbbex/cve-2025-20333">
+- [cobbbex/Cisco-ASA-vulnerability-research](https://github.com/cobbbex/Cisco-ASA-vulnerability-research)	<img alt="forks" src="https://img.shields.io/github/forks/cobbbex/Cisco-ASA-vulnerability-research">	<img alt="stars" src="https://img.shields.io/github/stars/cobbbex/Cisco-ASA-vulnerability-research">
 
 ---
 ## CVE-2025-20286 ()
