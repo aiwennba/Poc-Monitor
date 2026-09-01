@@ -332,6 +332,11 @@
 - [noahlaopan-alt/cve-2026-82222](https://github.com/noahlaopan-alt/cve-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/noahlaopan-alt/cve-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/noahlaopan-alt/cve-2026-82222">
 
 ---
+## CVE-2026-82221 ()
+> 
+- [gabrielftanaka/CVE-2026-82221](https://github.com/gabrielftanaka/CVE-2026-82221)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielftanaka/CVE-2026-82221">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielftanaka/CVE-2026-82221">
+
+---
 ## CVE-2026-8206 ()
 > 
 - [O99099O/CVE-2026-8206-Poc-](https://github.com/O99099O/CVE-2026-8206-Poc-)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/CVE-2026-8206-Poc-">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/CVE-2026-8206-Poc-">
@@ -3939,6 +3944,7 @@
 - [ReBiliBin/ghostlock-oppo-watch3pro](https://github.com/ReBiliBin/ghostlock-oppo-watch3pro)	<img alt="forks" src="https://img.shields.io/github/forks/ReBiliBin/ghostlock-oppo-watch3pro">	<img alt="stars" src="https://img.shields.io/github/stars/ReBiliBin/ghostlock-oppo-watch3pro">
 - [diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/ghostlock-pfem10">
 - [rsyzee/ghostlock-infinix-hot70](https://github.com/rsyzee/ghostlock-infinix-hot70)	<img alt="forks" src="https://img.shields.io/github/forks/rsyzee/ghostlock-infinix-hot70">	<img alt="stars" src="https://img.shields.io/github/stars/rsyzee/ghostlock-infinix-hot70">
+- [slapah/ghostlock-h8q](https://github.com/slapah/ghostlock-h8q)	<img alt="forks" src="https://img.shields.io/github/forks/slapah/ghostlock-h8q">	<img alt="stars" src="https://img.shields.io/github/stars/slapah/ghostlock-h8q">
 
 ---
 ## CVE-2026-43494 ()
@@ -5854,6 +5860,7 @@
 - [l4st98/CVE-2026-33017-FireFlow](https://github.com/l4st98/CVE-2026-33017-FireFlow)	<img alt="forks" src="https://img.shields.io/github/forks/l4st98/CVE-2026-33017-FireFlow">	<img alt="stars" src="https://img.shields.io/github/stars/l4st98/CVE-2026-33017-FireFlow">
 - [e4zyy/Project-CVE-2026-33017](https://github.com/e4zyy/Project-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2026-33017">
 - [ahseven/CVE-2026-33017-PoC-Reverse-Shell](https://github.com/ahseven/CVE-2026-33017-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ahseven/CVE-2026-33017-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ahseven/CVE-2026-33017-PoC-Reverse-Shell">
+- [maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-33017">
 
 ---
 ## CVE-2026-3296 ()
@@ -9897,6 +9904,7 @@
 ---
 ## CVE-2026-13753 ()
 > 
+- [typedefabcd1234ntd/CVE-2026-13753-poc](https://github.com/typedefabcd1234ntd/CVE-2026-13753-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-13753-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-13753-poc">
 - [typedefabcd1234ntd/CVE-2026-13753-poc](https://github.com/typedefabcd1234ntd/CVE-2026-13753-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-13753-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-13753-poc">
 
 ---
