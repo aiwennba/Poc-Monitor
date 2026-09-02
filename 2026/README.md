@@ -181,6 +181,11 @@
 - [Polosss/By-Poloss..-..CVE-2026-9067](https://github.com/Polosss/By-Poloss..-..CVE-2026-9067)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-9067">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-9067">
 
 ---
+## CVE-2026-9055 ()
+> 
+- [EXEcution-py/CVE-2026-9055](https://github.com/EXEcution-py/CVE-2026-9055)	<img alt="forks" src="https://img.shields.io/github/forks/EXEcution-py/CVE-2026-9055">	<img alt="stars" src="https://img.shields.io/github/stars/EXEcution-py/CVE-2026-9055">
+
+---
 ## CVE-2026-9018 ()
 > 
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
@@ -698,11 +703,17 @@
 - [gabrielunknown/CVE-2026-73570](https://github.com/gabrielunknown/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-73570">
 - [INFOKOM-KI/Zimbra-CVE-2026-73570-Rules](https://github.com/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules)	<img alt="forks" src="https://img.shields.io/github/forks/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules">	<img alt="stars" src="https://img.shields.io/github/stars/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules">
 - [alsyundawy/eradicate-zimbra-malware](https://github.com/alsyundawy/eradicate-zimbra-malware)	<img alt="forks" src="https://img.shields.io/github/forks/alsyundawy/eradicate-zimbra-malware">	<img alt="stars" src="https://img.shields.io/github/stars/alsyundawy/eradicate-zimbra-malware">
+- [byt3l0rd/CVE-2026-73570](https://github.com/byt3l0rd/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-73570">
 
 ---
 ## CVE-2026-73519 ()
 > 
 - [squeeze440/CVE-2026-73519-WolfStack-PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73519-WolfStack-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73519-WolfStack-PoC">
+
+---
+## CVE-2026-73296 ()
+> 
+- [0xBlackash/CVE-2026-73296](https://github.com/0xBlackash/CVE-2026-73296)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-73296">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-73296">
 
 ---
 ## CVE-2026-73292 ()
@@ -9421,6 +9432,11 @@
 ## CVE-2026-19500 ()
 > 
 - [typedefabcd1234ntd/CVE-2026-19500-poc](https://github.com/typedefabcd1234ntd/CVE-2026-19500-poc)	<img alt="forks" src="https://img.shields.io/github/forks/typedefabcd1234ntd/CVE-2026-19500-poc">	<img alt="stars" src="https://img.shields.io/github/stars/typedefabcd1234ntd/CVE-2026-19500-poc">
+
+---
+## CVE-2026-19490 ()
+> 
+- [TarPeg007/CVE-2026-19490](https://github.com/TarPeg007/CVE-2026-19490)	<img alt="forks" src="https://img.shields.io/github/forks/TarPeg007/CVE-2026-19490">	<img alt="stars" src="https://img.shields.io/github/stars/TarPeg007/CVE-2026-19490">
 
 ---
 ## CVE-2026-19478 ()
