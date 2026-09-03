@@ -1823,6 +1823,11 @@
 - [Gutierre0x80/CVE-2026-59827](https://github.com/Gutierre0x80/CVE-2026-59827)	<img alt="forks" src="https://img.shields.io/github/forks/Gutierre0x80/CVE-2026-59827">	<img alt="stars" src="https://img.shields.io/github/stars/Gutierre0x80/CVE-2026-59827">
 
 ---
+## CVE-2026-59822 ()
+> 
+- [HORKimhab/CVE-2026-59822](https://github.com/HORKimhab/CVE-2026-59822)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-59822">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-59822">
+
+---
 ## CVE-2026-59774 ()
 > 
 - [FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2026-59774_docker">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2026-59774_docker">
