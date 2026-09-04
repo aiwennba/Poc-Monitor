@@ -345,6 +345,7 @@
 - [dinosn/cve-2026-82329-jfrog-artifactory](https://github.com/dinosn/cve-2026-82329-jfrog-artifactory)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-82329-jfrog-artifactory">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-82329-jfrog-artifactory">
 - [ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass](https://github.com/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2026-82329-JFrog-Artifactory-Auth-Bypass">
 - [0xCyp1337/CVE-2026-82329](https://github.com/0xCyp1337/CVE-2026-82329)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82329">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82329">
+- [realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py](https://github.com/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/realalexandergeorgiev/artifactory-CVE-2026-82329-poc.py">
 
 ---
 ## CVE-2026-82286 ()
@@ -481,6 +482,7 @@
 ---
 ## CVE-2026-78745 ()
 > 
+- [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
 - [n0c71v3x/CVE-2026-78745](https://github.com/n0c71v3x/CVE-2026-78745)	<img alt="forks" src="https://img.shields.io/github/forks/n0c71v3x/CVE-2026-78745">	<img alt="stars" src="https://img.shields.io/github/stars/n0c71v3x/CVE-2026-78745">
 
 ---
@@ -6246,6 +6248,11 @@
 - [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 
 ---
+## CVE-2026-31787 ()
+> 
+- [0xAtharv/CVE-2026-31787](https://github.com/0xAtharv/CVE-2026-31787)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2026-31787">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2026-31787">
+
+---
 ## CVE-2026-31717 ()
 > 
 - [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
@@ -9395,6 +9402,11 @@
 ## CVE-2026-20217 ()
 > 
 - [securifera/CVE-2026-20217](https://github.com/securifera/CVE-2026-20217)	<img alt="forks" src="https://img.shields.io/github/forks/securifera/CVE-2026-20217">	<img alt="stars" src="https://img.shields.io/github/stars/securifera/CVE-2026-20217">
+
+---
+## CVE-2026-20212 ()
+> 
+- [HORKimhab/CVE-2026-20212](https://github.com/HORKimhab/CVE-2026-20212)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20212">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20212">
 
 ---
 ## CVE-2026-2020 ()
