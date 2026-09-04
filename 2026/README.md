@@ -7919,6 +7919,11 @@
 - [BishopFox/CVE-2026-25075-check](https://github.com/BishopFox/CVE-2026-25075-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-25075-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-25075-check">
 
 ---
+## CVE-2026-25057 ()
+> 
+- [ibrah-m/CVE-2026-25057](https://github.com/ibrah-m/CVE-2026-25057)	<img alt="forks" src="https://img.shields.io/github/forks/ibrah-m/CVE-2026-25057">	<img alt="stars" src="https://img.shields.io/github/stars/ibrah-m/CVE-2026-25057">
+
+---
 ## CVE-2026-25053 ()
 > 
 - [yadhukrishnam/CVE-2026-25053](https://github.com/yadhukrishnam/CVE-2026-25053)	<img alt="forks" src="https://img.shields.io/github/forks/yadhukrishnam/CVE-2026-25053">	<img alt="stars" src="https://img.shields.io/github/stars/yadhukrishnam/CVE-2026-25053">
@@ -10465,6 +10470,11 @@
 ## CVE-2026-10187 ()
 > 
 - [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
+
+---
+## CVE-2026-10134 ()
+> 
+- [rmhowe425/POC-CVE-2026-10134](https://github.com/rmhowe425/POC-CVE-2026-10134)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-10134">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-10134">
 
 ---
 ## CVE-2026-10104 ()
