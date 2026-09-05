@@ -474,6 +474,11 @@
 - [HORKimhab/CVE-2026-7899](https://github.com/HORKimhab/CVE-2026-7899)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-7899">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-7899">
 
 ---
+## CVE-2026-78938 ()
+> 
+- [eddinos2/CVE-2026-78938](https://github.com/eddinos2/CVE-2026-78938)	<img alt="forks" src="https://img.shields.io/github/forks/eddinos2/CVE-2026-78938">	<img alt="stars" src="https://img.shields.io/github/stars/eddinos2/CVE-2026-78938">
+
+---
 ## CVE-2026-78906 ()
 > 
 - [vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection](https://github.com/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection">
@@ -1430,6 +1435,11 @@
 - [ByteV0rtex/CVE-2026-64788](https://github.com/ByteV0rtex/CVE-2026-64788)	<img alt="forks" src="https://img.shields.io/github/forks/ByteV0rtex/CVE-2026-64788">	<img alt="stars" src="https://img.shields.io/github/stars/ByteV0rtex/CVE-2026-64788">
 
 ---
+## CVE-2026-64747 ()
+> 
+- [eddinos2/CVE-2026-64747](https://github.com/eddinos2/CVE-2026-64747)	<img alt="forks" src="https://img.shields.io/github/forks/eddinos2/CVE-2026-64747">	<img alt="stars" src="https://img.shields.io/github/stars/eddinos2/CVE-2026-64747">
+
+---
 ## CVE-2026-64725 ()
 > 
 - [altvist/cve-2026-64725-poc](https://github.com/altvist/cve-2026-64725-poc)	<img alt="forks" src="https://img.shields.io/github/forks/altvist/cve-2026-64725-poc">	<img alt="stars" src="https://img.shields.io/github/stars/altvist/cve-2026-64725-poc">
@@ -1441,6 +1451,11 @@
 - [HORKimhab/CVE-2026-6471](https://github.com/HORKimhab/CVE-2026-6471)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6471">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6471">
 - [goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen](https://github.com/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen)	<img alt="forks" src="https://img.shields.io/github/forks/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen">	<img alt="stars" src="https://img.shields.io/github/stars/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen">
 - [0xBlackash/CVE-2026-6471](https://github.com/0xBlackash/CVE-2026-6471)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-6471">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-6471">
+
+---
+## CVE-2026-64705 ()
+> 
+- [eddinos2/CVE-2026-64705](https://github.com/eddinos2/CVE-2026-64705)	<img alt="forks" src="https://img.shields.io/github/forks/eddinos2/CVE-2026-64705">	<img alt="stars" src="https://img.shields.io/github/stars/eddinos2/CVE-2026-64705">
 
 ---
 ## CVE-2026-64640 ()
@@ -9631,6 +9646,7 @@
 - [ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/CVE-2026-19598">
 - [DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19598-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19598-PoC">
 - [sag-asab/CVE-2026-19598](https://github.com/sag-asab/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/sag-asab/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/sag-asab/CVE-2026-19598">
+- [0xCyp1337/CVE-2026-19598-](https://github.com/0xCyp1337/CVE-2026-19598-)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-19598-">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-19598-">
 
 ---
 ## CVE-2026-1953 ()
