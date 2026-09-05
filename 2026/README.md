@@ -9730,6 +9730,7 @@
 - [alt3kx/CVE-2026-18963](https://github.com/alt3kx/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-18963">
 - [EQSTLab/CVE-2026-18963](https://github.com/EQSTLab/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-18963">
 - [M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/My-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/My-Exploits">
+- [0xlyvio/CVE-2026-18963-keycloak](https://github.com/0xlyvio/CVE-2026-18963-keycloak)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2026-18963-keycloak">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2026-18963-keycloak">
 
 ---
 ## CVE-2026-18953 ()
@@ -10026,6 +10027,7 @@
 > 
 - [ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation](https://github.com/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">
 - [0x240x23elu/CVE-2026-1529](https://github.com/0x240x23elu/CVE-2026-1529)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2026-1529">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2026-1529">
+- [0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool](https://github.com/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool">
 
 ---
 ## CVE-2026-15282 ()

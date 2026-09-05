@@ -962,6 +962,8 @@
 - [canpilayda/n8n-RCE-CVE-2025-68613](https://github.com/canpilayda/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/n8n-RCE-CVE-2025-68613">
 - [azilRababe/CVE-2025-68613](https://github.com/azilRababe/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2025-68613">
 - [rmhowe425/POC-CVE-2025-68613](https://github.com/rmhowe425/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-68613">
+- [Giangdurian/CVE-2026-21858-and-CVE-2025-68613](https://github.com/Giangdurian/CVE-2026-21858-and-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">
+- [qianlijaingshan/n8n-cve-2026-21858](https://github.com/qianlijaingshan/n8n-cve-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/qianlijaingshan/n8n-cve-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/qianlijaingshan/n8n-cve-2026-21858">
 
 ---
 ## CVE-2025-6860 ()
