@@ -636,6 +636,11 @@
 - [t3bik/CVE-2026-75898](https://github.com/t3bik/CVE-2026-75898)	<img alt="forks" src="https://img.shields.io/github/forks/t3bik/CVE-2026-75898">	<img alt="stars" src="https://img.shields.io/github/stars/t3bik/CVE-2026-75898">
 
 ---
+## CVE-2026-75865 ()
+> 
+- [ghostpels/CVE-2026-75865](https://github.com/ghostpels/CVE-2026-75865)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpels/CVE-2026-75865">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpels/CVE-2026-75865">
+
+---
 ## CVE-2026-75855 ()
 > 
 - [pervinzahidli/CVE-2026-75855](https://github.com/pervinzahidli/CVE-2026-75855)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-75855">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-75855">
@@ -1428,6 +1433,7 @@
 ## CVE-2026-6471 ()
 > 
 - [HORKimhab/CVE-2026-6471](https://github.com/HORKimhab/CVE-2026-6471)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6471">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6471">
+- [goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen](https://github.com/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen)	<img alt="forks" src="https://img.shields.io/github/forks/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen">	<img alt="stars" src="https://img.shields.io/github/stars/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen">
 
 ---
 ## CVE-2026-64640 ()
@@ -6175,6 +6181,8 @@
 - [absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE](https://github.com/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Elementor-Pro-Unauthenticated-Arbitrary-File-Upload-to-RCE">
 - [Boreas37/CVE-2026-32475-PoC](https://github.com/Boreas37/CVE-2026-32475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-32475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-32475-PoC">
 - [sahmsec/CVE-2026-32475](https://github.com/sahmsec/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2026-32475">
+- [4minx/CVE-2026-32475](https://github.com/4minx/CVE-2026-32475)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-32475">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-32475">
+- [dinosn/cve-2026-32475-elementor-pro-lab](https://github.com/dinosn/cve-2026-32475-elementor-pro-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-32475-elementor-pro-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-32475-elementor-pro-lab">
 
 ---
 ## CVE-2026-32321 ()
@@ -7296,6 +7304,7 @@
 ## CVE-2026-27771 ()
 > 
 - [HORKimhab/CVE-2026-27771](https://github.com/HORKimhab/CVE-2026-27771)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-27771">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-27771">
+- [portbuster1337/CVE-2026-27771](https://github.com/portbuster1337/CVE-2026-27771)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-27771">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-27771">
 
 ---
 ## CVE-2026-27739 ()
