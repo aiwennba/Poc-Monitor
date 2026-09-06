@@ -3895,6 +3895,7 @@
 ## CVE-2026-44402 ()
 > 
 - [Virgula0/CVE-2026-44402](https://github.com/Virgula0/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/Virgula0/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/Virgula0/CVE-2026-44402">
+- [0xCyp1337/CVE-2026-44402](https://github.com/0xCyp1337/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-44402">
 
 ---
 ## CVE-2026-44401 ()
@@ -9611,6 +9612,7 @@
 ## CVE-2026-19949 ()
 > 
 - [HORKimhab/CVE-2026-19949](https://github.com/HORKimhab/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19949">
+- [katranSefa/CVE-2026-19949](https://github.com/katranSefa/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-19949">
 
 ---
 ## CVE-2026-19912 ()
