@@ -785,6 +785,7 @@
 - [alsyundawy/eradicate-zimbra-malware](https://github.com/alsyundawy/eradicate-zimbra-malware)	<img alt="forks" src="https://img.shields.io/github/forks/alsyundawy/eradicate-zimbra-malware">	<img alt="stars" src="https://img.shields.io/github/stars/alsyundawy/eradicate-zimbra-malware">
 - [byt3l0rd/CVE-2026-73570](https://github.com/byt3l0rd/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2026-73570">
 - [dahnutz/zimbra-cve-2026-73570-ir](https://github.com/dahnutz/zimbra-cve-2026-73570-ir)	<img alt="forks" src="https://img.shields.io/github/forks/dahnutz/zimbra-cve-2026-73570-ir">	<img alt="stars" src="https://img.shields.io/github/stars/dahnutz/zimbra-cve-2026-73570-ir">
+- [juanpoch/CVE-2026-73570](https://github.com/juanpoch/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/juanpoch/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/juanpoch/CVE-2026-73570">
 
 ---
 ## CVE-2026-73554 ()
@@ -7185,6 +7186,7 @@
 > 
 - [impost0r/CVE-2026-28956](https://github.com/impost0r/CVE-2026-28956)	<img alt="forks" src="https://img.shields.io/github/forks/impost0r/CVE-2026-28956">	<img alt="stars" src="https://img.shields.io/github/stars/impost0r/CVE-2026-28956">
 - [HORKimhab/CVE-2026-28956](https://github.com/HORKimhab/CVE-2026-28956)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-28956">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-28956">
+- [eddinos2/CVE-2026-28956-jxl-messages-surface](https://github.com/eddinos2/CVE-2026-28956-jxl-messages-surface)	<img alt="forks" src="https://img.shields.io/github/forks/eddinos2/CVE-2026-28956-jxl-messages-surface">	<img alt="stars" src="https://img.shields.io/github/stars/eddinos2/CVE-2026-28956-jxl-messages-surface">
 
 ---
 ## CVE-2026-28867 ()
@@ -7322,6 +7324,7 @@
 ## CVE-2026-27876 ()
 > 
 - [0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-27876">
+- [atiilla/CVE-2026-27876](https://github.com/atiilla/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-27876">
 
 ---
 ## CVE-2026-27831 ()
@@ -9647,6 +9650,7 @@
 - [DeadExpl0it/CVE-2026-19598-PoC](https://github.com/DeadExpl0it/CVE-2026-19598-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19598-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19598-PoC">
 - [sag-asab/CVE-2026-19598](https://github.com/sag-asab/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/sag-asab/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/sag-asab/CVE-2026-19598">
 - [0xCyp1337/CVE-2026-19598-](https://github.com/0xCyp1337/CVE-2026-19598-)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-19598-">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-19598-">
+- [HackfutSecRoot/multi_exploit_wp](https://github.com/HackfutSecRoot/multi_exploit_wp)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/multi_exploit_wp">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/multi_exploit_wp">
 
 ---
 ## CVE-2026-1953 ()
@@ -10028,6 +10032,7 @@
 - [ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation](https://github.com/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">
 - [0x240x23elu/CVE-2026-1529](https://github.com/0x240x23elu/CVE-2026-1529)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2026-1529">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2026-1529">
 - [0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool](https://github.com/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2026-1529-Keycloak-Exploit-Tool">
+- [ackemed/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation](https://github.com/ackemed/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation)	<img alt="forks" src="https://img.shields.io/github/forks/ackemed/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">	<img alt="stars" src="https://img.shields.io/github/stars/ackemed/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">
 
 ---
 ## CVE-2026-15282 ()
