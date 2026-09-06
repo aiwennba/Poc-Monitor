@@ -1741,6 +1741,7 @@
 - [zycoder0day/CVE-2026-6279](https://github.com/zycoder0day/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-6279">
 - [87achrafg-stack/CVE-2026-6279](https://github.com/87achrafg-stack/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-6279">
 - [87achrafg-stack/CVE-2026-6279.py](https://github.com/87achrafg-stack/CVE-2026-6279.py)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-6279.py">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-6279.py">
+- [katranSefa/CVE-2026-6279](https://github.com/katranSefa/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-6279">
 
 ---
 ## CVE-2026-62737 ()
@@ -2985,6 +2986,7 @@
 - [xxconi/CVE-2026-49777-CVE-2026-10735](https://github.com/xxconi/CVE-2026-49777-CVE-2026-10735)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-49777-CVE-2026-10735">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-49777-CVE-2026-10735">
 - [izxci/CVE-2026-49777](https://github.com/izxci/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49777">
 - [amnsecurity/CVE-2026-49777-WooCommerce-RCE](https://github.com/amnsecurity/CVE-2026-49777-WooCommerce-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-49777-WooCommerce-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-49777-WooCommerce-RCE">
+- [katranSefa/CVE-2026-49777](https://github.com/katranSefa/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-49777">
 
 ---
 ## CVE-2026-49772 ()
@@ -4705,6 +4707,7 @@
 - [0xBlackash/CVE-2026-41091](https://github.com/0xBlackash/CVE-2026-41091)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41091">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41091">
 - [tc4dy/CVE-2026-41091-PoC-Exploit](https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41091-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41091-PoC-Exploit">
 - [ridhinva/defender-privilege-escalation-scanner](https://github.com/ridhinva/defender-privilege-escalation-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/defender-privilege-escalation-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/defender-privilege-escalation-scanner">
+- [s4m98/RedSun-](https://github.com/s4m98/RedSun-)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/RedSun-">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/RedSun-">
 
 ---
 ## CVE-2026-41089 ()
