@@ -2987,6 +2987,7 @@
 - [izxci/CVE-2026-49777](https://github.com/izxci/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49777">
 - [amnsecurity/CVE-2026-49777-WooCommerce-RCE](https://github.com/amnsecurity/CVE-2026-49777-WooCommerce-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2026-49777-WooCommerce-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2026-49777-WooCommerce-RCE">
 - [katranSefa/CVE-2026-49777](https://github.com/katranSefa/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-49777">
+- [HORKimhab/CVE-Wordpress](https://github.com/HORKimhab/CVE-Wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-Wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-Wordpress">
 
 ---
 ## CVE-2026-49772 ()
