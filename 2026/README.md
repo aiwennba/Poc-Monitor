@@ -253,6 +253,11 @@
 - [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
 
 ---
+## CVE-2026-86218 ()
+> 
+- [HORKimhab/CVE-2026-86218](https://github.com/HORKimhab/CVE-2026-86218)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-86218">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-86218">
+
+---
 ## CVE-2026-85769 ()
 > 
 - [isukasanuj/CVE-2026-85769](https://github.com/isukasanuj/CVE-2026-85769)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/CVE-2026-85769">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/CVE-2026-85769">
@@ -1148,6 +1153,13 @@
 ## CVE-2026-67363 ()
 > 
 - [Lulztigre/cve-2026-67363-67364](https://github.com/Lulztigre/cve-2026-67363-67364)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-67363-67364">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-67363-67364">
+
+---
+## CVE-2026-67276 ()
+> 
+- [HORKimhab/CVE-2026-67276](https://github.com/HORKimhab/CVE-2026-67276)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-67276">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-67276">
+- [BlackHatExploitation/exploit-mikrotik-2026](https://github.com/BlackHatExploitation/exploit-mikrotik-2026)	<img alt="forks" src="https://img.shields.io/github/forks/BlackHatExploitation/exploit-mikrotik-2026">	<img alt="stars" src="https://img.shields.io/github/stars/BlackHatExploitation/exploit-mikrotik-2026">
+- [dinosn/mikrotrick-poc](https://github.com/dinosn/mikrotrick-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/mikrotrick-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/mikrotrick-poc">
 
 ---
 ## CVE-2026-67206 ()
@@ -6040,6 +6052,11 @@
 - [Boreas37/CVE-2026-33267-PoC](https://github.com/Boreas37/CVE-2026-33267-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-33267-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-33267-PoC">
 
 ---
+## CVE-2026-33234 ()
+> 
+- [pavanchow/CVE-2026-33234](https://github.com/pavanchow/CVE-2026-33234)	<img alt="forks" src="https://img.shields.io/github/forks/pavanchow/CVE-2026-33234">	<img alt="stars" src="https://img.shields.io/github/stars/pavanchow/CVE-2026-33234">
+
+---
 ## CVE-2026-33229 ()
 > 
 - [azefzafyoussef/CVE-2026-33229](https://github.com/azefzafyoussef/CVE-2026-33229)	<img alt="forks" src="https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-33229">	<img alt="stars" src="https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-33229">
@@ -7244,6 +7261,11 @@
 ## CVE-2026-28672 ()
 > 
 - [oscerd/CVE-2026-28672](https://github.com/oscerd/CVE-2026-28672)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-28672">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-28672">
+
+---
+## CVE-2026-28576 ()
+> 
+- [mobilehackinglab/CVE-2026-28576-poc](https://github.com/mobilehackinglab/CVE-2026-28576-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-28576-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-28576-poc">
 
 ---
 ## CVE-2026-2848 ()
@@ -10284,6 +10306,11 @@
 ## CVE-2026-13233 ()
 > 
 - [KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)	<img alt="forks" src="https://img.shields.io/github/forks/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">	<img alt="stars" src="https://img.shields.io/github/stars/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">
+
+---
+## CVE-2026-13181 ()
+> 
+- [HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184](https://github.com/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184">
 
 ---
 ## CVE-2026-13158 ()
