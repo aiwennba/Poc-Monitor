@@ -4496,6 +4496,7 @@
 - [Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182">
 - [UwUGreed/CVE-2025-55182-poc](https://github.com/UwUGreed/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UwUGreed/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UwUGreed/CVE-2025-55182-poc">
 - [ChrisBarack/cve-2025-55182](https://github.com/ChrisBarack/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisBarack/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisBarack/cve-2025-55182">
+- [Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-55130 ()
@@ -8055,6 +8056,7 @@
 - [lekosbelas/sap-0day-CVE-2025-31324](https://github.com/lekosbelas/sap-0day-CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/lekosbelas/sap-0day-CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/lekosbelas/sap-0day-CVE-2025-31324">
 - [harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits">
 - [aristois913/CVE-2025-31324](https://github.com/aristois913/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/aristois913/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/aristois913/CVE-2025-31324">
+- [HKenzoKimura/CVE-2025-31324](https://github.com/HKenzoKimura/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2025-31324">
 
 ---
 ## CVE-2025-31258 ()
