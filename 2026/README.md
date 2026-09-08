@@ -282,6 +282,7 @@
 - [Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/Eliot-code/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/Eliot-code/CVE-2026-85046">
 - [SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm](https://github.com/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-85046-who-put-the-silverback-guerilla-in-the-wasm">
 - [atiilla/CVE-2026-85046](https://github.com/atiilla/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-85046">
+- [atiilla/CVE-2026-85046](https://github.com/atiilla/CVE-2026-85046)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-85046">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-85046">
 
 ---
 ## CVE-2026-8467 ()
@@ -405,6 +406,7 @@
 - [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/R0x19/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/R0x19/CVE-2026-82222">
 - [noahlaopan-alt/cve-2026-82222](https://github.com/noahlaopan-alt/cve-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/noahlaopan-alt/cve-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/noahlaopan-alt/cve-2026-82222">
 - [0xCyp1337/CVE-2026-82222-MassExploit](https://github.com/0xCyp1337/CVE-2026-82222-MassExploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82222-MassExploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82222-MassExploit">
+- [GhostlyrootB2H/CVE-2026-82222](https://github.com/GhostlyrootB2H/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/GhostlyrootB2H/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/GhostlyrootB2H/CVE-2026-82222">
 
 ---
 ## CVE-2026-82221 ()
@@ -5106,6 +5108,7 @@
 - [Ghxstsec/CVE-2026-39987](https://github.com/Ghxstsec/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Ghxstsec/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Ghxstsec/CVE-2026-39987">
 - [Clara-M-Grossl/Exploit-Marimo](https://github.com/Clara-M-Grossl/Exploit-Marimo)	<img alt="forks" src="https://img.shields.io/github/forks/Clara-M-Grossl/Exploit-Marimo">	<img alt="stars" src="https://img.shields.io/github/stars/Clara-M-Grossl/Exploit-Marimo">
 - [stapat1245/CVE-2026-39987-PoC](https://github.com/stapat1245/CVE-2026-39987-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/stapat1245/CVE-2026-39987-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/stapat1245/CVE-2026-39987-PoC">
+- [Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -7153,6 +7156,11 @@
 ## CVE-2026-30251 ()
 > 
 - [vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30251">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30251">
+
+---
+## CVE-2026-30225 ()
+> 
+- [hackerking24/CVE-2026-30225-OliveTin-RCE](https://github.com/hackerking24/CVE-2026-30225-OliveTin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hackerking24/CVE-2026-30225-OliveTin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hackerking24/CVE-2026-30225-OliveTin-RCE">
 
 ---
 ## CVE-2026-30082 ()
