@@ -3126,6 +3126,7 @@
 - [00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC](https://github.com/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">
 - [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
 - [r3vpwnx/CVE-2025-58434](https://github.com/r3vpwnx/CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-58434">
+- [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-5840 ()
