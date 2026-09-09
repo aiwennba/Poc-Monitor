@@ -503,6 +503,11 @@
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
 
 ---
+## CVE-2026-79387 ()
+> 
+- [jhli07/CVE-2026-79387-PbootCMS-SQL-Injection](https://github.com/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection">
+
+---
 ## CVE-2026-79303 ()
 > 
 - [4ybrick/CVE-2026-79303](https://github.com/4ybrick/CVE-2026-79303)	<img alt="forks" src="https://img.shields.io/github/forks/4ybrick/CVE-2026-79303">	<img alt="stars" src="https://img.shields.io/github/stars/4ybrick/CVE-2026-79303">
@@ -768,6 +773,11 @@
 ## CVE-2026-7459 ()
 > 
 - [izxci/CVE-2026-7459](https://github.com/izxci/CVE-2026-7459)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7459">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7459">
+
+---
+## CVE-2026-74586 ()
+> 
+- [TarPeg007/CVE-2026-74586](https://github.com/TarPeg007/CVE-2026-74586)	<img alt="forks" src="https://img.shields.io/github/forks/TarPeg007/CVE-2026-74586">	<img alt="stars" src="https://img.shields.io/github/stars/TarPeg007/CVE-2026-74586">
 
 ---
 ## CVE-2026-7458 ()
