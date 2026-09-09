@@ -503,6 +503,11 @@
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
 
 ---
+## CVE-2026-79303 ()
+> 
+- [4ybrick/CVE-2026-79303](https://github.com/4ybrick/CVE-2026-79303)	<img alt="forks" src="https://img.shields.io/github/forks/4ybrick/CVE-2026-79303">	<img alt="stars" src="https://img.shields.io/github/stars/4ybrick/CVE-2026-79303">
+
+---
 ## CVE-2026-7899 ()
 > 
 - [HORKimhab/CVE-2026-7899](https://github.com/HORKimhab/CVE-2026-7899)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-7899">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-7899">
@@ -1264,6 +1269,13 @@
 - [IlhomjonR/CVE-2026-67595](https://github.com/IlhomjonR/CVE-2026-67595)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-67595">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-67595">
 
 ---
+## CVE-2026-67401 ()
+> 
+- [axedos/CVE-2026-67401](https://github.com/axedos/CVE-2026-67401)	<img alt="forks" src="https://img.shields.io/github/forks/axedos/CVE-2026-67401">	<img alt="stars" src="https://img.shields.io/github/stars/axedos/CVE-2026-67401">
+- [jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi](https://github.com/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi">
+- [HORKimhab/CVE-2026-67401](https://github.com/HORKimhab/CVE-2026-67401)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-67401">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-67401">
+
+---
 ## CVE-2026-67363 ()
 > 
 - [Lulztigre/cve-2026-67363-67364](https://github.com/Lulztigre/cve-2026-67363-67364)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-67363-67364">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-67363-67364">
@@ -1889,6 +1901,11 @@
 ## CVE-2026-6227 ()
 > 
 - [Pixel-DefaultBR/CVE-2026-6227](https://github.com/Pixel-DefaultBR/CVE-2026-6227)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2026-6227">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2026-6227">
+
+---
+## CVE-2026-62201 ()
+> 
+- [diedromeo/CVE-2026-62201-OpenClaw-SSRF](https://github.com/diedromeo/CVE-2026-62201-OpenClaw-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/diedromeo/CVE-2026-62201-OpenClaw-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/diedromeo/CVE-2026-62201-OpenClaw-SSRF">
 
 ---
 ## CVE-2026-62183 ()
