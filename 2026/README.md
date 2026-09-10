@@ -259,6 +259,11 @@
 - [HORKimhab/CVE-2026-86218](https://github.com/HORKimhab/CVE-2026-86218)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-86218">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-86218">
 
 ---
+## CVE-2026-86060 ()
+> 
+- [bahirul/cve-2026-86060](https://github.com/bahirul/cve-2026-86060)	<img alt="forks" src="https://img.shields.io/github/forks/bahirul/cve-2026-86060">	<img alt="stars" src="https://img.shields.io/github/stars/bahirul/cve-2026-86060">
+
+---
 ## CVE-2026-85769 ()
 > 
 - [isukasanuj/CVE-2026-85769](https://github.com/isukasanuj/CVE-2026-85769)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/CVE-2026-85769">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/CVE-2026-85769">
@@ -833,6 +838,11 @@
 ## CVE-2026-73847 ()
 > 
 - [squeeze440/CVE-2026-73847-emlog-PoC](https://github.com/squeeze440/CVE-2026-73847-emlog-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/squeeze440/CVE-2026-73847-emlog-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/squeeze440/CVE-2026-73847-emlog-PoC">
+
+---
+## CVE-2026-73786 ()
+> 
+- [promasu/CVE-2026-73786](https://github.com/promasu/CVE-2026-73786)	<img alt="forks" src="https://img.shields.io/github/forks/promasu/CVE-2026-73786">	<img alt="stars" src="https://img.shields.io/github/stars/promasu/CVE-2026-73786">
 
 ---
 ## CVE-2026-73678 ()
@@ -7473,6 +7483,7 @@
 ## CVE-2026-28496 ()
 > 
 - [ivanesk315/CVE-2026-28496](https://github.com/ivanesk315/CVE-2026-28496)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-28496">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-28496">
+- [rootdirective-sec/CVE-2026-28496-Lab](https://github.com/rootdirective-sec/CVE-2026-28496-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-28496-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-28496-Lab">
 
 ---
 ## CVE-2026-2848 ()
@@ -9656,6 +9667,7 @@
 - [fevar54/CVE-2026-20805-POC](https://github.com/fevar54/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20805-POC">
 - [Uzair-Baig0900/CVE-2026-20805-PoC](https://github.com/Uzair-Baig0900/CVE-2026-20805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Uzair-Baig0900/CVE-2026-20805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Uzair-Baig0900/CVE-2026-20805-PoC">
 - [mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data](https://github.com/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Inside-CVE-2026-20805-How-a-Windows-DWM-Flaw-Exposed-Sensitive-Data">
+- [ZeroDayEvil/CVE-2026-20805-POC](https://github.com/ZeroDayEvil/CVE-2026-20805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-20805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-20805-POC">
 
 ---
 ## CVE-2026-20700 ()
@@ -10002,6 +10014,7 @@
 - [M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/My-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/My-Exploits">
 - [0xlyvio/CVE-2026-18963-keycloak](https://github.com/0xlyvio/CVE-2026-18963-keycloak)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2026-18963-keycloak">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2026-18963-keycloak">
 - [ivanesk315/CVE-2026-18963](https://github.com/ivanesk315/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-18963">
+- [ynsmroztas/KeySniper](https://github.com/ynsmroztas/KeySniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/KeySniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/KeySniper">
 
 ---
 ## CVE-2026-18953 ()
@@ -11071,6 +11084,11 @@
 ## CVE-2026-0542 ()
 > 
 - [HORKimhab/CVE-2026-0542](https://github.com/HORKimhab/CVE-2026-0542)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0542">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0542">
+
+---
+## CVE-2026-0303 ()
+> 
+- [YonLiud/CVE-2026-0303](https://github.com/YonLiud/CVE-2026-0303)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-0303">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-0303">
 
 ---
 ## CVE-2026-0300 ()

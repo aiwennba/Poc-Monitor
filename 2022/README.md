@@ -30660,6 +30660,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [0xM4hm0ud/CVE-2022-24637](https://github.com/0xM4hm0ud/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/0xM4hm0ud/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/0xM4hm0ud/CVE-2022-24637">
 - [0xRyuk/CVE-2022-24637](https://github.com/0xRyuk/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/0xRyuk/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/0xRyuk/CVE-2022-24637">
 - [c0derpwner/HTB-pwned](https://github.com/c0derpwner/HTB-pwned)	<img alt="forks" src="https://img.shields.io/github/forks/c0derpwner/HTB-pwned">	<img alt="stars" src="https://img.shields.io/github/stars/c0derpwner/HTB-pwned">
+- [PrinceAikinsBaidoo/CVE-2022-24637](https://github.com/PrinceAikinsBaidoo/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/PrinceAikinsBaidoo/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/PrinceAikinsBaidoo/CVE-2022-24637">
 
 ---
 ## CVE-2022-24588 (2022-02-15T16:15:00)
