@@ -423,6 +423,7 @@
 - [noahlaopan-alt/cve-2026-82222](https://github.com/noahlaopan-alt/cve-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/noahlaopan-alt/cve-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/noahlaopan-alt/cve-2026-82222">
 - [0xCyp1337/CVE-2026-82222-MassExploit](https://github.com/0xCyp1337/CVE-2026-82222-MassExploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-82222-MassExploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-82222-MassExploit">
 - [GhostlyrootB2H/CVE-2026-82222](https://github.com/GhostlyrootB2H/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/GhostlyrootB2H/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/GhostlyrootB2H/CVE-2026-82222">
+- [sajjadsiam/CVE-2026-82222-PoC](https://github.com/sajjadsiam/CVE-2026-82222-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sajjadsiam/CVE-2026-82222-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sajjadsiam/CVE-2026-82222-PoC">
 
 ---
 ## CVE-2026-82221 ()
@@ -2954,6 +2955,11 @@
 ## CVE-2026-5201 ()
 > 
 - [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)	<img alt="forks" src="https://img.shields.io/github/forks/kagancapar/CVE-2026-5201">	<img alt="stars" src="https://img.shields.io/github/stars/kagancapar/CVE-2026-5201">
+
+---
+## CVE-2026-51990 ()
+> 
+- [HORKimhab/CVE-2026-51990](https://github.com/HORKimhab/CVE-2026-51990)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-51990">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-51990">
 
 ---
 ## CVE-2026-51954 ()
@@ -9735,6 +9741,11 @@
 ## CVE-2026-2058 ()
 > 
 - [carlosalbertotuma/CVE-2026-2058-PoC](https://github.com/carlosalbertotuma/CVE-2026-2058-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/CVE-2026-2058-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/CVE-2026-2058-PoC">
+
+---
+## CVE-2026-20516 ()
+> 
+- [Dingo97/CVE-2026-20516](https://github.com/Dingo97/CVE-2026-20516)	<img alt="forks" src="https://img.shields.io/github/forks/Dingo97/CVE-2026-20516">	<img alt="stars" src="https://img.shields.io/github/stars/Dingo97/CVE-2026-20516">
 
 ---
 ## CVE-2026-20452 ()
