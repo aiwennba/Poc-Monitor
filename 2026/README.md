@@ -274,6 +274,11 @@
 - [isukasanuj/CVE-2026-85769](https://github.com/isukasanuj/CVE-2026-85769)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/CVE-2026-85769">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/CVE-2026-85769">
 
 ---
+## CVE-2026-85706 ()
+> 
+- [FlowerWitch/CVE-2026-85706_docker_exp](https://github.com/FlowerWitch/CVE-2026-85706_docker_exp)	<img alt="forks" src="https://img.shields.io/github/forks/FlowerWitch/CVE-2026-85706_docker_exp">	<img alt="stars" src="https://img.shields.io/github/stars/FlowerWitch/CVE-2026-85706_docker_exp">
+
+---
 ## CVE-2026-85649 ()
 > 
 - [ChewKeanHo/research-cve-2026-85649](https://github.com/ChewKeanHo/research-cve-2026-85649)	<img alt="forks" src="https://img.shields.io/github/forks/ChewKeanHo/research-cve-2026-85649">	<img alt="stars" src="https://img.shields.io/github/stars/ChewKeanHo/research-cve-2026-85649">
@@ -523,6 +528,16 @@
 ## CVE-2026-79303 ()
 > 
 - [4ybrick/CVE-2026-79303](https://github.com/4ybrick/CVE-2026-79303)	<img alt="forks" src="https://img.shields.io/github/forks/4ybrick/CVE-2026-79303">	<img alt="stars" src="https://img.shields.io/github/stars/4ybrick/CVE-2026-79303">
+
+---
+## CVE-2026-79298 ()
+> 
+- [TheMalwareGuardian/CVE-2026-79298](https://github.com/TheMalwareGuardian/CVE-2026-79298)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-79298">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-79298">
+
+---
+## CVE-2026-78997 ()
+> 
+- [Hunt-Benito/the-callback-that-outlived-the-page-cve-2026-78997-uc-browser-android-universal-xss](https://github.com/Hunt-Benito/the-callback-that-outlived-the-page-cve-2026-78997-uc-browser-android-universal-xss)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-callback-that-outlived-the-page-cve-2026-78997-uc-browser-android-universal-xss">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-callback-that-outlived-the-page-cve-2026-78997-uc-browser-android-universal-xss">
 
 ---
 ## CVE-2026-7899 ()
@@ -4996,6 +5011,7 @@
 - [opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE](https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE">
 - [jelasin/CVE-2026-41089](https://github.com/jelasin/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-41089">
 - [ZeroDayVPN/CVE-2026-41089-Netlogon](https://github.com/ZeroDayVPN/CVE-2026-41089-Netlogon)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-41089-Netlogon">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-41089-Netlogon">
+- [SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">
 
 ---
 ## CVE-2026-41044 ()
@@ -6370,6 +6386,7 @@
 - [e4zyy/Project-CVE-2026-33017](https://github.com/e4zyy/Project-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2026-33017">
 - [ahseven/CVE-2026-33017-PoC-Reverse-Shell](https://github.com/ahseven/CVE-2026-33017-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ahseven/CVE-2026-33017-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ahseven/CVE-2026-33017-PoC-Reverse-Shell">
 - [maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-33017">
+- [MaximilianoMeyer/CVE-2026-33017](https://github.com/MaximilianoMeyer/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/MaximilianoMeyer/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/MaximilianoMeyer/CVE-2026-33017">
 
 ---
 ## CVE-2026-3296 ()
@@ -9054,6 +9071,7 @@
 > 
 - [semgrep/cve-2026-22732-demo](https://github.com/semgrep/cve-2026-22732-demo)	<img alt="forks" src="https://img.shields.io/github/forks/semgrep/cve-2026-22732-demo">	<img alt="stars" src="https://img.shields.io/github/stars/semgrep/cve-2026-22732-demo">
 - [moderneinc/rewrite-cve-2026-22732](https://github.com/moderneinc/rewrite-cve-2026-22732)	<img alt="forks" src="https://img.shields.io/github/forks/moderneinc/rewrite-cve-2026-22732">	<img alt="stars" src="https://img.shields.io/github/stars/moderneinc/rewrite-cve-2026-22732">
+- [dylan-chainguard/cve-2026-22732-poc](https://github.com/dylan-chainguard/cve-2026-22732-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dylan-chainguard/cve-2026-22732-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dylan-chainguard/cve-2026-22732-poc">
 
 ---
 ## CVE-2026-22730 ()
@@ -10355,6 +10373,11 @@
 ## CVE-2026-15282 ()
 > 
 - [shinthink/CVE-2026-15282](https://github.com/shinthink/CVE-2026-15282)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-15282">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-15282">
+
+---
+## CVE-2026-15253 ()
+> 
+- [testardou/CVE-2026-15253](https://github.com/testardou/CVE-2026-15253)	<img alt="forks" src="https://img.shields.io/github/forks/testardou/CVE-2026-15253">	<img alt="stars" src="https://img.shields.io/github/stars/testardou/CVE-2026-15253">
 
 ---
 ## CVE-2026-1522 ()
