@@ -7175,6 +7175,7 @@
 - [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/poc-CVE-2025-38352">
 - [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/chronomaly">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/chronomaly">
 - [Crime2/poc-CVE-2025-38352](https://github.com/Crime2/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/Crime2/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/Crime2/poc-CVE-2025-38352">
+- [longwasu/CVE-2025-38352-PoC](https://github.com/longwasu/CVE-2025-38352-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/longwasu/CVE-2025-38352-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/longwasu/CVE-2025-38352-PoC">
 
 ---
 ## CVE-2025-38248 ()
