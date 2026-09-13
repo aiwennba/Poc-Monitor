@@ -304,6 +304,7 @@
 - [ynsmroztas/GitLabSniper](https://github.com/ynsmroztas/GitLabSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/GitLabSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/GitLabSniper">
 - [jithinkrishnanrs/gitlab-cve-2026-85706-ioc](https://github.com/jithinkrishnanrs/gitlab-cve-2026-85706-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">
 - [0xlyvio/cve-2026-85706-poc-exploit-gitlab](https://github.com/0xlyvio/cve-2026-85706-poc-exploit-gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/cve-2026-85706-poc-exploit-gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/cve-2026-85706-poc-exploit-gitlab">
+- [gagaltotal/CVE-2026-85706-gitlab-poc](https://github.com/gagaltotal/CVE-2026-85706-gitlab-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-85706-gitlab-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-85706-gitlab-poc">
 
 ---
 ## CVE-2026-85649 ()
@@ -666,6 +667,7 @@
 ## CVE-2026-78006 ()
 > 
 - [DeadExpl0it/CVE-2026-78006-POC](https://github.com/DeadExpl0it/CVE-2026-78006-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-78006-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-78006-POC">
+- [user445213/CVE-2026-78006](https://github.com/user445213/CVE-2026-78006)	<img alt="forks" src="https://img.shields.io/github/forks/user445213/CVE-2026-78006">	<img alt="stars" src="https://img.shields.io/github/stars/user445213/CVE-2026-78006">
 
 ---
 ## CVE-2026-7791 ()
@@ -4500,6 +4502,7 @@
 - [huaguiqi/asus_i005-CVE-2026-43499](https://github.com/huaguiqi/asus_i005-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/huaguiqi/asus_i005-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/huaguiqi/asus_i005-CVE-2026-43499">
 - [DeveshTone/vivo-y75-v2117-ghostlock](https://github.com/DeveshTone/vivo-y75-v2117-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/DeveshTone/vivo-y75-v2117-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/DeveshTone/vivo-y75-v2117-ghostlock">
 - [1ndevelopment/ghostlock-s26](https://github.com/1ndevelopment/ghostlock-s26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/ghostlock-s26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/ghostlock-s26">
+- [zhubaohe123/ghostlock-kit](https://github.com/zhubaohe123/ghostlock-kit)	<img alt="forks" src="https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit">	<img alt="stars" src="https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit">
 
 ---
 ## CVE-2026-43494 ()
