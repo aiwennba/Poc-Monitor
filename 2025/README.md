@@ -9788,6 +9788,7 @@
 - [Fomovet/cve-2025-24071](https://github.com/Fomovet/cve-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24071">
 - [DAEMON-404/PoC-CVE-2025-24071](https://github.com/DAEMON-404/PoC-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/DAEMON-404/PoC-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/DAEMON-404/PoC-CVE-2025-24071">
 - [kaIIsyms/CVE-2025-24071](https://github.com/kaIIsyms/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/kaIIsyms/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/kaIIsyms/CVE-2025-24071">
+- [BardLaudian/CVE-2025-24071](https://github.com/BardLaudian/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2025-24071">
 
 ---
 ## CVE-2025-24055 ()
