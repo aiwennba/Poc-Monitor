@@ -29469,6 +29469,7 @@ the client's API server credentials to third parties.
 - [Anon2Fear/CVE-2022-26134](https://github.com/Anon2Fear/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2022-26134">
 - [roodhelios/CVE-2022-26134-OGNL-Injection](https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/roodhelios/CVE-2022-26134-OGNL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/roodhelios/CVE-2022-26134-OGNL-Injection">
 - [RootEvil333/CVE-2022-26134](https://github.com/RootEvil333/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-26134">
+- [crypt0lith/confluence-ognl-rce](https://github.com/crypt0lith/confluence-ognl-rce)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0lith/confluence-ognl-rce">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0lith/confluence-ognl-rce">
 
 ---
 ## CVE-2022-26112 (2022-09-23T08:15:00)
