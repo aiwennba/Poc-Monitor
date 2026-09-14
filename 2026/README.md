@@ -318,6 +318,7 @@
 - [brigadeops32/CVE-2026-85706](https://github.com/brigadeops32/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/brigadeops32/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/brigadeops32/CVE-2026-85706">
 - [plur1bu5/gitread](https://github.com/plur1bu5/gitread)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/gitread">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/gitread">
 - [gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-85706">
+- [0xenesbayram/cve-2026-85706](https://github.com/0xenesbayram/cve-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/0xenesbayram/cve-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/0xenesbayram/cve-2026-85706">
 
 ---
 ## CVE-2026-85649 ()
@@ -1081,6 +1082,7 @@
 - [Franc-Zar/CVE-2026-72898-safe-detection](https://github.com/Franc-Zar/CVE-2026-72898-safe-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Franc-Zar/CVE-2026-72898-safe-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Franc-Zar/CVE-2026-72898-safe-detection">
 - [d-maggipinto/CVE-2026-72898-metabase-sqli](https://github.com/d-maggipinto/CVE-2026-72898-metabase-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/d-maggipinto/CVE-2026-72898-metabase-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/d-maggipinto/CVE-2026-72898-metabase-sqli">
 - [EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-72898">
+- [34zY/CVE-2026-72898](https://github.com/34zY/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2026-72898">
 
 ---
 ## CVE-2026-72815 ()
@@ -2926,6 +2928,12 @@
 ## CVE-2026-52923 ()
 > 
 - [Hari-v542/CVE-2026-52923](https://github.com/Hari-v542/CVE-2026-52923)	<img alt="forks" src="https://img.shields.io/github/forks/Hari-v542/CVE-2026-52923">	<img alt="stars" src="https://img.shields.io/github/stars/Hari-v542/CVE-2026-52923">
+
+---
+## CVE-2026-52910 ()
+> 
+- [yolkfull/cve-2026-52910-poc](https://github.com/yolkfull/cve-2026-52910-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yolkfull/cve-2026-52910-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yolkfull/cve-2026-52910-poc">
+- [Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff)	<img alt="forks" src="https://img.shields.io/github/forks/Dere3046/ScreenOff">	<img alt="stars" src="https://img.shields.io/github/stars/Dere3046/ScreenOff">
 
 ---
 ## CVE-2026-52887 ()
@@ -5581,6 +5589,7 @@
 - [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
 - [Qurclinc/CVE-2026-38526](https://github.com/Qurclinc/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Qurclinc/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Qurclinc/CVE-2026-38526">
 - [CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526](https://github.com/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">
+- [Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-](https://github.com/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-)	<img alt="forks" src="https://img.shields.io/github/forks/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-">	<img alt="stars" src="https://img.shields.io/github/stars/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-">
 
 ---
 ## CVE-2026-3847 ()
