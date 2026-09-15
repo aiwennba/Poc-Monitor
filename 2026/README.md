@@ -6792,6 +6792,7 @@
 ## CVE-2026-31694 ()
 > 
 - [0xCyberstan/CVE-2026-31694-POC](https://github.com/0xCyberstan/CVE-2026-31694-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-31694-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-31694-POC">
+- [zenzue/CVE_2026_31694](https://github.com/zenzue/CVE_2026_31694)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE_2026_31694">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE_2026_31694">
 
 ---
 ## CVE-2026-31635 ()
