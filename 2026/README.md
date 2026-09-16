@@ -1710,6 +1710,11 @@
 - [acheong08/CVE-2026-65400](https://github.com/acheong08/CVE-2026-65400)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2026-65400">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2026-65400">
 
 ---
+## CVE-2026-65374 ()
+> 
+- [HORKimhab/CVE-2026-65374](https://github.com/HORKimhab/CVE-2026-65374)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-65374">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-65374">
+
+---
 ## CVE-2026-65349 ()
 > 
 - [ByteV0rtex/CVE-2026-65349](https://github.com/ByteV0rtex/CVE-2026-65349)	<img alt="forks" src="https://img.shields.io/github/forks/ByteV0rtex/CVE-2026-65349">	<img alt="stars" src="https://img.shields.io/github/stars/ByteV0rtex/CVE-2026-65349">
@@ -4582,6 +4587,8 @@
 - [newazbenalam/Root-My-Galaxy-Payloads](https://github.com/newazbenalam/Root-My-Galaxy-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/newazbenalam/Root-My-Galaxy-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/newazbenalam/Root-My-Galaxy-Payloads">
 - [ymh001/meizu21-ghostlock-root](https://github.com/ymh001/meizu21-ghostlock-root)	<img alt="forks" src="https://img.shields.io/github/forks/ymh001/meizu21-ghostlock-root">	<img alt="stars" src="https://img.shields.io/github/stars/ymh001/meizu21-ghostlock-root">
 - [mouseos/aquos-r6-ghostlock](https://github.com/mouseos/aquos-r6-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/mouseos/aquos-r6-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/mouseos/aquos-r6-ghostlock">
+- [DeAurity/ghost-hoock](https://github.com/DeAurity/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/ghost-hoock">
+- [kurtulusakyuz/IonStack_S21](https://github.com/kurtulusakyuz/IonStack_S21)	<img alt="forks" src="https://img.shields.io/github/forks/kurtulusakyuz/IonStack_S21">	<img alt="stars" src="https://img.shields.io/github/stars/kurtulusakyuz/IonStack_S21">
 
 ---
 ## CVE-2026-43494 ()
