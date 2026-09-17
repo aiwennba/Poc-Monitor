@@ -6794,6 +6794,11 @@
 - [sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability](https://github.com/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-32621-Apollo-Federation-XSS-Vulnerability">
 
 ---
+## CVE-2026-32604 ()
+> 
+- [K3ysTr0K3R/CVE-2026-32604](https://github.com/K3ysTr0K3R/CVE-2026-32604)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-32604">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-32604">
+
+---
 ## CVE-2026-32488 ()
 > 
 - [izxci/CVE-2026-32488](https://github.com/izxci/CVE-2026-32488)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-32488">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-32488">
@@ -10291,6 +10296,11 @@
 ## CVE-2026-19626 ()
 > 
 - [h00die/POC-CVE-2026-19626](https://github.com/h00die/POC-CVE-2026-19626)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19626">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19626">
+
+---
+## CVE-2026-1961 ()
+> 
+- [kalnux/CVE-2026-1961-foreman-poc](https://github.com/kalnux/CVE-2026-1961-foreman-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kalnux/CVE-2026-1961-foreman-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kalnux/CVE-2026-1961-foreman-poc">
 
 ---
 ## CVE-2026-19598 ()
