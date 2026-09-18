@@ -953,6 +953,11 @@
 - [pervinzahidli/CVE-2026-75855](https://github.com/pervinzahidli/CVE-2026-75855)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-75855">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-75855">
 
 ---
+## CVE-2026-75827 ()
+> 
+- [abraxas/CVE-2026-75827](https://github.com/abraxas/CVE-2026-75827)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-75827">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-75827">
+
+---
 ## CVE-2026-7574 ()
 > 
 - [0xBlackash/CVE-2026-7574](https://github.com/0xBlackash/CVE-2026-7574)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-7574">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-7574">
@@ -4296,6 +4301,11 @@
 ## CVE-2026-45156 ()
 > 
 - [cybertechajju/CVE-2026-45156-POC](https://github.com/cybertechajju/CVE-2026-45156-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-45156-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-45156-POC">
+
+---
+## CVE-2026-45140 ()
+> 
+- [abraxas/CVE-2026-45140](https://github.com/abraxas/CVE-2026-45140)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-45140">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-45140">
 
 ---
 ## CVE-2026-45091 ()
