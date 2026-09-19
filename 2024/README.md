@@ -5220,6 +5220,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [jimmexploit/CVE-2024-37054-PoC](https://github.com/jimmexploit/CVE-2024-37054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jimmexploit/CVE-2024-37054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jimmexploit/CVE-2024-37054-PoC">
 - [tristanqtn/CVE-2024-37054](https://github.com/tristanqtn/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/tristanqtn/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/tristanqtn/CVE-2024-37054">
 - [vanhari/CVE-2024-37054](https://github.com/vanhari/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2024-37054">
+- [ClearLotus-git/CVE-2024-37054-PoC](https://github.com/ClearLotus-git/CVE-2024-37054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2024-37054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2024-37054-PoC">
 
 ---
 ## CVE-2024-37051 (2024-06-10T16:15:00)
