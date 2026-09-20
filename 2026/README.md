@@ -259,6 +259,7 @@
 ## CVE-2026-89274 ()
 > 
 - [murrez/CVE-2026-89274](https://github.com/murrez/CVE-2026-89274)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-89274">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-89274">
+- [Polosss/By-Poloss..-.CVE-2026-89274](https://github.com/Polosss/By-Poloss..-.CVE-2026-89274)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-.CVE-2026-89274">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-.CVE-2026-89274">
 
 ---
 ## CVE-2026-89026 ()
@@ -7985,6 +7986,11 @@
 ## CVE-2026-28672 ()
 > 
 - [oscerd/CVE-2026-28672](https://github.com/oscerd/CVE-2026-28672)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-28672">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-28672">
+
+---
+## CVE-2026-28609 ()
+> 
+- [devrodT2/CVE-2026-28609-matroska-pcm-oob](https://github.com/devrodT2/CVE-2026-28609-matroska-pcm-oob)	<img alt="forks" src="https://img.shields.io/github/forks/devrodT2/CVE-2026-28609-matroska-pcm-oob">	<img alt="stars" src="https://img.shields.io/github/stars/devrodT2/CVE-2026-28609-matroska-pcm-oob">
 
 ---
 ## CVE-2026-28576 ()
