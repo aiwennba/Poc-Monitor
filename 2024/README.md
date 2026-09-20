@@ -9936,6 +9936,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [OmarMahmoud1024/tryhackme-monikerlink-writeup](https://github.com/OmarMahmoud1024/tryhackme-monikerlink-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/OmarMahmoud1024/tryhackme-monikerlink-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/OmarMahmoud1024/tryhackme-monikerlink-writeup">
 - [shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup](https://github.com/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">
 - [yfelipecruvinel/tryhackme-moniker-link](https://github.com/yfelipecruvinel/tryhackme-moniker-link)	<img alt="forks" src="https://img.shields.io/github/forks/yfelipecruvinel/tryhackme-moniker-link">	<img alt="stars" src="https://img.shields.io/github/stars/yfelipecruvinel/tryhackme-moniker-link">
+- [PCzBuilds/monikerlink-cve-2024-21413-writeup](https://github.com/PCzBuilds/monikerlink-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/PCzBuilds/monikerlink-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/PCzBuilds/monikerlink-cve-2024-21413-writeup">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
