@@ -5380,6 +5380,7 @@
 ## CVE-2026-41452 ()
 > 
 - [Boreas37/CVE-2026-41452-PoC](https://github.com/Boreas37/CVE-2026-41452-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-41452-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-41452-PoC">
+- [o-sec/CVE-2026-41452-poc](https://github.com/o-sec/CVE-2026-41452-poc)	<img alt="forks" src="https://img.shields.io/github/forks/o-sec/CVE-2026-41452-poc">	<img alt="stars" src="https://img.shields.io/github/stars/o-sec/CVE-2026-41452-poc">
 
 ---
 ## CVE-2026-41303 ()
