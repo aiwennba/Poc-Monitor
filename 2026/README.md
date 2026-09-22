@@ -140,6 +140,11 @@
 - [muradislamzada/CVE-2026-93528](https://github.com/muradislamzada/CVE-2026-93528)	<img alt="forks" src="https://img.shields.io/github/forks/muradislamzada/CVE-2026-93528">	<img alt="stars" src="https://img.shields.io/github/stars/muradislamzada/CVE-2026-93528">
 
 ---
+## CVE-2026-93485 ()
+> 
+- [HORKimhab/CVE-2026-93485](https://github.com/HORKimhab/CVE-2026-93485)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-93485">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-93485">
+
+---
 ## CVE-2026-93453 ()
 > 
 - [Faceless0x7/CVE-2026-93453](https://github.com/Faceless0x7/CVE-2026-93453)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-93453">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-93453">
@@ -1634,6 +1639,11 @@
 ## CVE-2026-68398 ()
 > 
 - [aramosf/CVE-2026-68398](https://github.com/aramosf/CVE-2026-68398)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-68398">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-68398">
+
+---
+## CVE-2026-68376 ()
+> 
+- [gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc](https://github.com/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc">
 
 ---
 ## CVE-2026-6837 ()
@@ -3282,6 +3292,7 @@
 ## CVE-2026-53266 ()
 > 
 - [suominen/CVE-2026-53266](https://github.com/suominen/CVE-2026-53266)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-53266">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-53266">
+- [mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)	<img alt="forks" src="https://img.shields.io/github/forks/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">	<img alt="stars" src="https://img.shields.io/github/stars/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">
 
 ---
 ## CVE-2026-53264 ()
@@ -3478,6 +3489,11 @@
 ## CVE-2026-51788 ()
 > 
 - [aykhan32/CVE-2026-51788](https://github.com/aykhan32/CVE-2026-51788)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-51788">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-51788">
+
+---
+## CVE-2026-51772 ()
+> 
+- [sadandbset/CVE-2026-51772](https://github.com/sadandbset/CVE-2026-51772)	<img alt="forks" src="https://img.shields.io/github/forks/sadandbset/CVE-2026-51772">	<img alt="stars" src="https://img.shields.io/github/stars/sadandbset/CVE-2026-51772">
 
 ---
 ## CVE-2026-5173 ()
@@ -5025,6 +5041,7 @@
 - [SyntaxMethod/CVE-2026-42978-PoC-Research](https://github.com/SyntaxMethod/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-42978-PoC-Research">
 - [ZeroDayEvil/CVE-2026-42978-PoC-Research](https://github.com/ZeroDayEvil/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-42978-PoC-Research">
 - [coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research](https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research)	<img alt="forks" src="https://img.shields.io/github/forks/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research">	<img alt="stars" src="https://img.shields.io/github/stars/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research">
+- [coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io](https://github.com/coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io">
 
 ---
 ## CVE-2026-42945 ()
