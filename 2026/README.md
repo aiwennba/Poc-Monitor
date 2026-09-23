@@ -138,6 +138,7 @@
 ## CVE-2026-93616 ()
 > 
 - [WadesWeaponShed/CVE-2026-93616_Checks](https://github.com/WadesWeaponShed/CVE-2026-93616_Checks)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-93616_Checks">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-93616_Checks">
+- [nebula031/CVE-2026-93616-PoC](https://github.com/nebula031/CVE-2026-93616-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nebula031/CVE-2026-93616-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nebula031/CVE-2026-93616-PoC">
 
 ---
 ## CVE-2026-93528 ()
@@ -248,9 +249,19 @@
 - [Kimdir01/CVE-2026-9090-poc](https://github.com/Kimdir01/CVE-2026-9090-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kimdir01/CVE-2026-9090-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kimdir01/CVE-2026-9090-poc">
 
 ---
+## CVE-2026-90898 ()
+> 
+- [HORKimhab/CVE-2026-90898](https://github.com/HORKimhab/CVE-2026-90898)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-90898">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-90898">
+
+---
 ## CVE-2026-9086 ()
 > 
 - [Saku0512/CVE-2026-9086-poc](https://github.com/Saku0512/CVE-2026-9086-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-9086-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-9086-poc">
+
+---
+## CVE-2026-90847 ()
+> 
+- [shlln/CVE-2026-90847](https://github.com/shlln/CVE-2026-90847)	<img alt="forks" src="https://img.shields.io/github/forks/shlln/CVE-2026-90847">	<img alt="stars" src="https://img.shields.io/github/stars/shlln/CVE-2026-90847">
 
 ---
 ## CVE-2026-9082 ()
@@ -405,6 +416,8 @@
 - [abraxas/CVE-2026-87902](https://github.com/abraxas/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-87902">
 - [pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader)	<img alt="forks" src="https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader">	<img alt="stars" src="https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader">
 - [vulpecuna/CVE-2026-87902](https://github.com/vulpecuna/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/vulpecuna/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/vulpecuna/CVE-2026-87902">
+- [dinosn/cve-2026-87902-wordpress-lfi-lab](https://github.com/dinosn/cve-2026-87902-wordpress-lfi-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-87902-wordpress-lfi-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-87902-wordpress-lfi-lab">
+- [rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal](https://github.com/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/rabakuku/CVE-2026-87902-A-working-PoC-for-WordPress-s-critical-path-traversal">
 
 ---
 ## CVE-2026-87796 ()
