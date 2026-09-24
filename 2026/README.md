@@ -454,6 +454,7 @@
 - [oliveiralimajr/CVE_2026_87902](https://github.com/oliveiralimajr/CVE_2026_87902)	<img alt="forks" src="https://img.shields.io/github/forks/oliveiralimajr/CVE_2026_87902">	<img alt="stars" src="https://img.shields.io/github/stars/oliveiralimajr/CVE_2026_87902">
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 - [Lutfifakee-Project/CVE-2026-87902](https://github.com/Lutfifakee-Project/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-87902">
+- [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -609,6 +610,11 @@
 ## CVE-2026-84568 ()
 > 
 - [jvidhan/autofs-cve-2026-84568](https://github.com/jvidhan/autofs-cve-2026-84568)	<img alt="forks" src="https://img.shields.io/github/forks/jvidhan/autofs-cve-2026-84568">	<img alt="stars" src="https://img.shields.io/github/stars/jvidhan/autofs-cve-2026-84568">
+
+---
+## CVE-2026-84543 ()
+> 
+- [petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543)	<img alt="forks" src="https://img.shields.io/github/forks/petermalone/CVE-2026-84543">	<img alt="stars" src="https://img.shields.io/github/stars/petermalone/CVE-2026-84543">
 
 ---
 ## CVE-2026-8452 ()
@@ -2441,6 +2447,8 @@
 - [Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/WP2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/WP2Shell-Scanner">
 - [DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/wp2shell-poc">
 - [fl0ydsec/CVE-2026-63030](https://github.com/fl0ydsec/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/fl0ydsec/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/fl0ydsec/CVE-2026-63030">
+- [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/arvindear/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/arvindear/wp2shell-PoC">
+- [ivanesk315/CVE-2026-60137-and-CVE-2026-63030](https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">
 
 ---
 ## CVE-2026-62911 ()
@@ -2450,6 +2458,7 @@
 ---
 ## CVE-2026-62878 ()
 > 
+- [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 - [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 - [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 
@@ -5047,6 +5056,15 @@
 - [diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/ghostlock-pfem10">
 - [cxlfhx/ghostlock-pfem10](https://github.com/cxlfhx/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/cxlfhx/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/cxlfhx/ghostlock-pfem10">
 - [anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318](https://github.com/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318)	<img alt="forks" src="https://img.shields.io/github/forks/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318">	<img alt="stars" src="https://img.shields.io/github/stars/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318">
+- [wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499](https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499">
+- [pyyyc/honor-6.12.38-43499-research](https://github.com/pyyyc/honor-6.12.38-43499-research)	<img alt="forks" src="https://img.shields.io/github/forks/pyyyc/honor-6.12.38-43499-research">	<img alt="stars" src="https://img.shields.io/github/stars/pyyyc/honor-6.12.38-43499-research">
+- [AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/AriyanPegu/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/AriyanPegu/ghostlock-app">
+- [jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root](https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root)	<img alt="forks" src="https://img.shields.io/github/forks/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">	<img alt="stars" src="https://img.shields.io/github/stars/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">
+- [MKE84/neo8-ghostlock-adaptation](https://github.com/MKE84/neo8-ghostlock-adaptation)	<img alt="forks" src="https://img.shields.io/github/forks/MKE84/neo8-ghostlock-adaptation">	<img alt="stars" src="https://img.shields.io/github/stars/MKE84/neo8-ghostlock-adaptation">
+- [TheAndersMadsen/humane-aipin-ghostlock](https://github.com/TheAndersMadsen/humane-aipin-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/TheAndersMadsen/humane-aipin-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/TheAndersMadsen/humane-aipin-ghostlock">
+- [deancyl/s9180-rootmygalaxy](https://github.com/deancyl/s9180-rootmygalaxy)	<img alt="forks" src="https://img.shields.io/github/forks/deancyl/s9180-rootmygalaxy">	<img alt="stars" src="https://img.shields.io/github/stars/deancyl/s9180-rootmygalaxy">
+- [coey0814/Fold8-Ultra-Root-F976N](https://github.com/coey0814/Fold8-Ultra-Root-F976N)	<img alt="forks" src="https://img.shields.io/github/forks/coey0814/Fold8-Ultra-Root-F976N">	<img alt="stars" src="https://img.shields.io/github/stars/coey0814/Fold8-Ultra-Root-F976N">
+- [imeiplus/ghostlock-pfem10](https://github.com/imeiplus/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/imeiplus/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/imeiplus/ghostlock-pfem10">
 
 ---
 ## CVE-2026-43494 ()
