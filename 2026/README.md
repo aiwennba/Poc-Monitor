@@ -73,6 +73,7 @@
 ## CVE-2026-97163 ()
 > 
 - [qeize/cve-2026-97163-payload](https://github.com/qeize/cve-2026-97163-payload)	<img alt="forks" src="https://img.shields.io/github/forks/qeize/cve-2026-97163-payload">	<img alt="stars" src="https://img.shields.io/github/stars/qeize/cve-2026-97163-payload">
+- [murrez/CVE-2026-97163](https://github.com/murrez/CVE-2026-97163)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-97163">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-97163">
 
 ---
 ## CVE-2026-97161 ()
@@ -762,6 +763,11 @@
 ## CVE-2026-8337 ()
 > 
 - [aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)	<img alt="forks" src="https://img.shields.io/github/forks/aj2108/CVE-2026-8337">	<img alt="stars" src="https://img.shields.io/github/stars/aj2108/CVE-2026-8337">
+
+---
+## CVE-2026-82901 ()
+> 
+- [murrez/CVE-2026-82901](https://github.com/murrez/CVE-2026-82901)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-82901">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-82901">
 
 ---
 ## CVE-2026-82876 ()
@@ -4963,6 +4969,7 @@
 ## CVE-2026-43786 ()
 > 
 - [Malwation/CVE-2026-43786](https://github.com/Malwation/CVE-2026-43786)	<img alt="forks" src="https://img.shields.io/github/forks/Malwation/CVE-2026-43786">	<img alt="stars" src="https://img.shields.io/github/stars/Malwation/CVE-2026-43786">
+- [0xBlackash/CVE-2026-43786](https://github.com/0xBlackash/CVE-2026-43786)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43786">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43786">
 
 ---
 ## CVE-2026-43783 ()
