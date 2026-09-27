@@ -565,6 +565,11 @@
 - [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
 
 ---
+## CVE-2026-8712 ()
+> 
+- [rahulreddykarne/CVE-2026-8712-Wyoming](https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-8712-Wyoming">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-8712-Wyoming">
+
+---
 ## CVE-2026-86547 ()
 > 
 - [HarshRajSinghania/cve-2026-86547-mrubyc-op-enter](https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">
@@ -4934,6 +4939,11 @@
 ## CVE-2026-44024 ()
 > 
 - [0xdak/CVE-2026-44024_exploit](https://github.com/0xdak/CVE-2026-44024_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-44024_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-44024_exploit">
+
+---
+## CVE-2026-44011 ()
+> 
+- [4xura/CVE-2026-44011-craftcms-auth-rce](https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-44011-craftcms-auth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-44011-craftcms-auth-rce">
 
 ---
 ## CVE-2026-43914 ()
@@ -12020,6 +12030,11 @@
 ## CVE-2026-1010 ()
 > 
 - [George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header](https://github.com/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1010-WebSocket-Connection-Smuggling-via-Malformed-Upgrade-Header">
+
+---
+## CVE-2026-100740 ()
+> 
+- [murrez/CVE-2026-100740](https://github.com/murrez/CVE-2026-100740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-100740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-100740">
 
 ---
 ## CVE-2026-10053 ()
