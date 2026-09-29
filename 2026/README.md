@@ -590,6 +590,7 @@
 - [abatsakidis/wp-cve-2026-87902-checker](https://github.com/abatsakidis/wp-cve-2026-87902-checker)	<img alt="forks" src="https://img.shields.io/github/forks/abatsakidis/wp-cve-2026-87902-checker">	<img alt="stars" src="https://img.shields.io/github/stars/abatsakidis/wp-cve-2026-87902-checker">
 - [HackfutSecRoot/CVE-2026-87902](https://github.com/HackfutSecRoot/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/HackfutSecRoot/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/HackfutSecRoot/CVE-2026-87902">
 - [MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-87902">
+- [tonydelouvre/CVE-2026-87902](https://github.com/tonydelouvre/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/tonydelouvre/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/tonydelouvre/CVE-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -805,6 +806,11 @@
 ## CVE-2026-84388 ()
 > 
 - [ShadowForge-Cyber/CVE-2026-84388-POC](https://github.com/ShadowForge-Cyber/CVE-2026-84388-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-84388-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-84388-POC">
+
+---
+## CVE-2026-84383 ()
+> 
+- [dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/libheif-cve-2026-84383-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/libheif-cve-2026-84383-lab">
 
 ---
 ## CVE-2026-84361 ()
@@ -2688,6 +2694,7 @@
 - [langz337/CVE-2026-63030](https://github.com/langz337/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/langz337/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/langz337/CVE-2026-63030">
 - [z3rodayhacks/CVE-2026-63030-CVE-2026-60137](https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/z3rodayhacks/CVE-2026-63030-CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/z3rodayhacks/CVE-2026-63030-CVE-2026-60137">
 - [jed-parsec/CVE-2026-63030-60137-wp2shell-lab](https://github.com/jed-parsec/CVE-2026-63030-60137-wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/jed-parsec/CVE-2026-63030-60137-wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/jed-parsec/CVE-2026-63030-60137-wp2shell-lab">
+- [MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-">
 
 ---
 ## CVE-2026-62911 ()
@@ -6018,7 +6025,7 @@
 - [ZeroDayVPN/CVE-2026-41089-Netlogon](https://github.com/ZeroDayVPN/CVE-2026-41089-Netlogon)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-41089-Netlogon">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-41089-Netlogon">
 - [SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC">
 - [Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC](https://github.com/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Gillarchnganasan2735/CVE-2026-41089-Netlogon-RCE-PoC">
-- [1posix/CVE-2026-41089-POC](https://github.com/1posix/CVE-2026-41089-POC)	<img alt="forks" src="https://img.shields.io/github/forks/1posix/CVE-2026-41089-POC">	<img alt="stars" src="https://img.shields.io/github/stars/1posix/CVE-2026-41089-POC">
+- [1posix/CVE-2026-41089-PoC](https://github.com/1posix/CVE-2026-41089-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1posix/CVE-2026-41089-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1posix/CVE-2026-41089-PoC">
 
 ---
 ## CVE-2026-41044 ()
@@ -7647,6 +7654,11 @@
 ## CVE-2026-31891 ()
 > 
 - [ffasterss/CVE-2026-31891](https://github.com/ffasterss/CVE-2026-31891)	<img alt="forks" src="https://img.shields.io/github/forks/ffasterss/CVE-2026-31891">	<img alt="stars" src="https://img.shields.io/github/stars/ffasterss/CVE-2026-31891">
+
+---
+## CVE-2026-31857 ()
+> 
+- [0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857)	<img alt="forks" src="https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857">	<img alt="stars" src="https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857">
 
 ---
 ## CVE-2026-31844 ()
@@ -12206,6 +12218,11 @@
 ## CVE-2026-10288 ()
 > 
 - [Xmyronn/CVE-2026-10288-AUTH-BYPASS](https://github.com/Xmyronn/CVE-2026-10288-AUTH-BYPASS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-10288-AUTH-BYPASS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-10288-AUTH-BYPASS">
+
+---
+## CVE-2026-102261 ()
+> 
+- [7acini/CVE-2026-102261](https://github.com/7acini/CVE-2026-102261)	<img alt="forks" src="https://img.shields.io/github/forks/7acini/CVE-2026-102261">	<img alt="stars" src="https://img.shields.io/github/stars/7acini/CVE-2026-102261">
 
 ---
 ## CVE-2026-101894 ()
