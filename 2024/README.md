@@ -1679,7 +1679,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ---
 ## CVE-2024-54767 ()
 > 
-- [sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit](https://github.com/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sysadmin420/AVM-FRITZ-Box-CVE-2024-54767-Exploit">
+- [lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit](https://github.com/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit">
 
 ---
 ## CVE-2024-54761 ()
