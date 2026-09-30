@@ -3846,6 +3846,11 @@ of headers and eventually cause curl to run out of heap memory.
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
+## CVE-2023-3776 ()
+> 
+- [Sakura999999999/CVE-2023-3776_repro](https://github.com/Sakura999999999/CVE-2023-3776_repro)	<img alt="forks" src="https://img.shields.io/github/forks/Sakura999999999/CVE-2023-3776_repro">	<img alt="stars" src="https://img.shields.io/github/stars/Sakura999999999/CVE-2023-3776_repro">
+
+---
 ## CVE-2023-37756 (2023-09-14T21:15:00)
 > I-doit pro 25 and below and I-doit open 25 and below employ weak password requirements for Administrator account creation. Attackers are able to easily guess users' passwords via a bruteforce attack.
 - [leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-37756-CWE-521-lead-to-malicious-plugin-upload-in-the-i-doit-Pro-25-and-below">
