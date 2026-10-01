@@ -324,6 +324,8 @@
 - [9xh4kv/CVE-2025-8110](https://github.com/9xh4kv/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/9xh4kv/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/9xh4kv/CVE-2025-8110">
 - [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 - [r3vpwnx/CVE-2025-8110](https://github.com/r3vpwnx/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-8110">
+- [Waynehck8/CVE-2025-8110-POC](https://github.com/Waynehck8/CVE-2025-8110-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Waynehck8/CVE-2025-8110-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Waynehck8/CVE-2025-8110-POC">
+- [anxs3c/GhostlinkWriteup](https://github.com/anxs3c/GhostlinkWriteup)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/GhostlinkWriteup">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/GhostlinkWriteup">
 
 ---
 ## CVE-2025-8088 ()
@@ -3233,6 +3235,7 @@
 - [DiegoRivas1/htb-labs-connected](https://github.com/DiegoRivas1/htb-labs-connected)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoRivas1/htb-labs-connected">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoRivas1/htb-labs-connected">
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 - [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
+- [donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819">
 
 ---
 ## CVE-2025-5781 ()
@@ -10236,6 +10239,7 @@
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
 - [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
+- [diyiqiuye/CVE-2025-21479-FX3](https://github.com/diyiqiuye/CVE-2025-21479-FX3)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX3">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX3">
 
 ---
 ## CVE-2025-21420 ()
