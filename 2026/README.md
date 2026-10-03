@@ -692,6 +692,7 @@
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
 - [decalage2/detect_CVE-2026-86950](https://github.com/decalage2/detect_CVE-2026-86950)	<img alt="forks" src="https://img.shields.io/github/forks/decalage2/detect_CVE-2026-86950">	<img alt="stars" src="https://img.shields.io/github/stars/decalage2/detect_CVE-2026-86950">
+- [msuiche/hotcell](https://github.com/msuiche/hotcell)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/hotcell">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/hotcell">
 
 ---
 ## CVE-2026-86595 ()
@@ -11634,6 +11635,11 @@
 - [HELLBOY3110/cve-2026-16219-croogo-lab](https://github.com/HELLBOY3110/cve-2026-16219-croogo-lab)	<img alt="forks" src="https://img.shields.io/github/forks/HELLBOY3110/cve-2026-16219-croogo-lab">	<img alt="stars" src="https://img.shields.io/github/stars/HELLBOY3110/cve-2026-16219-croogo-lab">
 
 ---
+## CVE-2026-15989 ()
+> 
+- [fl0ydsec/CVE-2026-15989](https://github.com/fl0ydsec/CVE-2026-15989)	<img alt="forks" src="https://img.shields.io/github/forks/fl0ydsec/CVE-2026-15989">	<img alt="stars" src="https://img.shields.io/github/stars/fl0ydsec/CVE-2026-15989">
+
+---
 ## CVE-2026-15981 ()
 > 
 - [Nxploited/CVE-2026-15981](https://github.com/Nxploited/CVE-2026-15981)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-15981">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-15981">
@@ -12462,6 +12468,11 @@
 > 
 - [murrez/CVE-2026-102425](https://github.com/murrez/CVE-2026-102425)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-102425">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-102425">
 - [tonydelouvre/CVE-2026-102425](https://github.com/tonydelouvre/CVE-2026-102425)	<img alt="forks" src="https://img.shields.io/github/forks/tonydelouvre/CVE-2026-102425">	<img alt="stars" src="https://img.shields.io/github/stars/tonydelouvre/CVE-2026-102425">
+
+---
+## CVE-2026-102282 ()
+> 
+- [Ahmed-Elmahgob/POC-CVE-2026-102282](https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed-Elmahgob/POC-CVE-2026-102282">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed-Elmahgob/POC-CVE-2026-102282">
 
 ---
 ## CVE-2026-102268 ()
