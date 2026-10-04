@@ -5536,6 +5536,9 @@
 - [aniketlab/POCO-M7-Plus-Jailbreak](https://github.com/aniketlab/POCO-M7-Plus-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/aniketlab/POCO-M7-Plus-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/aniketlab/POCO-M7-Plus-Jailbreak">
 - [YUE546/IQOO-neo7-ghostlock-43499](https://github.com/YUE546/IQOO-neo7-ghostlock-43499)	<img alt="forks" src="https://img.shields.io/github/forks/YUE546/IQOO-neo7-ghostlock-43499">	<img alt="stars" src="https://img.shields.io/github/stars/YUE546/IQOO-neo7-ghostlock-43499">
 - [shubhampathak65/CVE-2026-43499](https://github.com/shubhampathak65/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/shubhampathak65/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/shubhampathak65/CVE-2026-43499">
+- [AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15)	<img alt="forks" src="https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15">	<img alt="stars" src="https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15">
+- [alfzki/ghostlock-app](https://github.com/alfzki/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/alfzki/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/alfzki/ghostlock-app">
+- [litianyuan-91/Ghostlock-Honor70Pro](https://github.com/litianyuan-91/Ghostlock-Honor70Pro)	<img alt="forks" src="https://img.shields.io/github/forks/litianyuan-91/Ghostlock-Honor70Pro">	<img alt="stars" src="https://img.shields.io/github/stars/litianyuan-91/Ghostlock-Honor70Pro">
 
 ---
 ## CVE-2026-43494 ()
@@ -11676,6 +11679,11 @@
 ## CVE-2026-15964 ()
 > 
 - [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
+
+---
+## CVE-2026-15911 ()
+> 
+- [rahulreddykarne/CVE-2026-15911-Confluent_Kafka](https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">
 
 ---
 ## CVE-2026-15826 ()
