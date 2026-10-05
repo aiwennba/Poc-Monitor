@@ -1989,6 +1989,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [xG3nesis/RustyInjector](https://github.com/xG3nesis/RustyInjector)	<img alt="forks" src="https://img.shields.io/github/forks/xG3nesis/RustyInjector">	<img alt="stars" src="https://img.shields.io/github/stars/xG3nesis/RustyInjector">
 - [Danyw24/blueXploit](https://github.com/Danyw24/blueXploit)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/blueXploit">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/blueXploit">
 - [0xBADACTOR/CVE-2023-45866](https://github.com/0xBADACTOR/CVE-2023-45866)	<img alt="forks" src="https://img.shields.io/github/forks/0xBADACTOR/CVE-2023-45866">	<img alt="stars" src="https://img.shields.io/github/stars/0xBADACTOR/CVE-2023-45866">
+- [KiroShehata/CVE-2023-45866-Bluetooth-Security-Research](https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research)	<img alt="forks" src="https://img.shields.io/github/forks/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research">	<img alt="stars" src="https://img.shields.io/github/stars/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research">
 
 ---
 ## CVE-2023-45857 (2023-11-08T21:15:00)
