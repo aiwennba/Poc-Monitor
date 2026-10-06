@@ -895,6 +895,11 @@
 - [imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check](https://github.com/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2025-68705-RustFS-Path-Traversal-Vulnerability-Check">
 
 ---
+## CVE-2025-6867 ()
+> 
+- [richard1026/CVE-2025-6867-reproduction](https://github.com/richard1026/CVE-2025-6867-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/richard1026/CVE-2025-6867-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/richard1026/CVE-2025-6867-reproduction">
+
+---
 ## CVE-2025-68664 ()
 > 
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
@@ -7468,6 +7473,11 @@
 - [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
 - [0xgh057r3c0n/CVE-2025-34077](https://github.com/0xgh057r3c0n/CVE-2025-34077)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34077">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34077">
+
+---
+## CVE-2025-34069 ()
+> 
+- [cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2025-34069">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2025-34069">
 
 ---
 ## CVE-2025-34065 ()

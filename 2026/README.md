@@ -75,6 +75,11 @@
 - [JailBr3ak/CVE-2026-97347](https://github.com/JailBr3ak/CVE-2026-97347)	<img alt="forks" src="https://img.shields.io/github/forks/JailBr3ak/CVE-2026-97347">	<img alt="stars" src="https://img.shields.io/github/stars/JailBr3ak/CVE-2026-97347">
 
 ---
+## CVE-2026-97286 ()
+> 
+- [Rully2212/CVE-2026-97286](https://github.com/Rully2212/CVE-2026-97286)	<img alt="forks" src="https://img.shields.io/github/forks/Rully2212/CVE-2026-97286">	<img alt="stars" src="https://img.shields.io/github/stars/Rully2212/CVE-2026-97286">
+
+---
 ## CVE-2026-97163 ()
 > 
 - [qeize/cve-2026-97163-payload](https://github.com/qeize/cve-2026-97163-payload)	<img alt="forks" src="https://img.shields.io/github/forks/qeize/cve-2026-97163-payload">	<img alt="stars" src="https://img.shields.io/github/stars/qeize/cve-2026-97163-payload">
@@ -12499,6 +12504,11 @@
 - [RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab)	<img alt="forks" src="https://img.shields.io/github/forks/RayanAlmulhim/CVE-2026-105134-lab">	<img alt="stars" src="https://img.shields.io/github/stars/RayanAlmulhim/CVE-2026-105134-lab">
 
 ---
+## CVE-2026-105080 ()
+> 
+- [beyavuz/cve-2026-105080-poc](https://github.com/beyavuz/cve-2026-105080-poc)	<img alt="forks" src="https://img.shields.io/github/forks/beyavuz/cve-2026-105080-poc">	<img alt="stars" src="https://img.shields.io/github/stars/beyavuz/cve-2026-105080-poc">
+
+---
 ## CVE-2026-105030 ()
 > 
 - [asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-105030-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-105030-poc">
@@ -12634,6 +12644,11 @@
 ## CVE-2026-102261 ()
 > 
 - [7acini/CVE-2026-102261](https://github.com/7acini/CVE-2026-102261)	<img alt="forks" src="https://img.shields.io/github/forks/7acini/CVE-2026-102261">	<img alt="stars" src="https://img.shields.io/github/stars/7acini/CVE-2026-102261">
+
+---
+## CVE-2026-10196 ()
+> 
+- [0xCyp1337/CVE-2026-10196](https://github.com/0xCyp1337/CVE-2026-10196)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-10196">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-10196">
 
 ---
 ## CVE-2026-101894 ()
