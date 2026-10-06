@@ -91,6 +91,11 @@
 - [murrez/CVE-2026-97160](https://github.com/murrez/CVE-2026-97160)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-97160">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-97160">
 
 ---
+## CVE-2026-96940 ()
+> 
+- [HORKimhab/CVE-2026-96940](https://github.com/HORKimhab/CVE-2026-96940)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-96940">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-96940">
+
+---
 ## CVE-2026-9691 ()
 > 
 - [izxci/CVE-2026-9691](https://github.com/izxci/CVE-2026-9691)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-9691">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-9691">
@@ -1047,6 +1052,7 @@
 - [izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-8206">
 - [Jenderal92/CVE-2026-8206](https://github.com/Jenderal92/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-8206">
 - [Dungsocool/CVE-2026-8206](https://github.com/Dungsocool/CVE-2026-8206)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-8206">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-8206">
+- [Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis](https://github.com/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis">
 
 ---
 ## CVE-2026-8196 ()
@@ -5571,6 +5577,7 @@
 - [a23bc/ALI-AN00-cve-2026-43499](https://github.com/a23bc/ALI-AN00-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/a23bc/ALI-AN00-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/a23bc/ALI-AN00-cve-2026-43499">
 - [maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1)	<img alt="forks" src="https://img.shields.io/github/forks/maulanasdqn/ghostlock-honor-brpnx1">	<img alt="stars" src="https://img.shields.io/github/stars/maulanasdqn/ghostlock-honor-brpnx1">
 - [ihamn/matisse-public](https://github.com/ihamn/matisse-public)	<img alt="forks" src="https://img.shields.io/github/forks/ihamn/matisse-public">	<img alt="stars" src="https://img.shields.io/github/stars/ihamn/matisse-public">
+- [Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085)	<img alt="forks" src="https://img.shields.io/github/forks/Nixbones/ghostlock-rmx5085">	<img alt="stars" src="https://img.shields.io/github/stars/Nixbones/ghostlock-rmx5085">
 
 ---
 ## CVE-2026-43494 ()
@@ -12469,6 +12476,11 @@
 - [watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">
 
 ---
+## CVE-2026-105221 ()
+> 
+- [abraxas/cve-2026-105221-gist-tls](https://github.com/abraxas/cve-2026-105221-gist-tls)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/cve-2026-105221-gist-tls">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/cve-2026-105221-gist-tls">
+
+---
 ## CVE-2026-10520 ()
 > 
 - [ogenich/CVE-2026-10520](https://github.com/ogenich/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/ogenich/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/ogenich/CVE-2026-10520">
@@ -12495,6 +12507,11 @@
 ## CVE-2026-104991 ()
 > 
 - [wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104991">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104991">
+
+---
+## CVE-2026-104905 ()
+> 
+- [wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection">
 
 ---
 ## CVE-2026-104826 ()
