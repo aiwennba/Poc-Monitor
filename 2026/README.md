@@ -384,6 +384,11 @@
 - [ChPratik/NGINX_2026_CVE_Bundle_CTI_Report](https://github.com/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/NGINX_2026_CVE_Bundle_CTI_Report">
 
 ---
+## CVE-2026-92555 ()
+> 
+- [Enay-Project/CVE-2026-92555](https://github.com/Enay-Project/CVE-2026-92555)	<img alt="forks" src="https://img.shields.io/github/forks/Enay-Project/CVE-2026-92555">	<img alt="stars" src="https://img.shields.io/github/stars/Enay-Project/CVE-2026-92555">
+
+---
 ## CVE-2026-9254 ()
 > 
 - [Slagzz/CVE-2026-9254](https://github.com/Slagzz/CVE-2026-9254)	<img alt="forks" src="https://img.shields.io/github/forks/Slagzz/CVE-2026-9254">	<img alt="stars" src="https://img.shields.io/github/stars/Slagzz/CVE-2026-9254">
@@ -2223,6 +2228,7 @@
 - [HackSpeak/CVE-2026-67279](https://github.com/HackSpeak/CVE-2026-67279)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-67279">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-67279">
 - [gagaltotal/CVE-2026-mikrotik-poc](https://github.com/gagaltotal/CVE-2026-mikrotik-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-mikrotik-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-mikrotik-poc">
 - [tc4dy/CVE-2026-67279-86060-Toolkit](https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-67279-86060-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-67279-86060-Toolkit">
+- [shmaki4/CVE-2026-67279-Mikrotik-6.42-POC](https://github.com/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC)	<img alt="forks" src="https://img.shields.io/github/forks/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC">	<img alt="stars" src="https://img.shields.io/github/stars/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC">
 
 ---
 ## CVE-2026-67276 ()
