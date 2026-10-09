@@ -1199,6 +1199,9 @@
 - [Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab">
 - [mcpmark-eval-liuhezi/log4shell-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit">
 - [osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner">
+- [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
+- [CyberCTF/vulhub-log4j-cve-2021-44228](https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-log4j-cve-2021-44228">
+- [ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -6828,6 +6831,7 @@
 - [theNareshofficial/CVE-2021-3129-Lab](https://github.com/theNareshofficial/CVE-2021-3129-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/theNareshofficial/CVE-2021-3129-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/theNareshofficial/CVE-2021-3129-Lab">
 - [Giangdurian/CVE-2021-3129](https://github.com/Giangdurian/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2021-3129">
 - [cchiaravalentini/CVE-2021-3129](https://github.com/cchiaravalentini/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/cchiaravalentini/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/cchiaravalentini/CVE-2021-3129">
+- [CyberCTF/vulhub-laravel-cve-2021-3129](https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-laravel-cve-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-laravel-cve-2021-3129">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
