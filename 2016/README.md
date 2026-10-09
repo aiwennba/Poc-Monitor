@@ -566,6 +566,8 @@
 ## CVE-2016-4977 ()
 > 
 - [CyberCTF/vulhub-spring-cve-2016-4977](https://github.com/CyberCTF/vulhub-spring-cve-2016-4977)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2016-4977">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2016-4977">
+- [tpt11fb/SpringVulScan](https://github.com/tpt11fb/SpringVulScan)	<img alt="forks" src="https://img.shields.io/github/forks/tpt11fb/SpringVulScan">	<img alt="stars" src="https://img.shields.io/github/stars/tpt11fb/SpringVulScan">
+- [N0b1e6/CVE-2016-4977-POC](https://github.com/N0b1e6/CVE-2016-4977-POC)	<img alt="forks" src="https://img.shields.io/github/forks/N0b1e6/CVE-2016-4977-POC">	<img alt="stars" src="https://img.shields.io/github/stars/N0b1e6/CVE-2016-4977-POC">
 
 ---
 ## CVE-2016-4974 ()
