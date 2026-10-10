@@ -12583,6 +12583,11 @@
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
 
 ---
+## CVE-2026-108592 ()
+> 
+- [asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc">
+
+---
 ## CVE-2026-10818 ()
 > 
 - [Nxploited/CVE-2026-10818](https://github.com/Nxploited/CVE-2026-10818)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-10818">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-10818">

@@ -84,6 +84,11 @@
 - [Live-Hack-CVE/CVE-2018-8976](https://github.com/Live-Hack-CVE/CVE-2018-8976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-8976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-8976">
 
 ---
+## CVE-2018-8715 ()
+> 
+- [CyberCTF/vulhub-appweb-cve-2018-8715](https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-appweb-cve-2018-8715">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-appweb-cve-2018-8715">
+
+---
 ## CVE-2018-8617 (2018-12-12T00:29:00)
 > A remote code execution vulnerability exists in the way that the Chakra scripting engine handles objects in memory in Microsoft Edge, aka "Chakra Scripting Engine Memory Corruption Vulnerability." This affects Microsoft Edge, ChakraCore. This CVE ID is unique from CVE-2018-8583, CVE-2018-8618, CVE-2018-8624, CVE-2018-8629.
 - [SpiralBL0CK/cve-2018-8617-aab-r-w-](https://github.com/SpiralBL0CK/cve-2018-8617-aab-r-w-)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/cve-2018-8617-aab-r-w-">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/cve-2018-8617-aab-r-w-">
@@ -1797,6 +1802,7 @@
 > When using Distributed Test only (RMI based), Apache JMeter 2.x and 3.x uses an unsecured RMI connection. This could allow an attacker to get Access to JMeterEngine and send unauthorized code.
 - [48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-)	<img alt="forks" src="https://img.shields.io/github/forks/48484848484848/Jmeter-CVE-2018-1297-">	<img alt="stars" src="https://img.shields.io/github/stars/48484848484848/Jmeter-CVE-2018-1297-">
 - [Al1ex/CVE-2018-1297](https://github.com/Al1ex/CVE-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2018-1297">
+- [CyberCTF/vulhub-jmeter-cve-2018-1297](https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jmeter-cve-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jmeter-cve-2018-1297">
 
 ---
 ## CVE-2018-1285 (2020-05-11T17:15:00)
@@ -2108,6 +2114,7 @@
 - [opsifiz/CVE-2018-10933](https://github.com/opsifiz/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/opsifiz/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/opsifiz/CVE-2018-10933">
 - [Remnant-DB/CVE-2018-10933](https://github.com/Remnant-DB/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2018-10933">
 - [K3ysTr0K3R/CVE-2018-10933](https://github.com/K3ysTr0K3R/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-10933">
+- [CyberCTF/vulhub-libssh-cve-2018-10933](https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-libssh-cve-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-libssh-cve-2018-10933">
 
 ---
 ## CVE-2018-10583 (2018-05-01T16:29:00)
@@ -2181,6 +2188,7 @@
 > A code execution vulnerability exists in the Stapler web framework used by Jenkins 2.153 and earlier, LTS 2.138.3 and earlier in stapler/core/src/main/java/org/kohsuke/stapler/MetaClass.java that allows attackers to invoke some methods on Java objects by accessing crafted URLs that were not intended to be invoked this way.
 - [smokeintheshell/CVE-2018-1000861](https://github.com/smokeintheshell/CVE-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2018-1000861">
 - [1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/1NTheKut/CVE-2019-1003000_RCE-DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/1NTheKut/CVE-2019-1003000_RCE-DETECTION">
+- [CyberCTF/vulhub-jenkins-cve-2018-1000861](https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2018-1000861">
 
 ---
 ## CVE-2018-1000850 ()

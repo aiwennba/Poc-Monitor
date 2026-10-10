@@ -385,11 +385,12 @@
 - [hekadan/CVE-2019-7609](https://github.com/hekadan/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/hekadan/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/hekadan/CVE-2019-7609">
 - [jas502n/kibana-RCE](https://github.com/jas502n/kibana-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/kibana-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/kibana-RCE">
 - [OliveiraaX/cve-2019-7609-modified.py](https://github.com/OliveiraaX/cve-2019-7609-modified.py)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/cve-2019-7609-modified.py">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/cve-2019-7609-modified.py">
-- [OliveiraaX/CVE-2019-7609-KibanaRCE](https://github.com/OliveiraaX/CVE-2019-7609-KibanaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/CVE-2019-7609-KibanaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/CVE-2019-7609-KibanaRCE">
+- [d0x-awrqxavc/CVE-2019-7609-KibanaRCE](https://github.com/d0x-awrqxavc/CVE-2019-7609-KibanaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/d0x-awrqxavc/CVE-2019-7609-KibanaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/d0x-awrqxavc/CVE-2019-7609-KibanaRCE">
 - [hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc](https://github.com/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">
 - [Akshay15-png/CVE-2019-7609](https://github.com/Akshay15-png/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/Akshay15-png/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/Akshay15-png/CVE-2019-7609">
-- [toxaker/CVE-2019-7609](https://github.com/toxaker/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxaker/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxaker/CVE-2019-7609">
+- [toxxxaka/CVE-2019-7609](https://github.com/toxxxaka/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxxxaka/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxxxaka/CVE-2019-7609">
 - [aleister1102/kibana-prototype-pollusion](https://github.com/aleister1102/kibana-prototype-pollusion)	<img alt="forks" src="https://img.shields.io/github/forks/aleister1102/kibana-prototype-pollusion">	<img alt="stars" src="https://img.shields.io/github/stars/aleister1102/kibana-prototype-pollusion">
+- [CyberCTF/vulhub-kibana-cve-2019-7609](https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-kibana-cve-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-kibana-cve-2019-7609">
 
 ---
 ## CVE-2019-7529 ()
@@ -1855,6 +1856,7 @@ use after free.
 ## CVE-2019-20933 ()
 > 
 - [Dungsocool/CVE-2019-20933](https://github.com/Dungsocool/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2019-20933">
+- [CyberCTF/vulhub-influxdb-cve-2019-20933](https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-influxdb-cve-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-influxdb-cve-2019-20933">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
@@ -3531,6 +3533,11 @@ use after free.
 ## CVE-2019-10760 (2019-10-15T15:15:00)
 > safer-eval before 1.3.2 are vulnerable to Arbitrary Code Execution. A payload using constructor properties can escape the sandbox and execute arbitrary code.
 - [lirantal/safer-eval-cve-CVE-2019-10760](https://github.com/lirantal/safer-eval-cve-CVE-2019-10760)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/safer-eval-cve-CVE-2019-10760">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/safer-eval-cve-CVE-2019-10760">
+
+---
+## CVE-2019-10758 ()
+> 
+- [CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758">
 
 ---
 ## CVE-2019-10746 (2019-08-23T17:15:00)

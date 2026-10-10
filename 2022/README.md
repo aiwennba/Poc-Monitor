@@ -4971,6 +4971,7 @@ Here we only need to move the of_node_put() before the check.
 - [jkobierczynski/cve-2022-44268](https://github.com/jkobierczynski/cve-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/jkobierczynski/cve-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/jkobierczynski/cve-2022-44268">
 - [mouftan/CVE-2022-44268](https://github.com/mouftan/CVE-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/mouftan/CVE-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/mouftan/CVE-2022-44268">
 - [k-javaman12/CVE-2022-44268-](https://github.com/k-javaman12/CVE-2022-44268-)	<img alt="forks" src="https://img.shields.io/github/forks/k-javaman12/CVE-2022-44268-">	<img alt="stars" src="https://img.shields.io/github/stars/k-javaman12/CVE-2022-44268-">
+- [CyberCTF/vulhub-imagemagick-cve-2022-44268](https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-imagemagick-cve-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-imagemagick-cve-2022-44268">
 
 ---
 ## CVE-2022-44262 ()
@@ -22777,6 +22778,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [coco0x0a/CVE-2022-34265-mysql](https://github.com/coco0x0a/CVE-2022-34265-mysql)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2022-34265-mysql">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2022-34265-mysql">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
+- [CyberCTF/vulhub-django-cve-2022-34265](https://github.com/CyberCTF/vulhub-django-cve-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-django-cve-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-django-cve-2022-34265">
 
 ---
 ## CVE-2022-3426 (2022-12-05T17:15:00)
