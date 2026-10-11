@@ -3538,6 +3538,9 @@ use after free.
 ## CVE-2019-10758 ()
 > 
 - [CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758">
+- [ossf-cve-benchmark/CVE-2019-10758](https://github.com/ossf-cve-benchmark/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10758">
+- [lp008/CVE-2019-10758](https://github.com/lp008/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2019-10758">
+- [masahiro331/CVE-2019-10758](https://github.com/masahiro331/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2019-10758">
 
 ---
 ## CVE-2019-10746 (2019-08-23T17:15:00)
