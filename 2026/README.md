@@ -5395,6 +5395,7 @@
 > 
 - [tls456/CVE-2026-43805-PoC](https://github.com/tls456/CVE-2026-43805-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tls456/CVE-2026-43805-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tls456/CVE-2026-43805-PoC">
 - [WTCYJ/CVE-2026-43805-analysis](https://github.com/WTCYJ/CVE-2026-43805-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/WTCYJ/CVE-2026-43805-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/WTCYJ/CVE-2026-43805-analysis">
+- [whysocscs/CVE-2026-43805](https://github.com/whysocscs/CVE-2026-43805)	<img alt="forks" src="https://img.shields.io/github/forks/whysocscs/CVE-2026-43805">	<img alt="stars" src="https://img.shields.io/github/stars/whysocscs/CVE-2026-43805">
 
 ---
 ## CVE-2026-43786 ()
@@ -5688,6 +5689,7 @@
 - [maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1)	<img alt="forks" src="https://img.shields.io/github/forks/maulanasdqn/ghostlock-honor-brpnx1">	<img alt="stars" src="https://img.shields.io/github/stars/maulanasdqn/ghostlock-honor-brpnx1">
 - [ihamn/matisse-public](https://github.com/ihamn/matisse-public)	<img alt="forks" src="https://img.shields.io/github/forks/ihamn/matisse-public">	<img alt="stars" src="https://img.shields.io/github/stars/ihamn/matisse-public">
 - [Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085)	<img alt="forks" src="https://img.shields.io/github/forks/Nixbones/ghostlock-rmx5085">	<img alt="stars" src="https://img.shields.io/github/stars/Nixbones/ghostlock-rmx5085">
+- [villager1314/CVE-2026-43499-Analysis](https://github.com/villager1314/CVE-2026-43499-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/villager1314/CVE-2026-43499-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/villager1314/CVE-2026-43499-Analysis">
 
 ---
 ## CVE-2026-43494 ()
@@ -6745,6 +6747,7 @@
 ## CVE-2026-38812 ()
 > 
 - [YYF1337/RuoYi-CVE-2026-38812-UNFIX](https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX)	<img alt="forks" src="https://img.shields.io/github/forks/YYF1337/RuoYi-CVE-2026-38812-UNFIX">	<img alt="stars" src="https://img.shields.io/github/stars/YYF1337/RuoYi-CVE-2026-38812-UNFIX">
+- [jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection](https://github.com/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection">
 
 ---
 ## CVE-2026-38766 ()
@@ -12718,6 +12721,11 @@
 ## CVE-2026-104356 ()
 > 
 - [wvllxe/CVE-2026-104356-pictshare-weak-delete-code](https://github.com/wvllxe/CVE-2026-104356-pictshare-weak-delete-code)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104356-pictshare-weak-delete-code">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104356-pictshare-weak-delete-code">
+
+---
+## CVE-2026-104335 ()
+> 
+- [Farih123/CVE-2026-104335](https://github.com/Farih123/CVE-2026-104335)	<img alt="forks" src="https://img.shields.io/github/forks/Farih123/CVE-2026-104335">	<img alt="stars" src="https://img.shields.io/github/stars/Farih123/CVE-2026-104335">
 
 ---
 ## CVE-2026-104286 ()

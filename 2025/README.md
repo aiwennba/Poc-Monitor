@@ -3245,7 +3245,7 @@
 - [jf-gondim/freepbx-endpoint-sqli-rce](https://github.com/jf-gondim/freepbx-endpoint-sqli-rce)	<img alt="forks" src="https://img.shields.io/github/forks/jf-gondim/freepbx-endpoint-sqli-rce">	<img alt="stars" src="https://img.shields.io/github/stars/jf-gondim/freepbx-endpoint-sqli-rce">
 - [ozcanpng/CVE-2025-57819-FreePBX-RCE2Root](https://github.com/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">
 - [Its1Zero/cve-2025-57819-exploit](https://github.com/Its1Zero/cve-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-exploit">
-- [TheScriptKiddoz/FreePBX-SQLi-RCE](https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TheScriptKiddoz/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TheScriptKiddoz/FreePBX-SQLi-RCE">
+- [HexBytee/FreePBX-SQLi-RCE](https://github.com/HexBytee/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HexBytee/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HexBytee/FreePBX-SQLi-RCE">
 - [K3ysTr0K3R/CVE-2025-57819](https://github.com/K3ysTr0K3R/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-57819">
 - [Neobee714/CVE-2025-57819-POC](https://github.com/Neobee714/CVE-2025-57819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Neobee714/CVE-2025-57819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Neobee714/CVE-2025-57819-POC">
 - [Samik-Parajuli/htb-connected-writeup](https://github.com/Samik-Parajuli/htb-connected-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Samik-Parajuli/htb-connected-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Samik-Parajuli/htb-connected-writeup">
@@ -3255,6 +3255,9 @@
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 - [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
 - [donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819">
+- [Wayang1337/CVE-2025-57819](https://github.com/Wayang1337/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2025-57819">
+- [foxcornlab/freepbx-rce-detector](https://github.com/foxcornlab/freepbx-rce-detector)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/freepbx-rce-detector">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/freepbx-rce-detector">
+- [kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker)	<img alt="forks" src="https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker">	<img alt="stars" src="https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker">
 
 ---
 ## CVE-2025-5781 ()
@@ -9675,6 +9678,7 @@
 - [HwangEojin/CVE-2025-24813-Tomcat11-Lab](https://github.com/HwangEojin/CVE-2025-24813-Tomcat11-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/HwangEojin/CVE-2025-24813-Tomcat11-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/HwangEojin/CVE-2025-24813-Tomcat11-Lab">
 - [yym8538/CVE-2025-24813](https://github.com/yym8538/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2025-24813">
 - [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
+- [toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/toyplan/cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/toyplan/cve-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
