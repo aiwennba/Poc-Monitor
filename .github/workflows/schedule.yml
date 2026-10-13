@@ -22,7 +22,7 @@ jobs:
       
       - name: Run search
         env: 
-          barkToken: ${{secrets.BARK_TOKEN}}
+          barkToken: ${{secrets.BARK_TOKE}}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
