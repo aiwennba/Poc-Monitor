@@ -88,6 +88,7 @@
 ## CVE-2026-97229 ()
 > 
 - [AmpedWasTaken/CVE-2026-97229-GitLab-Research](https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-Research)	<img alt="forks" src="https://img.shields.io/github/forks/AmpedWasTaken/CVE-2026-97229-GitLab-Research">	<img alt="stars" src="https://img.shields.io/github/stars/AmpedWasTaken/CVE-2026-97229-GitLab-Research">
+- [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jburgess-r7/CVE-2026-97229-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jburgess-r7/CVE-2026-97229-PoC">
 
 ---
 ## CVE-2026-97163 ()
@@ -832,6 +833,11 @@
 ## CVE-2026-85984 ()
 > 
 - [murrez/CVE-2026-85984](https://github.com/murrez/CVE-2026-85984)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-85984">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-85984">
+
+---
+## CVE-2026-85884 ()
+> 
+- [Beardhammer/CVE-2026-85884](https://github.com/Beardhammer/CVE-2026-85884)	<img alt="forks" src="https://img.shields.io/github/forks/Beardhammer/CVE-2026-85884">	<img alt="stars" src="https://img.shields.io/github/stars/Beardhammer/CVE-2026-85884">
 
 ---
 ## CVE-2026-85769 ()
@@ -12820,6 +12826,21 @@
 ## CVE-2026-104991 ()
 > 
 - [wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991)	<img alt="forks" src="https://img.shields.io/github/forks/wvllxe/CVE-2026-104991">	<img alt="stars" src="https://img.shields.io/github/stars/wvllxe/CVE-2026-104991">
+
+---
+## CVE-2026-104945 ()
+> 
+- [anaskalt/CVE-2026-104945](https://github.com/anaskalt/CVE-2026-104945)	<img alt="forks" src="https://img.shields.io/github/forks/anaskalt/CVE-2026-104945">	<img alt="stars" src="https://img.shields.io/github/stars/anaskalt/CVE-2026-104945">
+
+---
+## CVE-2026-104944 ()
+> 
+- [anaskalt/CVE-2026-104944](https://github.com/anaskalt/CVE-2026-104944)	<img alt="forks" src="https://img.shields.io/github/forks/anaskalt/CVE-2026-104944">	<img alt="stars" src="https://img.shields.io/github/stars/anaskalt/CVE-2026-104944">
+
+---
+## CVE-2026-104935 ()
+> 
+- [ApexBreach/CVE-2026-104935-Proof-of-concept](https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-104935-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-104935-Proof-of-concept">
 
 ---
 ## CVE-2026-104905 ()
