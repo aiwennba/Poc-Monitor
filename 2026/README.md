@@ -901,6 +901,7 @@
 - [tc4dy/CVE-2026-85097-Toolkit](https://github.com/tc4dy/CVE-2026-85097-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-85097-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-85097-Toolkit">
 - [Masriyan/CVE-2026-85097](https://github.com/Masriyan/CVE-2026-85097)	<img alt="forks" src="https://img.shields.io/github/forks/Masriyan/CVE-2026-85097">	<img alt="stars" src="https://img.shields.io/github/stars/Masriyan/CVE-2026-85097">
 - [RootMantap/CVE-2026-85097](https://github.com/RootMantap/CVE-2026-85097)	<img alt="forks" src="https://img.shields.io/github/forks/RootMantap/CVE-2026-85097">	<img alt="stars" src="https://img.shields.io/github/stars/RootMantap/CVE-2026-85097">
+- [Tarangj07/Wordpress-Lab-CVE-2026-85097](https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097)	<img alt="forks" src="https://img.shields.io/github/forks/Tarangj07/Wordpress-Lab-CVE-2026-85097">	<img alt="stars" src="https://img.shields.io/github/stars/Tarangj07/Wordpress-Lab-CVE-2026-85097">
 
 ---
 ## CVE-2026-8508 ()
@@ -1052,6 +1053,11 @@
 ## CVE-2026-8388 ()
 > 
 - [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
+
+---
+## CVE-2026-83834 ()
+> 
+- [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834)	<img alt="forks" src="https://img.shields.io/github/forks/wkpwn/CVE-2026-83834">	<img alt="stars" src="https://img.shields.io/github/stars/wkpwn/CVE-2026-83834">
 
 ---
 ## CVE-2026-83627 ()
@@ -12730,6 +12736,11 @@
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
 
 ---
+## CVE-2026-110447 ()
+> 
+- [adriyansyah-mf/cve-2026-110447](https://github.com/adriyansyah-mf/cve-2026-110447)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-110447">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-110447">
+
+---
 ## CVE-2026-110025 ()
 > 
 - [capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-110025">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-110025">
@@ -12794,6 +12805,7 @@
 ## CVE-2026-107181 ()
 > 
 - [SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181)	<img alt="forks" src="https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181">	<img alt="stars" src="https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181">
+- [abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/cve-2026-107181-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/cve-2026-107181-poc">
 
 ---
 ## CVE-2026-107159 ()
@@ -12830,6 +12842,11 @@
 ## CVE-2026-1056 ()
 > 
 - [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
+
+---
+## CVE-2026-105445 ()
+> 
+- [Mothchui/CVE-2026-105445](https://github.com/Mothchui/CVE-2026-105445)	<img alt="forks" src="https://img.shields.io/github/forks/Mothchui/CVE-2026-105445">	<img alt="stars" src="https://img.shields.io/github/stars/Mothchui/CVE-2026-105445">
 
 ---
 ## CVE-2026-105314 ()
@@ -12921,6 +12938,7 @@
 ## CVE-2026-104748 ()
 > 
 - [joshuavanderpoll/CVE-2026-104748](https://github.com/joshuavanderpoll/CVE-2026-104748)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-104748">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-104748">
+- [MrjHaxcore/CVE-2026-104748](https://github.com/MrjHaxcore/CVE-2026-104748)	<img alt="forks" src="https://img.shields.io/github/forks/MrjHaxcore/CVE-2026-104748">	<img alt="stars" src="https://img.shields.io/github/stars/MrjHaxcore/CVE-2026-104748">
 
 ---
 ## CVE-2026-104711 ()
