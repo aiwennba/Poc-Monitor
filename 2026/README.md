@@ -5301,6 +5301,7 @@
 - [gagaltotal/CVE-2026-44825-Apache-Solr-Scanner](https://github.com/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-44825-Apache-Solr-Scanner">
 - [q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_test">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_test">
 - [shinthink/solrradar](https://github.com/shinthink/solrradar)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/solrradar">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/solrradar">
+- [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
 
 ---
 ## CVE-2026-4480 ()
@@ -12747,6 +12748,11 @@
 - [pinebudweiser/CVE-2026-107821-PoC](https://github.com/pinebudweiser/CVE-2026-107821-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pinebudweiser/CVE-2026-107821-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pinebudweiser/CVE-2026-107821-PoC">
 
 ---
+## CVE-2026-107692 ()
+> 
+- [thewhatdohe/CVE-2026-107692](https://github.com/thewhatdohe/CVE-2026-107692)	<img alt="forks" src="https://img.shields.io/github/forks/thewhatdohe/CVE-2026-107692">	<img alt="stars" src="https://img.shields.io/github/stars/thewhatdohe/CVE-2026-107692">
+
+---
 ## CVE-2026-107406 ()
 > 
 - [ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc">
@@ -12896,6 +12902,7 @@
 - [pochunter/POC-for-CVE-2026-104711---New](https://github.com/pochunter/POC-for-CVE-2026-104711---New)	<img alt="forks" src="https://img.shields.io/github/forks/pochunter/POC-for-CVE-2026-104711---New">	<img alt="stars" src="https://img.shields.io/github/stars/pochunter/POC-for-CVE-2026-104711---New">
 - [uday952/CVE-2026-104711-RestPlugin-PoC](https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-RestPlugin-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-RestPlugin-PoC">
 - [pochunter/POC-EXPLOIT-CVE-2026-104711](https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711)	<img alt="forks" src="https://img.shields.io/github/forks/pochunter/POC-EXPLOIT-CVE-2026-104711">	<img alt="stars" src="https://img.shields.io/github/stars/pochunter/POC-EXPLOIT-CVE-2026-104711">
+- [uday952/CVE-2026-104711-POC---Brand-New](https://github.com/uday952/CVE-2026-104711-POC---Brand-New)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC---Brand-New">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC---Brand-New">
 
 ---
 ## CVE-2026-104356 ()
@@ -13285,6 +13292,7 @@
 > 
 - [HORKimhab/CVE-2026-0768](https://github.com/HORKimhab/CVE-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0768">
 - [rmhowe425/POC-CVE-2026-0768](https://github.com/rmhowe425/POC-CVE-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-0768">
+- [opthandsome/langflow_diff_cve-2026-0768](https://github.com/opthandsome/langflow_diff_cve-2026-0768)	<img alt="forks" src="https://img.shields.io/github/forks/opthandsome/langflow_diff_cve-2026-0768">	<img alt="stars" src="https://img.shields.io/github/stars/opthandsome/langflow_diff_cve-2026-0768">
 
 ---
 ## CVE-2026-0766 ()
