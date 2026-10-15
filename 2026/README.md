@@ -4860,6 +4860,11 @@
 - [Nxploited/CVE-2026-47668](https://github.com/Nxploited/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-47668">
 
 ---
+## CVE-2026-47644 ()
+> 
+- [songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644)	<img alt="forks" src="https://img.shields.io/github/forks/songjianyang/CVE-2026-47644">	<img alt="stars" src="https://img.shields.io/github/stars/songjianyang/CVE-2026-47644">
+
+---
 ## CVE-2026-47630 ()
 > 
 - [s1ko/CVE-2026-47630](https://github.com/s1ko/CVE-2026-47630)	<img alt="forks" src="https://img.shields.io/github/forks/s1ko/CVE-2026-47630">	<img alt="stars" src="https://img.shields.io/github/stars/s1ko/CVE-2026-47630">
@@ -5340,6 +5345,7 @@
 - [shinthink/solrradar](https://github.com/shinthink/solrradar)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/solrradar">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/solrradar">
 - [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
 - [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
+- [q0524/CVE-2026-44825_CTF](https://github.com/q0524/CVE-2026-44825_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_CTF">
 
 ---
 ## CVE-2026-4480 ()
