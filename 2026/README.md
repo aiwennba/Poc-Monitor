@@ -5339,6 +5339,7 @@
 - [q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_test">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_test">
 - [shinthink/solrradar](https://github.com/shinthink/solrradar)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/solrradar">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/solrradar">
 - [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
+- [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
 
 ---
 ## CVE-2026-4480 ()
@@ -7887,6 +7888,7 @@
 - [maxprog-svg/CVE-2026-33017](https://github.com/maxprog-svg/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CVE-2026-33017">
 - [MaximilianoMeyer/CVE-2026-33017](https://github.com/MaximilianoMeyer/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/MaximilianoMeyer/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/MaximilianoMeyer/CVE-2026-33017">
 - [Oieua/CVE-2026-33017](https://github.com/Oieua/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Oieua/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Oieua/CVE-2026-33017">
+- [yym8538/CVE-2026-33017](https://github.com/yym8538/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2026-33017">
 
 ---
 ## CVE-2026-32996 ()
@@ -12940,6 +12942,7 @@
 ## CVE-2026-104935 ()
 > 
 - [ApexBreach/CVE-2026-104935-Proof-of-concept](https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-104935-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-104935-Proof-of-concept">
+- [0x45dd/ivanti-cve-2026-104935-check](https://github.com/0x45dd/ivanti-cve-2026-104935-check)	<img alt="forks" src="https://img.shields.io/github/forks/0x45dd/ivanti-cve-2026-104935-check">	<img alt="stars" src="https://img.shields.io/github/stars/0x45dd/ivanti-cve-2026-104935-check">
 
 ---
 ## CVE-2026-104905 ()
