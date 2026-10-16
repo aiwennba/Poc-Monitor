@@ -2827,6 +2827,11 @@
 - [HackSpeak/CVE-2026-64531](https://github.com/HackSpeak/CVE-2026-64531)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-64531">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-64531">
 
 ---
+## CVE-2026-64507 ()
+> 
+- [manalejandro/CVE-2026-64507](https://github.com/manalejandro/CVE-2026-64507)	<img alt="forks" src="https://img.shields.io/github/forks/manalejandro/CVE-2026-64507">	<img alt="stars" src="https://img.shields.io/github/stars/manalejandro/CVE-2026-64507">
+
+---
 ## CVE-2026-6440 ()
 > 
 - [Alixploit22/CVE-2026-6440](https://github.com/Alixploit22/CVE-2026-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2026-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2026-6440">
@@ -4000,6 +4005,7 @@
 > 
 - [HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365">
 - [HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365">
+- [hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365)	<img alt="forks" src="https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365">	<img alt="stars" src="https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365">
 
 ---
 ## CVE-2026-53360 ()
