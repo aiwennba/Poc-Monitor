@@ -6879,6 +6879,9 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [nnatsopoulos/xz-backdoor-research](https://github.com/nnatsopoulos/xz-backdoor-research)	<img alt="forks" src="https://img.shields.io/github/forks/nnatsopoulos/xz-backdoor-research">	<img alt="stars" src="https://img.shields.io/github/stars/nnatsopoulos/xz-backdoor-research">
 - [stevehenderson/lab_xz_backdoor](https://github.com/stevehenderson/lab_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/stevehenderson/lab_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/stevehenderson/lab_xz_backdoor">
 - [namegabevictoire01-sys/cs50-cybersecurity-final-project](https://github.com/namegabevictoire01-sys/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/namegabevictoire01-sys/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/namegabevictoire01-sys/cs50-cybersecurity-final-project">
+- [Subzero710/CVE-2024-3094-demo](https://github.com/Subzero710/CVE-2024-3094-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Subzero710/CVE-2024-3094-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Subzero710/CVE-2024-3094-demo">
+- [Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study">
+- [mhicairo-hue/cs50-cybersecurity-final-project](https://github.com/mhicairo-hue/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/mhicairo-hue/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/mhicairo-hue/cs50-cybersecurity-final-project">
 
 ---
 ## CVE-2024-30937 ()
