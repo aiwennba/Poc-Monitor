@@ -92,7 +92,7 @@
 ---
 ## CVE-2026-97229 ()
 > 
-- [AmpedWasTaken/CVE-2026-97229-GitLab-Research](https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-Research)	<img alt="forks" src="https://img.shields.io/github/forks/AmpedWasTaken/CVE-2026-97229-GitLab-Research">	<img alt="stars" src="https://img.shields.io/github/stars/AmpedWasTaken/CVE-2026-97229-GitLab-Research">
+- [AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE](https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE">
 - [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jburgess-r7/CVE-2026-97229-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jburgess-r7/CVE-2026-97229-PoC">
 - [OppositDeer/Gitlab-RCE-CVE-2026-97229](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229)	<img alt="forks" src="https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-97229">	<img alt="stars" src="https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-97229">
 
@@ -1353,6 +1353,8 @@
 ## CVE-2026-79984 ()
 > 
 - [oscerd/CVE-2026-79984](https://github.com/oscerd/CVE-2026-79984)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79984">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79984">
+- [oscerd/CVE-2026-79986](https://github.com/oscerd/CVE-2026-79986)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79986">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79986">
+- [oscerd/CVE-2026-79985](https://github.com/oscerd/CVE-2026-79985)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79985">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79985">
 
 ---
 ## CVE-2026-79983 ()
