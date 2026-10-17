@@ -10,6 +10,7 @@
 > 
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 - [PeronGH/CVE-2026-99999](https://github.com/PeronGH/CVE-2026-99999)	<img alt="forks" src="https://img.shields.io/github/forks/PeronGH/CVE-2026-99999">	<img alt="stars" src="https://img.shields.io/github/stars/PeronGH/CVE-2026-99999">
+- [Quaerendir/cve-2026-99999-audit](https://github.com/Quaerendir/cve-2026-99999-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-99999-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-99999-audit">
 
 ---
 ## CVE-2026-9999 ()
@@ -2898,6 +2899,7 @@
 - [feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu">
 - [sangsheng2026/honor-90gt-mag-an00-root-research](https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research)	<img alt="forks" src="https://img.shields.io/github/forks/sangsheng2026/honor-90gt-mag-an00-root-research">	<img alt="stars" src="https://img.shields.io/github/stars/sangsheng2026/honor-90gt-mag-an00-root-research">
 - [maosasagawa/pmx110-cve-2026-64560](https://github.com/maosasagawa/pmx110-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/maosasagawa/pmx110-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/maosasagawa/pmx110-cve-2026-64560">
+- [ChaYeWuu/prague-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0)	<img alt="forks" src="https://img.shields.io/github/forks/ChaYeWuu/prague-CVE-2026-64560-OS4.0">	<img alt="stars" src="https://img.shields.io/github/stars/ChaYeWuu/prague-CVE-2026-64560-OS4.0">
 
 ---
 ## CVE-2026-64531 ()
@@ -12846,6 +12848,11 @@
 ## CVE-2026-11318 ()
 > 
 - [Cr0wld3r/CVE-2026-11318](https://github.com/Cr0wld3r/CVE-2026-11318)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0wld3r/CVE-2026-11318">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0wld3r/CVE-2026-11318">
+
+---
+## CVE-2026-111823 ()
+> 
+- [murrez/CVE-2026-111823](https://github.com/murrez/CVE-2026-111823)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-111823">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-111823">
 
 ---
 ## CVE-2026-111444 ()
