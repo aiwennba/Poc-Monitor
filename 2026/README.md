@@ -3343,6 +3343,11 @@
 - [ImperfectP/CVE-2026-600004](https://github.com/ImperfectP/CVE-2026-600004)	<img alt="forks" src="https://img.shields.io/github/forks/ImperfectP/CVE-2026-600004">	<img alt="stars" src="https://img.shields.io/github/stars/ImperfectP/CVE-2026-600004">
 
 ---
+## CVE-2026-59970 ()
+> 
+- [asvorg/CVE-2026-59970-poc](https://github.com/asvorg/CVE-2026-59970-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-59970-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-59970-poc">
+
+---
 ## CVE-2026-59941 ()
 > 
 - [far00t01/CVE-2026-59941](https://github.com/far00t01/CVE-2026-59941)	<img alt="forks" src="https://img.shields.io/github/forks/far00t01/CVE-2026-59941">	<img alt="stars" src="https://img.shields.io/github/stars/far00t01/CVE-2026-59941">
@@ -6801,6 +6806,7 @@
 - [mfahdk/CVE-2026-39987_RCE_PoC](https://github.com/mfahdk/CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mfahdk/CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mfahdk/CVE-2026-39987_RCE_PoC">
 - [LaArana12/CVE-2026-39987-Marimo-Preauth-RCE](https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE">
 
 ---
 ## CVE-2026-39983 ()
@@ -7057,6 +7063,7 @@
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
 - [Harry178945/CVE-2026-38526](https://github.com/Harry178945/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Harry178945/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Harry178945/CVE-2026-38526">
 - [MRdark-ops/CVE-2026-38526](https://github.com/MRdark-ops/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-38526">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
 
 ---
 ## CVE-2026-3847 ()
@@ -8004,6 +8011,7 @@
 - [MaximilianoMeyer/CVE-2026-33017](https://github.com/MaximilianoMeyer/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/MaximilianoMeyer/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/MaximilianoMeyer/CVE-2026-33017">
 - [Oieua/CVE-2026-33017](https://github.com/Oieua/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Oieua/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Oieua/CVE-2026-33017">
 - [yym8538/CVE-2026-33017](https://github.com/yym8538/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2026-33017">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE">
 
 ---
 ## CVE-2026-32996 ()
@@ -8657,6 +8665,7 @@
 - [ZeroDayEvil/CVE-2026-31431](https://github.com/ZeroDayEvil/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-31431">
 - [Quaerendir/copyfail-audit](https://github.com/Quaerendir/copyfail-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/copyfail-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/copyfail-audit">
 - [ledlight33/copyfail-check-skill](https://github.com/ledlight33/copyfail-check-skill)	<img alt="forks" src="https://img.shields.io/github/forks/ledlight33/copyfail-check-skill">	<img alt="stars" src="https://img.shields.io/github/stars/ledlight33/copyfail-check-skill">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">
 
 ---
 ## CVE-2026-3143 ()
@@ -12833,6 +12842,11 @@
 ## CVE-2026-111389 ()
 > 
 - [Syscallh00k/CVE-2026-111389](https://github.com/Syscallh00k/CVE-2026-111389)	<img alt="forks" src="https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111389">	<img alt="stars" src="https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111389">
+
+---
+## CVE-2026-111283 ()
+> 
+- [cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password](https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password)	<img alt="forks" src="https://img.shields.io/github/forks/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password">	<img alt="stars" src="https://img.shields.io/github/stars/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password">
 
 ---
 ## CVE-2026-11120 ()
