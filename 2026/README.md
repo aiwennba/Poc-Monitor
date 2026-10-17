@@ -603,6 +603,11 @@
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
 
 ---
+## CVE-2026-8933 ()
+> 
+- [songzzzz/CVE-2026-8933](https://github.com/songzzzz/CVE-2026-8933)	<img alt="forks" src="https://img.shields.io/github/forks/songzzzz/CVE-2026-8933">	<img alt="stars" src="https://img.shields.io/github/stars/songzzzz/CVE-2026-8933">
+
+---
 ## CVE-2026-8932 ()
 > 
 - [0xBlackash/CVE-2026-8932](https://github.com/0xBlackash/CVE-2026-8932)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8932">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8932">
@@ -13017,6 +13022,21 @@
 ## CVE-2026-107159 ()
 > 
 - [azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159)	<img alt="forks" src="https://img.shields.io/github/forks/azuk4r/CVE-2026-107159">	<img alt="stars" src="https://img.shields.io/github/stars/azuk4r/CVE-2026-107159">
+
+---
+## CVE-2026-107084 ()
+> 
+- [Primandito/CVE-2026-107084](https://github.com/Primandito/CVE-2026-107084)	<img alt="forks" src="https://img.shields.io/github/forks/Primandito/CVE-2026-107084">	<img alt="stars" src="https://img.shields.io/github/stars/Primandito/CVE-2026-107084">
+
+---
+## CVE-2026-107083 ()
+> 
+- [Primandito/CVE-2026-107083](https://github.com/Primandito/CVE-2026-107083)	<img alt="forks" src="https://img.shields.io/github/forks/Primandito/CVE-2026-107083">	<img alt="stars" src="https://img.shields.io/github/stars/Primandito/CVE-2026-107083">
+
+---
+## CVE-2026-107082 ()
+> 
+- [Primandito/CVE-2026-107082](https://github.com/Primandito/CVE-2026-107082)	<img alt="forks" src="https://img.shields.io/github/forks/Primandito/CVE-2026-107082">	<img alt="stars" src="https://img.shields.io/github/stars/Primandito/CVE-2026-107082">
 
 ---
 ## CVE-2026-107081 ()
