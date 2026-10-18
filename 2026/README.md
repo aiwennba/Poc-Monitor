@@ -13,6 +13,8 @@
 - [Quaerendir/cve-2026-99999-audit](https://github.com/Quaerendir/cve-2026-99999-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-99999-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-99999-audit">
 - [MChorfa/csumguard](https://github.com/MChorfa/csumguard)	<img alt="forks" src="https://img.shields.io/github/forks/MChorfa/csumguard">	<img alt="stars" src="https://img.shields.io/github/stars/MChorfa/csumguard">
 - [24520597-blip/CVE-2026-999999](https://github.com/24520597-blip/CVE-2026-999999)	<img alt="forks" src="https://img.shields.io/github/forks/24520597-blip/CVE-2026-999999">	<img alt="stars" src="https://img.shields.io/github/stars/24520597-blip/CVE-2026-999999">
+- [fsakuracyber/CVE-2026-99999_Conditional_PoC](https://github.com/fsakuracyber/CVE-2026-99999_Conditional_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fsakuracyber/CVE-2026-99999_Conditional_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fsakuracyber/CVE-2026-99999_Conditional_PoC">
+- [kingahmadr/CVE-2026-99999-kernel-check](https://github.com/kingahmadr/CVE-2026-99999-kernel-check)	<img alt="forks" src="https://img.shields.io/github/forks/kingahmadr/CVE-2026-99999-kernel-check">	<img alt="stars" src="https://img.shields.io/github/stars/kingahmadr/CVE-2026-99999-kernel-check">
 
 ---
 ## CVE-2026-9999 ()
@@ -13307,6 +13309,11 @@
 ## CVE-2026-103889 ()
 > 
 - [kayes817/CVE-2026-103889](https://github.com/kayes817/CVE-2026-103889)	<img alt="forks" src="https://img.shields.io/github/forks/kayes817/CVE-2026-103889">	<img alt="stars" src="https://img.shields.io/github/stars/kayes817/CVE-2026-103889">
+
+---
+## CVE-2026-103849 ()
+> 
+- [dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-103849-blockstrap-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-103849-blockstrap-lab">
 
 ---
 ## CVE-2026-103752 ()
