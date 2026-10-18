@@ -266,6 +266,8 @@
 - [Prapul1/VulnHub-DC1-Writeup](https://github.com/Prapul1/VulnHub-DC1-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Prapul1/VulnHub-DC1-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Prapul1/VulnHub-DC1-Writeup">
 - [K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2018-7600">
 - [CyberCTF/vulhub-drupal-cve-2018-7600](https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2018-7600">
+- [SanCody/DC1-Penetration-Testing-Report](https://github.com/SanCody/DC1-Penetration-Testing-Report)	<img alt="forks" src="https://img.shields.io/github/forks/SanCody/DC1-Penetration-Testing-Report">	<img alt="stars" src="https://img.shields.io/github/stars/SanCody/DC1-Penetration-Testing-Report">
+- [Aihikk/DC-1_Vulnhub_Walkthrough](https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/Aihikk/DC-1_Vulnhub_Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/Aihikk/DC-1_Vulnhub_Walkthrough">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
