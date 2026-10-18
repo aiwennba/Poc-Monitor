@@ -4075,6 +4075,7 @@
 - [webshellseo8/CVE-2026-53787-POC-](https://github.com/webshellseo8/CVE-2026-53787-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-53787-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-53787-POC-">
 - [ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSEC2014/amasty-chekout-POC-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSEC2014/amasty-chekout-POC-rce">
 - [MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-53787-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-53787-poc">
+- [elitexspam/Def4cer](https://github.com/elitexspam/Def4cer)	<img alt="forks" src="https://img.shields.io/github/forks/elitexspam/Def4cer">	<img alt="stars" src="https://img.shields.io/github/stars/elitexspam/Def4cer">
 
 ---
 ## CVE-2026-53753 ()
@@ -13277,6 +13278,7 @@
 ## CVE-2026-104736 ()
 > 
 - [BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details)	<img alt="forks" src="https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">	<img alt="stars" src="https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details">
+- [murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-104736">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-104736">
 
 ---
 ## CVE-2026-104715 ()
