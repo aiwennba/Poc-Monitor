@@ -8115,6 +8115,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [swimmmmy/CVE-2024-27198-teamcity-auth-bypass](https://github.com/swimmmmy/CVE-2024-27198-teamcity-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">
 - [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
 - [abiral-timalsina/Cyber-Defenders-lab-](https://github.com/abiral-timalsina/Cyber-Defenders-lab-)	<img alt="forks" src="https://img.shields.io/github/forks/abiral-timalsina/Cyber-Defenders-lab-">	<img alt="stars" src="https://img.shields.io/github/stars/abiral-timalsina/Cyber-Defenders-lab-">
+- [wonnnggge/CVE-2024-27198_CTF](https://github.com/wonnnggge/CVE-2024-27198_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/wonnnggge/CVE-2024-27198_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/wonnnggge/CVE-2024-27198_CTF">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -9021,6 +9022,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [dheeraj-jayaswal/CICD-Goat-Vapt-Writeup](https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">
 - [Alexandertanay/jenkins-cve-2024-23897-lab](https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Alexandertanay/jenkins-cve-2024-23897-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Alexandertanay/jenkins-cve-2024-23897-lab">
 - [CyberCTF/vulhub-jenkins-cve-2024-23897](https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2024-23897">
+- [ydkdk12345-bot/CVE-2024-23897-CTF](https://github.com/ydkdk12345-bot/CVE-2024-23897-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/ydkdk12345-bot/CVE-2024-23897-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/ydkdk12345-bot/CVE-2024-23897-CTF">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
