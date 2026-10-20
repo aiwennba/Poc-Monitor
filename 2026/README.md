@@ -856,6 +856,11 @@
 - [abraxas/CVE-2026-87796](https://github.com/abraxas/CVE-2026-87796)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-87796">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-87796">
 
 ---
+## CVE-2026-87690 ()
+> 
+- [h00die/CVE-2026-87690-POC](https://github.com/h00die/CVE-2026-87690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/CVE-2026-87690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/CVE-2026-87690-POC">
+
+---
 ## CVE-2026-87575 ()
 > 
 - [SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.](https://github.com/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">
@@ -2237,6 +2242,11 @@
 - [EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-72898">
 - [34zY/CVE-2026-72898](https://github.com/34zY/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2026-72898">
 - [Riftweld/metabase-cve-2026-72898](https://github.com/Riftweld/metabase-cve-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/Riftweld/metabase-cve-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/Riftweld/metabase-cve-2026-72898">
+
+---
+## CVE-2026-72867 ()
+> 
+- [Lulztigre/CVE-2026-72867](https://github.com/Lulztigre/CVE-2026-72867)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/CVE-2026-72867">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/CVE-2026-72867">
 
 ---
 ## CVE-2026-72815 ()
