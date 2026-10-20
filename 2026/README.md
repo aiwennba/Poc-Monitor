@@ -14060,6 +14060,7 @@
 > 
 - [aydin5245/cve-2026-0006](https://github.com/aydin5245/cve-2026-0006)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/cve-2026-0006">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/cve-2026-0006">
 - [mobilehackinglab/CVE-2026-0006-openapv-poc](https://github.com/mobilehackinglab/CVE-2026-0006-openapv-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0006-openapv-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0006-openapv-poc">
+- [R3n3r0/CVE-2026-0006-step-2](https://github.com/R3n3r0/CVE-2026-0006-step-2)	<img alt="forks" src="https://img.shields.io/github/forks/R3n3r0/CVE-2026-0006-step-2">	<img alt="stars" src="https://img.shields.io/github/stars/R3n3r0/CVE-2026-0006-step-2">
 
 ---
 ## CVE-2026-0001 ()
