@@ -31912,6 +31912,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [meng-security/spring4shell-local-verification-lab](https://github.com/meng-security/spring4shell-local-verification-lab)	<img alt="forks" src="https://img.shields.io/github/forks/meng-security/spring4shell-local-verification-lab">	<img alt="stars" src="https://img.shields.io/github/stars/meng-security/spring4shell-local-verification-lab">
 - [YUTING-HUANG0/Spring4Shell-CTF](https://github.com/YUTING-HUANG0/Spring4Shell-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/YUTING-HUANG0/Spring4Shell-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/YUTING-HUANG0/Spring4Shell-CTF">
 - [felisha-elmer/Sandbox-Challenge-Spring4Shell-CVE-2022-22965-](https://github.com/felisha-elmer/Sandbox-Challenge-Spring4Shell-CVE-2022-22965-)	<img alt="forks" src="https://img.shields.io/github/forks/felisha-elmer/Sandbox-Challenge-Spring4Shell-CVE-2022-22965-">	<img alt="stars" src="https://img.shields.io/github/stars/felisha-elmer/Sandbox-Challenge-Spring4Shell-CVE-2022-22965-">
+- [beulahhh-coder/-CVE-2022-22965-Spring4Shell](https://github.com/beulahhh-coder/-CVE-2022-22965-Spring4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/beulahhh-coder/-CVE-2022-22965-Spring4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/beulahhh-coder/-CVE-2022-22965-Spring4Shell">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
