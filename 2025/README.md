@@ -1844,6 +1844,11 @@
 - [DylanDavis1/CVE-2025-64708](https://github.com/DylanDavis1/CVE-2025-64708)	<img alt="forks" src="https://img.shields.io/github/forks/DylanDavis1/CVE-2025-64708">	<img alt="stars" src="https://img.shields.io/github/stars/DylanDavis1/CVE-2025-64708">
 
 ---
+## CVE-2025-64702 ()
+> 
+- [HORKimhab/CVE-2025-64702-more](https://github.com/HORKimhab/CVE-2025-64702-more)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-64702-more">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-64702-more">
+
+---
 ## CVE-2025-64516 ()
 > 
 - [lem0naids/CVE-2025-64516-POC](https://github.com/lem0naids/CVE-2025-64516-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lem0naids/CVE-2025-64516-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lem0naids/CVE-2025-64516-POC">
@@ -10891,6 +10896,7 @@
 - [0xBlackash/CVE-2025-14847](https://github.com/0xBlackash/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-14847">
 - [dawnsmithcyber/azure-vulnerability-remediation-project](https://github.com/dawnsmithcyber/azure-vulnerability-remediation-project)	<img alt="forks" src="https://img.shields.io/github/forks/dawnsmithcyber/azure-vulnerability-remediation-project">	<img alt="stars" src="https://img.shields.io/github/stars/dawnsmithcyber/azure-vulnerability-remediation-project">
 - [shokribardiya/CVE-2025-14847-mongobleed](https://github.com/shokribardiya/CVE-2025-14847-mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/shokribardiya/CVE-2025-14847-mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/shokribardiya/CVE-2025-14847-mongobleed">
+- [SAIM28826/CVE-2025-14847-poc](https://github.com/SAIM28826/CVE-2025-14847-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SAIM28826/CVE-2025-14847-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SAIM28826/CVE-2025-14847-poc">
 
 ---
 ## CVE-2025-14783 ()
