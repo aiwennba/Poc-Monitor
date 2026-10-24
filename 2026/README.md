@@ -5910,6 +5910,7 @@
 ## CVE-2026-44848 ()
 > 
 - [Boreas37/CVE-2026-44848-PoC](https://github.com/Boreas37/CVE-2026-44848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-44848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-44848-PoC">
+- [mnk-works/portainer-cve-2026-44848-checker](https://github.com/mnk-works/portainer-cve-2026-44848-checker)	<img alt="forks" src="https://img.shields.io/github/forks/mnk-works/portainer-cve-2026-44848-checker">	<img alt="stars" src="https://img.shields.io/github/stars/mnk-works/portainer-cve-2026-44848-checker">
 
 ---
 ## CVE-2026-4484 ()
@@ -7555,6 +7556,8 @@
 - [Harry178945/CVE-2026-38526](https://github.com/Harry178945/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Harry178945/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Harry178945/CVE-2026-38526">
 - [MRdark-ops/CVE-2026-38526](https://github.com/MRdark-ops/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-38526">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
+- [sh3llc0d3-0x15/CVE-2026-38526-Exploit](https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sh3llc0d3-0x15/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sh3llc0d3-0x15/CVE-2026-38526-Exploit">
+- [Wingleszy/HTB-Nexus-walkthrough](https://github.com/Wingleszy/HTB-Nexus-walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/Wingleszy/HTB-Nexus-walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/Wingleszy/HTB-Nexus-walkthrough">
 
 ---
 ## CVE-2026-3847 ()
@@ -13371,6 +13374,11 @@
 - [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
 - [xxconi/2026-11551](https://github.com/xxconi/2026-11551)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/2026-11551">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/2026-11551">
 - [ubaydev/CVE-2026-11551-PoC](https://github.com/ubaydev/CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2026-11551-PoC">
+
+---
+## CVE-2026-114820 ()
+> 
+- [joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan)	<img alt="forks" src="https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan">	<img alt="stars" src="https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan">
 
 ---
 ## CVE-2026-114509 ()
