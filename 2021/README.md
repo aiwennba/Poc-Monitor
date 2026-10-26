@@ -5259,7 +5259,7 @@
 - [Kyyomaa/CVE-2021-3560-EXPLOIT](https://github.com/Kyyomaa/CVE-2021-3560-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Kyyomaa/CVE-2021-3560-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Kyyomaa/CVE-2021-3560-EXPLOIT">
 - [arcslash/exploit_CVE-2021-3560](https://github.com/arcslash/exploit_CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/arcslash/exploit_CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/arcslash/exploit_CVE-2021-3560">
 - [MandipJoshi/CVE-2021-3560](https://github.com/MandipJoshi/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/MandipJoshi/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/MandipJoshi/CVE-2021-3560">
-- [Antoine-MANTIS/POC-Bash-CVE-2021-3560](https://github.com/Antoine-MANTIS/POC-Bash-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/Antoine-MANTIS/POC-Bash-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/Antoine-MANTIS/POC-Bash-CVE-2021-3560">
+- [WithinOneStem/POC-Bash-CVE-2021-3560](https://github.com/WithinOneStem/POC-Bash-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/WithinOneStem/POC-Bash-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/WithinOneStem/POC-Bash-CVE-2021-3560">
 - [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
 - [titusG85/SideWinder-Exploit](https://github.com/titusG85/SideWinder-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/titusG85/SideWinder-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/titusG85/SideWinder-Exploit">
 - [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
@@ -5269,6 +5269,7 @@
 - [Jeanback1/CVE-2021-3560-exploit](https://github.com/Jeanback1/CVE-2021-3560-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2021-3560-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2021-3560-exploit">
 - [adakoifman/CVE-2021-3560](https://github.com/adakoifman/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/adakoifman/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/adakoifman/CVE-2021-3560">
 - [Gerberayale521/pwnkit](https://github.com/Gerberayale521/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/Gerberayale521/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/Gerberayale521/pwnkit">
+- [AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit](https://github.com/AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AntorDOS/CVE-2021-3560-Polkit-Privesc-Exploit">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
