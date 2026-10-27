@@ -2061,6 +2061,9 @@
 - [basimnawaz6/EternalBlue-Lab](https://github.com/basimnawaz6/EternalBlue-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/basimnawaz6/EternalBlue-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/basimnawaz6/EternalBlue-Lab">
 - [Cedric-Martz/EthernalBlue_report](https://github.com/Cedric-Martz/EthernalBlue_report)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric-Martz/EthernalBlue_report">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric-Martz/EthernalBlue_report">
 - [Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)	<img alt="forks" src="https://img.shields.io/github/forks/Mafiosohack/offensive-security-lab-1">	<img alt="stars" src="https://img.shields.io/github/stars/Mafiosohack/offensive-security-lab-1">
+- [NeoCoderFSG/post-explotacion-CVE-2017-0143](https://github.com/NeoCoderFSG/post-explotacion-CVE-2017-0143)	<img alt="forks" src="https://img.shields.io/github/forks/NeoCoderFSG/post-explotacion-CVE-2017-0143">	<img alt="stars" src="https://img.shields.io/github/stars/NeoCoderFSG/post-explotacion-CVE-2017-0143">
+- [NeoCoderFSG/explotacion-post-CVE-2017-0143](https://github.com/NeoCoderFSG/explotacion-post-CVE-2017-0143)	<img alt="forks" src="https://img.shields.io/github/forks/NeoCoderFSG/explotacion-post-CVE-2017-0143">	<img alt="stars" src="https://img.shields.io/github/stars/NeoCoderFSG/explotacion-post-CVE-2017-0143">
+- [NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143](https://github.com/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143)	<img alt="forks" src="https://img.shields.io/github/forks/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143">	<img alt="stars" src="https://img.shields.io/github/stars/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143">
 
 ---
 ## CVE-2017-0055 (2017-03-17T00:59:00)
