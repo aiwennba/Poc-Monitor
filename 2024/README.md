@@ -2565,6 +2565,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [Lux-J/CVE-2024-50379-exp](https://github.com/Lux-J/CVE-2024-50379-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Lux-J/CVE-2024-50379-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Lux-J/CVE-2024-50379-exp">
 - [radzek15/CVE-2024-50379-TOCTOU](https://github.com/radzek15/CVE-2024-50379-TOCTOU)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2024-50379-TOCTOU">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2024-50379-TOCTOU">
 - [azilRababe/CVE-2024-50379](https://github.com/azilRababe/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2024-50379">
+- [Ghost-Bx1/TomcatRace-CVE-2024-50379](https://github.com/Ghost-Bx1/TomcatRace-CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/TomcatRace-CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/TomcatRace-CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
@@ -3098,6 +3099,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-47167 ()
 > 
 - [alexan011/CVE-2024-47167-Environment-Setup](https://github.com/alexan011/CVE-2024-47167-Environment-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/alexan011/CVE-2024-47167-Environment-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/alexan011/CVE-2024-47167-Environment-Setup">
+- [piecar21/CVE-2024-47167](https://github.com/piecar21/CVE-2024-47167)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2024-47167">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2024-47167">
 
 ---
 ## CVE-2024-47138 ()
