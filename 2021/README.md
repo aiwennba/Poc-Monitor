@@ -1218,6 +1218,8 @@
 - [mcpmark-eval-liuhezi/log4shell-research-brief](https://github.com/mcpmark-eval-liuhezi/log4shell-research-brief)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-research-brief">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-research-brief">
 - [mcpmark-eval-liuhezi/log4shell-audit-lab](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-lab">
 - [mcpmark-eval-liuhezi/log4shell-audit-1](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-1">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-1">
+- [ShivendraNT/ehax-log4shell-openhouse](https://github.com/ShivendraNT/ehax-log4shell-openhouse)	<img alt="forks" src="https://img.shields.io/github/forks/ShivendraNT/ehax-log4shell-openhouse">	<img alt="stars" src="https://img.shields.io/github/stars/ShivendraNT/ehax-log4shell-openhouse">
+- [errypie/TICKETS](https://github.com/errypie/TICKETS)	<img alt="forks" src="https://img.shields.io/github/forks/errypie/TICKETS">	<img alt="stars" src="https://img.shields.io/github/stars/errypie/TICKETS">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -3568,6 +3570,7 @@
 - [r00t-byte/Pwnkit-CVE-2021-4034-LPE](https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/r00t-byte/Pwnkit-CVE-2021-4034-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/r00t-byte/Pwnkit-CVE-2021-4034-LPE">
 - [SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034">
 - [locksec/CVE-2021-4034](https://github.com/locksec/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/locksec/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/locksec/CVE-2021-4034">
+- [axisops/CVE-2021-4034](https://github.com/axisops/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
