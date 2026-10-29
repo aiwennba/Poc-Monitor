@@ -1220,6 +1220,7 @@
 - [mcpmark-eval-liuhezi/log4shell-audit-1](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-1">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-1">
 - [ShivendraNT/ehax-log4shell-openhouse](https://github.com/ShivendraNT/ehax-log4shell-openhouse)	<img alt="forks" src="https://img.shields.io/github/forks/ShivendraNT/ehax-log4shell-openhouse">	<img alt="stars" src="https://img.shields.io/github/stars/ShivendraNT/ehax-log4shell-openhouse">
 - [errypie/TICKETS](https://github.com/errypie/TICKETS)	<img alt="forks" src="https://img.shields.io/github/forks/errypie/TICKETS">	<img alt="stars" src="https://img.shields.io/github/stars/errypie/TICKETS">
+- [rrpeck-cybersec/threat-intelligence-log4shell-analysis](https://github.com/rrpeck-cybersec/threat-intelligence-log4shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/rrpeck-cybersec/threat-intelligence-log4shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/rrpeck-cybersec/threat-intelligence-log4shell-analysis">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
