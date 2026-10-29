@@ -1948,6 +1948,7 @@
 ## CVE-2026-78159 ()
 > 
 - [abraxas/CVE-2026-78159](https://github.com/abraxas/CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-78159">
+- [antid00t/CVE-2026-78006-CVE-2026-78159](https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159)	<img alt="forks" src="https://img.shields.io/github/forks/antid00t/CVE-2026-78006-CVE-2026-78159">	<img alt="stars" src="https://img.shields.io/github/stars/antid00t/CVE-2026-78006-CVE-2026-78159">
 
 ---
 ## CVE-2026-78122 ()
@@ -7250,6 +7251,11 @@
 ## CVE-2026-41042 ()
 > 
 - [Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-41042">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-41042">
+
+---
+## CVE-2026-41036 ()
+> 
+- [mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name](https://github.com/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name)	<img alt="forks" src="https://img.shields.io/github/forks/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name">	<img alt="stars" src="https://img.shields.io/github/stars/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name">
 
 ---
 ## CVE-2026-40987 ()
@@ -13862,6 +13868,7 @@
 - [suominen/CVE-2026-111497](https://github.com/suominen/CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-111497">
 - [amier-ge/Node2Shell](https://github.com/amier-ge/Node2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/amier-ge/Node2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/amier-ge/Node2Shell">
 - [gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-)	<img alt="forks" src="https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-">	<img alt="stars" src="https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-">
+- [caveeroo/cve-2026-111497-wordpress-poc](https://github.com/caveeroo/cve-2026-111497-wordpress-poc)	<img alt="forks" src="https://img.shields.io/github/forks/caveeroo/cve-2026-111497-wordpress-poc">	<img alt="stars" src="https://img.shields.io/github/stars/caveeroo/cve-2026-111497-wordpress-poc">
 
 ---
 ## CVE-2026-111444 ()
