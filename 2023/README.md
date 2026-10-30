@@ -2382,6 +2382,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [libertycityhacker/CVE-2023-43364-Exploit-CVE](https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/libertycityhacker/CVE-2023-43364-Exploit-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/libertycityhacker/CVE-2023-43364-Exploit-CVE">
 - [Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit](https://github.com/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit">
 - [IamSaishi/CVE-2023-43364_Exploit](https://github.com/IamSaishi/CVE-2023-43364_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IamSaishi/CVE-2023-43364_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IamSaishi/CVE-2023-43364_Exploit">
+- [diamorphine666/CVE-2023-43364](https://github.com/diamorphine666/CVE-2023-43364)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2023-43364">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2023-43364">
 
 ---
 ## CVE-2023-43326 (2023-09-25T22:15:00)
@@ -5505,6 +5506,7 @@ Fixed in version 6.4.1.
 - [shiyingzhencai/CVE-2023-32315-java7-](https://github.com/shiyingzhencai/CVE-2023-32315-java7-)	<img alt="forks" src="https://img.shields.io/github/forks/shiyingzhencai/CVE-2023-32315-java7-">	<img alt="stars" src="https://img.shields.io/github/stars/shiyingzhencai/CVE-2023-32315-java7-">
 - [rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite)	<img alt="forks" src="https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite">	<img alt="stars" src="https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite">
 - [krevetkqqq/cve-2023-32315-openfire-lab](https://github.com/krevetkqqq/cve-2023-32315-openfire-lab)	<img alt="forks" src="https://img.shields.io/github/forks/krevetkqqq/cve-2023-32315-openfire-lab">	<img alt="stars" src="https://img.shields.io/github/stars/krevetkqqq/cve-2023-32315-openfire-lab">
+- [CyberCTF/vulhub-openfire-cve-2023-32315](https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openfire-cve-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openfire-cve-2023-32315">
 
 ---
 ## CVE-2023-32259 ()
