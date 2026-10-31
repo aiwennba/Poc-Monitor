@@ -83,6 +83,8 @@
 - [maxigentr/netviser-linux-security-auditor](https://github.com/maxigentr/netviser-linux-security-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/maxigentr/netviser-linux-security-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/maxigentr/netviser-linux-security-auditor">
 - [paulwouters/block_cve_2026_98432](https://github.com/paulwouters/block_cve_2026_98432)	<img alt="forks" src="https://img.shields.io/github/forks/paulwouters/block_cve_2026_98432">	<img alt="stars" src="https://img.shields.io/github/stars/paulwouters/block_cve_2026_98432">
 - [davetha/cve-2026-98432](https://github.com/davetha/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/davetha/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/davetha/cve-2026-98432">
+- [brett6320/fix_CVE-2026-98432](https://github.com/brett6320/fix_CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/brett6320/fix_CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/brett6320/fix_CVE-2026-98432">
+- [alvaroguzmancode/cve-2026-98432](https://github.com/alvaroguzmancode/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/cve-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
