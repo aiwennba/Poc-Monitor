@@ -103,6 +103,7 @@
 - [uvian/xboard-core](https://github.com/uvian/xboard-core)	<img alt="forks" src="https://img.shields.io/github/forks/uvian/xboard-core">	<img alt="stars" src="https://img.shields.io/github/stars/uvian/xboard-core">
 - [Mervent/cve-2026-98432](https://github.com/Mervent/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/Mervent/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/Mervent/cve-2026-98432">
 - [fetus-hina/cve-2026-98432-mitigation-rpm](https://github.com/fetus-hina/cve-2026-98432-mitigation-rpm)	<img alt="forks" src="https://img.shields.io/github/forks/fetus-hina/cve-2026-98432-mitigation-rpm">	<img alt="stars" src="https://img.shields.io/github/stars/fetus-hina/cve-2026-98432-mitigation-rpm">
+- [al4n4n/CVE-2026-98432](https://github.com/al4n4n/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
@@ -740,6 +741,11 @@
 ## CVE-2026-91737 ()
 > 
 - [sm1ee/CVE-2026-91737](https://github.com/sm1ee/CVE-2026-91737)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-91737">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-91737">
+
+---
+## CVE-2026-9151 ()
+> 
+- [hcbt/CVE-2026-9151](https://github.com/hcbt/CVE-2026-9151)	<img alt="forks" src="https://img.shields.io/github/forks/hcbt/CVE-2026-9151">	<img alt="stars" src="https://img.shields.io/github/stars/hcbt/CVE-2026-9151">
 
 ---
 ## CVE-2026-9147 ()
@@ -13811,6 +13817,11 @@
 ## CVE-2026-116521 ()
 > 
 - [4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc)	<img alt="forks" src="https://img.shields.io/github/forks/4m3rr0r/CVE-2026-116521-poc">	<img alt="stars" src="https://img.shields.io/github/stars/4m3rr0r/CVE-2026-116521-poc">
+
+---
+## CVE-2026-116512 ()
+> 
+- [BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512">
 
 ---
 ## CVE-2026-116488 ()
