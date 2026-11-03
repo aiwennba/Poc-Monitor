@@ -117,6 +117,15 @@
 - [0xBlackash/CVE-2026-98432](https://github.com/0xBlackash/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-98432">
 - [Pr0fEs0r-X/CVE-2026-98432-Checker-v-1.0-](https://github.com/Pr0fEs0r-X/CVE-2026-98432-Checker-v-1.0-)	<img alt="forks" src="https://img.shields.io/github/forks/Pr0fEs0r-X/CVE-2026-98432-Checker-v-1.0-">	<img alt="stars" src="https://img.shields.io/github/stars/Pr0fEs0r-X/CVE-2026-98432-Checker-v-1.0-">
 - [upeul/cve-2026-98432-linux](https://github.com/upeul/cve-2026-98432-linux)	<img alt="forks" src="https://img.shields.io/github/forks/upeul/cve-2026-98432-linux">	<img alt="stars" src="https://img.shields.io/github/stars/upeul/cve-2026-98432-linux">
+- [lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation">
+- [braginvalentin/cve_2026_98432](https://github.com/braginvalentin/cve_2026_98432)	<img alt="forks" src="https://img.shields.io/github/forks/braginvalentin/cve_2026_98432">	<img alt="stars" src="https://img.shields.io/github/stars/braginvalentin/cve_2026_98432">
+- [akaihigurashi/kernel98scan](https://github.com/akaihigurashi/kernel98scan)	<img alt="forks" src="https://img.shields.io/github/forks/akaihigurashi/kernel98scan">	<img alt="stars" src="https://img.shields.io/github/stars/akaihigurashi/kernel98scan">
+- [mc493/kshield](https://github.com/mc493/kshield)	<img alt="forks" src="https://img.shields.io/github/forks/mc493/kshield">	<img alt="stars" src="https://img.shields.io/github/stars/mc493/kshield">
+- [maxottovon/CVE-2026-98432-scan](https://github.com/maxottovon/CVE-2026-98432-scan)	<img alt="forks" src="https://img.shields.io/github/forks/maxottovon/CVE-2026-98432-scan">	<img alt="stars" src="https://img.shields.io/github/stars/maxottovon/CVE-2026-98432-scan">
+- [Omniversetr/omnicheck_CVE-2026-98432](https://github.com/Omniversetr/omnicheck_CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/Omniversetr/omnicheck_CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/Omniversetr/omnicheck_CVE-2026-98432">
+- [matthew-hollick/mitigate-cve-2026-98432](https://github.com/matthew-hollick/mitigate-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/matthew-hollick/mitigate-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/matthew-hollick/mitigate-cve-2026-98432">
+- [thiscitze/cve-2026-98432-root-shell](https://github.com/thiscitze/cve-2026-98432-root-shell)	<img alt="forks" src="https://img.shields.io/github/forks/thiscitze/cve-2026-98432-root-shell">	<img alt="stars" src="https://img.shields.io/github/stars/thiscitze/cve-2026-98432-root-shell">
+- [jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt)	<img alt="forks" src="https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt">	<img alt="stars" src="https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt">
 
 ---
 ## CVE-2026-98385 ()
@@ -171,6 +180,7 @@
 - [sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260">
 - [LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root](https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root)	<img alt="forks" src="https://img.shields.io/github/forks/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">	<img alt="stars" src="https://img.shields.io/github/stars/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">
 - [cuteaplane/CVE-2026-98260-for-OPD2501](https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/CVE-2026-98260-for-OPD2501">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/CVE-2026-98260-for-OPD2501">
+- [YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)	<img alt="forks" src="https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability">	<img alt="stars" src="https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability">
 
 ---
 ## CVE-2026-98258 ()
