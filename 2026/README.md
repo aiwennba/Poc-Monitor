@@ -126,6 +126,7 @@
 - [matthew-hollick/mitigate-cve-2026-98432](https://github.com/matthew-hollick/mitigate-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/matthew-hollick/mitigate-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/matthew-hollick/mitigate-cve-2026-98432">
 - [thiscitze/cve-2026-98432-root-shell](https://github.com/thiscitze/cve-2026-98432-root-shell)	<img alt="forks" src="https://img.shields.io/github/forks/thiscitze/cve-2026-98432-root-shell">	<img alt="stars" src="https://img.shields.io/github/stars/thiscitze/cve-2026-98432-root-shell">
 - [jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt)	<img alt="forks" src="https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt">	<img alt="stars" src="https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt">
+- [schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables)	<img alt="forks" src="https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables">	<img alt="stars" src="https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables">
 
 ---
 ## CVE-2026-98385 ()
@@ -181,6 +182,7 @@
 - [LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root](https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root)	<img alt="forks" src="https://img.shields.io/github/forks/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">	<img alt="stars" src="https://img.shields.io/github/stars/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">
 - [cuteaplane/CVE-2026-98260-for-OPD2501](https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/CVE-2026-98260-for-OPD2501">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/CVE-2026-98260-for-OPD2501">
 - [YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)	<img alt="forks" src="https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability">	<img alt="stars" src="https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability">
+- [RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-98260">
 
 ---
 ## CVE-2026-98258 ()
@@ -13891,6 +13893,7 @@
 ## CVE-2026-116512 ()
 > 
 - [BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512">
+- [0xCyp1337/CVE-2026-116512](https://github.com/0xCyp1337/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-116512">
 
 ---
 ## CVE-2026-116488 ()
@@ -13949,6 +13952,11 @@
 ## CVE-2026-116105 ()
 > 
 - [ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2026-116105">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2026-116105">
+
+---
+## CVE-2026-116063 ()
+> 
+- [SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063)	<img alt="forks" src="https://img.shields.io/github/forks/SDshadow/CVE-2026-116063">	<img alt="stars" src="https://img.shields.io/github/stars/SDshadow/CVE-2026-116063">
 
 ---
 ## CVE-2026-116012 ()
