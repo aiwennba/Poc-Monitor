@@ -4582,6 +4582,7 @@
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
 - [0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182">
 - [solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182](https://github.com/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182">
+- [Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-](https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-">
 
 ---
 ## CVE-2025-55130 ()
