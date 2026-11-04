@@ -3843,6 +3843,7 @@
 - [FreemanHack/CVE-2025-5548](https://github.com/FreemanHack/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FreemanHack/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FreemanHack/CVE-2025-5548">
 - [libeazu/CVE-2025-5548](https://github.com/libeazu/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/libeazu/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/libeazu/CVE-2025-5548">
 - [dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6)	<img alt="forks" src="https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6">	<img alt="stars" src="https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6">
+- [ppolo1/CVE-2025-5548](https://github.com/ppolo1/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/ppolo1/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/ppolo1/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
