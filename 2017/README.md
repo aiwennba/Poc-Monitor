@@ -976,6 +976,7 @@
 ## CVE-2017-18349 ()
 > 
 - [Dungsocool/CVE-2017-18349](https://github.com/Dungsocool/CVE-2017-18349)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-18349">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-18349">
+- [dichen-L/CVE-2017-18349-fastjson1.2.24-vul](https://github.com/dichen-L/CVE-2017-18349-fastjson1.2.24-vul)	<img alt="forks" src="https://img.shields.io/github/forks/dichen-L/CVE-2017-18349-fastjson1.2.24-vul">	<img alt="stars" src="https://img.shields.io/github/stars/dichen-L/CVE-2017-18349-fastjson1.2.24-vul">
 
 ---
 ## CVE-2017-18019 (2018-01-04T04:29:00)
