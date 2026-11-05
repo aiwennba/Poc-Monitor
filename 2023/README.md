@@ -6616,6 +6616,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [sumaiyafathima-code/CVE-2023-27524](https://github.com/sumaiyafathima-code/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/sumaiyafathima-code/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/sumaiyafathima-code/CVE-2023-27524">
 - [rachidafaf/bola-CVE-2023-27524](https://github.com/rachidafaf/bola-CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/rachidafaf/bola-CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/rachidafaf/bola-CVE-2023-27524">
 - [CyberCTF/vulhub-superset-cve-2023-27524](https://github.com/CyberCTF/vulhub-superset-cve-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-superset-cve-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-superset-cve-2023-27524">
+- [sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs](https://github.com/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs)	<img alt="forks" src="https://img.shields.io/github/forks/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs">	<img alt="stars" src="https://img.shields.io/github/stars/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs">
 
 ---
 ## CVE-2023-2752 (2023-05-17T08:15:00)
