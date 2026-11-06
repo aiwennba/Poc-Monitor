@@ -270,6 +270,7 @@
 - [Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit">
 - [MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup](https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup">
 - [intcost/cve-2017-7921-hikvision-poc](https://github.com/intcost/cve-2017-7921-hikvision-poc)	<img alt="forks" src="https://img.shields.io/github/forks/intcost/cve-2017-7921-hikvision-poc">	<img alt="stars" src="https://img.shields.io/github/stars/intcost/cve-2017-7921-hikvision-poc">
+- [Bethelhem-Yirga/hikvision-cve-2017-7921-lab](https://github.com/Bethelhem-Yirga/hikvision-cve-2017-7921-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Bethelhem-Yirga/hikvision-cve-2017-7921-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Bethelhem-Yirga/hikvision-cve-2017-7921-lab">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
