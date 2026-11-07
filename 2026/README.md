@@ -3724,6 +3724,7 @@
 - [wanwuzhishi/ksu-root](https://github.com/wanwuzhishi/ksu-root)	<img alt="forks" src="https://img.shields.io/github/forks/wanwuzhishi/ksu-root">	<img alt="stars" src="https://img.shields.io/github/stars/wanwuzhishi/ksu-root">
 - [exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu">
 - [aucai/Redmi-K90-CVE-2026-64560](https://github.com/aucai/Redmi-K90-CVE-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/aucai/Redmi-K90-CVE-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/aucai/Redmi-K90-CVE-2026-64560">
+- [000999888111/op13-cve-2026-64560](https://github.com/000999888111/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/000999888111/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/000999888111/op13-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
