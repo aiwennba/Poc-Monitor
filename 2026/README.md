@@ -154,6 +154,7 @@
 - [s97472091-pixel/verification-gap-cve-2026-98432](https://github.com/s97472091-pixel/verification-gap-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/s97472091-pixel/verification-gap-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/s97472091-pixel/verification-gap-cve-2026-98432">
 - [makslanies/cve-2026-98432-mitigation](https://github.com/makslanies/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/makslanies/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/makslanies/cve-2026-98432-mitigation">
 - [zhao-xiaogang/cve_2026_98432_livepatch](https://github.com/zhao-xiaogang/cve_2026_98432_livepatch)	<img alt="forks" src="https://img.shields.io/github/forks/zhao-xiaogang/cve_2026_98432_livepatch">	<img alt="stars" src="https://img.shields.io/github/stars/zhao-xiaogang/cve_2026_98432_livepatch">
+- [one-loner/cve_2026_98432_fix](https://github.com/one-loner/cve_2026_98432_fix)	<img alt="forks" src="https://img.shields.io/github/forks/one-loner/cve_2026_98432_fix">	<img alt="stars" src="https://img.shields.io/github/stars/one-loner/cve_2026_98432_fix">
 
 ---
 ## CVE-2026-98385 ()
@@ -7033,6 +7034,7 @@
 - [heikeyangle-code/mi11-venus-temproot](https://github.com/heikeyangle-code/mi11-venus-temproot)	<img alt="forks" src="https://img.shields.io/github/forks/heikeyangle-code/mi11-venus-temproot">	<img alt="stars" src="https://img.shields.io/github/stars/heikeyangle-code/mi11-venus-temproot">
 - [chjwoo7/ghostlock-a55x](https://github.com/chjwoo7/ghostlock-a55x)	<img alt="forks" src="https://img.shields.io/github/forks/chjwoo7/ghostlock-a55x">	<img alt="stars" src="https://img.shields.io/github/stars/chjwoo7/ghostlock-a55x">
 - [a78c7/w25-cve-2026-43499-notes](https://github.com/a78c7/w25-cve-2026-43499-notes)	<img alt="forks" src="https://img.shields.io/github/forks/a78c7/w25-cve-2026-43499-notes">	<img alt="stars" src="https://img.shields.io/github/stars/a78c7/w25-cve-2026-43499-notes">
+- [AksiSpirit/ghostlock-cve-2026-43499-4.19-k40](https://github.com/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40">
 
 ---
 ## CVE-2026-43494 ()
@@ -7394,6 +7396,11 @@
 ## CVE-2026-42031 ()
 > 
 - [ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner](https://github.com/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner">
+
+---
+## CVE-2026-42016 ()
+> 
+- [dylvie/CVE-2026-42016_CVE-2026-42018](https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2026-42016_CVE-2026-42018">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2026-42016_CVE-2026-42018">
 
 ---
 ## CVE-2026-41992 ()
@@ -14123,6 +14130,9 @@
 - [foxcornlab/wordpress-core-scanner](https://github.com/foxcornlab/wordpress-core-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/wordpress-core-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/wordpress-core-scanner">
 - [Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4](https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">
 - [tc4dy/CVE-2026-119977-Toolkit](https://github.com/tc4dy/CVE-2026-119977-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-119977-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-119977-Toolkit">
+- [paulmann/Bash_WP-CLI_Update](https://github.com/paulmann/Bash_WP-CLI_Update)	<img alt="forks" src="https://img.shields.io/github/forks/paulmann/Bash_WP-CLI_Update">	<img alt="stars" src="https://img.shields.io/github/stars/paulmann/Bash_WP-CLI_Update">
+- [hacermuden/CVE-2026-119977](https://github.com/hacermuden/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/hacermuden/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/hacermuden/CVE-2026-119977">
+- [riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/riabinov/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/riabinov/CVE-2026-119977">
 
 ---
 ## CVE-2026-11991 ()
