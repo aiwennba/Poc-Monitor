@@ -1787,6 +1787,7 @@
 - [Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection">
 - [LACHHAB-Anas/CVE-2026-83844](https://github.com/LACHHAB-Anas/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/LACHHAB-Anas/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/LACHHAB-Anas/CVE-2026-83844">
 - [blkph0x/CVE-2026-83844_POC](https://github.com/blkph0x/CVE-2026-83844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE-2026-83844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE-2026-83844_POC">
+- [HackingLZ/CVE-2026-83844-public](https://github.com/HackingLZ/CVE-2026-83844-public)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/CVE-2026-83844-public">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/CVE-2026-83844-public">
 
 ---
 ## CVE-2026-83834 ()
@@ -5680,6 +5681,11 @@
 - [Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching](https://github.com/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">
 
 ---
+## CVE-2026-4961 ()
+> 
+- [lufeng78/tenda-ac6-cve-2026-4961-patch](https://github.com/lufeng78/tenda-ac6-cve-2026-4961-patch)	<img alt="forks" src="https://img.shields.io/github/forks/lufeng78/tenda-ac6-cve-2026-4961-patch">	<img alt="stars" src="https://img.shields.io/github/stars/lufeng78/tenda-ac6-cve-2026-4961-patch">
+
+---
 ## CVE-2026-49492 ()
 > 
 - [byte16384/CVE-2026-49492-PoC](https://github.com/byte16384/CVE-2026-49492-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/byte16384/CVE-2026-49492-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/byte16384/CVE-2026-49492-PoC">
@@ -7077,6 +7083,10 @@
 - [chjwoo7/ghostlock-a55x](https://github.com/chjwoo7/ghostlock-a55x)	<img alt="forks" src="https://img.shields.io/github/forks/chjwoo7/ghostlock-a55x">	<img alt="stars" src="https://img.shields.io/github/stars/chjwoo7/ghostlock-a55x">
 - [a78c7/w25-cve-2026-43499-notes](https://github.com/a78c7/w25-cve-2026-43499-notes)	<img alt="forks" src="https://img.shields.io/github/forks/a78c7/w25-cve-2026-43499-notes">	<img alt="stars" src="https://img.shields.io/github/stars/a78c7/w25-cve-2026-43499-notes">
 - [AksiSpirit/ghostlock-cve-2026-43499-4.19-k40](https://github.com/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40">
+- [Viper-Boss/iqoo-neo5-temp-root](https://github.com/Viper-Boss/iqoo-neo5-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Viper-Boss/iqoo-neo5-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Viper-Boss/iqoo-neo5-temp-root">
+- [h5hg6vy8nt-hue/meizu20pro-temp-root](https://github.com/h5hg6vy8nt-hue/meizu20pro-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/h5hg6vy8nt-hue/meizu20pro-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/h5hg6vy8nt-hue/meizu20pro-temp-root">
+- [kipcloud120/MiTV-MFTP0-GhostLock](https://github.com/kipcloud120/MiTV-MFTP0-GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/kipcloud120/MiTV-MFTP0-GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/kipcloud120/MiTV-MFTP0-GhostLock">
+- [realskyrin/fuxi-temp-root](https://github.com/realskyrin/fuxi-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/realskyrin/fuxi-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/realskyrin/fuxi-temp-root">
 
 ---
 ## CVE-2026-43494 ()
@@ -14043,6 +14053,7 @@
 - [fixedbyreboot/CVE-2026-123488-POC](https://github.com/fixedbyreboot/CVE-2026-123488-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-123488-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-123488-POC">
 - [dinosn/CVE-2026-123488-CraftCMS-Lab](https://github.com/dinosn/CVE-2026-123488-CraftCMS-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-123488-CraftCMS-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-123488-CraftCMS-Lab">
 - [ashrafzaryouh/CVE-2026-123488](https://github.com/ashrafzaryouh/CVE-2026-123488)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-123488">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-123488">
+- [foxcornlab/craft-cms-scanner](https://github.com/foxcornlab/craft-cms-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/craft-cms-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/craft-cms-scanner">
 
 ---
 ## CVE-2026-12345 ()
@@ -14133,6 +14144,11 @@
 ## CVE-2026-122158 ()
 > 
 - [capivara-research/CVE-2026-122158](https://github.com/capivara-research/CVE-2026-122158)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-122158">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-122158">
+
+---
+## CVE-2026-122056 ()
+> 
+- [D7EAD/CVE-2026-122056](https://github.com/D7EAD/CVE-2026-122056)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-122056">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-122056">
 
 ---
 ## CVE-2026-122051 ()
