@@ -1959,6 +1959,7 @@
 ## CVE-2026-81963 ()
 > 
 - [BarwSirati/CVE-2026-81963-TrustedDpx](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx)	<img alt="forks" src="https://img.shields.io/github/forks/BarwSirati/CVE-2026-81963-TrustedDpx">	<img alt="stars" src="https://img.shields.io/github/stars/BarwSirati/CVE-2026-81963-TrustedDpx">
+- [rsah35404-star/stunning-octo-doodle](https://github.com/rsah35404-star/stunning-octo-doodle)	<img alt="forks" src="https://img.shields.io/github/forks/rsah35404-star/stunning-octo-doodle">	<img alt="stars" src="https://img.shields.io/github/stars/rsah35404-star/stunning-octo-doodle">
 
 ---
 ## CVE-2026-8196 ()
@@ -2428,6 +2429,11 @@
 > 
 - [YonLiud/CVE-2026-76904](https://github.com/YonLiud/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-76904">
 - [bickZero93/CVE-2026-76904](https://github.com/bickZero93/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/bickZero93/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/bickZero93/CVE-2026-76904">
+
+---
+## CVE-2026-76844 ()
+> 
+- [perplexedyawdie/cve-2026-76844-lab](https://github.com/perplexedyawdie/cve-2026-76844-lab)	<img alt="forks" src="https://img.shields.io/github/forks/perplexedyawdie/cve-2026-76844-lab">	<img alt="stars" src="https://img.shields.io/github/stars/perplexedyawdie/cve-2026-76844-lab">
 
 ---
 ## CVE-2026-7671 ()
@@ -3481,6 +3487,11 @@
 ## CVE-2026-6666 ()
 > 
 - [George0Papasotiriou/CVE-2026-6666-XPC-Service-NSKeyedUnarchiver-Deserialization-Attack-macOS-iOS-simulation-](https://github.com/George0Papasotiriou/CVE-2026-6666-XPC-Service-NSKeyedUnarchiver-Deserialization-Attack-macOS-iOS-simulation-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-6666-XPC-Service-NSKeyedUnarchiver-Deserialization-Attack-macOS-iOS-simulation-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-6666-XPC-Service-NSKeyedUnarchiver-Deserialization-Attack-macOS-iOS-simulation-">
+
+---
+## CVE-2026-66613 ()
+> 
+- [aramosf/CVE-2026-66613](https://github.com/aramosf/CVE-2026-66613)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/CVE-2026-66613">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/CVE-2026-66613">
 
 ---
 ## CVE-2026-666 ()
@@ -14051,6 +14062,11 @@
 - [webshellseo8/CVE-2026-12720-Proof-of-Concept](https://github.com/webshellseo8/CVE-2026-12720-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-12720-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-12720-Proof-of-Concept">
 
 ---
+## CVE-2026-125757 ()
+> 
+- [Faceless0x7/CVE-2026-125757](https://github.com/Faceless0x7/CVE-2026-125757)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-125757">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-125757">
+
+---
 ## CVE-2026-125439 ()
 > 
 - [kanokwut/CVE-2026-125439-poc](https://github.com/kanokwut/CVE-2026-125439-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kanokwut/CVE-2026-125439-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kanokwut/CVE-2026-125439-poc">
@@ -14059,6 +14075,7 @@
 ## CVE-2026-125350 ()
 > 
 - [ashrafzaryouh/CVE-2026-125350](https://github.com/ashrafzaryouh/CVE-2026-125350)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-125350">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-125350">
+- [Frostmoon39206/CVE-2026-125350-PoC](https://github.com/Frostmoon39206/CVE-2026-125350-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Frostmoon39206/CVE-2026-125350-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Frostmoon39206/CVE-2026-125350-PoC">
 
 ---
 ## CVE-2026-12513 ()
