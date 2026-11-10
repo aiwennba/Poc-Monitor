@@ -1857,6 +1857,7 @@ use after free.
 - [FDLAlfrid/odin-od105-devkit](https://github.com/FDLAlfrid/odin-od105-devkit)	<img alt="forks" src="https://img.shields.io/github/forks/FDLAlfrid/odin-od105-devkit">	<img alt="stars" src="https://img.shields.io/github/stars/FDLAlfrid/odin-od105-devkit">
 - [saaedimam/sony-bravia-root-toolkit](https://github.com/saaedimam/sony-bravia-root-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/saaedimam/sony-bravia-root-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/saaedimam/sony-bravia-root-toolkit">
 - [RxinnotRstar/CVE-2019-2215-ForMIpad4](https://github.com/RxinnotRstar/CVE-2019-2215-ForMIpad4)	<img alt="forks" src="https://img.shields.io/github/forks/RxinnotRstar/CVE-2019-2215-ForMIpad4">	<img alt="stars" src="https://img.shields.io/github/stars/RxinnotRstar/CVE-2019-2215-ForMIpad4">
+- [WJNKAC/CVE-2019-2215-vivo-Y66i](https://github.com/WJNKAC/CVE-2019-2215-vivo-Y66i)	<img alt="forks" src="https://img.shields.io/github/forks/WJNKAC/CVE-2019-2215-vivo-Y66i">	<img alt="stars" src="https://img.shields.io/github/stars/WJNKAC/CVE-2019-2215-vivo-Y66i">
 
 ---
 ## CVE-2019-2115 ()
@@ -3539,6 +3540,8 @@ use after free.
 - [CodeHex083/phuip-fpizdam](https://github.com/CodeHex083/phuip-fpizdam)	<img alt="forks" src="https://img.shields.io/github/forks/CodeHex083/phuip-fpizdam">	<img alt="stars" src="https://img.shields.io/github/stars/CodeHex083/phuip-fpizdam">
 - [gon905332-jpg/cve-2019-11043.py](https://github.com/gon905332-jpg/cve-2019-11043.py)	<img alt="forks" src="https://img.shields.io/github/forks/gon905332-jpg/cve-2019-11043.py">	<img alt="stars" src="https://img.shields.io/github/stars/gon905332-jpg/cve-2019-11043.py">
 - [CyberCTF/vulhub-php-cve-2019-11043](https://github.com/CyberCTF/vulhub-php-cve-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2019-11043">
+- [esskslifetech/PROTECTION2Shell](https://github.com/esskslifetech/PROTECTION2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/esskslifetech/PROTECTION2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/esskslifetech/PROTECTION2Shell">
+- [esskslifetech/php-secure-patch](https://github.com/esskslifetech/php-secure-patch)	<img alt="forks" src="https://img.shields.io/github/forks/esskslifetech/php-secure-patch">	<img alt="stars" src="https://img.shields.io/github/stars/esskslifetech/php-secure-patch">
 
 ---
 ## CVE-2019-10945 (2019-04-10T19:29:00)

@@ -142,7 +142,7 @@
 - [mrjoshuap/ansible-ezcve](https://github.com/mrjoshuap/ansible-ezcve)	<img alt="forks" src="https://img.shields.io/github/forks/mrjoshuap/ansible-ezcve">	<img alt="stars" src="https://img.shields.io/github/stars/mrjoshuap/ansible-ezcve">
 - [zenjabba/cve-2026-98432-mitigation](https://github.com/zenjabba/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/zenjabba/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/zenjabba/cve-2026-98432-mitigation">
 - [hdp1972be-svg/cve_2026_98432_guard](https://github.com/hdp1972be-svg/cve_2026_98432_guard)	<img alt="forks" src="https://img.shields.io/github/forks/hdp1972be-svg/cve_2026_98432_guard">	<img alt="stars" src="https://img.shields.io/github/stars/hdp1972be-svg/cve_2026_98432_guard">
-- [downitch/CVE-2026-98432_poc](https://github.com/downitch/CVE-2026-98432_poc)	<img alt="forks" src="https://img.shields.io/github/forks/downitch/CVE-2026-98432_poc">	<img alt="stars" src="https://img.shields.io/github/stars/downitch/CVE-2026-98432_poc">
+- [nnssh/CVE-2026-98432_poc](https://github.com/nnssh/CVE-2026-98432_poc)	<img alt="forks" src="https://img.shields.io/github/forks/nnssh/CVE-2026-98432_poc">	<img alt="stars" src="https://img.shields.io/github/stars/nnssh/CVE-2026-98432_poc">
 - [t0ge-kun/CVE-2026-98432-check](https://github.com/t0ge-kun/CVE-2026-98432-check)	<img alt="forks" src="https://img.shields.io/github/forks/t0ge-kun/CVE-2026-98432-check">	<img alt="stars" src="https://img.shields.io/github/stars/t0ge-kun/CVE-2026-98432-check">
 - [moatome/CVE-2026-98432-pen-test](https://github.com/moatome/CVE-2026-98432-pen-test)	<img alt="forks" src="https://img.shields.io/github/forks/moatome/CVE-2026-98432-pen-test">	<img alt="stars" src="https://img.shields.io/github/stars/moatome/CVE-2026-98432-pen-test">
 - [cybervenom01/Mitigation_CVE-2026-98432](https://github.com/cybervenom01/Mitigation_CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/cybervenom01/Mitigation_CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/cybervenom01/Mitigation_CVE-2026-98432">
@@ -162,6 +162,8 @@
 - [one-loner/cve_2026_98432_fix](https://github.com/one-loner/cve_2026_98432_fix)	<img alt="forks" src="https://img.shields.io/github/forks/one-loner/cve_2026_98432_fix">	<img alt="stars" src="https://img.shields.io/github/stars/one-loner/cve_2026_98432_fix">
 - [jackykeung/CVE-2026-98432-Verified-Attack](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/jackykeung/CVE-2026-98432-Verified-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/jackykeung/CVE-2026-98432-Verified-Attack">
 - [rootagi/CVE-2026-98432](https://github.com/rootagi/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/rootagi/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/rootagi/CVE-2026-98432">
+- [ylh440104/cve-2026-98432-chain](https://github.com/ylh440104/cve-2026-98432-chain)	<img alt="forks" src="https://img.shields.io/github/forks/ylh440104/cve-2026-98432-chain">	<img alt="stars" src="https://img.shields.io/github/stars/ylh440104/cve-2026-98432-chain">
+- [sam00/CVE-2026-98432-POC-Exploit](https://github.com/sam00/CVE-2026-98432-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/CVE-2026-98432-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/CVE-2026-98432-POC-Exploit">
 
 ---
 ## CVE-2026-98385 ()
@@ -3560,6 +3562,7 @@
 - [HORKimhab/CVE-2026-65400](https://github.com/HORKimhab/CVE-2026-65400)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-65400">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-65400">
 - [panchocosil/CVE-2026-65400-poc](https://github.com/panchocosil/CVE-2026-65400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/panchocosil/CVE-2026-65400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/panchocosil/CVE-2026-65400-poc">
 - [acheong08/CVE-2026-65400](https://github.com/acheong08/CVE-2026-65400)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2026-65400">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2026-65400">
+- [mrraylau321/cve-2026-65400-mac-check](https://github.com/mrraylau321/cve-2026-65400-mac-check)	<img alt="forks" src="https://img.shields.io/github/forks/mrraylau321/cve-2026-65400-mac-check">	<img alt="stars" src="https://img.shields.io/github/stars/mrraylau321/cve-2026-65400-mac-check">
 
 ---
 ## CVE-2026-65374 ()
@@ -4383,6 +4386,11 @@
 ## CVE-2026-59230 ()
 > 
 - [oscerd/CVE-2026-59230](https://github.com/oscerd/CVE-2026-59230)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-59230">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-59230">
+
+---
+## CVE-2026-58882 ()
+> 
+- [januththedev/SMS-Of-Death-CVE-2026-58882-Fix](https://github.com/januththedev/SMS-Of-Death-CVE-2026-58882-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/januththedev/SMS-Of-Death-CVE-2026-58882-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/januththedev/SMS-Of-Death-CVE-2026-58882-Fix">
 
 ---
 ## CVE-2026-58868 ()
@@ -14097,6 +14105,7 @@
 - [leonjza/sshhole-lab](https://github.com/leonjza/sshhole-lab)	<img alt="forks" src="https://img.shields.io/github/forks/leonjza/sshhole-lab">	<img alt="stars" src="https://img.shields.io/github/stars/leonjza/sshhole-lab">
 - [aciddust/CVE-2026-123158-LAB](https://github.com/aciddust/CVE-2026-123158-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/aciddust/CVE-2026-123158-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/aciddust/CVE-2026-123158-LAB">
 - [D1se0/CVE-2026-123158](https://github.com/D1se0/CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2026-123158">
+- [Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-](https://github.com/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-">
 
 ---
 ## CVE-2026-123025 ()
@@ -14185,6 +14194,11 @@
 > 
 - [uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-12118-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-12118-POC-">
 - [uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-12118-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-12118-POC-">
+
+---
+## CVE-2026-1210 ()
+> 
+- [elmobp/cmd2pshell-cve-2026-1210](https://github.com/elmobp/cmd2pshell-cve-2026-1210)	<img alt="forks" src="https://img.shields.io/github/forks/elmobp/cmd2pshell-cve-2026-1210">	<img alt="stars" src="https://img.shields.io/github/stars/elmobp/cmd2pshell-cve-2026-1210">
 
 ---
 ## CVE-2026-12080 ()
