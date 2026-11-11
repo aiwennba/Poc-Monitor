@@ -11029,6 +11029,7 @@
 - [r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2026-26119">
 - [r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2026-26119">
 - [Cyb3rWitch3r/CVE-2026-26119](https://github.com/Cyb3rWitch3r/CVE-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rWitch3r/CVE-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rWitch3r/CVE-2026-26119">
+- [csdovah/vuln-cve-2026-26119](https://github.com/csdovah/vuln-cve-2026-26119)	<img alt="forks" src="https://img.shields.io/github/forks/csdovah/vuln-cve-2026-26119">	<img alt="stars" src="https://img.shields.io/github/stars/csdovah/vuln-cve-2026-26119">
 
 ---
 ## CVE-2026-26114 ()
@@ -14108,6 +14109,11 @@
 - [Polosss/By-Poloss..-..CVE-2026-12432-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-12432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-12432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-12432-PoC">
 
 ---
+## CVE-2026-124194 ()
+> 
+- [AmesianX/CVE-2026-124194-poc](https://github.com/AmesianX/CVE-2026-124194-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2026-124194-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2026-124194-poc">
+
+---
 ## CVE-2026-12416 ()
 > 
 - [Nxploited/CVE-2026-12416-CVE-2026-12417](https://github.com/Nxploited/CVE-2026-12416-CVE-2026-12417)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-12416-CVE-2026-12417">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-12416-CVE-2026-12417">
@@ -14342,6 +14348,11 @@
 ## CVE-2026-11991 ()
 > 
 - [0x00phantom-hat/CVE-2026-11991-Exploit](https://github.com/0x00phantom-hat/CVE-2026-11991-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-11991-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-11991-Exploit">
+
+---
+## CVE-2026-119905 ()
+> 
+- [overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path](https://github.com/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path">
 
 ---
 ## CVE-2026-11961 ()
