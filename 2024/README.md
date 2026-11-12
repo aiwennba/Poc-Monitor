@@ -315,6 +315,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-8949-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-8949-POC">
 
 ---
+## CVE-2024-8859 ()
+> 
+- [dexteon/mlflow-dbfs-path-traversal-cve-2024-8859](https://github.com/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859">
+
+---
 ## CVE-2024-8856 (2024-11-16T05:15:00)
 > The Backup and Staging by WP Time Capsule plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the the UploadHandler.php file and no direct file access prevention in all versions up to, and including, 1.22.21. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-8856">
@@ -1075,6 +1080,7 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 - [hlc23/CVE-2024-5932-web-ui](https://github.com/hlc23/CVE-2024-5932-web-ui)	<img alt="forks" src="https://img.shields.io/github/forks/hlc23/CVE-2024-5932-web-ui">	<img alt="stars" src="https://img.shields.io/github/stars/hlc23/CVE-2024-5932-web-ui">
 - [autom4il/CVE-2024-5932](https://github.com/autom4il/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/autom4il/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/autom4il/CVE-2024-5932">
 - [nishant-kumar-5173/CVE-2024-5932](https://github.com/nishant-kumar-5173/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/nishant-kumar-5173/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/nishant-kumar-5173/CVE-2024-5932">
+- [0o176/CVE-2024-5932_PoC](https://github.com/0o176/CVE-2024-5932_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0o176/CVE-2024-5932_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0o176/CVE-2024-5932_PoC">
 
 ---
 ## CVE-2024-5910 (2024-07-10T19:15:00)
@@ -5288,6 +5294,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [pankass/CVE-2024-37032_CVE-2024-45436](https://github.com/pankass/CVE-2024-37032_CVE-2024-45436)	<img alt="forks" src="https://img.shields.io/github/forks/pankass/CVE-2024-37032_CVE-2024-45436">	<img alt="stars" src="https://img.shields.io/github/stars/pankass/CVE-2024-37032_CVE-2024-45436">
 - [stuxbench/vllm-cve-2024-37032](https://github.com/stuxbench/vllm-cve-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vllm-cve-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vllm-cve-2024-37032">
 - [itzSh4dowxZ/CVE-2024-37032-PoC](https://github.com/itzSh4dowxZ/CVE-2024-37032-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/itzSh4dowxZ/CVE-2024-37032-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/itzSh4dowxZ/CVE-2024-37032-PoC">
+- [dexteon/probllama-ollama-rce-cve-2024-37032](https://github.com/dexteon/probllama-ollama-rce-cve-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/probllama-ollama-rce-cve-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/probllama-ollama-rce-cve-2024-37032">
 
 ---
 ## CVE-2024-37010 ()
@@ -6820,6 +6827,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30956 ()
 > 
 - [leoCottret/CVE-2024-30956](https://github.com/leoCottret/CVE-2024-30956)	<img alt="forks" src="https://img.shields.io/github/forks/leoCottret/CVE-2024-30956">	<img alt="stars" src="https://img.shields.io/github/stars/leoCottret/CVE-2024-30956">
+
+---
+## CVE-2024-3095 ()
+> 
+- [dexteon/langchain-webresearch-ssrf-cve-2024-3095](https://github.com/dexteon/langchain-webresearch-ssrf-cve-2024-3095)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/langchain-webresearch-ssrf-cve-2024-3095">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/langchain-webresearch-ssrf-cve-2024-3095">
 
 ---
 ## CVE-2024-3094 (2024-03-29T17:15:00)
@@ -10273,6 +10285,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-20654 (2024-01-09T18:15:00)
 > Microsoft ODBC Driver Remote Code Execution Vulnerability
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
+
+---
+## CVE-2024-2057 ()
+> 
+- [dexteon/langchain-tfidf-pickle-rce-cve-2024-2057](https://github.com/dexteon/langchain-tfidf-pickle-rce-cve-2024-2057)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/langchain-tfidf-pickle-rce-cve-2024-2057">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/langchain-tfidf-pickle-rce-cve-2024-2057">
 
 ---
 ## CVE-2024-2054 (2024-03-21T02:52:00)
