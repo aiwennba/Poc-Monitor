@@ -8335,6 +8335,7 @@
 > 
 - [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-31131">
 - [B1ack4sh/Blackash-CVE-2025-31131](https://github.com/B1ack4sh/Blackash-CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-31131">
+- [alinaclark672377250/CVE-2025-31131](https://github.com/alinaclark672377250/CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-31131">
 
 ---
 ## CVE-2025-31129 ()
@@ -8741,6 +8742,7 @@
 - [sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass](https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass">
 - [elkhaoudari/CVE-2025-29927-Python](https://github.com/elkhaoudari/CVE-2025-29927-Python)	<img alt="forks" src="https://img.shields.io/github/forks/elkhaoudari/CVE-2025-29927-Python">	<img alt="stars" src="https://img.shields.io/github/stars/elkhaoudari/CVE-2025-29927-Python">
 - [dexteon/nextjs-middleware-auth-bypass-cve-2025-29927](https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927">
+- [alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC">
 
 ---
 ## CVE-2025-29891 ()
@@ -9813,6 +9815,7 @@
 - [toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/toyplan/cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/toyplan/cve-2025-24813">
 - [Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813](https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">
 - [Ghost-Bx1/cve-2025-24813-apache-tomcat-rce](https://github.com/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce">
+- [alinaclark672377250/CVE-2025-24813](https://github.com/alinaclark672377250/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
@@ -9834,6 +9837,7 @@
 - [nak000/CVE-2025-24799-sqli](https://github.com/nak000/CVE-2025-24799-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/nak000/CVE-2025-24799-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/nak000/CVE-2025-24799-sqli">
 - [airbus-cert/CVE-2025-24799-scanner](https://github.com/airbus-cert/CVE-2025-24799-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/CVE-2025-24799-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/CVE-2025-24799-scanner">
 - [galisko/CVE-2025-24799](https://github.com/galisko/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/galisko/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/galisko/CVE-2025-24799">
+- [alinaclark672377250/CVE-2025-24799](https://github.com/alinaclark672377250/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-24799">
 
 ---
 ## CVE-2025-24797 ()
@@ -10070,6 +10074,7 @@
 - [B1ack4sh/Blackash-CVE-2025-24016](https://github.com/B1ack4sh/Blackash-CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-24016">
 - [guinea-offensive-security/Wazuh-RCE](https://github.com/guinea-offensive-security/Wazuh-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/guinea-offensive-security/Wazuh-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/guinea-offensive-security/Wazuh-RCE">
 - [GloStarRx1/CVE-2025-24016](https://github.com/GloStarRx1/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/GloStarRx1/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/GloStarRx1/CVE-2025-24016">
+- [alinaclark672377250/CVE-2025-24016](https://github.com/alinaclark672377250/CVE-2025-24016)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-24016">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-24016">
 
 ---
 ## CVE-2025-24011 ()
@@ -10806,6 +10811,8 @@
 - [MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-1661">
 - [exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">
 - [exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin">
+- [alinaclark672377250/CVE-2025-1661](https://github.com/alinaclark672377250/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-1661">
+- [shahwarshah/CVE-2025-1661](https://github.com/shahwarshah/CVE-2025-1661)	<img alt="forks" src="https://img.shields.io/github/forks/shahwarshah/CVE-2025-1661">	<img alt="stars" src="https://img.shields.io/github/stars/shahwarshah/CVE-2025-1661">
 
 ---
 ## CVE-2025-1653 ()
