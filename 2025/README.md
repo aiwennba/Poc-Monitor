@@ -4987,6 +4987,7 @@
 - [Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis](https://github.com/Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/SharePoint-ToolShell-CVE-2025-53770-Incident-Analysis">
 - [doerrdan/it-sec-toolshell](https://github.com/doerrdan/it-sec-toolshell)	<img alt="forks" src="https://img.shields.io/github/forks/doerrdan/it-sec-toolshell">	<img alt="stars" src="https://img.shields.io/github/stars/doerrdan/it-sec-toolshell">
 - [mfarshadabdullahkhan-png/cve-2025-53770-research](https://github.com/mfarshadabdullahkhan-png/cve-2025-53770-research)	<img alt="forks" src="https://img.shields.io/github/forks/mfarshadabdullahkhan-png/cve-2025-53770-research">	<img alt="stars" src="https://img.shields.io/github/stars/mfarshadabdullahkhan-png/cve-2025-53770-research">
+- [alinaclark672377250/CVE-2025-53770](https://github.com/alinaclark672377250/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-53770">
 
 ---
 ## CVE-2025-53744 ()
@@ -8336,6 +8337,7 @@
 - [MuhammadWaseem29/CVE-2025-31131](https://github.com/MuhammadWaseem29/CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-31131">
 - [B1ack4sh/Blackash-CVE-2025-31131](https://github.com/B1ack4sh/Blackash-CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-31131">
 - [alinaclark672377250/CVE-2025-31131](https://github.com/alinaclark672377250/CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-31131">
+- [gmh5225/Blackash-CVE-2025-31131](https://github.com/gmh5225/Blackash-CVE-2025-31131)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/Blackash-CVE-2025-31131">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/Blackash-CVE-2025-31131">
 
 ---
 ## CVE-2025-31129 ()
@@ -9833,7 +9835,7 @@
 - [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24799">
 - [MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MatheuZSecurity/Exploit-CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MatheuZSecurity/Exploit-CVE-2025-24799">
 - [galletitaconpate/CVE-2025-24799](https://github.com/galletitaconpate/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/galletitaconpate/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/galletitaconpate/CVE-2025-24799">
-- [Rosemary1337/CVE-2025-24799](https://github.com/Rosemary1337/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/Rosemary1337/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/Rosemary1337/CVE-2025-24799">
+- [ryhnmhrdka/CVE-2025-24799](https://github.com/ryhnmhrdka/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/ryhnmhrdka/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/ryhnmhrdka/CVE-2025-24799">
 - [nak000/CVE-2025-24799-sqli](https://github.com/nak000/CVE-2025-24799-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/nak000/CVE-2025-24799-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/nak000/CVE-2025-24799-sqli">
 - [airbus-cert/CVE-2025-24799-scanner](https://github.com/airbus-cert/CVE-2025-24799-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/CVE-2025-24799-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/CVE-2025-24799-scanner">
 - [galisko/CVE-2025-24799](https://github.com/galisko/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/galisko/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/galisko/CVE-2025-24799">
