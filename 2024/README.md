@@ -3922,6 +3922,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [weae26/aia-pdfjs-poc](https://github.com/weae26/aia-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/aia-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/aia-pdfjs-poc">
 - [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
 - [remiBoudreau/CVE-2024-4367](https://github.com/remiBoudreau/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/remiBoudreau/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/remiBoudreau/CVE-2024-4367">
+- [SeVen-777777/cve-2024-4367-poc](https://github.com/SeVen-777777/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SeVen-777777/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SeVen-777777/cve-2024-4367-poc">
 
 ---
 ## CVE-2024-43639 ()
