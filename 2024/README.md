@@ -3112,6 +3112,10 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [0x7556/CVE-2024-47176](https://github.com/0x7556/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-47176">
 - [deancooreman/CVE-2024-47176](https://github.com/deancooreman/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/deancooreman/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/deancooreman/CVE-2024-47176">
 - [jimi2x/dirtycups](https://github.com/jimi2x/dirtycups)	<img alt="forks" src="https://img.shields.io/github/forks/jimi2x/dirtycups">	<img alt="stars" src="https://img.shields.io/github/stars/jimi2x/dirtycups">
+- [Kokila-Chandramohan/cups-cve-2024-47176](https://github.com/Kokila-Chandramohan/cups-cve-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/Kokila-Chandramohan/cups-cve-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/Kokila-Chandramohan/cups-cve-2024-47176">
+- [Md-Nafiul-Hamim/cups-browse-exploit-detection](https://github.com/Md-Nafiul-Hamim/cups-browse-exploit-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Md-Nafiul-Hamim/cups-browse-exploit-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Md-Nafiul-Hamim/cups-browse-exploit-detection">
+- [Stickxx00/Cups-RCE-Exploit](https://github.com/Stickxx00/Cups-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Stickxx00/Cups-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Stickxx00/Cups-RCE-Exploit">
+- [Rhyru9/CUPS-CVE-2024-47176](https://github.com/Rhyru9/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CUPS-CVE-2024-47176">
 
 ---
 ## CVE-2024-47167 ()

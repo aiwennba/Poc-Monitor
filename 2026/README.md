@@ -358,6 +358,7 @@
 - [foxcornlab/gitlab-onigmo-scanner](https://github.com/foxcornlab/gitlab-onigmo-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/gitlab-onigmo-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/gitlab-onigmo-scanner">
 - [murat-levi/gitlab-rce-toolkit](https://github.com/murat-levi/gitlab-rce-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/murat-levi/gitlab-rce-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/murat-levi/gitlab-rce-toolkit">
 - [Ghost-Bx1/cve-2026-97229-gitlab-ci-rce](https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">
+- [wa6n3r/cve-2026-97229](https://github.com/wa6n3r/cve-2026-97229)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/cve-2026-97229">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/cve-2026-97229">
 
 ---
 ## CVE-2026-97206 ()
@@ -14712,6 +14713,7 @@
 - [QCG5OLF5ZU9L2W/CVE-2026-119618-YARA](https://github.com/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA)	<img alt="forks" src="https://img.shields.io/github/forks/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA">	<img alt="stars" src="https://img.shields.io/github/stars/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA">
 - [d4ytox/CVE-2026-119618](https://github.com/d4ytox/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2026-119618">
 - [terminat0r7031/CVE-2026-119618](https://github.com/terminat0r7031/CVE-2026-119618)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/CVE-2026-119618">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/CVE-2026-119618">
+- [matarturo/apache-mod-http2-scanner](https://github.com/matarturo/apache-mod-http2-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/matarturo/apache-mod-http2-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/matarturo/apache-mod-http2-scanner">
 
 ---
 ## CVE-2026-11961 ()
@@ -15078,6 +15080,11 @@
 ## CVE-2026-114595 ()
 > 
 - [0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595">
+
+---
+## CVE-2026-114552 ()
+> 
+- [RossKeddy/CVE-2026-114552](https://github.com/RossKeddy/CVE-2026-114552)	<img alt="forks" src="https://img.shields.io/github/forks/RossKeddy/CVE-2026-114552">	<img alt="stars" src="https://img.shields.io/github/stars/RossKeddy/CVE-2026-114552">
 
 ---
 ## CVE-2026-114550 ()
