@@ -6837,6 +6837,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-3095 ()
 > 
 - [dexteon/langchain-webresearch-ssrf-cve-2024-3095](https://github.com/dexteon/langchain-webresearch-ssrf-cve-2024-3095)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/langchain-webresearch-ssrf-cve-2024-3095">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/langchain-webresearch-ssrf-cve-2024-3095">
+- [leoCottret/CVE-2024-30956](https://github.com/leoCottret/CVE-2024-30956)	<img alt="forks" src="https://img.shields.io/github/forks/leoCottret/CVE-2024-30956">	<img alt="stars" src="https://img.shields.io/github/stars/leoCottret/CVE-2024-30956">
 
 ---
 ## CVE-2024-3094 (2024-03-29T17:15:00)
