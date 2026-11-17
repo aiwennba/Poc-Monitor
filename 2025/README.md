@@ -11901,6 +11901,11 @@
 - [skrkcb2/CVE-2025-0851](https://github.com/skrkcb2/CVE-2025-0851)	<img alt="forks" src="https://img.shields.io/github/forks/skrkcb2/CVE-2025-0851">	<img alt="stars" src="https://img.shields.io/github/stars/skrkcb2/CVE-2025-0851">
 
 ---
+## CVE-2025-057819 ()
+> 
+- [Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution](https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution">
+
+---
 ## CVE-2025-0411 ()
 > 
 - [dhmosfunk/7-Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/7-Zip-CVE-2025-0411-POC">
