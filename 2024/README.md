@@ -9929,6 +9929,8 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [skysbsb/CVE-2024-21626-POC](https://github.com/skysbsb/CVE-2024-21626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skysbsb/CVE-2024-21626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skysbsb/CVE-2024-21626-POC">
 - [ghs053020-stack/cve-2024-21626](https://github.com/ghs053020-stack/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/ghs053020-stack/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/ghs053020-stack/cve-2024-21626">
 - [Leven0101/cve-2024-21626-lab](https://github.com/Leven0101/cve-2024-21626-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Leven0101/cve-2024-21626-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Leven0101/cve-2024-21626-lab">
+- [ghs053020-stack/cve-2024-21626-ctf](https://github.com/ghs053020-stack/cve-2024-21626-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/ghs053020-stack/cve-2024-21626-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/ghs053020-stack/cve-2024-21626-ctf">
+- [GjerdanKashmiri/leakyvessels_reproduction_mitigation](https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/GjerdanKashmiri/leakyvessels_reproduction_mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/GjerdanKashmiri/leakyvessels_reproduction_mitigation">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)
