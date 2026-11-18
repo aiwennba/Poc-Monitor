@@ -1260,6 +1260,7 @@
 - [HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228](https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228">
 - [DatLang777/Log4Shell-BlueTeam-Detection-Lab](https://github.com/DatLang777/Log4Shell-BlueTeam-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/DatLang777/Log4Shell-BlueTeam-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/DatLang777/Log4Shell-BlueTeam-Detection-Lab">
 - [Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup](https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup">
+- [johnyProDev/CVE-2021-44228-PoC](https://github.com/johnyProDev/CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-PoC">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
