@@ -9670,6 +9670,11 @@
 - [sentinel-aidefense/CVE-2025-24990](https://github.com/sentinel-aidefense/CVE-2025-24990)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-24990">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-24990">
 
 ---
+## CVE-2025-24983 ()
+> 
+- [sote-CJ/CVE-2025-24983-1Day](https://github.com/sote-CJ/CVE-2025-24983-1Day)	<img alt="forks" src="https://img.shields.io/github/forks/sote-CJ/CVE-2025-24983-1Day">	<img alt="stars" src="https://img.shields.io/github/stars/sote-CJ/CVE-2025-24983-1Day">
+
+---
 ## CVE-2025-24971 ()
 > 
 - [be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971)	<img alt="forks" src="https://img.shields.io/github/forks/be4zad/CVE-2025-24971">	<img alt="stars" src="https://img.shields.io/github/stars/be4zad/CVE-2025-24971">
