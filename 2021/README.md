@@ -1261,6 +1261,7 @@
 - [DatLang777/Log4Shell-BlueTeam-Detection-Lab](https://github.com/DatLang777/Log4Shell-BlueTeam-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/DatLang777/Log4Shell-BlueTeam-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/DatLang777/Log4Shell-BlueTeam-Detection-Lab">
 - [Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup](https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup">
 - [johnyProDev/CVE-2021-44228-PoC](https://github.com/johnyProDev/CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-PoC">
+- [Morgenlicht1210/log4j2-cve-2021-44228-poc](https://github.com/Morgenlicht1210/log4j2-cve-2021-44228-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Morgenlicht1210/log4j2-cve-2021-44228-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Morgenlicht1210/log4j2-cve-2021-44228-poc">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
