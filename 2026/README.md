@@ -3125,6 +3125,11 @@
 - [mahumadad/cve-2026-71362-magento-ato](https://github.com/mahumadad/cve-2026-71362-magento-ato)	<img alt="forks" src="https://img.shields.io/github/forks/mahumadad/cve-2026-71362-magento-ato">	<img alt="stars" src="https://img.shields.io/github/stars/mahumadad/cve-2026-71362-magento-ato">
 
 ---
+## CVE-2026-71319 ()
+> 
+- [TazmiDev/CVE-2026-71319](https://github.com/TazmiDev/CVE-2026-71319)	<img alt="forks" src="https://img.shields.io/github/forks/TazmiDev/CVE-2026-71319">	<img alt="stars" src="https://img.shields.io/github/stars/TazmiDev/CVE-2026-71319">
+
+---
 ## CVE-2026-71300 ()
 > 
 - [oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-71300">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-71300">
@@ -14287,6 +14292,7 @@
 ## CVE-2026-132825 ()
 > 
 - [evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825)	<img alt="forks" src="https://img.shields.io/github/forks/evenomn/CVE-2026-132825">	<img alt="stars" src="https://img.shields.io/github/stars/evenomn/CVE-2026-132825">
+- [evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825)	<img alt="forks" src="https://img.shields.io/github/forks/evenomn/CVE-2026-132825">	<img alt="stars" src="https://img.shields.io/github/stars/evenomn/CVE-2026-132825">
 
 ---
 ## CVE-2026-13249 ()
@@ -14791,6 +14797,11 @@
 ## CVE-2026-12400 ()
 > 
 - [0x00phantom-hat/CVE-2026-12400-Exploit](https://github.com/0x00phantom-hat/CVE-2026-12400-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x00phantom-hat/CVE-2026-12400-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x00phantom-hat/CVE-2026-12400-Exploit">
+
+---
+## CVE-2026-123890 ()
+> 
+- [Quaerendir/cve-2026-123890-audit](https://github.com/Quaerendir/cve-2026-123890-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-123890-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-123890-audit">
 
 ---
 ## CVE-2026-1238 ()
@@ -15533,6 +15544,7 @@
 - [yora1928/cve_2026_115560_by_yora](https://github.com/yora1928/cve_2026_115560_by_yora)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/cve_2026_115560_by_yora">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/cve_2026_115560_by_yora">
 - [Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0](https://github.com/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0">
 - [mamarce/php-vulns-discovered-23-10-2026](https://github.com/mamarce/php-vulns-discovered-23-10-2026)	<img alt="forks" src="https://img.shields.io/github/forks/mamarce/php-vulns-discovered-23-10-2026">	<img alt="stars" src="https://img.shields.io/github/stars/mamarce/php-vulns-discovered-23-10-2026">
+- [LLCForge/CVE-2026-115560](https://github.com/LLCForge/CVE-2026-115560)	<img alt="forks" src="https://img.shields.io/github/forks/LLCForge/CVE-2026-115560">	<img alt="stars" src="https://img.shields.io/github/stars/LLCForge/CVE-2026-115560">
 
 ---
 ## CVE-2026-11551 ()
@@ -15620,6 +15632,8 @@
 - [Jerczey/java4shell-ansible-detection](https://github.com/Jerczey/java4shell-ansible-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Jerczey/java4shell-ansible-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Jerczey/java4shell-ansible-detection">
 - [rzkyp/java4shell-lab](https://github.com/rzkyp/java4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/rzkyp/java4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/rzkyp/java4shell-lab">
 - [alt3kx/CVE-2026-114938](https://github.com/alt3kx/CVE-2026-114938)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2026-114938">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2026-114938">
+- [crash00xd/java2shell-poc](https://github.com/crash00xd/java2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/crash00xd/java2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/crash00xd/java2shell-poc">
+- [bh679/mcjavasafetycheck-mc](https://github.com/bh679/mcjavasafetycheck-mc)	<img alt="forks" src="https://img.shields.io/github/forks/bh679/mcjavasafetycheck-mc">	<img alt="stars" src="https://img.shields.io/github/stars/bh679/mcjavasafetycheck-mc">
 
 ---
 ## CVE-2026-114820 ()
