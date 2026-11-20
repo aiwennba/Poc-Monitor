@@ -394,6 +394,11 @@
 - [K3ysTr0K3R/CVE-2015-2166-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2015-2166-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2015-2166-EXPLOIT">
 
 ---
+## CVE-2015-2050 ()
+> 
+- [nightscry/CVE-2015-2050-DAP-1320](https://github.com/nightscry/CVE-2015-2050-DAP-1320)	<img alt="forks" src="https://img.shields.io/github/forks/nightscry/CVE-2015-2050-DAP-1320">	<img alt="stars" src="https://img.shields.io/github/stars/nightscry/CVE-2015-2050-DAP-1320">
+
+---
 ## CVE-2015-2025 ()
 > 
 - [Ethanpr05/cve-2015-2025-analisis](https://github.com/Ethanpr05/cve-2015-2025-analisis)	<img alt="forks" src="https://img.shields.io/github/forks/Ethanpr05/cve-2015-2025-analisis">	<img alt="stars" src="https://img.shields.io/github/stars/Ethanpr05/cve-2015-2025-analisis">
