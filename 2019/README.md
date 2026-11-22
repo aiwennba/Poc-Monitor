@@ -1859,6 +1859,8 @@ use after free.
 - [saaedimam/sony-bravia-root-toolkit](https://github.com/saaedimam/sony-bravia-root-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/saaedimam/sony-bravia-root-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/saaedimam/sony-bravia-root-toolkit">
 - [RxinnotRstar/CVE-2019-2215-ForMIpad4](https://github.com/RxinnotRstar/CVE-2019-2215-ForMIpad4)	<img alt="forks" src="https://img.shields.io/github/forks/RxinnotRstar/CVE-2019-2215-ForMIpad4">	<img alt="stars" src="https://img.shields.io/github/stars/RxinnotRstar/CVE-2019-2215-ForMIpad4">
 - [WJNKAC/CVE-2019-2215-vivo-Y66i](https://github.com/WJNKAC/CVE-2019-2215-vivo-Y66i)	<img alt="forks" src="https://img.shields.io/github/forks/WJNKAC/CVE-2019-2215-vivo-Y66i">	<img alt="stars" src="https://img.shields.io/github/stars/WJNKAC/CVE-2019-2215-vivo-Y66i">
+- [RxinnotRstar/CVE-2019-2215-ForMIpad4-NEW-GUI](https://github.com/RxinnotRstar/CVE-2019-2215-ForMIpad4-NEW-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/RxinnotRstar/CVE-2019-2215-ForMIpad4-NEW-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/RxinnotRstar/CVE-2019-2215-ForMIpad4-NEW-GUI">
+- [neohob/odinroot](https://github.com/neohob/odinroot)	<img alt="forks" src="https://img.shields.io/github/forks/neohob/odinroot">	<img alt="stars" src="https://img.shields.io/github/stars/neohob/odinroot">
 
 ---
 ## CVE-2019-2115 ()
