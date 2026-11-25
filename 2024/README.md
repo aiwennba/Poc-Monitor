@@ -6113,6 +6113,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340](https://github.com/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">
 - [GhassanSabir/CVE-2024-3400-poc](https://github.com/GhassanSabir/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/GhassanSabir/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/GhassanSabir/CVE-2024-3400-poc">
 - [Onosetalease/CVE-2024-3400-Vulnerability-Analysis](https://github.com/Onosetalease/CVE-2024-3400-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Onosetalease/CVE-2024-3400-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Onosetalease/CVE-2024-3400-Vulnerability-Analysis">
+- [khaidoan04/CVE-2024-3400-Wazuh-ML-Detection](https://github.com/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection">
 
 ---
 ## CVE-2024-340 ()
