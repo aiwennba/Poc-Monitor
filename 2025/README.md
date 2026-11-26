@@ -8766,6 +8766,8 @@
 - [dexteon/nextjs-middleware-auth-bypass-cve-2025-29927](https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927">
 - [alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC">
 - [Seif-Abdelhamid/nextjs-middleware-bypass-lab](https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Seif-Abdelhamid/nextjs-middleware-bypass-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Seif-Abdelhamid/nextjs-middleware-bypass-lab">
+- [gabrielchv/seguranca-informacao-cve-2025-29927](https://github.com/gabrielchv/seguranca-informacao-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielchv/seguranca-informacao-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielchv/seguranca-informacao-cve-2025-29927">
+- [zColdWater/vibeshield-cli](https://github.com/zColdWater/vibeshield-cli)	<img alt="forks" src="https://img.shields.io/github/forks/zColdWater/vibeshield-cli">	<img alt="stars" src="https://img.shields.io/github/stars/zColdWater/vibeshield-cli">
 
 ---
 ## CVE-2025-29891 ()

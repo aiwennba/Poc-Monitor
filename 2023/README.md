@@ -3548,6 +3548,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [Dnyaneshwari-123/DFIR-Capstone-Investigations](https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations)	<img alt="forks" src="https://img.shields.io/github/forks/Dnyaneshwari-123/DFIR-Capstone-Investigations">	<img alt="stars" src="https://img.shields.io/github/stars/Dnyaneshwari-123/DFIR-Capstone-Investigations">
 - [cristhiansm0/TXDXCristhian_2023-CVE-38831](https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831)	<img alt="forks" src="https://img.shields.io/github/forks/cristhiansm0/TXDXCristhian_2023-CVE-38831">	<img alt="stars" src="https://img.shields.io/github/stars/cristhiansm0/TXDXCristhian_2023-CVE-38831">
 - [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
+- [googlesky/CVE-2023-38831](https://github.com/googlesky/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -4651,6 +4652,7 @@ The specific flaw exists within the DDP service. The issue results from the lack
 - [Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Aicks/Citrix-CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Aicks/Citrix-CVE-2023-3519">
 - [Mohammaddvd/CVE-2023-3519](https://github.com/Mohammaddvd/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammaddvd/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammaddvd/CVE-2023-3519">
 - [Chocapikk/CVE-2023-3519](https://github.com/Chocapikk/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-3519">
+- [googlesky/CVE-2023-3519](https://github.com/googlesky/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-3519">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)
@@ -4942,6 +4944,9 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.](https://github.com/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.)	<img alt="forks" src="https://img.shields.io/github/forks/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">	<img alt="stars" src="https://img.shields.io/github/stars/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">
 - [khengar9274-web/moveit-transfer-2023-breach](https://github.com/khengar9274-web/moveit-transfer-2023-breach)	<img alt="forks" src="https://img.shields.io/github/forks/khengar9274-web/moveit-transfer-2023-breach">	<img alt="stars" src="https://img.shields.io/github/stars/khengar9274-web/moveit-transfer-2023-breach">
 - [k9yk5zkn76-op/-CVE-2023-34362-Analysis](https://github.com/k9yk5zkn76-op/-CVE-2023-34362-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/k9yk5zkn76-op/-CVE-2023-34362-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/k9yk5zkn76-op/-CVE-2023-34362-Analysis">
+- [googlesky/CVE-2023-34362](https://github.com/googlesky/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-34362">
+- [khaled970r/moveit-breach-analysis-sqli](https://github.com/khaled970r/moveit-breach-analysis-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/khaled970r/moveit-breach-analysis-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/khaled970r/moveit-breach-analysis-sqli">
+- [Conviee/Assignment-](https://github.com/Conviee/Assignment-)	<img alt="forks" src="https://img.shields.io/github/forks/Conviee/Assignment-">	<img alt="stars" src="https://img.shields.io/github/stars/Conviee/Assignment-">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
@@ -7664,6 +7669,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [praneethnaidu1910-cmd/cve-2023-23397-purple-team](https://github.com/praneethnaidu1910-cmd/cve-2023-23397-purple-team)	<img alt="forks" src="https://img.shields.io/github/forks/praneethnaidu1910-cmd/cve-2023-23397-purple-team">	<img alt="stars" src="https://img.shields.io/github/stars/praneethnaidu1910-cmd/cve-2023-23397-purple-team">
 - [medyassineakhmari/CVE_2023_23397](https://github.com/medyassineakhmari/CVE_2023_23397)	<img alt="forks" src="https://img.shields.io/github/forks/medyassineakhmari/CVE_2023_23397">	<img alt="stars" src="https://img.shields.io/github/stars/medyassineakhmari/CVE_2023_23397">
 - [ZHOUCC-CPU/cve-2023-23397-detection-lab](https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ZHOUCC-CPU/cve-2023-23397-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ZHOUCC-CPU/cve-2023-23397-detection-lab">
+- [googlesky/CVE-2023-23397](https://github.com/googlesky/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)

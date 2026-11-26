@@ -63,6 +63,11 @@
 - [ChaYeWuu/XRING-CVE-2026-99491](https://github.com/ChaYeWuu/XRING-CVE-2026-99491)	<img alt="forks" src="https://img.shields.io/github/forks/ChaYeWuu/XRING-CVE-2026-99491">	<img alt="stars" src="https://img.shields.io/github/stars/ChaYeWuu/XRING-CVE-2026-99491">
 
 ---
+## CVE-2026-99362 ()
+> 
+- [ashrafzaryouh/CVE-2026-99362](https://github.com/ashrafzaryouh/CVE-2026-99362)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-99362">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-99362">
+
+---
 ## CVE-2026-99320 ()
 > 
 - [ZZ2266/CVE-2026-99320](https://github.com/ZZ2266/CVE-2026-99320)	<img alt="forks" src="https://img.shields.io/github/forks/ZZ2266/CVE-2026-99320">	<img alt="stars" src="https://img.shields.io/github/stars/ZZ2266/CVE-2026-99320">
@@ -2693,6 +2698,7 @@
 > 
 - [YonLiud/CVE-2026-76904](https://github.com/YonLiud/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-76904">
 - [bickZero93/CVE-2026-76904](https://github.com/bickZero93/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/bickZero93/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/bickZero93/CVE-2026-76904">
+- [himfatihoner/CVE-2026-76904](https://github.com/himfatihoner/CVE-2026-76904)	<img alt="forks" src="https://img.shields.io/github/forks/himfatihoner/CVE-2026-76904">	<img alt="stars" src="https://img.shields.io/github/stars/himfatihoner/CVE-2026-76904">
 
 ---
 ## CVE-2026-76844 ()
@@ -7733,6 +7739,7 @@
 - [DarkDevil-937/make-it-root](https://github.com/DarkDevil-937/make-it-root)	<img alt="forks" src="https://img.shields.io/github/forks/DarkDevil-937/make-it-root">	<img alt="stars" src="https://img.shields.io/github/stars/DarkDevil-937/make-it-root">
 - [BlackIce417/root-oplusace5](https://github.com/BlackIce417/root-oplusace5)	<img alt="forks" src="https://img.shields.io/github/forks/BlackIce417/root-oplusace5">	<img alt="stars" src="https://img.shields.io/github/stars/BlackIce417/root-oplusace5">
 - [zhanghangjie/CVE-2026-43499-CYL1](https://github.com/zhanghangjie/CVE-2026-43499-CYL1)	<img alt="forks" src="https://img.shields.io/github/forks/zhanghangjie/CVE-2026-43499-CYL1">	<img alt="stars" src="https://img.shields.io/github/stars/zhanghangjie/CVE-2026-43499-CYL1">
+- [Github-Oriented-Programmer/GhostLock-CVE-2026-43499-ZTE_A2322_4.19](https://github.com/Github-Oriented-Programmer/GhostLock-CVE-2026-43499-ZTE_A2322_4.19)	<img alt="forks" src="https://img.shields.io/github/forks/Github-Oriented-Programmer/GhostLock-CVE-2026-43499-ZTE_A2322_4.19">	<img alt="stars" src="https://img.shields.io/github/stars/Github-Oriented-Programmer/GhostLock-CVE-2026-43499-ZTE_A2322_4.19">
 
 ---
 ## CVE-2026-43494 ()
@@ -14717,6 +14724,11 @@
 ## CVE-2026-135817 ()
 > 
 - [googlesky/CVE-2026-135817](https://github.com/googlesky/CVE-2026-135817)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-135817">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-135817">
+
+---
+## CVE-2026-135797 ()
+> 
+- [D3crypT0r/CVE-2026-135797](https://github.com/D3crypT0r/CVE-2026-135797)	<img alt="forks" src="https://img.shields.io/github/forks/D3crypT0r/CVE-2026-135797">	<img alt="stars" src="https://img.shields.io/github/stars/D3crypT0r/CVE-2026-135797">
 
 ---
 ## CVE-2026-135742 ()

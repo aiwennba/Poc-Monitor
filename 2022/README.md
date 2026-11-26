@@ -26828,6 +26828,7 @@ the client's API server credentials to third parties.
 - [zavikhttak/Follina-CVE-2022-30190-Analysis](https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/Follina-CVE-2022-30190-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/Follina-CVE-2022-30190-Analysis">
 - [zavikhttak/follina-msdt-threat-investigation](https://github.com/zavikhttak/follina-msdt-threat-investigation)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/follina-msdt-threat-investigation">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/follina-msdt-threat-investigation">
 - [jamespelumi79-ctrl/CVE-2022-30190-Follina-Research](https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research)	<img alt="forks" src="https://img.shields.io/github/forks/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research">	<img alt="stars" src="https://img.shields.io/github/stars/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research">
+- [googlesky/CVE-2022-30190](https://github.com/googlesky/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-30190">
 
 ---
 ## CVE-2022-30166 (2022-06-15T22:15:00)
@@ -27410,6 +27411,7 @@ the client's API server credentials to third parties.
 - [cc3305/CVE-2022-29464](https://github.com/cc3305/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2022-29464">
 - [c1ph3rbyt3/CVE-2022-29464](https://github.com/c1ph3rbyt3/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/c1ph3rbyt3/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/c1ph3rbyt3/CVE-2022-29464">
 - [hxlxmj/Mass-exploit-CVE-2022-29464](https://github.com/hxlxmj/Mass-exploit-CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmj/Mass-exploit-CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmj/Mass-exploit-CVE-2022-29464">
+- [googlesky/CVE-2022-29464](https://github.com/googlesky/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-29464">
 
 ---
 ## CVE-2022-2946 (2022-08-23T17:15:00)
@@ -32029,6 +32031,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [amit-pathak009/CVE-2022-22954-PoC](https://github.com/amit-pathak009/CVE-2022-22954-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-22954-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-22954-PoC">
 - [nguyenv1nK/CVE-2022-22954](https://github.com/nguyenv1nK/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/nguyenv1nK/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/nguyenv1nK/CVE-2022-22954">
 - [nieldk/VMware-CVE-2022-22954](https://github.com/nieldk/VMware-CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/nieldk/VMware-CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/nieldk/VMware-CVE-2022-22954">
+- [googlesky/CVE-2022-22954](https://github.com/googlesky/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-22954">
 
 ---
 ## CVE-2022-22948 (2022-03-29T18:15:00)
@@ -35655,7 +35658,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [AmirHoseinTangsiriNET/CVE-2022-1388-Scanner](https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">
 - [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/On-Cyber-War/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/On-Cyber-War/CVE-2022-1388">
-- [ThinkingOffensively/CVE-2022-1388](https://github.com/ThinkingOffensively/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/ThinkingOffensively/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/ThinkingOffensively/CVE-2022-1388">
+- [TheElderHacker/CVE-2022-1388](https://github.com/TheElderHacker/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/TheElderHacker/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/TheElderHacker/CVE-2022-1388">
 - [revanmalang/CVE-2022-1388](https://github.com/revanmalang/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/revanmalang/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/revanmalang/CVE-2022-1388">
 - [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-1388">
 - [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-1388">
@@ -35676,6 +35679,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/cboss43/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/cboss43/CVE-2024-25600">
 - [r0otk3r/CVE-2022-1388](https://github.com/r0otk3r/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2022-1388">
 - [Josekutty-K/f5-Big-IP-Unauth-RCE-Checker](https://github.com/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Josekutty-K/f5-Big-IP-Unauth-RCE-Checker">
+- [googlesky/CVE-2022-1388](https://github.com/googlesky/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-1388">
 
 ---
 ## CVE-2022-1386 (2022-05-16T15:15:00)
@@ -36339,7 +36343,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [karanlvm/DirtyPipe-Exploit](https://github.com/karanlvm/DirtyPipe-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/karanlvm/DirtyPipe-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/karanlvm/DirtyPipe-Exploit">
 - [mrchucu1/CVE-2022-0847-Docker](https://github.com/mrchucu1/CVE-2022-0847-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/mrchucu1/CVE-2022-0847-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/mrchucu1/CVE-2022-0847-Docker">
 - [morgenm/dirtypipe](https://github.com/morgenm/dirtypipe)	<img alt="forks" src="https://img.shields.io/github/forks/morgenm/dirtypipe">	<img alt="stars" src="https://img.shields.io/github/stars/morgenm/dirtypipe">
-- [Scouserr/cve-2022-0847-poc-dockerimage](https://github.com/Scouserr/cve-2022-0847-poc-dockerimage)	<img alt="forks" src="https://img.shields.io/github/forks/Scouserr/cve-2022-0847-poc-dockerimage">	<img alt="stars" src="https://img.shields.io/github/stars/Scouserr/cve-2022-0847-poc-dockerimage">
+- [MingqiZhang7710/cve-2022-0847-poc-dockerimage](https://github.com/MingqiZhang7710/cve-2022-0847-poc-dockerimage)	<img alt="forks" src="https://img.shields.io/github/forks/MingqiZhang7710/cve-2022-0847-poc-dockerimage">	<img alt="stars" src="https://img.shields.io/github/stars/MingqiZhang7710/cve-2022-0847-poc-dockerimage">
 - [Shadow-Spinner/CVE-2022-0847](https://github.com/Shadow-Spinner/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow-Spinner/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow-Spinner/CVE-2022-0847">
 - [honeyvig/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/honeyvig/CVE-2022-0847-DirtyPipe-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/honeyvig/CVE-2022-0847-DirtyPipe-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/honeyvig/CVE-2022-0847-DirtyPipe-Exploit">
 - [gladiator-07/CVE-2022-0847](https://github.com/gladiator-07/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/gladiator-07/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/gladiator-07/CVE-2022-0847">
@@ -36354,6 +36358,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [t1ckprivate/CVE-2022-0847-Dirty-Pipe](https://github.com/t1ckprivate/CVE-2022-0847-Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/t1ckprivate/CVE-2022-0847-Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/t1ckprivate/CVE-2022-0847-Dirty-Pipe">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
 - [vudangducminh/CVE-2022-0847](https://github.com/vudangducminh/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/vudangducminh/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/vudangducminh/CVE-2022-0847">
+- [googlesky/CVE-2022-0847](https://github.com/googlesky/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2022-0847">
+- [mlucianoeze/linux-backport-CVE-2022-0847](https://github.com/mlucianoeze/linux-backport-CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/mlucianoeze/linux-backport-CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/mlucianoeze/linux-backport-CVE-2022-0847">
 
 ---
 ## CVE-2022-0836 (2022-05-09T17:15:00)
