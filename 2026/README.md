@@ -94,6 +94,11 @@
 - [googlesky/CVE-2026-99273](https://github.com/googlesky/CVE-2026-99273)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-99273">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-99273">
 
 ---
+## CVE-2026-99233 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99233](https://github.com/Aoki-Shinshi/CVE-2026-99233)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99233">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99233">
+
+---
 ## CVE-2026-98937 ()
 > 
 - [woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937)	<img alt="forks" src="https://img.shields.io/github/forks/woshigenm/CVE-2026-98937">	<img alt="stars" src="https://img.shields.io/github/stars/woshigenm/CVE-2026-98937">
@@ -207,6 +212,7 @@
 - [lwmacct/261119-cve-2026-98432](https://github.com/lwmacct/261119-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/lwmacct/261119-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/lwmacct/261119-cve-2026-98432">
 - [hardenedlinux/linux-rce-poc](https://github.com/hardenedlinux/linux-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hardenedlinux/linux-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hardenedlinux/linux-rce-poc">
 - [Agency-Tool-Company/jetson-cve-2026-98432](https://github.com/Agency-Tool-Company/jetson-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/Agency-Tool-Company/jetson-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/Agency-Tool-Company/jetson-cve-2026-98432">
+- [cveForge/CVE-2026-98432](https://github.com/cveForge/CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/cveForge/CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/cveForge/CVE-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
@@ -4642,6 +4648,7 @@
 ## CVE-2026-61725 ()
 > 
 - [googlesky/CVE-2026-61725](https://github.com/googlesky/CVE-2026-61725)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-61725">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-61725">
+- [pluto-chou/CVE-2026-61725_sevenz-rust2](https://github.com/pluto-chou/CVE-2026-61725_sevenz-rust2)	<img alt="forks" src="https://img.shields.io/github/forks/pluto-chou/CVE-2026-61725_sevenz-rust2">	<img alt="stars" src="https://img.shields.io/github/stars/pluto-chou/CVE-2026-61725_sevenz-rust2">
 
 ---
 ## CVE-2026-61628 ()
@@ -5768,6 +5775,11 @@
 > 
 - [sol4ce503/cve-2026-53362-ipv6-frag-escape](https://github.com/sol4ce503/cve-2026-53362-ipv6-frag-escape)	<img alt="forks" src="https://img.shields.io/github/forks/sol4ce503/cve-2026-53362-ipv6-frag-escape">	<img alt="stars" src="https://img.shields.io/github/stars/sol4ce503/cve-2026-53362-ipv6-frag-escape">
 - [suominen/ipv6_frag_escape](https://github.com/suominen/ipv6_frag_escape)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ipv6_frag_escape">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ipv6_frag_escape">
+
+---
+## CVE-2026-53361 ()
+> 
+- [Aoki-Shinshi/CVE-2026-53361](https://github.com/Aoki-Shinshi/CVE-2026-53361)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-53361">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-53361">
 
 ---
 ## CVE-2026-53360 ()
@@ -15006,6 +15018,7 @@
 > 
 - [googlesky/CVE-2026-134815](https://github.com/googlesky/CVE-2026-134815)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2026-134815">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2026-134815">
 - [tc4dy/CVE-2026-134815-PoC-Exploit](https://github.com/tc4dy/CVE-2026-134815-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-134815-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-134815-PoC-Exploit">
+- [cveForge/CVE-2026-134815](https://github.com/cveForge/CVE-2026-134815)	<img alt="forks" src="https://img.shields.io/github/forks/cveForge/CVE-2026-134815">	<img alt="stars" src="https://img.shields.io/github/stars/cveForge/CVE-2026-134815">
 
 ---
 ## CVE-2026-134814 ()
@@ -15846,6 +15859,11 @@
 ## CVE-2026-125283 ()
 > 
 - [LLCForge/CVE-2026-125283](https://github.com/LLCForge/CVE-2026-125283)	<img alt="forks" src="https://img.shields.io/github/forks/LLCForge/CVE-2026-125283">	<img alt="stars" src="https://img.shields.io/github/stars/LLCForge/CVE-2026-125283">
+
+---
+## CVE-2026-125180 ()
+> 
+- [XChen446/cve-2026-125180-demo](https://github.com/XChen446/cve-2026-125180-demo)	<img alt="forks" src="https://img.shields.io/github/forks/XChen446/cve-2026-125180-demo">	<img alt="stars" src="https://img.shields.io/github/stars/XChen446/cve-2026-125180-demo">
 
 ---
 ## CVE-2026-12513 ()
@@ -17357,6 +17375,8 @@
 - [csakala-art/cbci-libbrotli-patch-25551](https://github.com/csakala-art/cbci-libbrotli-patch-25551)	<img alt="forks" src="https://img.shields.io/github/forks/csakala-art/cbci-libbrotli-patch-25551">	<img alt="stars" src="https://img.shields.io/github/stars/csakala-art/cbci-libbrotli-patch-25551">
 - [proxy0x/CVE-2026-111497](https://github.com/proxy0x/CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/proxy0x/CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/proxy0x/CVE-2026-111497">
 - [cveForge/CVE-2026-111497](https://github.com/cveForge/CVE-2026-111497)	<img alt="forks" src="https://img.shields.io/github/forks/cveForge/CVE-2026-111497">	<img alt="stars" src="https://img.shields.io/github/stars/cveForge/CVE-2026-111497">
+- [OrnisLab/2shell-advisories](https://github.com/OrnisLab/2shell-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/OrnisLab/2shell-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/OrnisLab/2shell-advisories">
+- [eduxcode/node2shell-lab](https://github.com/eduxcode/node2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/eduxcode/node2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/eduxcode/node2shell-lab">
 
 ---
 ## CVE-2026-111444 ()
