@@ -63,6 +63,16 @@
 - [ChaYeWuu/XRING-CVE-2026-99491](https://github.com/ChaYeWuu/XRING-CVE-2026-99491)	<img alt="forks" src="https://img.shields.io/github/forks/ChaYeWuu/XRING-CVE-2026-99491">	<img alt="stars" src="https://img.shields.io/github/stars/ChaYeWuu/XRING-CVE-2026-99491">
 
 ---
+## CVE-2026-99490 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99490](https://github.com/Aoki-Shinshi/CVE-2026-99490)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99490">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99490">
+
+---
+## CVE-2026-99489 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99489](https://github.com/Aoki-Shinshi/CVE-2026-99489)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99489">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99489">
+
+---
 ## CVE-2026-99362 ()
 > 
 - [ashrafzaryouh/CVE-2026-99362](https://github.com/ashrafzaryouh/CVE-2026-99362)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-99362">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-99362">
